@@ -1,0 +1,18 @@
+name: Publish approved Instagram posts
+on:
+  schedule: [{cron: "*/10 * * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/publish.py
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      - run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A posts && (git commit -m "Update post statuses" && git push) || true
