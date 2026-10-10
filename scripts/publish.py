@@ -2,7 +2,7 @@
 Env: IG_USER_ID, IG_ACCESS_TOKEN. Only items with "approved": true and "status": "pending" are posted."""
 import glob, json, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
-API = "https://graph.facebook.com/v21.0"
+API = "https://graph.instagram.com/v21.0"
 UID, TOK = os.environ["IG_USER_ID"], os.environ["IG_ACCESS_TOKEN"]
 
 def call(path, data=None):
