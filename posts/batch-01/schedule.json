@@ -1,5 +1,29 @@
 [
-  {"id": "b01-p02", "type": "feed", "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/batch-01/post-02.png",
-   "caption": "Buying a home in Ontario, start to finish. Save this so you know what comes next. DM me \"STEPS\" or call 905-452-4298.\n\nKrishna Rander, Realtor® | Century 21 Property Zone, Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna #georgetownontario #homebuyingprocess",
-   "publish_at": "2026-10-10T20:30:00-04:00", "approved": false, "status": "pending"}
+  {
+    "id": "b01-p02",
+    "type": "feed",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/batch-01/post-02.png",
+    "caption": "Buying a home in Ontario, start to finish. Save this so you know what comes next. DM me \"STEPS\" or call 905-452-4298.\n\nKrishna Rander, Realtor® | Century 21 Property Zone, Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna #georgetownontario #homebuyingprocess #buyingahome #ontariorealestate",
+    "publish_at": "2026-10-11T13:10:00-04:00",
+    "approved": true,
+    "status": "pending"
+  },
+  {
+    "id": "b01-p03",
+    "type": "feed",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/batch-01/post-03.png",
+    "caption": "Never skip the home inspection. A few hundred dollars can save you tens of thousands. Save this checklist for your next showing. DM me \"INSPECT\" or call 905-452-4298.\n\nKrishna Rander, Realtor® | Century 21 Property Zone, Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna #georgetownontario #homeinspection #homebuyertips #realestateadvice",
+    "publish_at": "2026-10-11T17:30:00-04:00",
+    "approved": true,
+    "status": "pending"
+  },
+  {
+    "id": "b01-p04",
+    "type": "feed",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/batch-01/post-04.png",
+    "caption": "Buying a condo? Read the status certificate first. It shows the reserve fund, fees and legal issues before you commit. Send it to me and I'll flag what matters: 905-452-4298.\n\nKrishna Rander, Realtor® | Century 21 Property Zone, Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna #georgetownontario #condoliving #statuscertificate #condobuyer #torontocondos",
+    "publish_at": "2026-10-11T20:30:00-04:00",
+    "approved": true,
+    "status": "pending"
+  }
 ]
