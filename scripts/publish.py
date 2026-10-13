@@ -29,9 +29,15 @@ def fb(path, data, headers=None):
         raise RuntimeError(e.read().decode()[:250])
 
 def fb_publish(item):
-    t, url, cap = item["type"], item["media_url"], item.get("caption", "")
+    t, cap = item["type"], item.get("caption", "")
+    url = item.get("media_url", "")
     if t == "feed":
         return fb(f"{PID}/photos", {"url": url, "caption": cap, "published": "true"})["id"]
+    if t == "carousel":
+        ids = [fb(f"{PID}/photos", {"url": u, "published": "false"})["id"] for u in item["media_urls"]]
+        data = {"message": cap}
+        for n, i in enumerate(ids): data[f"attached_media[{n}]"] = json.dumps({"media_fbid": i})
+        return fb(f"{PID}/feed", data)["id"]
     if t == "story":
         if url.endswith(".mp4"):
             st = fb(f"{PID}/video_stories", {"upload_phase": "start"})
@@ -51,6 +57,13 @@ def fb_publish(item):
         return vid
     raise ValueError(t)
 
+def wait(cid):
+    for _ in range(40):
+        st = call(f"{cid}?fields=status_code").get("status_code")
+        if st == "FINISHED": return
+        if st == "ERROR": raise RuntimeError("container error")
+        time.sleep(6)
+
 def publish(item):
     p = {"caption": item.get("caption", "")}
     t = item["type"]
@@ -62,14 +75,16 @@ def publish(item):
         p.pop("caption")
     elif t == "reel":
         p["media_type"] = "REELS"; p["video_url"] = item["media_url"]
+    elif t == "carousel":
+        kids = []
+        for u in item["media_urls"]:
+            k = call(f"{UID}/media", {"image_url": u, "is_carousel_item": "true"})["id"]
+            wait(k); kids.append(k)
+        p["media_type"] = "CAROUSEL"; p["children"] = ",".join(kids)
     else:
         raise ValueError(t)
     cid = call(f"{UID}/media", p)["id"]
-    for _ in range(40):
-        st = call(f"{cid}?fields=status_code").get("status_code")
-        if st == "FINISHED": break
-        if st == "ERROR": raise RuntimeError("container error")
-        time.sleep(6)
+    wait(cid)
     return call(f"{UID}/media_publish", {"creation_id": cid})["id"]
 
 now = datetime.now(timezone.utc)
