@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T23:08:43+00:00",
+  "checked_at": "2026-10-13T23:12:03+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -134,13 +134,6 @@
         "days_with_values": 0
       },
       {
-        "name": "page insight: page_impressions_unique",
-        "ok": false,
-        "code": 100,
-        "subcode": null,
-        "message": "(#100) The value must be a valid insights metric"
-      },
-      {
         "name": "list page posts",
         "ok": false,
         "code": 10,
@@ -165,18 +158,6 @@
             "code": null,
             "message": "ok but no values returned"
           },
-          "post_impressions": {
-            "code": 100,
-            "message": "(#100) The value must be a valid insights metric"
-          },
-          "post_impressions_unique": {
-            "code": 100,
-            "message": "(#100) The value must be a valid insights metric"
-          },
-          "post_engaged_users": {
-            "code": 100,
-            "message": "(#100) The value must be a valid insights metric"
-          },
           "post_clicks": {
             "code": null,
             "message": "ok but no values returned"
@@ -198,10 +179,6 @@
           "blue_reels_play_count": {
             "code": 200,
             "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          },
-          "post_impressions_unique": {
-            "code": 100,
-            "message": "(#100) The value must be a valid insights metric"
           },
           "post_video_avg_time_watched": {
             "code": 200,
@@ -233,13 +210,6 @@
     "token_data_access_expires_at": 1799559422
   },
   "failed_probes": [
-    {
-      "platform": "facebook",
-      "what": "page insight: page_impressions_unique",
-      "permission_problem": false,
-      "code": 100,
-      "message": "(#100) The value must be a valid insights metric"
-    },
     {
       "platform": "facebook",
       "what": "list page posts",
