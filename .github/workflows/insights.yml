@@ -1,8 +1,8 @@
 name: Collect Instagram + Facebook insights (weekly)
 on:
   schedule:
-    # Weekly: Tuesday about 7:15 am Toronto, ahead of the weekly report.
-    - cron: "15 11 * * 2"
+    # Weekly: Monday about 7:15 am Toronto, ahead of the weekly report.
+    - cron: "15 11 * * 1"
   push:
     branches: [main]
     paths: ['scripts/insights.py', '.github/workflows/insights.yml']
