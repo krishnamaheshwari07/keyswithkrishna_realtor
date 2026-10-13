@@ -34,7 +34,12 @@ def fb_publish(item):
         return fb(f"{PID}/photos", {"url": url, "caption": cap, "published": "true"})["id"]
     if t == "story":
         if url.endswith(".mp4"):
-            raise RuntimeError("video stories not supported")
+            st = fb(f"{PID}/video_stories", {"upload_phase": "start"})
+            vid = st["video_id"]
+            req = urllib.request.Request(st["upload_url"], headers={"Authorization": "OAuth " + PTOK, "file_url": url}, method="POST")
+            urllib.request.urlopen(req, timeout=180).read()
+            fb(f"{PID}/video_stories", {"upload_phase": "finish", "video_id": vid})
+            return vid
         pid = fb(f"{PID}/photos", {"url": url, "published": "false"})["id"]
         return fb(f"{PID}/photo_stories", {"photo_id": pid}).get("post_id", pid)
     if t == "reel":
