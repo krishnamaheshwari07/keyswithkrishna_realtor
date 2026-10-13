@@ -32,10 +32,9 @@ IG_DAY_SERIES = ["reach", "follower_count"]                       # period=day t
 IG_DAY_TOTALS = ["views", "profile_views", "accounts_engaged", "total_interactions",
                  "likes", "comments", "saves", "shares", "replies", "website_clicks"]  # metric_type=total_value
 FB_PAGE_DAY = ["page_follows", "page_media_view", "page_total_media_view_unique", "page_post_engagements",
-               "page_daily_follows_unique", "page_daily_unfollows_unique", "page_impressions_unique"]
-FB_POST_METRICS = ["post_media_view", "post_total_media_view_unique", "post_impressions", "post_impressions_unique",
-                   "post_engaged_users", "post_clicks", "post_reactions_by_type_total"]
-FB_REEL_METRICS = ["blue_reels_play_count", "post_impressions_unique", "post_video_avg_time_watched",
+               "page_daily_follows_unique", "page_daily_unfollows_unique"]
+FB_POST_METRICS = ["post_media_view", "post_total_media_view_unique", "post_clicks", "post_reactions_by_type_total"]
+FB_REEL_METRICS = ["blue_reels_play_count", "post_video_avg_time_watched",
                    "post_video_view_time", "fb_reels_total_plays", "fb_reels_replay_count"]
 
 
