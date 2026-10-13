@@ -78,8 +78,7 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "17971030335159694",
-    "fb_status": "failed",
-    "fb_error": "{\"error\":{\"message\":\"(#200) Unpublished posts must be posted to a page as the page itself.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AHfG833RdON3BEKSXhT1xy-\"}}"
+    "fb_backfill": true
   },
   {
     "id": "d20261012-f4",
@@ -90,8 +89,7 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "18122858699305463",
-    "fb_status": "failed",
-    "fb_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAut"
+    "fb_backfill": true
   },
   {
     "id": "d20261012-r3",
