@@ -71,6 +71,13 @@ now = datetime.now(timezone.utc)
 for path in sorted(glob.glob("posts/*/schedule.json")):
     items = json.load(open(path)); changed = False
     for it in items:
+        if it.get("status") == "posted" and it.get("fb_backfill") and "fb_status" not in it and PID and PTOK:
+            try:
+                it["fb_id"] = fb_publish(it); it["fb_status"] = "posted"
+            except Exception as e:
+                it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
+            changed = True; print(it["id"], "facebook backfill", it["fb_status"], it.get("fb_error", ""))
+            continue
         if it.get("status") != "pending" or not it.get("approved"): continue
         if datetime.fromisoformat(it["publish_at"]) > now: continue
         try:

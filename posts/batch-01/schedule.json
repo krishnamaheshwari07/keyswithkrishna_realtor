@@ -17,7 +17,8 @@
     "publish_at": "2026-10-11T17:30:00-04:00",
     "approved": true,
     "status": "posted",
-    "ig_media_id": "18144556738584422"
+    "ig_media_id": "18144556738584422",
+    "fb_backfill": true
   },
   {
     "id": "b01-p04",
@@ -27,6 +28,7 @@
     "publish_at": "2026-10-11T20:30:00-04:00",
     "approved": true,
     "status": "posted",
-    "ig_media_id": "17977809984132056"
+    "ig_media_id": "17977809984132056",
+    "fb_backfill": true
   }
 ]
