@@ -78,7 +78,9 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "17971030335159694",
-    "fb_backfill": true
+    "fb_backfill": true,
+    "fb_id": "1655662682737636",
+    "fb_status": "posted"
   },
   {
     "id": "d20261012-f4",
@@ -89,7 +91,9 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "18122858699305463",
-    "fb_backfill": true
+    "fb_backfill": true,
+    "fb_id": "122122030581311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261012-r3",
