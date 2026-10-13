@@ -238,9 +238,11 @@ def fb_try_metrics(path, names, extra=None):
     got, errs = {}, {}
     for n in names:
         ok, d = get(FB_API, path, dict({"metric": n}, **(extra or {})), PTOK)
-        if ok and d.get("data"):
+        if ok and values_of(d):
             got.update(values_of(d))
-        elif not ok:
+        elif ok:
+            errs[n] = {"code": None, "message": "ok but no values returned"}
+        else:
             errs[n] = {"code": d.get("code"), "message": d.get("message", "")[:160]}
     return got, errs
 
@@ -270,11 +272,12 @@ def check_and_collect_fb(store, perms):
     since, until = ts(TODAY - timedelta(days=28)), ts(TODAY + timedelta(days=1))
     for m in FB_PAGE_DAY:
         ok, d = get(FB_API, f"{PID}/insights", {"metric": m, "period": "day", "since": since, "until": until}, PTOK)
-        P["probes"].append(probe(f"page insight: {m}", ok, d))
+        n_vals = 0
         if ok:
             for mm in d.get("data", []):
                 for v in mm.get("values", []):
-                    daily.setdefault(v["end_time"][:10], {})[m] = v["value"]
+                    daily.setdefault(v["end_time"][:10], {})[m] = v["value"]; n_vals += 1
+        P["probes"].append(probe(f"page insight: {m}", ok, d, {"days_with_values": n_vals} if ok else None))
 
     pf = "id,created_time,message,permalink_url,status_type,shares,reactions.summary(true).limit(0),comments.summary(true).limit(0)"
     ok, posts = paged(FB_API, f"{PID}/posts", {"fields": pf, "limit": 50}, PTOK, limit=100)
@@ -289,6 +292,21 @@ def check_and_collect_fb(store, perms):
         except Exception:
             pass
     post_metric_ok, post_metric_errs, n_with_metrics = False, {}, 0
+    if not ok:  # listing blocked (needs pages_read_user_content): use the post ids saved by publish.py instead
+        posts = []
+        for it in sched.values():
+            if it.get("type") in ("feed", "carousel") and it.get("fb_status") == "posted":
+                fid = str(it["fb_id"])
+                cands = [fid] if "_" in fid else [f"{PID}_{fid}", fid]
+                if "_" not in fid:
+                    ok2, d2 = get(FB_API, fid, {"fields": "page_story_id"}, PTOK)
+                    if ok2 and d2.get("page_story_id"):
+                        cands.insert(0, d2["page_story_id"])
+                posts.append({"id": cands[0], "_cands": cands, "_sched": it,
+                              "created_time": datetime.fromisoformat(it["publish_at"]).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
+                              "message": it.get("caption", "")})
+        ok = bool(posts)
+        P["probes"].append({"name": "fallback: posts from schedule.json", "ok": ok, "posts": len(posts)})
     for p in (posts if ok else []):
         rec = store_posts.setdefault(p["id"], {})
         rec.update({"kind": "post", "created_time": p.get("created_time"), "permalink": p.get("permalink_url"),
@@ -296,11 +314,15 @@ def check_and_collect_fb(store, perms):
                     "reactions": p.get("reactions", {}).get("summary", {}).get("total_count"),
                     "comments": p.get("comments", {}).get("summary", {}).get("total_count"),
                     "shares": (p.get("shares") or {}).get("count", 0)})
-        s = sched.get(p["id"]) or sched.get(p["id"].split("_")[-1])
+        s = p.get("_sched") or sched.get(p["id"]) or sched.get(p["id"].split("_")[-1])
         if s:
             rec.update({"schedule_id": s.get("id"), "scheduled_type": s.get("type"), "scheduled_for": s.get("publish_at")})
         if (NOW - datetime.fromisoformat(p["created_time"].replace("+0000", "+00:00"))).days <= 60:
-            got, errs = fb_try_metrics(f"{p['id']}/insights", FB_POST_METRICS)
+            got, errs = {}, {}
+            for cand in p.get("_cands", [p["id"]]):
+                got, errs = fb_try_metrics(f"{cand}/insights", FB_POST_METRICS)
+                if got:
+                    break
             if got:
                 rec.setdefault("metrics", {}).update(got)
                 rec["metrics_at"] = NOW.isoformat(timespec="seconds")
@@ -322,13 +344,16 @@ def check_and_collect_fb(store, perms):
         s = sched.get(r["id"])
         if s:
             rec.update({"schedule_id": s.get("id"), "scheduled_type": s.get("type"), "scheduled_for": s.get("publish_at")})
-        got, _ = fb_try_metrics(f"{r['id']}/video_insights", FB_REEL_METRICS)
+        got, errs = fb_try_metrics(f"{r['id']}/video_insights", FB_REEL_METRICS)
+        if errs:
+            rec["metric_errors"] = errs
         if got:
             rec.setdefault("metrics", {}).update(got)
             rec["metrics_at"] = NOW.isoformat(timespec="seconds")
             reel_ok = True
     if ok and reels:
-        P["probes"].append({"name": "reel insights", "ok": reel_ok})
+        sample = next((v.get("metric_errors") for v in store_posts.values() if v.get("kind") == "reel" and v.get("metric_errors")), None)
+        P["probes"].append({"name": "reel insights", "ok": reel_ok, **({"sample_errors": sample} if not reel_ok else {})})
 
 
 # ---------------------------------------------------------------------- main
