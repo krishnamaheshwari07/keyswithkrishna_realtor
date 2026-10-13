@@ -15,6 +15,32 @@
     "created_time": "2026-05-14T01:26:53+0000",
     "kind": "reel",
     "length": 20.55,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1002634082117493/"
    },
    "1005029452247082": {
@@ -22,6 +48,32 @@
     "created_time": "2026-07-09T14:03:46+0000",
     "kind": "reel",
     "length": 25.066,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1005029452247082/"
    },
    "1079898194791911": {
@@ -29,13 +81,156 @@
     "created_time": "2026-09-09T03:31:09+0000",
     "kind": "reel",
     "length": 32,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1079898194791911/"
+   },
+   "1124472237410333_122122030605311840": {
+    "caption_start": "Pre-construction freehold townhomes in Bowmanville. Ravine Mills by Camcos Living: from $642,689 (HST included, per builder price list dated",
+    "comments": null,
+    "created_time": "2026-10-13T00:30:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "d20261012-f4",
+    "scheduled_for": "2026-10-12T20:30:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122030665311840": {
+    "caption_start": "A home inspection helps you understand a home's condition before you commit. Save this checklist for your next showing. DM me \"INSPECT\" or c",
+    "comments": null,
+    "created_time": "2026-10-11T21:30:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "b01-p03",
+    "scheduled_for": "2026-10-11T17:30:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122030743311840": {
+    "caption_start": "Buying a condo? Read the status certificate first. It shows the reserve fund, fees and legal issues before you commit. Send it to me and I'l",
+    "comments": null,
+    "created_time": "2026-10-12T00:30:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "b01-p04",
+    "scheduled_for": "2026-10-11T20:30:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122045785311840": {
+    "caption_start": "Buying a home in Ontario, start to finish. Save this so you know what comes next. DM me \"STEPS\" or call 905-452-4298.\n\nWhatsApp me: https://",
+    "comments": null,
+    "created_time": "2026-10-13T03:50:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "d20261012-f5-repost",
+    "scheduled_for": "2026-10-12T23:50:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122079757311840": {
+    "caption_start": "Fewer buyers, softer prices. TRREB reports the average selling price across the GTA was $1,006,409 in September 2026, down 5.1% from Septemb",
+    "comments": null,
+    "created_time": "2026-10-13T12:30:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "d20261013-f1",
+    "scheduled_for": "2026-10-13T08:30:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122091589311840": {
+    "caption_start": "4 programs every first-time buyer in Ontario should know: the FHSA ($8,000 annual limit, $40,000 lifetime limit), the Home Buyers' Plan (up ",
+    "comments": null,
+    "created_time": "2026-10-13T16:00:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "d20261013-car1",
+    "scheduled_for": "2026-10-13T12:00:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": null
+   },
+   "1124472237410333_122122110123311840": {
+    "caption_start": "Pre-construction in Whitby. Whitby Meadows by Great Gulf: 36' and 40' detached homes from $1,101,990 (HST included) per the builder price li",
+    "comments": null,
+    "created_time": "2026-10-13T21:30:00+00:00",
+    "kind": "post",
+    "permalink": null,
+    "reactions": null,
+    "schedule_id": "d20261013-f2",
+    "scheduled_for": "2026-10-13T17:30:00-04:00",
+    "scheduled_type": "feed",
+    "shares": 0,
+    "status_type": null
    },
    "1135912332569561": {
     "caption_start": "Canada housing check-in. CREA reports August 2026 home sales down 0.7% from July, the MLS Home Price Index down 3.0% from a year earlier (th",
     "created_time": "2026-10-12T14:02:45+0000",
     "kind": "reel",
     "length": 18.533,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1135912332569561/"
    },
    "1371584428371732": {
@@ -43,6 +238,32 @@
     "created_time": "2026-07-26T05:06:25+0000",
     "kind": "reel",
     "length": 8,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1371584428371732/"
    },
    "1424115492872746": {
@@ -50,6 +271,32 @@
     "created_time": "2026-07-31T13:06:22+0000",
     "kind": "reel",
     "length": 178.398,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1424115492872746/"
    },
    "1444120631246365": {
@@ -57,6 +304,32 @@
     "created_time": "2026-10-13T19:01:17+0000",
     "kind": "reel",
     "length": 14.5,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1444120631246365/",
     "schedule_id": "d20261013-r2",
     "scheduled_for": "2026-10-13T15:00:00-04:00",
@@ -67,6 +340,32 @@
     "created_time": "2026-07-28T19:52:20+0000",
     "kind": "reel",
     "length": 4.039,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/1531117398810841/"
    },
    "2153001525613014": {
@@ -74,6 +373,32 @@
     "created_time": "2026-08-20T03:55:55+0000",
     "kind": "reel",
     "length": 4.016,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/2153001525613014/"
    },
    "2948018518890499": {
@@ -81,6 +406,32 @@
     "created_time": "2026-10-13T14:01:05+0000",
     "kind": "reel",
     "length": 14.5,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/2948018518890499/",
     "schedule_id": "d20261013-r1",
     "scheduled_for": "2026-10-13T10:00:00-04:00",
@@ -91,6 +442,32 @@
     "created_time": "2026-10-13T01:31:02+0000",
     "kind": "reel",
     "length": 18.533,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/39192444453734330/",
     "schedule_id": "d20261012-r3",
     "scheduled_for": "2026-10-12T21:30:00-04:00",
@@ -101,6 +478,32 @@
     "created_time": "2026-08-05T14:09:44+0000",
     "kind": "reel",
     "length": 32,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/891516903602177/"
    },
    "959133423901631": {
@@ -108,6 +511,32 @@
     "created_time": "2026-09-12T03:24:10+0000",
     "kind": "reel",
     "length": 4.016,
+    "metric_errors": {
+     "blue_reels_play_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_replay_count": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "fb_reels_total_plays": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_impressions_unique": {
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+     },
+     "post_video_avg_time_watched": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     },
+     "post_video_view_time": {
+      "code": 200,
+      "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+     }
+    },
     "permalink": "/reel/959133423901631/"
    }
   }
@@ -256,7 +685,7 @@
      "total_interactions": 0,
      "views": 12
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dd9ZkaoDEAS/",
     "timestamp": "2026-10-01T17:06:29+0000"
    },
@@ -276,7 +705,7 @@
      "total_interactions": 0,
      "views": 16
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dc1UEfAlFU8/",
     "timestamp": "2026-09-03T17:10:02+0000"
    },
@@ -296,7 +725,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeZomu9jN03/",
     "timestamp": "2026-10-12T16:17:40+0000"
    },
@@ -316,7 +745,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DcbxDUplC18/",
     "timestamp": "2026-08-24T19:05:27+0000"
    },
@@ -352,7 +781,7 @@
      "total_interactions": 0,
      "views": 6
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DecMKTJG5h3/",
     "schedule_id": "d20261013-car1",
     "scheduled_for": "2026-10-13T12:00:00-04:00",
@@ -374,7 +803,7 @@
      "total_interactions": 1,
      "views": 18
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Deb0AwunKWO/",
     "schedule_id": "d20261013-f1",
     "scheduled_for": "2026-10-13T08:30:00-04:00",
@@ -396,7 +825,7 @@
      "total_interactions": 0,
      "views": 2
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/Decgqlvij1t/",
     "schedule_id": "d20261013-r2",
     "scheduled_for": "2026-10-13T15:00:00-04:00",
@@ -418,7 +847,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DcjYzGBlJWo/",
     "timestamp": "2026-08-27T18:05:38+0000"
    },
@@ -438,7 +867,7 @@
      "total_interactions": 2,
      "views": 26
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dea4fQtIArk/",
     "schedule_id": "d20261012-f5-repost",
     "scheduled_for": "2026-10-12T23:50:00-04:00",
@@ -459,7 +888,7 @@
      "total_interactions": 2,
      "views": 12
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4006663643647503952",
     "schedule_id": "d20261012-s3",
     "scheduled_for": "2026-10-12T19:00:00-04:00",
@@ -481,7 +910,7 @@
      "total_interactions": 0,
      "views": 10
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdLAeTop9H3/",
     "timestamp": "2026-09-12T03:22:03+0000"
    },
@@ -501,7 +930,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdK6LENp6o2/",
     "timestamp": "2026-09-12T02:27:50+0000"
    },
@@ -521,7 +950,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeX8zrCGgt2/",
     "schedule_id": "b01-p04",
     "scheduled_for": "2026-10-11T20:30:00-04:00",
@@ -543,7 +972,7 @@
      "total_interactions": 3,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeHz0j8DEFb/",
     "timestamp": "2026-10-05T18:08:31+0000"
    },
@@ -563,7 +992,7 @@
      "total_interactions": 2,
      "views": 6
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Decxz5ngZ_j/",
     "schedule_id": "d20261013-f2",
     "scheduled_for": "2026-10-13T17:30:00-04:00",
@@ -585,7 +1014,7 @@
      "total_interactions": 0,
      "views": 18
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DeaoeeOEQ86/",
     "schedule_id": "d20261012-r3",
     "scheduled_for": "2026-10-12T21:30:00-04:00",
@@ -607,7 +1036,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeXMD51mr3e/",
     "schedule_id": "b01-p02",
     "scheduled_for": "2026-10-11T13:10:00-04:00",
@@ -629,7 +1058,7 @@
      "total_interactions": 2,
      "views": 14
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DePbOgVDMBb/",
     "timestamp": "2026-10-08T17:10:47+0000"
    },
@@ -648,7 +1077,7 @@
      "total_interactions": 0,
      "views": 0
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4007342175733840679",
     "schedule_id": "d20261013-s3",
     "scheduled_for": "2026-10-13T19:00:00-04:00",
@@ -670,7 +1099,7 @@
      "total_interactions": 0,
      "views": 34
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DcP2ChGJ6jI/",
     "timestamp": "2026-08-20T03:55:46+0000"
    },
@@ -698,7 +1127,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeaNAR2klyz/",
     "schedule_id": "d20261012-f3",
     "scheduled_for": "2026-10-12T17:30:00-04:00",
@@ -720,7 +1149,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dc-LsocG0xw/",
     "timestamp": "2026-09-07T03:48:51+0000"
    },
@@ -740,7 +1169,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdZWmNMjLFa/",
     "timestamp": "2026-09-17T17:07:36+0000"
    },
@@ -760,7 +1189,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdrYUiQjNs1/",
     "timestamp": "2026-09-24T17:06:34+0000"
    },
@@ -780,7 +1209,7 @@
      "total_interactions": 0,
      "views": 17
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdmAqDXDAuC/",
     "timestamp": "2026-09-22T15:07:15+0000"
    },
@@ -824,7 +1253,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DcRdr2JFLgp/",
     "timestamp": "2026-08-20T19:08:30+0000"
    },
@@ -852,7 +1281,7 @@
      "total_interactions": 2,
      "views": 14
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DdDR41gJkOi/",
     "timestamp": "2026-09-09T03:31:01+0000"
    },
@@ -880,7 +1309,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeVDkWgjbdq/",
     "timestamp": "2026-10-10T21:31:54+0000"
    },
@@ -900,7 +1329,7 @@
      "total_interactions": 0,
      "views": 1
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeZPNOdm3Z7/",
     "schedule_id": "d20261012-f1",
     "scheduled_for": "2026-10-12T08:30:00-04:00",
@@ -922,7 +1351,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdRobZ7oDEh/",
     "timestamp": "2026-09-14T17:11:29+0000"
    },
@@ -942,7 +1371,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Deah3D9FMZM/",
     "schedule_id": "d20261012-f4",
     "scheduled_for": "2026-10-12T20:30:00-04:00",
@@ -964,7 +1393,7 @@
      "total_interactions": 0,
      "views": 13
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DdHWMQfoCvc/",
     "timestamp": "2026-09-10T17:15:28+0000"
    },
@@ -983,7 +1412,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4007040213041402395",
     "schedule_id": "d20261013-s1",
     "scheduled_for": "2026-10-13T09:00:00-04:00",
@@ -1005,7 +1434,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DctlNPulJMx/",
     "timestamp": "2026-08-31T17:06:50+0000"
    },
@@ -1025,7 +1454,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DdLAzJ8p_Xv/",
     "timestamp": "2026-09-12T03:24:05+0000"
    },
@@ -1051,9 +1480,9 @@
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 5
+     "views": 7
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/Deb-UrLnERO/",
     "schedule_id": "d20261013-r1",
     "scheduled_for": "2026-10-13T10:00:00-04:00",
@@ -1075,7 +1504,7 @@
      "total_interactions": 2,
      "views": 13
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeXoNKPIJ5c/",
     "schedule_id": "b01-p03",
     "scheduled_for": "2026-10-11T17:30:00-04:00",
@@ -1104,7 +1533,7 @@
      "total_interactions": 0,
      "views": 1
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4007176495440596999",
     "schedule_id": "d20261013-s2",
     "scheduled_for": "2026-10-13T13:30:00-04:00",
@@ -1126,7 +1555,7 @@
      "total_interactions": 1,
      "views": 18
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DcJp8ARlAVF/",
     "timestamp": "2026-08-17T18:15:57+0000"
    },
@@ -1146,7 +1575,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dd1r7YOl41V/",
     "timestamp": "2026-09-28T17:10:02+0000"
    },
@@ -1166,7 +1595,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/Dc_VIKklB5Y/",
     "timestamp": "2026-09-07T14:39:34+0000"
    },
@@ -1186,7 +1615,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/p/DeZnPk8lQOO/",
     "schedule_id": "d20261012-f2",
     "scheduled_for": "2026-10-12T12:00:00-04:00",
@@ -1208,7 +1637,7 @@
      "total_interactions": 0,
      "views": 3
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DeZZhLqFHio/",
     "schedule_id": "d20261012-r1",
     "scheduled_for": "2026-10-12T10:00:00-04:00",
@@ -1230,7 +1659,7 @@
      "total_interactions": 0,
      "views": 20
     },
-    "metrics_at": "2026-10-13T23:06:32+00:00",
+    "metrics_at": "2026-10-13T23:08:43+00:00",
     "permalink": "https://www.instagram.com/reel/DeZ72TCD9yU/",
     "schedule_id": "d20261012-r2",
     "scheduled_for": "2026-10-12T15:00:00-04:00",
@@ -1238,5 +1667,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T23:06:32+00:00"
+ "updated_at": "2026-10-13T23:08:43+00:00"
 }

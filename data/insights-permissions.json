@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T23:06:32+00:00",
+  "checked_at": "2026-10-13T23:08:43+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -105,27 +105,33 @@
       },
       {
         "name": "page insight: page_follows",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_media_view",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_total_media_view_unique",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_post_engagements",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_daily_follows_unique",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_daily_unfollows_unique",
-        "ok": true
+        "ok": true,
+        "days_with_values": 0
       },
       {
         "name": "page insight: page_impressions_unique",
@@ -142,10 +148,44 @@
         "message": "(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
       },
       {
+        "name": "fallback: posts from schedule.json",
+        "ok": true,
+        "posts": 7
+      },
+      {
         "name": "post insights (reach, views, engagement)",
         "ok": false,
         "posts_with_data": 0,
-        "sample_errors": {}
+        "sample_errors": {
+          "post_media_view": {
+            "code": null,
+            "message": "ok but no values returned"
+          },
+          "post_total_media_view_unique": {
+            "code": null,
+            "message": "ok but no values returned"
+          },
+          "post_impressions": {
+            "code": 100,
+            "message": "(#100) The value must be a valid insights metric"
+          },
+          "post_impressions_unique": {
+            "code": 100,
+            "message": "(#100) The value must be a valid insights metric"
+          },
+          "post_engaged_users": {
+            "code": 100,
+            "message": "(#100) The value must be a valid insights metric"
+          },
+          "post_clicks": {
+            "code": null,
+            "message": "ok but no values returned"
+          },
+          "post_reactions_by_type_total": {
+            "code": null,
+            "message": "ok but no values returned"
+          }
+        }
       },
       {
         "name": "list page reels",
@@ -153,7 +193,33 @@
       },
       {
         "name": "reel insights",
-        "ok": false
+        "ok": false,
+        "sample_errors": {
+          "blue_reels_play_count": {
+            "code": 200,
+            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+          },
+          "post_impressions_unique": {
+            "code": 100,
+            "message": "(#100) The value must be a valid insights metric"
+          },
+          "post_video_avg_time_watched": {
+            "code": 200,
+            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+          },
+          "post_video_view_time": {
+            "code": 200,
+            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+          },
+          "fb_reels_total_plays": {
+            "code": 200,
+            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+          },
+          "fb_reels_replay_count": {
+            "code": 200,
+            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+          }
+        }
       }
     ],
     "token_scopes": [
