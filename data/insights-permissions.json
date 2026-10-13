@@ -1,0 +1,201 @@
+{
+  "checked_at": "2026-10-13T23:06:32+00:00",
+  "graph_version": "v23.0",
+  "instagram": {
+    "probes": [
+      {
+        "name": "profile (me)",
+        "ok": true
+      },
+      {
+        "name": "account insight: reach",
+        "ok": true
+      },
+      {
+        "name": "account insight: follower_count",
+        "ok": true
+      },
+      {
+        "name": "account insight: views",
+        "ok": true
+      },
+      {
+        "name": "account insight: profile_views",
+        "ok": true
+      },
+      {
+        "name": "account insight: accounts_engaged",
+        "ok": true
+      },
+      {
+        "name": "account insight: total_interactions",
+        "ok": true
+      },
+      {
+        "name": "account insight: likes",
+        "ok": true
+      },
+      {
+        "name": "account insight: comments",
+        "ok": true
+      },
+      {
+        "name": "account insight: saves",
+        "ok": true
+      },
+      {
+        "name": "account insight: shares",
+        "ok": true
+      },
+      {
+        "name": "account insight: replies",
+        "ok": true
+      },
+      {
+        "name": "account insight: website_clicks",
+        "ok": true
+      },
+      {
+        "name": "account insight: reach by follower / non-follower",
+        "ok": true
+      },
+      {
+        "name": "list media",
+        "ok": true
+      },
+      {
+        "name": "list live stories",
+        "ok": true
+      },
+      {
+        "name": "media insights: feed",
+        "ok": true,
+        "posts_with_data": 30,
+        "posts_seen": 33
+      },
+      {
+        "name": "media insights: carousel",
+        "ok": true,
+        "posts_with_data": 2,
+        "posts_seen": 3
+      },
+      {
+        "name": "media insights: reel",
+        "ok": true,
+        "posts_with_data": 8,
+        "posts_seen": 14
+      },
+      {
+        "name": "media insights: story",
+        "ok": true,
+        "posts_with_data": 4,
+        "posts_seen": 4
+      },
+      {
+        "name": "content publishing limit",
+        "ok": true
+      }
+    ]
+  },
+  "facebook": {
+    "probes": [
+      {
+        "name": "page profile / followers",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_follows",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_media_view",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_total_media_view_unique",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_post_engagements",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_daily_follows_unique",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_daily_unfollows_unique",
+        "ok": true
+      },
+      {
+        "name": "page insight: page_impressions_unique",
+        "ok": false,
+        "code": 100,
+        "subcode": null,
+        "message": "(#100) The value must be a valid insights metric"
+      },
+      {
+        "name": "list page posts",
+        "ok": false,
+        "code": 10,
+        "subcode": null,
+        "message": "(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
+      },
+      {
+        "name": "post insights (reach, views, engagement)",
+        "ok": false,
+        "posts_with_data": 0,
+        "sample_errors": {}
+      },
+      {
+        "name": "list page reels",
+        "ok": true
+      },
+      {
+        "name": "reel insights",
+        "ok": false
+      }
+    ],
+    "token_scopes": [
+      "pages_show_list",
+      "pages_read_engagement",
+      "pages_manage_posts",
+      "public_profile"
+    ],
+    "token_type": "PAGE",
+    "token_expires_at": 0,
+    "token_data_access_expires_at": 1799559422
+  },
+  "failed_probes": [
+    {
+      "platform": "facebook",
+      "what": "page insight: page_impressions_unique",
+      "permission_problem": false,
+      "code": 100,
+      "message": "(#100) The value must be a valid insights metric"
+    },
+    {
+      "platform": "facebook",
+      "what": "list page posts",
+      "permission_problem": true,
+      "code": 10,
+      "message": "(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
+    },
+    {
+      "platform": "facebook",
+      "what": "post insights (reach, views, engagement)",
+      "permission_problem": false,
+      "code": null,
+      "message": null
+    },
+    {
+      "platform": "facebook",
+      "what": "reel insights",
+      "permission_problem": false,
+      "code": null,
+      "message": null
+    }
+  ],
+  "tokens_missing_for": [],
+  "all_insights_readable": false
+}
