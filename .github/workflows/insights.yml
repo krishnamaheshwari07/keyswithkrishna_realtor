@@ -1,0 +1,30 @@
+name: Collect Instagram + Facebook insights
+on:
+  schedule:
+    # Twice a day: Stories only expose insights while live (24h), so the second run catches them.
+    - cron: "15 11 * * *"   # about 7:15 am Toronto
+    - cron: "15 2 * * *"    # about 10:15 pm Toronto
+  push:
+    branches: [main]
+    paths: ['scripts/insights.py', '.github/workflows/insights.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: insights
+  cancel-in-progress: false
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/insights.py
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      - run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/insights.json data/insights-permissions.json
+          (git commit -m "Update insights data" && git pull --rebase origin main && git push) || true
