@@ -18,7 +18,9 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "18144556738584422",
-    "fb_backfill": true
+    "fb_backfill": true,
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAut"
   },
   {
     "id": "b01-p04",
@@ -29,6 +31,8 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "17977809984132056",
-    "fb_backfill": true
+    "fb_backfill": true,
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAut"
   }
 ]

@@ -76,7 +76,10 @@
     "caption": "",
     "publish_at": "2026-10-12T19:00:00-04:00",
     "approved": true,
-    "status": "pending"
+    "status": "posted",
+    "ig_media_id": "17971030335159694",
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"(#200) Unpublished posts must be posted to a page as the page itself.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AHfG833RdON3BEKSXhT1xy-\"}}"
   },
   {
     "id": "d20261012-f4",
@@ -85,7 +88,10 @@
     "caption": "Pre-construction freehold townhomes in Bowmanville. Ravine Mills by Camcos Living: from $642,689 (HST included, per builder price list dated Jul 28, 2026), estimated occupancy Summer 2027, 3 bed / 2.5 bath plans from 1,309 sq ft. Incentives and rebates have conditions; ask me for the current details. DM me \"RAVINE\" or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor\u00ae | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna #georgetownontario #precon #newhomes #bowmanville #clarington #townhomes",
     "publish_at": "2026-10-12T20:30:00-04:00",
     "approved": true,
-    "status": "pending"
+    "status": "posted",
+    "ig_media_id": "18122858699305463",
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAut"
   },
   {
     "id": "d20261012-r3",
