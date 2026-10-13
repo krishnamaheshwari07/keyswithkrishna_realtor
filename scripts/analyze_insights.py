@@ -29,6 +29,52 @@ def topic_of(caption):
     return "Other"
 
 
+def num(v):
+    """Meta sometimes returns a list (several periods) or a dict (breakdown) instead of a number."""
+    if isinstance(v, list):
+        return max((num(x) for x in v), default=0)
+    if isinstance(v, dict):
+        return sum(num(x) for x in v.values())
+    return v or 0
+
+
+def facebook_section(d, now):
+    fb = d.get("facebook", {})
+    if not fb.get("page"):
+        print("\nFacebook: no data (check FB_PAGE_TOKEN)"); return
+    print(f"\nFacebook Page '{fb['page'].get('name')}' | followers {fb['page'].get('followers_count')}")
+    daily = fb.get("daily", {})
+    days = sorted(k for k in daily if "page_media_view" in daily[k])
+    if days:
+        last, prev = days[-8:-1], days[-15:-8]
+        def tot(ks, m): return sum(num(daily[k].get(m)) for k in ks)
+        for m, label in (("page_media_view", "views"), ("page_total_media_view_unique", "accounts reached"),
+                         ("page_post_engagements", "engagements")):
+            print(f"  {label}: last 7 days {tot(last, m)} vs prior 7 days {tot(prev, m)}")
+        f = [num(daily[k].get("page_follows")) for k in days if daily[k].get("page_follows") is not None]
+        if f:
+            print(f"  followers trend: {f[0]} -> {f[-1]} over {len(f)} days")
+    rows = []
+    for p in fb.get("posts", {}).values():
+        m = p.get("metrics") or {}
+        if not m or not p.get("created_time"):
+            continue
+        t = parse(p["created_time"])
+        if (now - t).days > DAYS:
+            continue
+        views = max(num(m.get(k)) for k in ("post_media_view", "post_total_media_view_unique", "blue_reels_play_count", "fb_reels_total_plays"))
+        eng = num(m.get("post_reactions_by_type_total")) + num(p.get("comments")) + num(p.get("shares")) + num(m.get("post_clicks"))
+        rows.append((views, eng, p.get("scheduled_type") or p["kind"], t.astimezone(TZ), (p.get("caption_start") or "").split("\n")[0][:60]))
+    if rows:
+        by = defaultdict(list)
+        for r in rows:
+            by[r[2]].append(r[0])
+        print("  by format: " + "; ".join(f"{k} {len(v)} posts, avg views {statistics.mean(v):.1f}" for k, v in sorted(by.items())))
+        print("  top posts:")
+        for r in sorted(rows, key=lambda r: (-r[0], -r[1]))[:3]:
+            print(f"    {r[0]} views, {r[1]} eng | {r[2]} {r[3]:%a %b %d %H:%M} | {r[4]}")
+
+
 def parse(t):
     return datetime.fromisoformat(t.replace("+0000", "+00:00").replace("Z", "+00:00"))
 
@@ -64,7 +110,8 @@ def main():
     print(f"Instagram @{ig.get('account', {}).get('username')} | followers {ig.get('account', {}).get('followers_count')} "
           f"| posts compared: {len(rows)} (last {DAYS} days, older than {MIN_AGE_H}h)\n")
     if not rows:
-        print("Not enough data yet."); return
+        print("Not enough Instagram data yet.")
+        facebook_section(d, now); return
     by = lambda key: {k: [r for r in rows if key(r) == k] for k in {key(r) for r in rows}}
     print(summarise(by(lambda r: r["kind"]), "By format"))
     print(summarise(by(lambda r: r["topic"]), "\nBy topic"))
@@ -116,6 +163,7 @@ def main():
         ks = sorted(fol)
         print(f"Followers: {fol[ks[0]]} on {ks[0]} -> {fol[ks[-1]]} on {ks[-1]}")
     print("\nSuppression / drop flags: " + ("; ".join(flags) if flags else "none"))
+    facebook_section(d, now)
 
 
 if __name__ == "__main__":
