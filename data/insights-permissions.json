@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T23:12:03+00:00",
+  "checked_at": "2026-10-13T23:32:24+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -106,67 +106,41 @@
       {
         "name": "page insight: page_follows",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "page insight: page_media_view",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "page insight: page_total_media_view_unique",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "page insight: page_post_engagements",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "page insight: page_daily_follows_unique",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "page insight: page_daily_unfollows_unique",
         "ok": true,
-        "days_with_values": 0
+        "days_with_values": 29
       },
       {
         "name": "list page posts",
-        "ok": false,
-        "code": 10,
-        "subcode": null,
-        "message": "(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
-      },
-      {
-        "name": "fallback: posts from schedule.json",
-        "ok": true,
-        "posts": 7
+        "ok": true
       },
       {
         "name": "post insights (reach, views, engagement)",
-        "ok": false,
-        "posts_with_data": 0,
-        "sample_errors": {
-          "post_media_view": {
-            "code": null,
-            "message": "ok but no values returned"
-          },
-          "post_total_media_view_unique": {
-            "code": null,
-            "message": "ok but no values returned"
-          },
-          "post_clicks": {
-            "code": null,
-            "message": "ok but no values returned"
-          },
-          "post_reactions_by_type_total": {
-            "code": null,
-            "message": "ok but no values returned"
-          }
-        }
+        "ok": true,
+        "posts_with_data": 38
       },
       {
         "name": "list page reels",
@@ -174,64 +148,22 @@
       },
       {
         "name": "reel insights",
-        "ok": false,
-        "sample_errors": {
-          "blue_reels_play_count": {
-            "code": 200,
-            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          },
-          "post_video_avg_time_watched": {
-            "code": 200,
-            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          },
-          "post_video_view_time": {
-            "code": 200,
-            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          },
-          "fb_reels_total_plays": {
-            "code": 200,
-            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          },
-          "fb_reels_replay_count": {
-            "code": 200,
-            "message": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
-          }
-        }
+        "ok": true
       }
     ],
     "token_scopes": [
+      "read_insights",
       "pages_show_list",
       "pages_read_engagement",
+      "pages_read_user_content",
       "pages_manage_posts",
       "public_profile"
     ],
     "token_type": "PAGE",
     "token_expires_at": 0,
-    "token_data_access_expires_at": 1799559422
+    "token_data_access_expires_at": 1799709899
   },
-  "failed_probes": [
-    {
-      "platform": "facebook",
-      "what": "list page posts",
-      "permission_problem": true,
-      "code": 10,
-      "message": "(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
-    },
-    {
-      "platform": "facebook",
-      "what": "post insights (reach, views, engagement)",
-      "permission_problem": false,
-      "code": null,
-      "message": null
-    },
-    {
-      "platform": "facebook",
-      "what": "reel insights",
-      "permission_problem": false,
-      "code": null,
-      "message": null
-    }
-  ],
+  "failed_probes": [],
   "tokens_missing_for": [],
-  "all_insights_readable": false
+  "all_insights_readable": true
 }
