@@ -1,0 +1,47 @@
+{
+  "_note": "Exterior renderings cut from the C21 Property Zone broker-portal brochures (via Krishna's MAHESHWARI ESTATES site). Use only for the named project. Always show 'Artist's concept. Actual product may vary.' and the builder name. Projects not listed have no exterior image yet (site plans only or none): use posts/assets/precon/illustration-<type>.svg instead, labelled 'Illustration only. Not the actual home.'",
+  "projects": {
+    "Derry Lanes Towns": {
+      "builder": "Ballymore Homes",
+      "files": [
+        "posts/assets/precon/derry-lanes-towns-1.jpg"
+      ]
+    },
+    "Liora": {
+      "builder": "Treasure Hill",
+      "files": [
+        "posts/assets/precon/liora-1.jpg",
+        "posts/assets/precon/liora-2.jpg"
+      ]
+    },
+    "South Banks": {
+      "builder": "Deco Homes & Opus Homes",
+      "files": [
+        "posts/assets/precon/south-banks-1.jpg",
+        "posts/assets/precon/south-banks-2.jpg"
+      ]
+    },
+    "Spring Valley": {
+      "builder": "Pearl Valley Homes",
+      "files": [
+        "posts/assets/precon/spring-valley-1.jpg"
+      ]
+    },
+    "Trafalgar Highlands (New Release)": {
+      "builder": "Coscorp Inc.",
+      "files": [
+        "posts/assets/precon/trafalgar-highlands-1.jpg",
+        "posts/assets/precon/trafalgar-highlands-2.jpg",
+        "posts/assets/precon/trafalgar-highlands-3.jpg"
+      ]
+    },
+    "Winchester Estates": {
+      "builder": "Menkes",
+      "files": [
+        "posts/assets/precon/winchester-estates-1.jpg",
+        "posts/assets/precon/winchester-estates-2.jpg",
+        "posts/assets/precon/winchester-estates-3.jpg"
+      ]
+    }
+  }
+}
