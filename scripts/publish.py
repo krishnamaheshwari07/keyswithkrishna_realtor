@@ -28,6 +28,27 @@ def fb(path, data, headers=None):
     except urllib.error.HTTPError as e:
         raise RuntimeError(e.read().decode()[:250])
 
+def fb_get(path, fields):
+    q = urllib.parse.urlencode({"fields": fields, "access_token": PTOK})
+    try:
+        with urllib.request.urlopen(f"{FB}/{path}?{q}", timeout=60) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(e.read().decode()[:250])
+
+def fb_video_check(vid):
+    """Wait until Facebook finishes processing an uploaded video; raise if any phase reports an error."""
+    st = {}
+    for _ in range(30):
+        st = fb_get(vid, "status").get("status", {})
+        phases = {k: (v or {}).get("status") for k, v in st.items() if isinstance(v, dict)}
+        if st.get("video_status") == "error" or "error" in phases.values():
+            raise RuntimeError("facebook video processing error: " + json.dumps(st)[:220])
+        if st.get("video_status") == "ready" or phases.get("publishing_phase") == "complete":
+            return
+        time.sleep(10)
+    raise RuntimeError("facebook video still processing after 5 min: " + json.dumps(st)[:200])
+
 def fb_publish(item):
     t, cap = item["type"], item.get("caption", "")
     url = item.get("media_url", "")
@@ -45,6 +66,7 @@ def fb_publish(item):
             req = urllib.request.Request(st["upload_url"], headers={"Authorization": "OAuth " + PTOK, "file_url": url}, method="POST")
             urllib.request.urlopen(req, timeout=180).read()
             fb(f"{PID}/video_stories", {"upload_phase": "finish", "video_id": vid})
+            fb_video_check(vid)
             return vid
         pid = fb(f"{PID}/photos", {"url": url, "published": "false"})["id"]
         return fb(f"{PID}/photo_stories", {"photo_id": pid}).get("post_id", pid)
@@ -54,6 +76,7 @@ def fb_publish(item):
         req = urllib.request.Request(st["upload_url"], headers={"Authorization": "OAuth " + PTOK, "file_url": url}, method="POST")
         urllib.request.urlopen(req, timeout=180).read()
         fb(f"{PID}/video_reels", {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap})
+        fb_video_check(vid)
         return vid
     raise ValueError(t)
 
