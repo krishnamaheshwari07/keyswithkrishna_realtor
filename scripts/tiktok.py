@@ -1,6 +1,6 @@
 """TikTok posting for Keys with Krishna (Content Posting API, free).
 Env: TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_TOKEN_KEY (passphrase that encrypts the stored token),
-optional TIKTOK_PRIVACY (default SELF_ONLY until the app passes TikTok's audit), TIKTOK_MODE (direct|draft, default direct).
+optional TIKTOK_PRIVACY (default SELF_ONLY until the app passes TikTok's audit), TIKTOK_MODE (direct|draft, default draft until the app passes the audit).
 Tokens are kept only in encrypted form in data/tiktok-token.enc.
 CLI: python3 scripts/tiktok.py connect <code>   (one-time, run by the 'Connect TikTok' workflow)"""
 import json, os, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
@@ -65,13 +65,13 @@ def post_video(item):
     tok = access_token()
     video = urllib.request.urlopen(item["media_url"], timeout=180).read()
     n = len(video)
-    mode = os.environ.get("TIKTOK_MODE", "direct")
+    mode = os.environ.get("TIKTOK_MODE") or "draft"
     src = {"source": "FILE_UPLOAD", "video_size": n, "chunk_size": n, "total_chunk_count": 1}
     if mode == "draft":
         init = _req(f"{API}/post/publish/inbox/video/init/", {"source_info": src}, token=tok)
     else:
         info = _req(f"{API}/post/publish/creator_info/query/", {}, token=tok).get("data", {})
-        privacy = os.environ.get("TIKTOK_PRIVACY", "SELF_ONLY")
+        privacy = os.environ.get("TIKTOK_PRIVACY") or "SELF_ONLY"
         if privacy not in info.get("privacy_level_options", [privacy]): privacy = "SELF_ONLY"
         post = {"title": caption_for_tiktok(item.get("caption", "")), "privacy_level": privacy,
                 "disable_comment": False, "disable_duet": False, "disable_stitch": False}
