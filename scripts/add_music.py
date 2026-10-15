@@ -27,13 +27,13 @@ def main():
     if kind == "reel":
         length = dur(src)
         a, af = audio_args(track, h, length)
-        cmd = ["ffmpeg", "-y", "-v", "error", "-i", src, *a, "-map", "0:v:0", "-map", "1:a:0", "-c:v", "libx264", "-profile:v", "high", "-level", "4.0", "-pix_fmt", "yuv420p", "-r", "30", "-g", "30", "-b:v", "3M",
+        cmd = ["ffmpeg", "-y", "-v", "error", "-i", src, *a, "-map", "0:v:0", "-map", "1:a:0", "-c:v", "libx264", "-profile:v", "high", "-level", "4.0", "-pix_fmt", "yuv420p", "-r", "30", "-g", "30", "-b:v", "1800k", "-maxrate", "2200k", "-bufsize", "3000k",
                "-af", af, "-c:a", "aac", "-b:a", "160k", "-t", f"{length:.2f}", "-movflags", "+faststart", out]
     elif kind == "story":
         length = float(sys.argv[5]) if len(sys.argv) > 5 else 8.0
         a, af = audio_args(track, h, length)
         cmd = ["ffmpeg", "-y", "-v", "error", "-loop", "1", "-framerate", "30", "-i", src, *a, "-t", str(length),
-               "-vf", "scale=1080:1920,format=yuv420p", "-c:v", "libx264", "-profile:v", "high", "-level", "4.0", "-r", "30", "-g", "30", "-b:v", "3M",
+               "-vf", "scale=1080:1920,format=yuv420p", "-c:v", "libx264", "-profile:v", "high", "-level", "4.0", "-r", "30", "-g", "30", "-b:v", "1800k", "-maxrate", "2200k", "-bufsize", "3000k",
                "-af", af, "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out]
     else:
         sys.exit(__doc__)

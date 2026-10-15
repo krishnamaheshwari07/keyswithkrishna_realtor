@@ -63,10 +63,18 @@ def caption_for_tiktok(cap):
 
 def post_video(item):
     tok = access_token()
-    video = urllib.request.urlopen(item["media_url"], timeout=180).read()
+    with urllib.request.urlopen(item["media_url"], timeout=180) as r:
+        video = r.read()
+        want = int(r.headers.get("Content-Length") or len(video))
     n = len(video)
+    if n != want: raise RuntimeError(f"tiktok: downloaded {n} of {want} bytes")
     mode = os.environ.get("TIKTOK_MODE") or "draft"
-    src = {"source": "FILE_UPLOAD", "video_size": n, "chunk_size": n, "total_chunk_count": 1}
+    # TikTok: under 5MB upload whole; otherwise chunks of 5-64MB, last chunk (up to 128MB) takes the remainder
+    CH = 10 * 1024 * 1024
+    chunk = n if n < 5 * 1024 * 1024 else CH
+    count = max(1, n // chunk)
+    if count == 1: chunk = n
+    src = {"source": "FILE_UPLOAD", "video_size": n, "chunk_size": chunk, "total_chunk_count": count}
     if mode == "draft":
         init = _req(f"{API}/post/publish/inbox/video/init/", {"source_info": src}, token=tok)
     else:
@@ -78,8 +86,10 @@ def post_video(item):
         init = _req(f"{API}/post/publish/video/init/", {"post_info": post, "source_info": src}, token=tok)
     d = init.get("data", {})
     if "upload_url" not in d: raise RuntimeError("tiktok init error: " + json.dumps(init)[:250])
-    _req(d["upload_url"], raw=video, method="PUT",
-         headers={"Content-Type": "video/mp4", "Content-Range": f"bytes 0-{n-1}/{n}", "Content-Length": str(n)})
+    for i in range(count):
+        a = i * chunk; b = n if i == count - 1 else a + chunk
+        _req(d["upload_url"], raw=video[a:b], method="PUT",
+             headers={"Content-Type": "video/mp4", "Content-Range": f"bytes {a}-{b-1}/{n}", "Content-Length": str(b - a)})
     pid = d["publish_id"]
     for _ in range(30):
         st = _req(f"{API}/post/publish/status/fetch/", {"publish_id": pid}, token=tok).get("data", {})
