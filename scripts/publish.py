@@ -2,6 +2,8 @@
 Env: IG_USER_ID, IG_ACCESS_TOKEN; optional FB_PAGE_ID, FB_PAGE_TOKEN (also cross-posts to the Facebook Page). Only items with "approved": true and "status": "pending" are posted."""
 import glob, json, urllib.error, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
+sys.path.insert(0, os.path.dirname(__file__))
+import tiktok
 API = "https://graph.instagram.com/v21.0"
 UID, TOK = os.environ["IG_USER_ID"], os.environ["IG_ACCESS_TOKEN"]
 
@@ -135,4 +137,10 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
             except Exception as e:
                 it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
             print(it["id"], "facebook", it["fb_status"], it.get("fb_error", ""))
+        if it["status"] == "posted" and it["type"] == "reel" and tiktok.enabled():
+            try:
+                it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it)
+            except Exception as e:
+                it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
+            print(it["id"], "tiktok", it["tt_status"], it.get("tt_error", ""))
     if changed: json.dump(items, open(path, "w"), indent=2)

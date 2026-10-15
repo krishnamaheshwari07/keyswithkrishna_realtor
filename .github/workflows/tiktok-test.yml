@@ -1,0 +1,14 @@
+name: TikTok test post
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/tiktok.py test
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
+          TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
+          TIKTOK_MODE: ${{ vars.TIKTOK_MODE }}

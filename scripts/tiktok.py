@@ -1,0 +1,100 @@
+"""TikTok posting for Keys with Krishna (Content Posting API, free).
+Env: TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_TOKEN_KEY (passphrase that encrypts the stored token),
+optional TIKTOK_PRIVACY (default SELF_ONLY until the app passes TikTok's audit), TIKTOK_MODE (direct|draft, default direct).
+Tokens are kept only in encrypted form in data/tiktok-token.enc.
+CLI: python3 scripts/tiktok.py connect <code>   (one-time, run by the 'Connect TikTok' workflow)"""
+import json, os, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
+API = "https://open.tiktokapis.com/v2"
+REDIRECT = "https://krishnamaheshwari07.github.io/keyswithkrishna_realtor/tiktok-callback.html"
+TOKFILE = "data/tiktok-token.enc"
+KEY, SECRET, PASS = os.environ.get("TIKTOK_CLIENT_KEY"), os.environ.get("TIKTOK_CLIENT_SECRET"), os.environ.get("TIKTOK_TOKEN_KEY")
+
+def enabled():
+    return bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
+
+def _crypt(data, decrypt=False):
+    args = ["openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-iter", "200000", "-salt", "-pass", "env:TIKTOK_TOKEN_KEY", "-a", "-A"]
+    if decrypt: args.append("-d")
+    return subprocess.run(args, input=data, capture_output=True, check=True).stdout
+
+def _save(tok):
+    tok["obtained_at"] = int(time.time())
+    open(TOKFILE, "wb").write(_crypt(json.dumps(tok).encode()))
+
+def _load():
+    return json.loads(_crypt(open(TOKFILE, "rb").read(), decrypt=True))
+
+def _req(url, data=None, token=None, form=False, method=None, headers=None, raw=None):
+    h = dict(headers or {})
+    if token: h["Authorization"] = "Bearer " + token
+    body = raw
+    if data is not None:
+        if form:
+            body = urllib.parse.urlencode(data).encode(); h["Content-Type"] = "application/x-www-form-urlencoded"
+        else:
+            body = json.dumps(data).encode(); h["Content-Type"] = "application/json; charset=UTF-8"
+    req = urllib.request.Request(url, body, headers=h, method=method)
+    try:
+        with urllib.request.urlopen(req, timeout=180) as r:
+            t = r.read()
+            return json.loads(t) if t else {}
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"tiktok {e.code}: {e.read().decode()[:250]}")
+
+def _token_request(**fields):
+    r = _req(f"{API}/oauth/token/", dict(client_key=KEY, client_secret=SECRET, **fields), form=True)
+    if "access_token" not in r: raise RuntimeError("tiktok token error: " + json.dumps(r)[:250])
+    return r
+
+def connect(code):
+    _save(_token_request(code=code, grant_type="authorization_code", redirect_uri=REDIRECT))
+    print("TikTok connected for open_id", _load().get("open_id", "?")[:6] + "...")
+
+def access_token():
+    tok = _load()
+    if time.time() > tok["obtained_at"] + int(tok.get("expires_in", 86400)) - 600:
+        tok = _token_request(grant_type="refresh_token", refresh_token=tok["refresh_token"])
+        _save(tok)
+    return tok["access_token"]
+
+def caption_for_tiktok(cap):
+    cap = cap.replace("Comment INFO to get full details, or call 905-452-4298.", "Call 905-452-4298 for full details.")
+    return cap[:2200]
+
+def post_video(item):
+    tok = access_token()
+    video = urllib.request.urlopen(item["media_url"], timeout=180).read()
+    n = len(video)
+    mode = os.environ.get("TIKTOK_MODE", "direct")
+    src = {"source": "FILE_UPLOAD", "video_size": n, "chunk_size": n, "total_chunk_count": 1}
+    if mode == "draft":
+        init = _req(f"{API}/post/publish/inbox/video/init/", {"source_info": src}, token=tok)
+    else:
+        info = _req(f"{API}/post/publish/creator_info/query/", {}, token=tok).get("data", {})
+        privacy = os.environ.get("TIKTOK_PRIVACY", "SELF_ONLY")
+        if privacy not in info.get("privacy_level_options", [privacy]): privacy = "SELF_ONLY"
+        post = {"title": caption_for_tiktok(item.get("caption", "")), "privacy_level": privacy,
+                "disable_comment": False, "disable_duet": False, "disable_stitch": False}
+        init = _req(f"{API}/post/publish/video/init/", {"post_info": post, "source_info": src}, token=tok)
+    d = init.get("data", {})
+    if "upload_url" not in d: raise RuntimeError("tiktok init error: " + json.dumps(init)[:250])
+    _req(d["upload_url"], raw=video, method="PUT",
+         headers={"Content-Type": "video/mp4", "Content-Range": f"bytes 0-{n-1}/{n}", "Content-Length": str(n)})
+    pid = d["publish_id"]
+    for _ in range(30):
+        st = _req(f"{API}/post/publish/status/fetch/", {"publish_id": pid}, token=tok).get("data", {})
+        s = st.get("status")
+        if s in ("PUBLISH_COMPLETE", "SEND_TO_USER_INBOX"): return pid, s
+        if s == "FAILED": raise RuntimeError("tiktok failed: " + str(st.get("fail_reason"))[:200])
+        time.sleep(10)
+    return pid, "PROCESSING"
+
+if __name__ == "__main__" and len(sys.argv) == 3 and sys.argv[1] == "connect":
+    connect(sys.argv[2].strip())
+
+if __name__ == "__main__" and len(sys.argv) == 2 and sys.argv[1] == "test":
+    import glob
+    reels = [it for f in sorted(glob.glob("posts/*/schedule.json")) for it in json.load(open(f))
+             if it["type"] == "reel" and it.get("status") == "posted"]
+    pid, status = post_video(reels[-1])
+    print("TikTok test post:", reels[-1]["id"], status)
