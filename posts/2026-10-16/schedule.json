@@ -1,50 +1,55 @@
 [
- {
-  "id": "d20261016-r1",
-  "type": "reel",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-r1.mp4",
-  "publish_at": "2026-10-16T12:00:00-04:00",
-  "theme": "cream",
-  "caption": "No, you don't need 20% down to buy in Ontario. Under current federal rules, the minimum down payment is 5% on the first $500,000 of the price and 10% on the portion from $500,000 to $1.5 million. At $1.5 million or more, the minimum is 20%. With less than 20% down, mortgage default insurance applies. Example: a $750,000 home needs a minimum of $50,000 down.\n\nWant help planning your down payment? Comment INFO to get full details, or call 905-452-4298.\n\nSource: CMHC, Housing Observer, June 30, 2025. Eligibility rules and lender requirements apply. General information only, not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor® | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#ontariorealestate #firsttimehomebuyer #GTArealestate #keyswithkrishna #georgetownontario",
-  "approved": true,
-  "status": "pending"
- },
- {
-  "id": "d20261016-car1",
-  "type": "carousel",
-  "media_urls": [
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s1.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s2.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s3.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s4.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s5.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s6.png",
-   "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s7.png"
-  ],
-  "publish_at": "2026-10-16T17:30:00-04:00",
-  "theme": "dark",
-  "caption": "5 mistakes first-time buyers make in Ontario: 1) skipping the mortgage pre-approval, 2) forgetting closing costs, 3) budgeting for the mortgage only, 4) rushing past the home inspection, 5) taking on new debt before closing. Swipe through the 7 slides, save this for later and send it to someone buying their first home.\n\nBuying your first home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage, legal or financial advice. Lender conditions and eligibility rules apply.\n\nKrishna Rander, Realtor® | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#firsttimehomebuyer #ontariorealestate #homebuyingtips #keyswithkrishna #georgetownontario",
-  "approved": true,
-  "status": "pending"
- },
- {
-  "id": "d20261016-s1",
-  "type": "story",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-s1.mp4",
-  "publish_at": "2026-10-16T19:00:00-04:00",
-  "theme": "dark",
-  "caption": "Renting in Georgetown? Do this math first. Put your rent next to the monthly cost of owning: mortgage payment, property tax, home insurance, utilities, maintenance and repairs, and condo fees if there are any.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage, tax or financial advice.\n\nKrishna Rander, Realtor® | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#georgetownontario #haltonhills #firsttimehomebuyer #keyswithkrishna",
-  "approved": true,
-  "status": "pending"
- },
- {
-  "id": "d20261016-r2",
-  "type": "reel",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-r2.mp4",
-  "publish_at": "2026-10-16T20:00:00-04:00",
-  "theme": "dark",
-  "caption": "Buying in Halton Hills? 3 closing costs nobody warns you about: 1) land transfer tax, which Ontario charges on most purchases (first-time buyers may get up to $4,000 back, conditions apply), 2) legal fees and disbursements, 3) title insurance and adjustments, like prepaid property tax. Ask for a closing cost estimate before you make an offer. Save this and send it to someone buying their first home.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nSource: Ontario.ca, Land transfer tax refunds for first-time homebuyers (updated Feb 10, 2026). Eligibility rules apply. General information only, not tax, legal or mortgage advice.\n\nKrishna Rander, Realtor® | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#haltonhills #georgetownontario #closingcosts #firsttimehomebuyer #keyswithkrishna",
-  "approved": true,
-  "status": "pending"
- }
+  {
+    "id": "d20261016-r1",
+    "type": "reel",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-r1.mp4",
+    "publish_at": "2026-10-16T12:00:00-04:00",
+    "theme": "cream",
+    "caption": "No, you don't need 20% down to buy in Ontario. Under current federal rules, the minimum down payment is 5% on the first $500,000 of the price and 10% on the portion from $500,000 to $1.5 million. At $1.5 million or more, the minimum is 20%. With less than 20% down, mortgage default insurance applies. Example: a $750,000 home needs a minimum of $50,000 down.\n\nWant help planning your down payment? Comment INFO to get full details, or call 905-452-4298.\n\nSource: CMHC, Housing Observer, June 30, 2025. Eligibility rules and lender requirements apply. General information only, not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor\u00ae | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#ontariorealestate #firsttimehomebuyer #GTArealestate #keyswithkrishna #georgetownontario",
+    "approved": true,
+    "status": "posted",
+    "ig_media_id": "17875263234635540",
+    "fb_id": "2287357868688477",
+    "fb_status": "posted",
+    "tt_publish_id": "v_inbox_file~v2.7697296449079543829",
+    "tt_status": "SEND_TO_USER_INBOX"
+  },
+  {
+    "id": "d20261016-car1",
+    "type": "carousel",
+    "media_urls": [
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s1.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s2.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s3.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s4.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s5.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s6.png",
+      "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/car1-s7.png"
+    ],
+    "publish_at": "2026-10-16T17:30:00-04:00",
+    "theme": "dark",
+    "caption": "5 mistakes first-time buyers make in Ontario: 1) skipping the mortgage pre-approval, 2) forgetting closing costs, 3) budgeting for the mortgage only, 4) rushing past the home inspection, 5) taking on new debt before closing. Swipe through the 7 slides, save this for later and send it to someone buying their first home.\n\nBuying your first home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage, legal or financial advice. Lender conditions and eligibility rules apply.\n\nKrishna Rander, Realtor\u00ae | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#firsttimehomebuyer #ontariorealestate #homebuyingtips #keyswithkrishna #georgetownontario",
+    "approved": true,
+    "status": "pending"
+  },
+  {
+    "id": "d20261016-s1",
+    "type": "story",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-s1.mp4",
+    "publish_at": "2026-10-16T19:00:00-04:00",
+    "theme": "dark",
+    "caption": "Renting in Georgetown? Do this math first. Put your rent next to the monthly cost of owning: mortgage payment, property tax, home insurance, utilities, maintenance and repairs, and condo fees if there are any.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage, tax or financial advice.\n\nKrishna Rander, Realtor\u00ae | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#georgetownontario #haltonhills #firsttimehomebuyer #keyswithkrishna",
+    "approved": true,
+    "status": "pending"
+  },
+  {
+    "id": "d20261016-r2",
+    "type": "reel",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-16/d5-r2.mp4",
+    "publish_at": "2026-10-16T20:00:00-04:00",
+    "theme": "dark",
+    "caption": "Buying in Halton Hills? 3 closing costs nobody warns you about: 1) land transfer tax, which Ontario charges on most purchases (first-time buyers may get up to $4,000 back, conditions apply), 2) legal fees and disbursements, 3) title insurance and adjustments, like prepaid property tax. Ask for a closing cost estimate before you make an offer. Save this and send it to someone buying their first home.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nSource: Ontario.ca, Land transfer tax refunds for first-time homebuyers (updated Feb 10, 2026). Eligibility rules apply. General information only, not tax, legal or mortgage advice.\n\nKrishna Rander, Realtor\u00ae | CENTURY 21 PROPERTY ZONE REALTY INC., Brokerage\n\n#haltonhills #georgetownontario #closingcosts #firsttimehomebuyer #keyswithkrishna",
+    "approved": true,
+    "status": "pending"
+  }
 ]
