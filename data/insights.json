@@ -165,9 +165,9 @@
     "page_daily_follows_unique": 0,
     "page_daily_unfollows_unique": 0,
     "page_follows": 3,
-    "page_media_view": 1,
+    "page_media_view": 2,
     "page_post_engagements": 0,
-    "page_total_media_view_unique": 1
+    "page_total_media_view_unique": 2
    },
    "2026-10-07": {
     "page_daily_follows_unique": 0,
@@ -232,14 +232,63 @@
     "page_media_view": 24,
     "page_post_engagements": 0,
     "page_total_media_view_unique": 2
+   },
+   "2026-10-15": {
+    "page_daily_follows_unique": 1,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 5,
+    "page_media_view": 278,
+    "page_post_engagements": 0,
+    "page_total_media_view_unique": 176
+   },
+   "2026-10-16": {
+    "page_daily_follows_unique": 0,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 5,
+    "page_media_view": 242,
+    "page_post_engagements": 2,
+    "page_total_media_view_unique": 143
+   },
+   "2026-10-17": {
+    "page_daily_follows_unique": 0,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 5,
+    "page_media_view": 92,
+    "page_post_engagements": 0,
+    "page_total_media_view_unique": 47
+   },
+   "2026-10-18": {
+    "page_daily_follows_unique": 1,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 6,
+    "page_media_view": 104,
+    "page_post_engagements": 0,
+    "page_total_media_view_unique": 86
+   },
+   "2026-10-19": {
+    "page_daily_follows_unique": 0,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 6,
+    "page_media_view": 63,
+    "page_post_engagements": 0,
+    "page_total_media_view_unique": 47
+   },
+   "2026-10-20": {
+    "page_daily_follows_unique": 0,
+    "page_daily_unfollows_unique": 0,
+    "page_follows": 6,
+    "page_media_view": 7,
+    "page_post_engagements": 1,
+    "page_total_media_view_unique": 2
    }
   },
   "followers_by_day": {
-   "2026-10-13": 4
+   "2026-10-13": 4,
+   "2026-10-19": 6
   },
   "page": {
-   "fan_count": 4,
-   "followers_count": 4,
+   "fan_count": 6,
+   "followers_count": 6,
    "name": "Krishna l First Time Buyer & Rental Realtor"
   },
   "posts": {
@@ -271,13 +320,13 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 105,
-     "fb_reels_replay_count": 16,
-     "fb_reels_total_plays": 121,
-     "post_video_avg_time_watched": 2154,
-     "post_video_view_time": 226246
+     "blue_reels_play_count": 111,
+     "fb_reels_replay_count": 17,
+     "fb_reels_total_plays": 128,
+     "post_video_avg_time_watched": 2121,
+     "post_video_view_time": 235449
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1002634082117493/"
    },
    "1005029452247082": {
@@ -314,7 +363,7 @@
      "post_video_avg_time_watched": 792,
      "post_video_view_time": 792
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1005029452247082/"
    },
    "1079898194791911": {
@@ -345,14 +394,32 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 7,
-     "fb_reels_replay_count": 2,
-     "fb_reels_total_plays": 9,
-     "post_video_avg_time_watched": 3830,
-     "post_video_view_time": 26813
+     "blue_reels_play_count": 8,
+     "fb_reels_replay_count": 5,
+     "fb_reels_total_plays": 13,
+     "post_video_avg_time_watched": 4802,
+     "post_video_view_time": 38417
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1079898194791911/"
+   },
+   "1110938768090860": {
+    "caption_start": "5 costs first-time buyers forget, beyond the down payment: land transfer tax (first-time buyers may qualify for a refund; eligibility rules ",
+    "created_time": "2026-10-15T00:01:10+0000",
+    "kind": "reel",
+    "length": 15.6,
+    "metrics": {
+     "blue_reels_play_count": 137,
+     "fb_reels_replay_count": 17,
+     "fb_reels_total_plays": 154,
+     "post_video_avg_time_watched": 1433,
+     "post_video_view_time": 196389
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1110938768090860/",
+    "schedule_id": "d20261014-r3",
+    "scheduled_for": "2026-10-14T20:00:00-04:00",
+    "scheduled_type": "reel"
    },
    "1124472237410333_1030808842967629": {
     "caption_start": "",
@@ -558,7 +625,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/2153001525613014/",
     "reactions": 0,
     "shares": 0,
@@ -578,7 +645,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122115567159311840",
     "reactions": 0,
     "shares": 0,
@@ -600,7 +667,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122116030527311840",
     "reactions": 1,
     "shares": 0,
@@ -620,7 +687,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122116333275311840",
     "reactions": 0,
     "shares": 0,
@@ -640,7 +707,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122116759401311840",
     "reactions": 0,
     "shares": 0,
@@ -660,7 +727,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122116885755311840",
     "reactions": 0,
     "shares": 0,
@@ -680,7 +747,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122117140233311840",
     "reactions": 0,
     "shares": 0,
@@ -700,7 +767,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122117567799311840",
     "reactions": 0,
     "shares": 0,
@@ -720,7 +787,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122117629953311840",
     "reactions": 0,
     "shares": 0,
@@ -733,14 +800,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 1,
-     "post_media_view": 9,
+     "post_media_view": 13,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/1079898194791911/",
     "reactions": 0,
     "shares": 0,
@@ -760,7 +827,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122117996229311840",
     "reactions": 0,
     "shares": 0,
@@ -780,7 +847,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122118139035311840",
     "reactions": 0,
     "shares": 0,
@@ -800,7 +867,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122118143523311840",
     "reactions": 0,
     "shares": 0,
@@ -813,14 +880,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 50,
+     "post_media_view": 53,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/959133423901631/",
     "reactions": 0,
     "shares": 0,
@@ -842,7 +909,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122118407133311840",
     "reactions": 1,
     "shares": 0,
@@ -862,7 +929,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122118505293311840",
     "reactions": 0,
     "shares": 0,
@@ -882,7 +949,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122118698571311840",
     "reactions": 0,
     "shares": 0,
@@ -902,7 +969,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122119341741311840",
     "reactions": 0,
     "shares": 0,
@@ -922,7 +989,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122119658733311840",
     "reactions": 0,
     "shares": 0,
@@ -942,7 +1009,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122120183997311840",
     "reactions": 0,
     "shares": 0,
@@ -962,7 +1029,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122120613603311840",
     "reactions": 0,
     "shares": 0,
@@ -982,7 +1049,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122121110499311840",
     "reactions": 0,
     "shares": 0,
@@ -1002,7 +1069,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122121241617311840",
     "reactions": 0,
     "shares": 0,
@@ -1022,7 +1089,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122121471945311840",
     "reactions": 0,
     "shares": 0,
@@ -1035,14 +1102,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 1,
-     "post_media_view": 11,
+     "post_media_view": 17,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/1135912332569561/",
     "reactions": 0,
     "shares": 0,
@@ -1055,14 +1122,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 8,
+     "post_media_view": 11,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122121990741311840",
     "reactions": 0,
     "shares": 0,
@@ -1082,7 +1149,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122030605311840",
     "reactions": 0,
     "schedule_id": "d20261012-f4",
@@ -1105,7 +1172,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122030665311840",
     "reactions": 0,
     "schedule_id": "b01-p03",
@@ -1128,7 +1195,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122030743311840",
     "reactions": 0,
     "schedule_id": "b01-p04",
@@ -1144,14 +1211,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 5,
+     "post_media_view": 26,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/39192444453734330/",
     "reactions": 0,
     "shares": 0,
@@ -1164,14 +1231,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 12,
+     "post_media_view": 13,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122045785311840",
     "reactions": 0,
     "schedule_id": "d20261012-f5-repost",
@@ -1187,14 +1254,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 2,
+     "post_media_view": 3,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122079757311840",
     "reactions": 0,
     "schedule_id": "d20261013-f1",
@@ -1217,7 +1284,7 @@
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/2948018518890499/",
     "reactions": 0,
     "shares": 0,
@@ -1230,14 +1297,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 8,
+     "post_media_view": 10,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122091589311840",
     "reactions": 0,
     "schedule_id": "d20261013-car1",
@@ -1253,14 +1320,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 0,
+     "post_media_view": 2,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/reel/1444120631246365/",
     "reactions": 0,
     "shares": 0,
@@ -1273,14 +1340,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 0,
+     "post_media_view": 5,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122122110123311840",
     "reactions": 0,
     "schedule_id": "d20261013-f2",
@@ -1288,6 +1355,561 @@
     "scheduled_type": "feed",
     "shares": 0,
     "status_type": "added_photos"
+   },
+   "1124472237410333_122122120977311840": {
+    "caption_start": "Buying pre-construction? Ask these 5 questions first: Who is the builder? What is the closing date? What is the deposit schedule? What is in",
+    "comments": 0,
+    "created_time": "2026-10-14T00:31:50+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 5,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122120977311840",
+    "reactions": 0,
+    "schedule_id": "d20261013-car2",
+    "scheduled_for": "2026-10-13T20:30:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122125075311840": {
+    "caption_start": "Owning a home costs more than the mortgage payment. Plan for property tax, home insurance, utilities and maintenance. Costs vary by home. Ge",
+    "comments": 0,
+    "created_time": "2026-10-14T01:31:25+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 5,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/2785889305185003/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122174761311840": {
+    "caption_start": "A detached home in the GTA averaged $1,292,016 in September 2026. A condo apartment averaged $605,257. TRREB reports 5,040 GTA home sales, d",
+    "comments": 0,
+    "created_time": "2026-10-14T12:30:40+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 11,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122174761311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122181931311840": {
+    "caption_start": "Pre-construction in Caledon. SouthCal by OPUS Homes: back-to-back, rear-lane and traditional towns plus 38' detached homes, from $697,199 pe",
+    "comments": 0,
+    "created_time": "2026-10-14T14:01:35+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 5,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1448659320560091/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122193133311840": {
+    "caption_start": "The mortgage stress test, explained in 7 slides. For uninsured mortgages, OSFI's minimum qualifying rate is the greater of your contract rat",
+    "comments": 0,
+    "created_time": "2026-10-14T16:01:58+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 12,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122193133311840",
+    "reactions": 0,
+    "schedule_id": "d20261014-car1",
+    "scheduled_for": "2026-10-14T12:00:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122202799311840": {
+    "caption_start": "Fewer homes sold, and fewer came to market. TRREB reports 5,040 GTA home sales in September 2026, down 9.0% from September 2025, and 16,500 ",
+    "comments": 0,
+    "created_time": "2026-10-14T18:31:33+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 3,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/4707382316183207/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122211439311840": {
+    "caption_start": "Saving for your first home? Two federal tools to know about. The First Home Savings Account (FHSA) has $8,000 of annual participation room, ",
+    "comments": 0,
+    "created_time": "2026-10-14T21:30:42+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 8,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122211439311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122219335311840": {
+    "caption_start": "5 costs first-time buyers forget, beyond the down payment: land transfer tax (first-time buyers may qualify for a refund; eligibility rules ",
+    "comments": 0,
+    "created_time": "2026-10-15T00:01:40+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 154,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1110938768090860/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122225443311840": {
+    "caption_start": "Your offer was accepted. Now what? The usual steps: your deposit (as set out in your agreement), any conditions in the agreement, your lawye",
+    "comments": 0,
+    "created_time": "2026-10-15T01:31:26+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 72,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1826049812174492/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122279917311840": {
+    "caption_start": "The average GTA home sold for $1,006,409 in September 2026, down 5.1% from a year ago. The median selling price was $860,000, and TRREB's ML",
+    "comments": 0,
+    "created_time": "2026-10-15T12:30:41+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 16,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122279917311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122285557311840": {
+    "caption_start": "Are GTA homes selling for asking? In September 2026, the average sale-to-list price ratio was 98%, per TRREB. The average home took 34 days ",
+    "comments": 0,
+    "created_time": "2026-10-15T14:01:41+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 29,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1145759177783458/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122293789311840": {
+    "caption_start": "Buying a new build? First-time buyers may get the GST back. The First-Time Home Buyers' GST/HST Rebate can be worth up to $50,000: a full re",
+    "comments": 0,
+    "created_time": "2026-10-15T16:01:51+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 9,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122293789311840",
+    "reactions": 0,
+    "schedule_id": "d20261015-car1",
+    "scheduled_for": "2026-10-15T12:00:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122303701311840": {
+    "caption_start": "First home? Your insured mortgage may stretch to 30 years. Since December 15, 2024, first-time buyers and buyers of new builds can choose a ",
+    "comments": 0,
+    "created_time": "2026-10-15T18:31:48+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 44,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1547219283839179/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122314687311840": {
+    "caption_start": "Townhouse or semi? In September 2026 a semi-detached home in the GTA averaged $1,015,202 (459 sales, down 8.2%) and a townhouse averaged $82",
+    "comments": 1,
+    "created_time": "2026-10-15T21:30:40+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 1,
+     "post_media_view": 17,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122314687311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122316583311840": {
+    "caption_start": "Some of the best parts of home are the simplest. \n\nA quiet corner, a good book, a warm drink and a little time to slow down.\n\nWhat\u2019s your fa",
+    "comments": 0,
+    "created_time": "2026-10-15T22:01:20+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 14,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122316583311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122321983311840": {
+    "caption_start": "416 or 905? In September 2026 the average detached home sold for $1,562,966 in Toronto (416) and $1,193,432 in the rest of the GTA (905). A ",
+    "comments": 0,
+    "created_time": "2026-10-16T00:01:39+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 92,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1633098304921634/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122328073311840": {
+    "caption_start": "Closing day is coming. A final-week checklist many buyers use: 1) arrange home insurance so it is in place for closing day, 2) set up utilit",
+    "comments": 0,
+    "created_time": "2026-10-16T01:31:39+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 1,
+     "post_media_view": 10,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1621295626129313/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122393887311840": {
+    "caption_start": "No, you don't need 20% down to buy in Ontario. Under current federal rules, the minimum down payment is 5% on the first $500,000 of the pric",
+    "comments": 0,
+    "created_time": "2026-10-16T16:01:35+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 24,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/2287357868688477/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122413753311840": {
+    "caption_start": "5 mistakes first-time buyers make in Ontario: 1) skipping the mortgage pre-approval, 2) forgetting closing costs, 3) budgeting for the mortg",
+    "comments": 0,
+    "created_time": "2026-10-16T21:32:07+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 11,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122413753311840",
+    "reactions": 0,
+    "schedule_id": "d20261016-car1",
+    "scheduled_for": "2026-10-16T17:30:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122425999311840": {
+    "caption_start": "Buying in Halton Hills? 3 closing costs nobody warns you about: 1) land transfer tax, which Ontario charges on most purchases (first-time bu",
+    "comments": 0,
+    "created_time": "2026-10-17T00:01:45+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 28,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/2154890355421058/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122493427311840": {
+    "caption_start": "Buying in Milton? Check these 4 things besides price: 1) your real commute, tested at rush hour, 2) ongoing costs like property tax, insuran",
+    "comments": 0,
+    "created_time": "2026-10-17T16:01:32+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 35,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1429931595394304/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122510839311840": {
+    "caption_start": "\ud83c\udfe1 New Build. Big Dreams. Bigger Decisions! \ud83d\udd11\u2728\n\n\ud83d\udea8 Before you sign, ask these 3 questions that could save you THOUSANDS! \ud83d\udcb0\n\nDon\u2019t let your dre",
+    "comments": 0,
+    "created_time": "2026-10-17T20:49:35+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 39,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1742511050138883/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122513473311840": {
+    "caption_start": "3 questions to ask before your mortgage pre-approval: 1) How long is my rate held, and what happens if rates change before I buy? 2) What ar",
+    "comments": 0,
+    "created_time": "2026-10-17T21:30:38+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 1,
+     "post_media_view": 2,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122513473311840",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122521837311840": {
+    "caption_start": "A buyer asked me: do I need a lawyer? Yes: a real estate lawyer handles your closing. They check title and register the transfer. Ask a lawy",
+    "comments": 0,
+    "created_time": "2026-10-18T00:01:40+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 43,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1385859756660453/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122580025311840": {
+    "caption_start": "Before you buy a rural Caledon home, read this. 1) Ask for a recent water test, and test the well yourself. 2) Ask how old the well and sept",
+    "comments": 0,
+    "created_time": "2026-10-18T16:01:47+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 21,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/1862656158074326/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
+   },
+   "1124472237410333_122122602357311840": {
+    "caption_start": "First home in Waterloo Region? 2 programs worth knowing. 1) Ontario land transfer tax refund: eligible first-time buyers may get back up to ",
+    "comments": 0,
+    "created_time": "2026-10-18T21:31:50+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 4,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/122122117875311840/posts/122122602357311840",
+    "reactions": 0,
+    "schedule_id": "d20261018-car1",
+    "scheduled_for": "2026-10-18T17:30:00-04:00",
+    "scheduled_type": "carousel",
+    "shares": 0,
+    "status_type": "added_photos"
+   },
+   "1124472237410333_122122611939311840": {
+    "caption_start": "Home inspections: 3 things nobody tells you. 1) It is usually a condition of your offer, with a deadline. 2) Attend if you can; you learn mo",
+    "comments": 0,
+    "created_time": "2026-10-19T00:01:39+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 14,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.facebook.com/reel/2279181146262805/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
    },
    "1135912332569561": {
     "caption_start": "Canada housing check-in. CREA reports August 2026 home sales down 0.7% from July, the MLS Home Price Index down 3.0% from a year earlier (th",
@@ -1317,14 +1939,32 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 6,
-     "fb_reels_replay_count": 5,
-     "fb_reels_total_plays": 11,
-     "post_video_avg_time_watched": 6188,
-     "post_video_view_time": 37130
+     "blue_reels_play_count": 9,
+     "fb_reels_replay_count": 8,
+     "fb_reels_total_plays": 17,
+     "post_video_avg_time_watched": 6958,
+     "post_video_view_time": 62625
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1135912332569561/"
+   },
+   "1145759177783458": {
+    "caption_start": "Are GTA homes selling for asking? In September 2026, the average sale-to-list price ratio was 98%, per TRREB. The average home took 34 days ",
+    "created_time": "2026-10-15T14:01:10+0000",
+    "kind": "reel",
+    "length": 16.5,
+    "metrics": {
+     "blue_reels_play_count": 25,
+     "fb_reels_replay_count": 4,
+     "fb_reels_total_plays": 29,
+     "post_video_avg_time_watched": 2615,
+     "post_video_view_time": 65381
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1145759177783458/",
+    "schedule_id": "d20261015-r1",
+    "scheduled_for": "2026-10-15T10:00:00-04:00",
+    "scheduled_type": "reel"
    },
    "1371584428371732": {
     "caption_start": "\ud83c\udfe1 Townhomes in the GTA aren\u2019t all the same\u2014and the ownership type can make a big difference.\n\nFrom freehold and POTL to condo, stacked, back",
@@ -1360,8 +2000,26 @@
      "post_video_avg_time_watched": 3549,
      "post_video_view_time": 305269
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1371584428371732/"
+   },
+   "1385859756660453": {
+    "caption_start": "A buyer asked me: do I need a lawyer? Yes: a real estate lawyer handles your closing. They check title and register the transfer. Ask a lawy",
+    "created_time": "2026-10-18T00:01:11+0000",
+    "kind": "reel",
+    "length": 24.57,
+    "metrics": {
+     "blue_reels_play_count": 40,
+     "fb_reels_replay_count": 3,
+     "fb_reels_total_plays": 43,
+     "post_video_avg_time_watched": 1997,
+     "post_video_view_time": 79904
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1385859756660453/",
+    "schedule_id": "d20261017-r2",
+    "scheduled_for": "2026-10-17T20:00:00-04:00",
+    "scheduled_type": "reel"
    },
    "1424115492872746": {
     "caption_start": "Comment \u201cAI REPORT\u201d to get your Free House report!!\n \ud83e\udd2f This AI tool is making some REALTORS rethink how they work.\n\nI spent time  @Claude AI",
@@ -1391,14 +2049,32 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 5,
+     "blue_reels_play_count": 6,
      "fb_reels_replay_count": 4,
-     "fb_reels_total_plays": 9,
-     "post_video_avg_time_watched": 645767,
-     "post_video_view_time": 3228839
+     "fb_reels_total_plays": 10,
+     "post_video_avg_time_watched": 538324,
+     "post_video_view_time": 3229946
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1424115492872746/"
+   },
+   "1429931595394304": {
+    "caption_start": "Buying in Milton? Check these 4 things besides price: 1) your real commute, tested at rush hour, 2) ongoing costs like property tax, insuran",
+    "created_time": "2026-10-17T16:01:03+0000",
+    "kind": "reel",
+    "length": 22.27,
+    "metrics": {
+     "blue_reels_play_count": 33,
+     "fb_reels_replay_count": 2,
+     "fb_reels_total_plays": 35,
+     "post_video_avg_time_watched": 1882,
+     "post_video_view_time": 62123
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1429931595394304/",
+    "schedule_id": "d20261017-r1",
+    "scheduled_for": "2026-10-17T12:00:00-04:00",
+    "scheduled_type": "reel"
    },
    "1444120631246365": {
     "caption_start": "Pre-construction in Mississauga. Derry Lanes Towns by Ballymore Homes: towns from $898,339 (HST included) per the builder price list dated S",
@@ -1428,16 +2104,34 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 0,
+     "blue_reels_play_count": 2,
      "fb_reels_replay_count": 0,
-     "fb_reels_total_plays": 0,
-     "post_video_avg_time_watched": 0,
-     "post_video_view_time": 0
+     "fb_reels_total_plays": 2,
+     "post_video_avg_time_watched": 3142,
+     "post_video_view_time": 6285
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1444120631246365/",
     "schedule_id": "d20261013-r2",
     "scheduled_for": "2026-10-13T15:00:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "1448659320560091": {
+    "caption_start": "Pre-construction in Caledon. SouthCal by OPUS Homes: back-to-back, rear-lane and traditional towns plus 38' detached homes, from $697,199 pe",
+    "created_time": "2026-10-14T14:01:03+0000",
+    "kind": "reel",
+    "length": 15.5,
+    "metrics": {
+     "blue_reels_play_count": 4,
+     "fb_reels_replay_count": 1,
+     "fb_reels_total_plays": 5,
+     "post_video_avg_time_watched": 5134,
+     "post_video_view_time": 20536
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1448659320560091/",
+    "schedule_id": "d20261014-r1",
+    "scheduled_for": "2026-10-14T10:00:00-04:00",
     "scheduled_type": "reel"
    },
    "1531117398810841": {
@@ -1474,8 +2168,113 @@
      "post_video_avg_time_watched": 2220,
      "post_video_view_time": 17767
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/1531117398810841/"
+   },
+   "1547219283839179": {
+    "caption_start": "First home? Your insured mortgage may stretch to 30 years. Since December 15, 2024, first-time buyers and buyers of new builds can choose a ",
+    "created_time": "2026-10-15T18:31:20+0000",
+    "kind": "reel",
+    "length": 16.5,
+    "metrics": {
+     "blue_reels_play_count": 40,
+     "fb_reels_replay_count": 4,
+     "fb_reels_total_plays": 44,
+     "post_video_avg_time_watched": 2001,
+     "post_video_view_time": 80077
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1547219283839179/",
+    "schedule_id": "d20261015-r2",
+    "scheduled_for": "2026-10-15T14:30:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "1621295626129313": {
+    "caption_start": "Closing day is coming. A final-week checklist many buyers use: 1) arrange home insurance so it is in place for closing day, 2) set up utilit",
+    "created_time": "2026-10-16T01:30:55+0000",
+    "kind": "reel",
+    "length": 16.5,
+    "metrics": {
+     "blue_reels_play_count": 6,
+     "fb_reels_replay_count": 4,
+     "fb_reels_total_plays": 10,
+     "post_video_avg_time_watched": 8462,
+     "post_video_view_time": 50775
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1621295626129313/",
+    "schedule_id": "d20261015-r4",
+    "scheduled_for": "2026-10-15T21:30:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "1633098304921634": {
+    "caption_start": "416 or 905? In September 2026 the average detached home sold for $1,562,966 in Toronto (416) and $1,193,432 in the rest of the GTA (905). A ",
+    "created_time": "2026-10-16T00:01:07+0000",
+    "kind": "reel",
+    "length": 16.5,
+    "metrics": {
+     "blue_reels_play_count": 85,
+     "fb_reels_replay_count": 7,
+     "fb_reels_total_plays": 92,
+     "post_video_avg_time_watched": 2511,
+     "post_video_view_time": 213440
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1633098304921634/",
+    "schedule_id": "d20261015-r3",
+    "scheduled_for": "2026-10-15T20:00:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "1742511050138883": {
+    "caption_start": "\ud83c\udfe1 New Build. Big Dreams. Bigger Decisions! \ud83d\udd11\u2728\n\n\ud83d\udea8 Before you sign, ask these 3 questions that could save you THOUSANDS! \ud83d\udcb0\n\nDon\u2019t let your dre",
+    "created_time": "2026-10-17T20:49:24+0000",
+    "kind": "reel",
+    "length": 32.575,
+    "metrics": {
+     "blue_reels_play_count": 37,
+     "fb_reels_replay_count": 2,
+     "fb_reels_total_plays": 39,
+     "post_video_avg_time_watched": 1920,
+     "post_video_view_time": 69154
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1742511050138883/"
+   },
+   "1826049812174492": {
+    "caption_start": "Your offer was accepted. Now what? The usual steps: your deposit (as set out in your agreement), any conditions in the agreement, your lawye",
+    "created_time": "2026-10-15T01:30:58+0000",
+    "kind": "reel",
+    "length": 15.5,
+    "metrics": {
+     "blue_reels_play_count": 58,
+     "fb_reels_replay_count": 14,
+     "fb_reels_total_plays": 72,
+     "post_video_avg_time_watched": 1891,
+     "post_video_view_time": 109690
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1826049812174492/",
+    "schedule_id": "d20261014-r4",
+    "scheduled_for": "2026-10-14T21:30:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "1862656158074326": {
+    "caption_start": "Before you buy a rural Caledon home, read this. 1) Ask for a recent water test, and test the well yourself. 2) Ask how old the well and sept",
+    "created_time": "2026-10-18T16:01:11+0000",
+    "kind": "reel",
+    "length": 25.57,
+    "metrics": {
+     "blue_reels_play_count": 17,
+     "fb_reels_replay_count": 4,
+     "fb_reels_total_plays": 21,
+     "post_video_avg_time_watched": 1865,
+     "post_video_view_time": 31721
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/1862656158074326/",
+    "schedule_id": "d20261018-r1",
+    "scheduled_for": "2026-10-18T12:00:00-04:00",
+    "scheduled_type": "reel"
    },
    "2153001525613014": {
     "caption_start": "\ud83c\udfe1 GTA housing isn\u2019t one market\u2014it\u2019s six different stories.\n\nPrices are stabilizing, listings are tightening, and condos are showing signs of",
@@ -1511,8 +2310,80 @@
      "post_video_avg_time_watched": 4713,
      "post_video_view_time": 18852
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/2153001525613014/"
+   },
+   "2154890355421058": {
+    "caption_start": "Buying in Halton Hills? 3 closing costs nobody warns you about: 1) land transfer tax, which Ontario charges on most purchases (first-time bu",
+    "created_time": "2026-10-17T00:01:06+0000",
+    "kind": "reel",
+    "length": 29,
+    "metrics": {
+     "blue_reels_play_count": 27,
+     "fb_reels_replay_count": 1,
+     "fb_reels_total_plays": 28,
+     "post_video_avg_time_watched": 2346,
+     "post_video_view_time": 63345
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/2154890355421058/",
+    "schedule_id": "d20261016-r2",
+    "scheduled_for": "2026-10-16T20:00:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "2279181146262805": {
+    "caption_start": "Home inspections: 3 things nobody tells you. 1) It is usually a condition of your offer, with a deadline. 2) Attend if you can; you learn mo",
+    "created_time": "2026-10-19T00:01:11+0000",
+    "kind": "reel",
+    "length": 21.27,
+    "metrics": {
+     "blue_reels_play_count": 12,
+     "fb_reels_replay_count": 2,
+     "fb_reels_total_plays": 14,
+     "post_video_avg_time_watched": 4183,
+     "post_video_view_time": 50198
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/2279181146262805/",
+    "schedule_id": "d20261018-r2",
+    "scheduled_for": "2026-10-18T20:00:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "2287357868688477": {
+    "caption_start": "No, you don't need 20% down to buy in Ontario. Under current federal rules, the minimum down payment is 5% on the first $500,000 of the pric",
+    "created_time": "2026-10-16T16:01:03+0000",
+    "kind": "reel",
+    "length": 16.97,
+    "metrics": {
+     "blue_reels_play_count": 17,
+     "fb_reels_replay_count": 7,
+     "fb_reels_total_plays": 24,
+     "post_video_avg_time_watched": 6435,
+     "post_video_view_time": 109407
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/2287357868688477/",
+    "schedule_id": "d20261016-r1",
+    "scheduled_for": "2026-10-16T12:00:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "2785889305185003": {
+    "caption_start": "Owning a home costs more than the mortgage payment. Plan for property tax, home insurance, utilities and maintenance. Costs vary by home. Ge",
+    "created_time": "2026-10-14T01:30:55+0000",
+    "kind": "reel",
+    "length": 11,
+    "metrics": {
+     "blue_reels_play_count": 3,
+     "fb_reels_replay_count": 2,
+     "fb_reels_total_plays": 5,
+     "post_video_avg_time_watched": 2964,
+     "post_video_view_time": 8894
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/2785889305185003/",
+    "schedule_id": "d20261013-r3",
+    "scheduled_for": "2026-10-13T21:30:00-04:00",
+    "scheduled_type": "reel"
    },
    "2948018518890499": {
     "caption_start": "Bank of Canada check-in. The policy interest rate is 2.25%, held steady at the September 2, 2026 announcement. The next scheduled announceme",
@@ -1548,7 +2419,7 @@
      "post_video_avg_time_watched": 4975,
      "post_video_view_time": 9950
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/2948018518890499/",
     "schedule_id": "d20261013-r1",
     "scheduled_for": "2026-10-13T10:00:00-04:00",
@@ -1582,16 +2453,34 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 3,
-     "fb_reels_replay_count": 2,
-     "fb_reels_total_plays": 5,
-     "post_video_avg_time_watched": 13441,
-     "post_video_view_time": 40325
+     "blue_reels_play_count": 21,
+     "fb_reels_replay_count": 5,
+     "fb_reels_total_plays": 26,
+     "post_video_avg_time_watched": 4492,
+     "post_video_view_time": 94343
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/39192444453734330/",
     "schedule_id": "d20261012-r3",
     "scheduled_for": "2026-10-12T21:30:00-04:00",
+    "scheduled_type": "reel"
+   },
+   "4707382316183207": {
+    "caption_start": "Fewer homes sold, and fewer came to market. TRREB reports 5,040 GTA home sales in September 2026, down 9.0% from September 2025, and 16,500 ",
+    "created_time": "2026-10-14T18:31:01+0000",
+    "kind": "reel",
+    "length": 15.5,
+    "metrics": {
+     "blue_reels_play_count": 3,
+     "fb_reels_replay_count": 0,
+     "fb_reels_total_plays": 3,
+     "post_video_avg_time_watched": 2224,
+     "post_video_view_time": 6672
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "/reel/4707382316183207/",
+    "schedule_id": "d20261014-r2",
+    "scheduled_for": "2026-10-14T14:30:00-04:00",
     "scheduled_type": "reel"
    },
    "891516903602177": {
@@ -1622,13 +2511,13 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 53,
+     "blue_reels_play_count": 54,
      "fb_reels_replay_count": 4,
-     "fb_reels_total_plays": 57,
-     "post_video_avg_time_watched": 1390,
-     "post_video_view_time": 73683
+     "fb_reels_total_plays": 58,
+     "post_video_avg_time_watched": 1422,
+     "post_video_view_time": 76802
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/891516903602177/"
    },
    "959133423901631": {
@@ -1659,31 +2548,31 @@
      }
     },
     "metrics": {
-     "blue_reels_play_count": 31,
-     "fb_reels_replay_count": 19,
-     "fb_reels_total_plays": 50,
-     "post_video_avg_time_watched": 3432,
-     "post_video_view_time": 106396
+     "blue_reels_play_count": 33,
+     "fb_reels_replay_count": 20,
+     "fb_reels_total_plays": 53,
+     "post_video_avg_time_watched": 3332,
+     "post_video_view_time": 109967
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "/reel/959133423901631/"
    }
   }
  },
  "instagram": {
   "account": {
-   "followers_count": 57,
-   "media_count": 51,
+   "followers_count": 63,
+   "media_count": 78,
    "publishing_quota": {
     "config": {
      "quota_duration": 86400,
      "quota_total": 100
     },
-    "quota_usage": 12
+    "quota_usage": 4
    },
    "snapshot": {
-    "2026-10-13": {
-     "followers_count": 57
+    "2026-10-19": {
+     "followers_count": 63
     }
    },
    "username": "keyswithkrishna_realtor"
@@ -1791,13 +2680,68 @@
     "website_clicks": 0
    },
    "2026-10-13": {
-    "reach": 21
+    "reach": 29
+   },
+   "2026-10-14": {
+    "reach": 64
+   },
+   "2026-10-15": {
+    "reach": 19
+   },
+   "2026-10-16": {
+    "reach": 27
+   },
+   "2026-10-17": {
+    "reach": 40
+   },
+   "2026-10-18": {
+    "accounts_engaged": 2,
+    "comments": 1,
+    "likes": 4,
+    "profile_views": 6,
+    "reach": 78,
+    "reach_by_follow_type": {
+     "FOLLOWER": 17,
+     "NON_FOLLOWER": 61
+    },
+    "replies": 0,
+    "saves": 0,
+    "shares": 0,
+    "total_interactions": 5,
+    "views": 185,
+    "website_clicks": 0
+   },
+   "2026-10-19": {
+    "reach": 7
    }
   },
   "followers_by_day": {
-   "2026-10-13": 57
+   "2026-10-13": 57,
+   "2026-10-19": 63
   },
   "posts": {
+   "17866797786679478": {
+    "caption_start": "5 mistakes first-time buyers make in Ontario: 1) skipping the mortgage pre-approval, 2) forgetting closing costs, 3) budgeting for the mortg",
+    "comments_count": 0,
+    "kind": "carousel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 6,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 10
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DekgVnkgQs3/",
+    "schedule_id": "d20261016-car1",
+    "scheduled_for": "2026-10-16T17:30:00-04:00",
+    "timestamp": "2026-10-16T21:31:54+0000"
+   },
    "17871497463636935": {
     "caption_start": "Every neighbourhood has that one coffee shop you keep going back to. \r\n\r\n\u2615 What\u2019s your go-to local spot? Tag them below!",
     "comments_count": 0,
@@ -1814,7 +2758,7 @@
      "total_interactions": 0,
      "views": 12
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dd9ZkaoDEAS/",
     "timestamp": "2026-10-01T17:06:29+0000"
    },
@@ -1834,9 +2778,31 @@
      "total_interactions": 0,
      "views": 16
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dc1UEfAlFU8/",
     "timestamp": "2026-09-03T17:10:02+0000"
+   },
+   "17875263234635540": {
+    "caption_start": "No, you don't need 20% down to buy in Ontario. Under current federal rules, the minimum down payment is 5% on the first $500,000 of the pric",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 2979,
+     "ig_reels_video_view_total_time": 23837,
+     "likes": 1,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 8
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/Dej6cR-kugr/",
+    "schedule_id": "d20261016-r1",
+    "scheduled_for": "2026-10-16T12:00:00-04:00",
+    "timestamp": "2026-10-16T16:00:59+0000"
    },
    "17875812882650969": {
     "caption_start": "Happy Thanksgiving! \r\n\r\nWishing you a day filled with good food, great company and plenty to be thankful for.",
@@ -1848,13 +2814,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 5,
+     "reach": 8,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 7
+     "views": 13
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeZomu9jN03/",
     "timestamp": "2026-10-12T16:17:40+0000"
    },
@@ -1874,7 +2840,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DcbxDUplC18/",
     "timestamp": "2026-08-24T19:05:27+0000"
    },
@@ -1894,6 +2860,28 @@
     "permalink": "https://www.instagram.com/reel/DYTPLGVMNWT/",
     "timestamp": "2026-05-14T01:26:47+0000"
    },
+   "17911993269513898": {
+    "caption_start": "416 or 905? In September 2026 the average detached home sold for $1,562,966 in Toronto (416) and $1,193,432 in the rest of the GTA (905). A ",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 2973,
+     "ig_reels_video_view_total_time": 35681,
+     "likes": 0,
+     "reach": 11,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 13
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DeiMlPAEpdT/",
+    "schedule_id": "d20261015-r3",
+    "scheduled_for": "2026-10-15T20:00:00-04:00",
+    "timestamp": "2026-10-16T00:01:02+0000"
+   },
    "17912187717545867": {
     "caption_start": "4 programs every first-time buyer in Ontario should know: the FHSA ($8,000 annual limit, $40,000 lifetime limit), the Home Buyers' Plan (up ",
     "comments_count": 0,
@@ -1904,17 +2892,39 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 3,
+     "reach": 5,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 6
+     "views": 13
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DecMKTJG5h3/",
     "schedule_id": "d20261013-car1",
     "scheduled_for": "2026-10-13T12:00:00-04:00",
     "timestamp": "2026-10-13T16:01:34+0000"
+   },
+   "17921369457444907": {
+    "caption_start": "First home in Waterloo Region? 2 programs worth knowing. 1) Ontario land transfer tax refund: eligible first-time buyers may get back up to ",
+    "comments_count": 0,
+    "kind": "carousel",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 1,
+     "profile_visits": 0,
+     "reach": 4,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 15
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/Depp5ZLGgzk/",
+    "schedule_id": "d20261018-car1",
+    "scheduled_for": "2026-10-18T17:30:00-04:00",
+    "timestamp": "2026-10-18T21:31:38+0000"
    },
    "17935495038462127": {
     "caption_start": "Fewer buyers, softer prices. TRREB reports the average selling price across the GTA was $1,006,409 in September 2026, down 5.1% from Septemb",
@@ -1925,14 +2935,14 @@
      "comments": 0,
      "follows": 0,
      "likes": 1,
-     "profile_visits": 1,
-     "reach": 10,
+     "profile_visits": 2,
+     "reach": 15,
      "saved": 0,
      "shares": 0,
      "total_interactions": 1,
-     "views": 18
+     "views": 28
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Deb0AwunKWO/",
     "schedule_id": "d20261013-f1",
     "scheduled_for": "2026-10-13T08:30:00-04:00",
@@ -1942,19 +2952,19 @@
     "caption_start": "Pre-construction in Mississauga. Derry Lanes Towns by Ballymore Homes: towns from $898,339 (HST included) per the builder price list dated S",
     "comments_count": 0,
     "kind": "reel",
-    "like_count": 0,
+    "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 15865,
-     "ig_reels_video_view_total_time": 63461,
-     "likes": 0,
-     "reach": 2,
+     "ig_reels_avg_watch_time": 8318,
+     "ig_reels_video_view_total_time": 99816,
+     "likes": 1,
+     "reach": 9,
      "saved": 0,
      "shares": 0,
-     "total_interactions": 0,
-     "views": 2
+     "total_interactions": 1,
+     "views": 10
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/Decgqlvij1t/",
     "schedule_id": "d20261013-r2",
     "scheduled_for": "2026-10-13T15:00:00-04:00",
@@ -1976,27 +2986,49 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DcjYzGBlJWo/",
     "timestamp": "2026-08-27T18:05:38+0000"
+   },
+   "17954263821267431": {
+    "caption_start": "3 questions to ask before your mortgage pre-approval: 1) How long is my rate held, and what happens if rates change before I buy? 2) What ar",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 8,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 18
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DenE_ObAe2X/",
+    "schedule_id": "d20261017-f1",
+    "scheduled_for": "2026-10-17T17:30:00-04:00",
+    "timestamp": "2026-10-17T21:30:35+0000"
    },
    "17961659472246795": {
     "caption_start": "Buying a home in Ontario, start to finish. Save this so you know what comes next. DM me \"STEPS\" or call 905-452-4298.\n\nWhatsApp me: https://",
     "comments_count": 0,
     "kind": "feed",
-    "like_count": 2,
+    "like_count": 3,
     "metrics": {
      "comments": 0,
      "follows": 0,
-     "likes": 2,
+     "likes": 3,
      "profile_visits": 0,
-     "reach": 12,
+     "reach": 14,
      "saved": 0,
      "shares": 0,
-     "total_interactions": 2,
-     "views": 26
+     "total_interactions": 3,
+     "views": 34
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dea4fQtIArk/",
     "schedule_id": "d20261012-f5-repost",
     "scheduled_for": "2026-10-12T23:50:00-04:00",
@@ -2039,9 +3071,31 @@
      "total_interactions": 0,
      "views": 10
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdLAeTop9H3/",
     "timestamp": "2026-09-12T03:22:03+0000"
+   },
+   "17971667775178487": {
+    "caption_start": "Buying in Milton? Check these 4 things besides price: 1) your real commute, tested at rush hour, 2) ongoing costs like property tax, insuran",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 3459,
+     "ig_reels_video_view_total_time": 44979,
+     "likes": 0,
+     "reach": 10,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 13
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DemfO0ViaCR/",
+    "schedule_id": "d20261017-r1",
+    "scheduled_for": "2026-10-17T12:00:00-04:00",
+    "timestamp": "2026-10-17T16:00:57+0000"
    },
    "17972469687132940": {
     "caption_start": "Wake up to skyline views from your own private balcony. This bright 1-bed, 1-bath at Square One puts you steps from Celebration Square, with",
@@ -2059,7 +3113,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdK6LENp6o2/",
     "timestamp": "2026-09-12T02:27:50+0000"
    },
@@ -2079,11 +3133,33 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeX8zrCGgt2/",
     "schedule_id": "b01-p04",
     "scheduled_for": "2026-10-11T20:30:00-04:00",
     "timestamp": "2026-10-12T00:30:34+0000"
+   },
+   "17980117908191862": {
+    "caption_start": "A detached home in the GTA averaged $1,292,016 in September 2026. A condo apartment averaged $605,257. TRREB reports 5,040 GTA home sales, d",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 5,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 11
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DeeYzRVm0Ks/",
+    "schedule_id": "d20261014-f1",
+    "scheduled_for": "2026-10-14T08:30:00-04:00",
+    "timestamp": "2026-10-14T12:30:37+0000"
    },
    "17987913264115277": {
     "caption_start": "Looking to level up your patio game? Try these patio-friendly plants that bring colour, greenery and personality to your outdoor space:\r\n\r\nL",
@@ -2101,7 +3177,7 @@
      "total_interactions": 3,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeHz0j8DEFb/",
     "timestamp": "2026-10-05T18:08:31+0000"
    },
@@ -2112,20 +3188,42 @@
     "like_count": 0,
     "metrics": {
      "comments": 2,
-     "follows": 0,
+     "follows": 1,
      "likes": 0,
-     "profile_visits": 0,
-     "reach": 3,
+     "profile_visits": 1,
+     "reach": 13,
      "saved": 0,
      "shares": 0,
      "total_interactions": 2,
-     "views": 7
+     "views": 22
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Decxz5ngZ_j/",
     "schedule_id": "d20261013-f2",
     "scheduled_for": "2026-10-13T17:30:00-04:00",
     "timestamp": "2026-10-13T21:30:41+0000"
+   },
+   "17997533625031727": {
+    "caption_start": "Closing day is coming. A final-week checklist many buyers use: 1) arrange home insurance so it is in place for closing day, 2) set up utilit",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 3161,
+     "ig_reels_video_view_total_time": 34777,
+     "likes": 1,
+     "reach": 10,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 12
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DeiW2-_FcFd/",
+    "schedule_id": "d20261015-r4",
+    "scheduled_for": "2026-10-15T21:30:00-04:00",
+    "timestamp": "2026-10-16T01:30:50+0000"
    },
    "18012769922762710": {
     "caption_start": "What is happening with new homes in the GTA? BILD reports 907 new home sales in August 2026: up significantly from the record low of August ",
@@ -2134,16 +3232,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 10708,
-     "ig_reels_video_view_total_time": 128506,
+     "ig_reels_avg_watch_time": 9595,
+     "ig_reels_video_view_total_time": 134343,
      "likes": 0,
-     "reach": 8,
+     "reach": 10,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 18
+     "views": 21
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DeaoeeOEQ86/",
     "schedule_id": "d20261012-r3",
     "scheduled_for": "2026-10-12T21:30:00-04:00",
@@ -2165,7 +3263,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeXMD51mr3e/",
     "schedule_id": "b01-p02",
     "scheduled_for": "2026-10-11T13:10:00-04:00",
@@ -2187,7 +3285,7 @@
      "total_interactions": 2,
      "views": 14
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DePbOgVDMBb/",
     "timestamp": "2026-10-08T17:10:47+0000"
    },
@@ -2212,6 +3310,94 @@
     "scheduled_for": "2026-10-13T19:00:00-04:00",
     "timestamp": "2026-10-13T23:01:00+0000"
    },
+   "18020823497944248": {
+    "caption_start": "Pre-construction in Caledon. SouthCal by OPUS Homes: back-to-back, rear-lane and traditional towns plus 38' detached homes, from $697,199 pe",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 2,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 5346,
+     "ig_reels_video_view_total_time": 58808,
+     "likes": 2,
+     "reach": 10,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 2,
+     "views": 10
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DeejHKsiCGH/",
+    "schedule_id": "d20261014-r1",
+    "scheduled_for": "2026-10-14T10:00:00-04:00",
+    "timestamp": "2026-10-14T14:00:57+0000"
+   },
+   "18021653696924134": {
+    "caption_start": "The mortgage stress test, explained in 7 slides. For uninsured mortgages, OSFI's minimum qualifying rate is the greater of your contract rat",
+    "comments_count": 0,
+    "kind": "carousel",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 1,
+     "profile_visits": 0,
+     "reach": 4,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 6
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/Deew92EHBxd/",
+    "schedule_id": "d20261014-car1",
+    "scheduled_for": "2026-10-14T12:00:00-04:00",
+    "timestamp": "2026-10-14T16:01:40+0000"
+   },
+   "18034856030908703": {
+    "caption_start": "Buying a new build? First-time buyers may get the GST back. The First-Time Home Buyers' GST/HST Rebate can be worth up to $50,000: a full re",
+    "comments_count": 0,
+    "kind": "carousel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 5,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 16
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DehVvqBFPb4/",
+    "schedule_id": "d20261015-car1",
+    "scheduled_for": "2026-10-15T12:00:00-04:00",
+    "timestamp": "2026-10-15T16:01:37+0000"
+   },
+   "18035044487848959": {
+    "caption_start": "Saving for your first home? Two federal tools to know about. The First Home Savings Account (FHSA) has $8,000 of annual participation room, ",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 1,
+     "profile_visits": 0,
+     "reach": 8,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 8
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DefWmctD00J/",
+    "schedule_id": "d20261014-f2",
+    "scheduled_for": "2026-10-14T17:30:00-04:00",
+    "timestamp": "2026-10-14T21:30:39+0000"
+   },
    "18046733960602125": {
     "caption_start": "\ud83c\udfe1 GTA housing isn\u2019t one market\u2014it\u2019s six different stories.\n\nPrices are stabilizing, listings are tightening, and condos are showing signs of",
     "comments_count": 0,
@@ -2228,9 +3414,95 @@
      "total_interactions": 0,
      "views": 34
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DcP2ChGJ6jI/",
     "timestamp": "2026-08-20T03:55:46+0000"
+   },
+   "18059951654556538": {
+    "caption_start": "A buyer asked me: do I need a lawyer? Yes: a real estate lawyer handles your closing. They check title and register the transfer. Ask a lawy",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 2015,
+     "ig_reels_video_view_total_time": 18137,
+     "likes": 0,
+     "reach": 9,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 9
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DenWLFajks8/",
+    "schedule_id": "d20261017-r2",
+    "scheduled_for": "2026-10-17T20:00:00-04:00",
+    "timestamp": "2026-10-18T00:01:04+0000"
+   },
+   "18061957805790168": {
+    "caption_start": "Buying in Halton Hills? 3 closing costs nobody warns you about: 1) land transfer tax, which Ontario charges on most purchases (first-time bu",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 1290,
+     "ig_reels_video_view_total_time": 10325,
+     "likes": 0,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 7
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DekxX5XEwAk/",
+    "schedule_id": "d20261016-r2",
+    "scheduled_for": "2026-10-16T20:00:00-04:00",
+    "timestamp": "2026-10-17T00:01:00+0000"
+   },
+   "18063431894623889": {
+    "caption_start": "Some of the best parts of home are the simplest. \r\n\r\nA quiet corner, a good book, a warm drink and a little time to slow down.\r\n\r\nWhat\u2019s you",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 4,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 5
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/Deh-7z-jCGG/",
+    "timestamp": "2026-10-15T22:08:25+0000"
+   },
+   "18076148102566729": {
+    "caption_start": "Buying pre-construction? Ask these 5 questions first: Who is the builder? What is the closing date? What is the deposit schedule? What is in",
+    "comments_count": 0,
+    "kind": "carousel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 13
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/DedGh1LGill/",
+    "schedule_id": "d20261013-car2",
+    "scheduled_for": "2026-10-13T20:30:00-04:00",
+    "timestamp": "2026-10-14T00:31:35+0000"
    },
    "18076273013357129": {
     "caption_start": "Every neighbourhood has a story, and it's written by the people who call it home.\r\n\r\nStrong communities are built by neighbours who support ",
@@ -2250,13 +3522,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 3,
+     "reach": 4,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 8
+     "views": 10
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeaNAR2klyz/",
     "schedule_id": "d20261012-f3",
     "scheduled_for": "2026-10-12T17:30:00-04:00",
@@ -2278,7 +3550,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dc-LsocG0xw/",
     "timestamp": "2026-09-07T03:48:51+0000"
    },
@@ -2298,7 +3570,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdZWmNMjLFa/",
     "timestamp": "2026-09-17T17:07:36+0000"
    },
@@ -2318,7 +3590,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdrYUiQjNs1/",
     "timestamp": "2026-09-24T17:06:34+0000"
    },
@@ -2338,7 +3610,7 @@
      "total_interactions": 0,
      "views": 17
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdmAqDXDAuC/",
     "timestamp": "2026-09-22T15:07:15+0000"
    },
@@ -2382,9 +3654,31 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DcRdr2JFLgp/",
     "timestamp": "2026-08-20T19:08:30+0000"
+   },
+   "18098417972413486": {
+    "caption_start": "Owning a home costs more than the mortgage payment. Plan for property tax, home insurance, utilities and maintenance. Costs vary by home. Ge",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 4151,
+     "ig_reels_video_view_total_time": 45663,
+     "likes": 0,
+     "reach": 10,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 15
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DedNRUxivOW/",
+    "schedule_id": "d20261013-r3",
+    "scheduled_for": "2026-10-13T21:30:00-04:00",
+    "timestamp": "2026-10-14T01:30:49+0000"
    },
    "18098526062354703": {
     "caption_start": "Your weekend project starts at the front door. \ud83c\udf3f\r\n\r\nSummer is the perfect time to give your home a little extra attention and it doesn't hav",
@@ -2401,16 +3695,16 @@
     "like_count": 2,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 7471,
-     "ig_reels_video_view_total_time": 119536,
+     "ig_reels_avg_watch_time": 7073,
+     "ig_reels_video_view_total_time": 120256,
      "likes": 2,
      "reach": 11,
      "saved": 0,
      "shares": 0,
      "total_interactions": 2,
-     "views": 14
+     "views": 15
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DdDR41gJkOi/",
     "timestamp": "2026-09-09T03:31:01+0000"
    },
@@ -2438,7 +3732,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeVDkWgjbdq/",
     "timestamp": "2026-10-10T21:31:54+0000"
    },
@@ -2452,17 +3746,81 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 1,
+     "reach": 4,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 1
+     "views": 7
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeZPNOdm3Z7/",
     "schedule_id": "d20261012-f1",
     "scheduled_for": "2026-10-12T08:30:00-04:00",
     "timestamp": "2026-10-12T12:30:29+0000"
+   },
+   "18115587599029614": {
+    "caption_start": "Are GTA homes selling for asking? In September 2026, the average sale-to-list price ratio was 98%, per TRREB. The average home took 34 days ",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 3435,
+     "ig_reels_video_view_total_time": 37794,
+     "likes": 0,
+     "reach": 10,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 12
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DehH7BUFeGS/",
+    "schedule_id": "d20261015-r1",
+    "scheduled_for": "2026-10-15T10:00:00-04:00",
+    "timestamp": "2026-10-15T14:01:03+0000"
+   },
+   "18116154596165451": {
+    "caption_start": "Home inspections: 3 things nobody tells you. 1) It is usually a condition of your offer, with a deadline. 2) Attend if you can; you learn mo",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 1157,
+     "ig_reels_video_view_total_time": 12728,
+     "likes": 0,
+     "reach": 11,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 12
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/Dep6-grACVM/",
+    "schedule_id": "d20261018-r2",
+    "scheduled_for": "2026-10-18T20:00:00-04:00",
+    "timestamp": "2026-10-19T00:01:05+0000"
+   },
+   "18120338645284096": {
+    "caption_start": "\ud83c\udfe1 New Build. Big Dreams. Bigger Decisions! \ud83d\udd11\u2728\n\n\ud83d\udea8 Before you sign, ask these 3 questions that could save you THOUSANDS! \ud83d\udcb0\n\nDon\u2019t let your dre",
+    "comments_count": 1,
+    "kind": "reel",
+    "like_count": 5,
+    "metrics": {
+     "comments": 1,
+     "ig_reels_avg_watch_time": 5909,
+     "ig_reels_video_view_total_time": 573266,
+     "likes": 5,
+     "reach": 85,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 6,
+     "views": 117
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DenAF8hJogi/",
+    "timestamp": "2026-10-17T20:49:22+0000"
    },
    "18121029514921702": {
     "caption_start": "The market is only part of the conversation. \ud83c\udfe1\r\n\r\nYour needs, timing and goals matter just as much when deciding what your next move looks l",
@@ -2480,7 +3838,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdRobZ7oDEh/",
     "timestamp": "2026-09-14T17:11:29+0000"
    },
@@ -2494,13 +3852,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 3,
+     "reach": 4,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 8
+     "views": 10
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Deah3D9FMZM/",
     "schedule_id": "d20261012-f4",
     "scheduled_for": "2026-10-12T20:30:00-04:00",
@@ -2522,9 +3880,31 @@
      "total_interactions": 0,
      "views": 13
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DdHWMQfoCvc/",
     "timestamp": "2026-09-10T17:15:28+0000"
+   },
+   "18124966873822631": {
+    "caption_start": "Your offer was accepted. Now what? The usual steps: your deposit (as set out in your agreement), any conditions in the agreement, your lawye",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 1142,
+     "ig_reels_video_view_total_time": 51390,
+     "likes": 0,
+     "reach": 46,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 49
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DefyEf_igai/",
+    "schedule_id": "d20261014-r4",
+    "scheduled_for": "2026-10-14T21:30:00-04:00",
+    "timestamp": "2026-10-15T01:30:52+0000"
    },
    "18125759440804300": {
     "caption_start": "",
@@ -2563,7 +3943,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DctlNPulJMx/",
     "timestamp": "2026-08-31T17:06:50+0000"
    },
@@ -2574,16 +3954,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 7521,
-     "ig_reels_video_view_total_time": 112818,
+     "ig_reels_avg_watch_time": 6929,
+     "ig_reels_video_view_total_time": 117799,
      "likes": 0,
      "reach": 10,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 19
+     "views": 23
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DdLAzJ8p_Xv/",
     "timestamp": "2026-09-12T03:24:05+0000"
    },
@@ -2597,25 +3977,47 @@
    },
    "18131220991810475": {
     "caption_start": "Bank of Canada check-in. The policy interest rate is 2.25%, held steady at the September 2, 2026 announcement. The next scheduled announceme",
+    "comments_count": 2,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 2,
+     "ig_reels_avg_watch_time": 10560,
+     "ig_reels_video_view_total_time": 105604,
+     "likes": 0,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 2,
+     "views": 13
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/Deb-UrLnERO/",
+    "schedule_id": "d20261013-r1",
+    "scheduled_for": "2026-10-13T10:00:00-04:00",
+    "timestamp": "2026-10-13T14:01:00+0000"
+   },
+   "18144020935567456": {
+    "caption_start": "Fewer homes sold, and fewer came to market. TRREB reports 5,040 GTA home sales in September 2026, down 9.0% from September 2025, and 16,500 ",
     "comments_count": 0,
     "kind": "reel",
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 5443,
-     "ig_reels_video_view_total_time": 38105,
+     "ig_reels_avg_watch_time": 1493,
+     "ig_reels_video_view_total_time": 14932,
      "likes": 0,
-     "reach": 5,
+     "reach": 9,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 7
+     "views": 10
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
-    "permalink": "https://www.instagram.com/reel/Deb-UrLnERO/",
-    "schedule_id": "d20261013-r1",
-    "scheduled_for": "2026-10-13T10:00:00-04:00",
-    "timestamp": "2026-10-13T14:01:00+0000"
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DefCAX0kx_v/",
+    "schedule_id": "d20261014-r2",
+    "scheduled_for": "2026-10-14T14:30:00-04:00",
+    "timestamp": "2026-10-14T18:30:53+0000"
    },
    "18144556738584422": {
     "caption_start": "A home inspection helps you understand a home's condition before you commit. Save this checklist for your next showing. DM me \"INSPECT\" or c",
@@ -2633,7 +4035,7 @@
      "total_interactions": 2,
      "views": 13
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeXoNKPIJ5c/",
     "schedule_id": "b01-p03",
     "scheduled_for": "2026-10-11T17:30:00-04:00",
@@ -2646,6 +4048,93 @@
     "like_count": 3,
     "permalink": "https://www.instagram.com/reel/DakydsWkwkU/",
     "timestamp": "2026-07-09T14:09:00+0000"
+   },
+   "18173091736455046": {
+    "caption_start": "Townhouse or semi? In September 2026 a semi-detached home in the GTA averaged $1,015,202 (459 sales, down 8.2%) and a townhouse averaged $82",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 9,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 15
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/Deh7ZWKnJFg/",
+    "schedule_id": "d20261015-f2",
+    "scheduled_for": "2026-10-15T17:30:00-04:00",
+    "timestamp": "2026-10-15T21:30:38+0000"
+   },
+   "18179973940446039": {
+    "caption_start": "The average GTA home sold for $1,006,409 in September 2026, down 5.1% from a year ago. The median selling price was $860,000, and TRREB's ML",
+    "comments_count": 0,
+    "kind": "feed",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "follows": 0,
+     "likes": 0,
+     "profile_visits": 0,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 13
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/p/Deg9mU_m2FN/",
+    "schedule_id": "d20261015-f1",
+    "scheduled_for": "2026-10-15T08:30:00-04:00",
+    "timestamp": "2026-10-15T12:30:39+0000"
+   },
+   "18223296748341276": {
+    "caption_start": "",
+    "comments_count": 0,
+    "kind": "story",
+    "like_count": 0,
+    "metrics": {
+     "follows": 0,
+     "navigation": 11,
+     "profile_visits": 0,
+     "reach": 12,
+     "replies": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 12
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4010966068121713278",
+    "schedule_id": "d20261018-s1",
+    "scheduled_for": "2026-10-18T19:00:00-04:00",
+    "timestamp": "2026-10-18T23:01:05+0000"
+   },
+   "18343121728256721": {
+    "caption_start": "First home? Your insured mortgage may stretch to 30 years. Since December 15, 2024, first-time buyers and buyers of new builds can choose a ",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 1717,
+     "ig_reels_video_view_total_time": 13736,
+     "likes": 0,
+     "reach": 7,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 7
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DehmzhxlZHc/",
+    "schedule_id": "d20261015-r2",
+    "scheduled_for": "2026-10-15T14:30:00-04:00",
+    "timestamp": "2026-10-15T18:31:16+0000"
    },
    "18344873797253895": {
     "caption_start": "",
@@ -2667,6 +4156,28 @@
     "schedule_id": "d20261013-s2",
     "scheduled_for": "2026-10-13T13:30:00-04:00",
     "timestamp": "2026-10-13T17:31:51+0000"
+   },
+   "18357108469168754": {
+    "caption_start": "Before you buy a rural Caledon home, read this. 1) Ask for a recent water test, and test the well yourself. 2) Ask how old the well and sept",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 1,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 1445,
+     "ig_reels_video_view_total_time": 15902,
+     "likes": 1,
+     "reach": 11,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 1,
+     "views": 12
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DepECR-D5qa/",
+    "schedule_id": "d20261018-r1",
+    "scheduled_for": "2026-10-18T12:00:00-04:00",
+    "timestamp": "2026-10-18T16:01:06+0000"
    },
    "18387522703164713": {
     "caption_start": "\u2728 Some homes make an impression the moment you arrive.\r\n\r\nFrom sweeping staircases to carefully crafted details, every element contributes t",
@@ -2704,9 +4215,31 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dd1r7YOl41V/",
     "timestamp": "2026-09-28T17:10:02+0000"
+   },
+   "18419336020158043": {
+    "caption_start": "5 costs first-time buyers forget, beyond the down payment: land transfer tax (first-time buyers may qualify for a refund; eligibility rules ",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 3293,
+     "ig_reels_video_view_total_time": 23055,
+     "likes": 0,
+     "reach": 6,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 6
+    },
+    "metrics_at": "2026-10-19T13:01:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DefnyNBispg/",
+    "schedule_id": "d20261014-r3",
+    "scheduled_for": "2026-10-14T20:00:00-04:00",
+    "timestamp": "2026-10-15T00:01:05+0000"
    },
    "18484842844099194": {
     "caption_start": "Happy Labour Day! \r\n\r\nHope you\u2019re enjoying the long weekend and finding some time to relax, recharge and spend it with the people who matter",
@@ -2724,7 +4257,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/Dc_VIKklB5Y/",
     "timestamp": "2026-09-07T14:39:34+0000"
    },
@@ -2738,13 +4271,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 4,
+     "reach": 10,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 5
+     "views": 18
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/p/DeZnPk8lQOO/",
     "schedule_id": "d20261012-f2",
     "scheduled_for": "2026-10-12T12:00:00-04:00",
@@ -2757,16 +4290,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 8892,
-     "ig_reels_video_view_total_time": 44463,
+     "ig_reels_avg_watch_time": 6895,
+     "ig_reels_video_view_total_time": 48268,
      "likes": 0,
-     "reach": 3,
+     "reach": 5,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 3
+     "views": 5
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DeZZhLqFHio/",
     "schedule_id": "d20261012-r1",
     "scheduled_for": "2026-10-12T10:00:00-04:00",
@@ -2779,16 +4312,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 2641,
-     "ig_reels_video_view_total_time": 58116,
+     "ig_reels_avg_watch_time": 2682,
+     "ig_reels_video_view_total_time": 64385,
      "likes": 0,
-     "reach": 19,
+     "reach": 22,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 20
+     "views": 23
     },
-    "metrics_at": "2026-10-13T23:37:30+00:00",
+    "metrics_at": "2026-10-19T13:01:32+00:00",
     "permalink": "https://www.instagram.com/reel/DeZ72TCD9yU/",
     "schedule_id": "d20261012-r2",
     "scheduled_for": "2026-10-12T15:00:00-04:00",
@@ -2796,5 +4329,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T23:37:30+00:00"
+ "updated_at": "2026-10-19T13:01:32+00:00"
 }

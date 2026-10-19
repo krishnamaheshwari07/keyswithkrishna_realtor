@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T23:37:30+00:00",
+  "checked_at": "2026-10-19T13:01:32+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -70,26 +70,26 @@
       {
         "name": "media insights: feed",
         "ok": true,
-        "posts_with_data": 30,
-        "posts_seen": 33
+        "posts_with_data": 36,
+        "posts_seen": 39
       },
       {
         "name": "media insights: carousel",
         "ok": true,
-        "posts_with_data": 2,
-        "posts_seen": 3
+        "posts_with_data": 7,
+        "posts_seen": 8
       },
       {
         "name": "media insights: reel",
         "ok": true,
-        "posts_with_data": 8,
-        "posts_seen": 14
+        "posts_with_data": 24,
+        "posts_seen": 30
       },
       {
         "name": "media insights: story",
         "ok": true,
-        "posts_with_data": 4,
-        "posts_seen": 4
+        "posts_with_data": 5,
+        "posts_seen": 5
       },
       {
         "name": "content publishing limit",
@@ -140,7 +140,7 @@
       {
         "name": "post insights (reach, views, engagement)",
         "ok": true,
-        "posts_with_data": 38
+        "posts_with_data": 63
       },
       {
         "name": "list page reels",
