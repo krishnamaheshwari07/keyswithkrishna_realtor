@@ -1,0 +1,22 @@
+name: Voice clone test
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install -q chatterbox-tts openai-whisper
+      - run: python scripts/voice_test.py
+        env:
+          VOICE_KEY: ${{ secrets.VOICE_KEY }}
+      - run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git pull --rebase -q || true
+          git add voice-tests && git commit -m "Voice clone test clips" && git push
