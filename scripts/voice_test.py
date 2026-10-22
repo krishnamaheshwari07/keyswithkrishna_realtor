@@ -1,56 +1,44 @@
-"""Voice-clone test for Keys with Krishna (Chatterbox, MIT licence). Decrypts Krishna's reference recordings,
-detects which is English vs Hinglish, and renders sample voiceovers into voice-tests/."""
-import json, os, subprocess, sys, re
+"""Voice-clone test v2 for Keys with Krishna (Chatterbox, MIT licence).
+Faster, more energetic delivery: higher exaggeration, lower cfg (faster pace), sentences grouped into longer chunks,
+long pauses trimmed, slight pitch-preserving speed-up. Renders 2 variants each for English and Hinglish."""
+import os, subprocess
 import torch, torchaudio
 os.makedirs("voice-tests", exist_ok=True)
-refs = {}
-for name in ("a4", "a2"):
+for f in os.listdir("voice-tests"):
+    if f.endswith(".mp3"): os.remove(os.path.join("voice-tests", f))
+def dec(name):
     out = f"/tmp/ref-{name}.wav"
     subprocess.run(["openssl", "enc", "-d", "-aes-256-cbc", "-pbkdf2", "-iter", "200000", "-pass", "env:VOICE_KEY",
                     "-in", f"data/voice/ref-{name}.wav.enc", "-out", out], check=True)
-    refs[name] = out
-import whisper
-wm = whisper.load_model("small")
-info = {}
-for n, p in refs.items():
-    r = wm.transcribe(p)
-    info[n] = {"language": r["language"], "text": r["text"][:300]}
-json.dump(info, open("voice-tests/transcripts.json", "w"), indent=1, ensure_ascii=False)
-en = next((n for n in info if info[n]["language"] == "en" and not re.search(r"\b(hai|mein|karo|ghar|pehli)\b", info[n]["text"].lower())), "a4")
-hi = "a2" if en == "a4" else "a4"
-EN = ["Buying in Halton Hills? Here are three closing costs nobody warns you about.",
-      "One. Land transfer tax. Ontario charges it on most purchases, but first-time buyers may get up to four thousand dollars back.",
-      "Two. Legal fees and disbursements.",
-      "Three. Title insurance and adjustments, like prepaid property tax.",
-      "Ask for a closing cost estimate before you make an offer.",
-      "Save this, and call me at nine oh five, four five two, four two nine eight."]
-HR = ["Halton Hills mein ghar le rahe ho? Yeh teen closing costs koi nahi batata.",
-      "Pehla. Land transfer tax. Ontario mein yeh almost har purchase pe lagta hai, lekin first-time buyers ko chaar hazaar dollars tak wapas mil sakte hain.",
-      "Doosra. Lawyer ki fees aur disbursements.",
-      "Teesra. Title insurance aur adjustments, jaise prepaid property tax.",
-      "Offer dene se pehle closing cost ka estimate zaroor lo.",
-      "Isko save karo, aur mujhe call karo, nine oh five, four five two, four two nine eight pe."]
-HD = ["हॉल्टन हिल्स में घर ले रहे हो? ये तीन क्लोज़िंग कॉस्ट्स कोई नहीं बताता।",
-      "पहला। लैंड ट्रांसफ़र टैक्स। ओंटारियो में ये लगभग हर परचेज़ पे लगता है, लेकिन फ़र्स्ट-टाइम बायर्स को चार हज़ार डॉलर्स तक वापस मिल सकते हैं।",
-      "दूसरा। लॉयर की फ़ीस और डिस्बर्समेंट्स।",
-      "तीसरा। टाइटल इंश्योरेंस और एडजस्टमेंट्स, जैसे प्रीपेड प्रॉपर्टी टैक्स।",
-      "ऑफ़र देने से पहले क्लोज़िंग कॉस्ट का एस्टिमेट ज़रूर लो।",
-      "इसे सेव करो, और मुझे कॉल करो, नाइन ओ फ़ाइव, फ़ोर फ़ाइव टू, फ़ोर टू नाइन एट पे।"]
-def render(model, lines, ref, path, **kw):
+    seg = f"/tmp/ref-{name}-seg.wav"   # a lively middle section of the recording works best as the voice prompt
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", "6", "-t", "16", "-i", out, seg], check=True)
+    return seg
+EN_REF, HI_REF = dec("a2"), dec("a4")   # a2 = English recording, a4 = Hinglish recording (detected in test v1)
+EN = ["Buying in Halton Hills? Here are three closing costs nobody warns you about!",
+      "Number one, land transfer tax. Ontario charges it on most purchases, but first-time buyers can get up to four thousand dollars back.",
+      "Number two, legal fees and disbursements. Number three, title insurance and adjustments, like prepaid property tax.",
+      "So before you make an offer, ask for a closing cost estimate. Save this, and call me at nine oh five, four five two, four two nine eight!"]
+HI = ["हॉल्टन हिल्स में घर ले रहे हो? तो ये तीन क्लोज़िंग कॉस्ट्स ज़रूर जान लो, जो कोई नहीं बताता!",
+      "नंबर वन, लैंड ट्रांसफ़र टैक्स। ओंटारियो में ये लगभग हर घर पे लगता है, लेकिन फ़र्स्ट टाइम बायर्स को चार हज़ार डॉलर्स तक का रिफ़ंड मिल सकता है।",
+      "नंबर टू, लीगल फ़ीस और डिस्बर्समेंट्स। नंबर थ्री, टाइटल इंश्योरेंस और एडजस्टमेंट्स, जैसे प्रीपेड प्रॉपर्टी टैक्स।",
+      "तो ऑफ़र देने से पहले क्लोज़िंग कॉस्ट का एस्टिमेट ज़रूर ले लो। इसे सेव कर लो, और मुझे कॉल करो, नाइन ओ फ़ाइव, फ़ोर फ़ाइव टू, फ़ोर टू नाइन एट!"]
+def render(model, lines, ref, path, tempo=1.08, **kw):
     parts = []
     for t in lines:
-        w = model.generate(t, audio_prompt_path=ref, **kw)
-        parts += [w, torch.zeros(1, int(model.sr * 0.35))]
-    wav = torch.cat(parts, dim=1)
-    torchaudio.save(path + ".wav", wav, model.sr)
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", path + ".wav", "-af", "loudnorm=I=-16:TP=-1.5", "-b:a", "160k", path + ".mp3"], check=True)
+        parts += [model.generate(t, audio_prompt_path=ref, **kw), torch.zeros(1, int(model.sr * 0.12))]
+    torchaudio.save(path + ".wav", torch.cat(parts, dim=1), model.sr)
+    af = ("silenceremove=start_periods=1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.22:stop_threshold=-45dB,"
+          f"atempo={tempo},loudnorm=I=-16:TP=-1.5")
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", path + ".wav", "-af", af, "-b:a", "160k", path + ".mp3"], check=True)
     os.remove(path + ".wav")
+torch.manual_seed(7)
 from chatterbox.tts import ChatterboxTTS
 m = ChatterboxTTS.from_pretrained(device="cpu")
-render(m, EN, refs[en], "voice-tests/english", exaggeration=0.5, cfg_weight=0.5)
-render(m, HR, refs[hi], "voice-tests/hinglish-roman", exaggeration=0.5, cfg_weight=0.5)
+render(m, EN, EN_REF, "voice-tests/english-A", exaggeration=0.7, cfg_weight=0.3)
+render(m, EN, EN_REF, "voice-tests/english-B", exaggeration=0.9, cfg_weight=0.2)
 del m
 from chatterbox.mtl_tts import ChatterboxMultilingualTTS
 mm = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
-render(mm, HD, refs[hi], "voice-tests/hinglish-devanagari", language_id="hi", exaggeration=0.5, cfg_weight=0.5)
-print("done", info)
+render(mm, HI, HI_REF, "voice-tests/hinglish-A", language_id="hi", exaggeration=0.7, cfg_weight=0.3)
+render(mm, HI, HI_REF, "voice-tests/hinglish-B", language_id="hi", exaggeration=0.9, cfg_weight=0.2)
+print("done")

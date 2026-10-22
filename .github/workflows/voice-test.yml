@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-      - run: pip install -q chatterbox-tts openai-whisper
+      - run: pip install -q chatterbox-tts
       - run: python scripts/voice_test.py
         env:
           VOICE_KEY: ${{ secrets.VOICE_KEY }}
