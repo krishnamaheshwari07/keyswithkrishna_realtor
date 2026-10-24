@@ -1,7 +1,7 @@
 """Publish approved, due items from posts/*/schedule.json to Instagram (Graph API, free).
 Env: IG_USER_ID, IG_ACCESS_TOKEN; optional FB_PAGE_ID, FB_PAGE_TOKEN (also cross-posts to the Facebook Page). Only items with "approved": true and "status": "pending" are posted."""
 import glob, json, urllib.error, os, sys, time, urllib.parse, urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 sys.path.insert(0, os.path.dirname(__file__))
 import tiktok
 API = "https://graph.instagram.com/v21.0"
@@ -125,6 +125,8 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
             continue
         if it.get("status") != "pending" or not it.get("approved"): continue
         if datetime.fromisoformat(it["publish_at"]) > now: continue
+        # wait (up to 90 min past the slot) for the voiceover workflow; after that post the music-only version
+        if it.get("vo_pending") and datetime.fromisoformat(it["publish_at"]) + timedelta(minutes=90) > now: continue
         try:
             it["ig_media_id"] = publish(it); it["status"] = "posted"
         except Exception as e:
