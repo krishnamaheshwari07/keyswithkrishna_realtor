@@ -48,6 +48,11 @@
     "theme": "dark",
     "caption": "Submitting an offer in Cambridge? Check these 4 things first. 1) Your pre-approval: know the price you're comfortable with, not just your maximum. 2) Conditions: decide which ones protect you, like financing and inspection. 3) Deposit: know the amount and when it must be delivered. 4) Offer expiry, closing date and inclusions: put it all in writing.\n\nSend this to someone writing an offer soon. General information only, not legal advice.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
     "approved": true,
-    "status": "pending"
+    "status": "posted",
+    "ig_media_id": "18570842350073536",
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '2326536304803443' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.",
+    "tt_publish_id": "v_inbox_file~v2.7700033284604135445",
+    "tt_status": "SEND_TO_USER_INBOX"
   }
 ]
