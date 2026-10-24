@@ -1,0 +1,31 @@
+name: Voice clone shoot-out (VoxCPM2 + Qwen3-TTS)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        engine: [voxcpm, qwen]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox libsox-dev
+      - name: Install
+        run: |
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          if [ "${{ matrix.engine }}" = voxcpm ]; then pip install -q voxcpm; else pip install -q qwen-tts; fi
+          pip install -q demucs soundfile faster-whisper
+      - run: python scripts/voice_test2.py ${{ matrix.engine }}
+        env:
+          VOICE_KEY_EN2: ${{ secrets.VOICE_KEY_EN2 }}
+      - name: Save clips
+        run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git add voice-tests && git commit -m "Voice shoot-out clips (${{ matrix.engine }})" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
