@@ -77,14 +77,14 @@ def build(m, prompt, it):
             "-b:v", "1800k", "-maxrate", "2200k", "-bufsize", "3000k"]
     if track:
         start = h % max(1, int(min(25, dur(track) - total - 1)))
-        fc = (f"[0:v]scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5[vo];"
-              f"[2:a]loudnorm=I=-16:TP=-1.5,volume=0.16,afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
+        fc = (f"[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
+              f"[2:a]loudnorm=I=-16:TP=-1.5,aresample=48000,volume=0.16,afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
               f"[vo][mu]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
         cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", vw, "-ss", str(start), "-i", track,
                "-filter_complex", fc, "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", out]
     else:
         cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", vw, "-filter_complex",
-               "[0:v]scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5[a]", "-map", "[v]", "-map", "[a]",
+               "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", out]
     sh(*cmd)
     print(it["id"], out, f"{total:.1f}s", "frames:", ", ".join(f"{d:.1f}" for d in durs), "music:", track)
