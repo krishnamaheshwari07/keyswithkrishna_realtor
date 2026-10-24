@@ -2,10 +2,10 @@
   {
     "id": "d20261024-r1",
     "type": "reel",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r1-vo51955.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r1.mp4",
     "publish_at": "2026-10-24T15:00:00-04:00",
     "theme": "cream",
-    "caption": "New build in Brampton? Your 5 steps from signing to keys.\n\n1) Have a real estate lawyer review the agreement before you sign. 2) Pay your deposits on the dates in your agreement. 3) Pick finishes and upgrades by the builder's deadlines. 4) Walk the home with the builder at the pre-delivery inspection. 5) Confirm your mortgage approval is still valid before closing.\n\nSend this to someone buying a new build. General information only, not legal, tax or mortgage advice.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #newbuildhomes #keyswithkrishna",
+    "caption": "New build in Brampton? Your 5 steps from signing to keys.\n\n1) Have a real estate lawyer review the agreement before you sign. 2) Pay your deposits on the dates in your agreement. 3) Pick finishes and upgrades by the builder's deadlines. 4) Walk the home with the builder at the pre-delivery inspection. 5) Confirm your mortgage approval is still valid before closing.\n\nSend this to someone buying a new build. General information only, not legal, tax or mortgage advice.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #newbuildhomes #keyswithkrishna",
     "approved": true,
     "status": "pending",
     "frames": [
@@ -45,18 +45,7 @@
         "min": 4.0
       }
     ],
-    "vo_pending": false,
-    "vo_status": "done",
-    "vo_seconds": 33.1,
-    "vo_frame_seconds": [
-      5.25,
-      4.75,
-      4.25,
-      4.19,
-      4.8,
-      4.25,
-      5.57
-    ]
+    "vo_pending": true
   },
   {
     "id": "d20261024-f1",
@@ -81,10 +70,10 @@
   {
     "id": "d20261024-r2",
     "type": "reel",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r2-vo52242.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r2.mp4",
     "publish_at": "2026-10-24T21:00:00-04:00",
     "theme": "dark",
-    "caption": "A buyer asked me how to price an offer. 4 steps.\n\n1) Start with recent sales of similar homes nearby, not just the list price. 2) Ask your Realtor\u00ae to compare size, age, condition and location. 3) Know your own ceiling before you write the offer. 4) Decide your conditions too: financing and inspection protect you.\n\nSend this to someone writing their first offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Georgetown or Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "caption": "A buyer asked me how to price an offer. 4 steps.\n\n1) Start with recent sales of similar homes nearby, not just the list price. 2) Ask your Realtor\u00ae to compare size, age, condition and location. 3) Know your own ceiling before you write the offer. 4) Decide your conditions too: financing and inspection protect you.\n\nSend this to someone writing their first offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Georgetown or Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonregion #homebuyingtips #keyswithkrishna",
     "approved": true,
     "status": "pending",
     "frames": [
@@ -119,16 +108,6 @@
         "min": 4.0
       }
     ],
-    "vo_pending": false,
-    "vo_status": "done",
-    "vo_seconds": 30.1,
-    "vo_frame_seconds": [
-      4.24,
-      5.52,
-      4.62,
-      4.25,
-      4.75,
-      6.71
-    ]
+    "vo_pending": true
   }
 ]

@@ -7,7 +7,9 @@ import os, sys, glob, json, subprocess, hashlib, time, shutil
 from datetime import datetime, timezone, timedelta
 RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/"
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
-LEAD, TAIL = 0.3, 0.45
+LEAD, TAIL = 0.12, 0.22   # tight cuts (Krishna, Oct 24: Reels felt slow)
+TEMPO = 1.12              # pitch-preserving speed-up of the voice
+MIN_FRAME = 2.2           # slides change as soon as the line is spoken; 'min' from the batch is no longer enforced
 DISCLOSE = "Voiceover: AI-generated in Krishna's own voice."
 STAGED = {}   # repo path -> generated file in /tmp (copied in after the git reset in save())
 def sh(*a): subprocess.run(list(a), check=True)
@@ -61,7 +63,10 @@ def build(m, prompt, it):
         v = np.asarray(wavs[0], dtype=np.float32).squeeze()
         nz = np.where(np.abs(v) > 0.01)[0]                       # trim generated leading/trailing silence
         if len(nz): v = v[max(nz[0] - int(0.05 * sr), 0): nz[-1] + int(0.1 * sr)]
-        d = max(float(f.get("min", 3.5)), LEAD + len(v) / sr + TAIL)
+        if TEMPO != 1.0:
+            a, b = f"{W}/t_in.wav", f"{W}/t_out.wav"; sf.write(a, v, sr)
+            sh("ffmpeg", "-y", "-v", "error", "-i", a, "-af", f"atempo={TEMPO}", b); v, _ = sf.read(b, dtype="float32")
+        d = max(MIN_FRAME, LEAD + len(v) / sr + TAIL)
         seg = np.zeros(int(round(d * sr)), dtype=np.float32); s0 = int(LEAD * sr)
         seg[s0:s0 + len(v)] = v[: len(seg) - s0]
         voice.append(seg); durs.append(d)
