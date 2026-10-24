@@ -5,7 +5,6 @@ Each frame is held for max(min, voice length + padding), the voice is mixed over
 as posts/DATE/<file>-vo.mp4 and becomes the item's media_url. On any failure the original (music-only) Reel is kept."""
 import os, sys, glob, json, subprocess, hashlib
 from datetime import datetime, timezone, timedelta
-import numpy as np, soundfile as sf
 RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/"
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
 LEAD, TAIL = 0.3, 0.45
@@ -54,6 +53,7 @@ def music(seed):
     return (tracks[h % len(tracks)], h >> 16) if tracks else (None, 0)
 
 def build(m, prompt, it):
+    import numpy as np, soundfile as sf
     sr = None; voice = []; frames = it["frames"]; durs = []
     for f in frames:
         wavs, sr = m.generate_voice_clone(text=f["say"], language="English", voice_clone_prompt=prompt)
