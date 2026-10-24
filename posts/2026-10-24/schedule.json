@@ -7,7 +7,7 @@
     "theme": "cream",
     "caption": "New build in Brampton? Your 5 steps from signing to keys.\n\n1) Have a real estate lawyer review the agreement before you sign. 2) Pay your deposits on the dates in your agreement. 3) Pick finishes and upgrades by the builder's deadlines. 4) Walk the home with the builder at the pre-delivery inspection. 5) Confirm your mortgage approval is still valid before closing.\n\nSend this to someone buying a new build. General information only, not legal, tax or mortgage advice.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #newbuildhomes #keyswithkrishna",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "frames": [
       {
         "img": "posts/2026-10-24/d20261024-r1-frames/f01.png",
@@ -56,7 +56,12 @@
       3.05,
       3.78,
       4.81
-    ]
+    ],
+    "ig_media_id": "17906506521604560",
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '1777703200150163' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.",
+    "tt_publish_id": "v_inbox_file~v2.7700311329604732935",
+    "tt_status": "SEND_TO_USER_INBOX"
   },
   {
     "id": "d20261024-f1",
