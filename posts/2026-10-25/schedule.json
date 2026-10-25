@@ -124,10 +124,10 @@
   {
     "id": "d20261025-r2",
     "type": "reel",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-25/d14-r2-vo34193.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-25/d14-r2.mp4",
     "publish_at": "2026-10-25T21:00:00-04:00",
     "theme": "dark",
-    "caption": "A buyer asked me: what's a home inspection condition?\n\n1) It's a clause in your offer that gives you a set window to inspect. 2) An inspector goes through the home and writes a report. 3) If issues come up, you might renegotiate or walk away, depending on the wording. 4) Remove the condition and the deal becomes firm, so ask your lawyer first.\n\nSave this for before you make an offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #homebuyingtips #keyswithkrishna",
+    "caption": "A buyer asked me: what's a home inspection condition?\n\n1) It's a clause in your offer that gives you a set window to inspect. 2) An inspector goes through the home and writes a report. 3) If issues come up, you might renegotiate or walk away, depending on the wording. 4) Remove the condition and the deal becomes firm, so ask your lawyer first.\n\nSave this for before you make an offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #homebuyingtips #keyswithkrishna",
     "approved": true,
     "status": "pending",
     "frames": [
@@ -162,7 +162,7 @@
         "min": 4.0
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "HOME BUYING TIPS",
@@ -207,16 +207,6 @@
         }
       ]
     },
-    "vo_status": "done",
-    "vo_seconds": 22.7,
-    "vo_frame_seconds": [
-      3.66,
-      3.58,
-      2.93,
-      3.58,
-      3.96,
-      5.05
-    ],
     "trial": true
   }
 ]
