@@ -9,7 +9,8 @@ RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_rea
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
 LEAD, TAIL = 0.12, 0.22   # tight cuts (Krishna, Oct 24: Reels felt slow)
 TEMPO = 1.12              # pitch-preserving speed-up of the voice
-MIN_FRAME = 2.2           # slides change as soon as the line is spoken; 'min' from the batch is no longer enforced
+MIN_FRAME = 2.2
+READ_FACTOR = 0.75        # spoken line is a short gist of the slide (Oct 24), so keep 75% of the slide's reading time 'min'
 DISCLOSE = "Voiceover: AI-generated in Krishna's own voice."
 STAGED = {}   # repo path -> generated file in /tmp (copied in after the git reset in save())
 def sh(*a): subprocess.run(list(a), check=True)
@@ -66,7 +67,7 @@ def build(m, prompt, it):
         if TEMPO != 1.0:
             a, b = f"{W}/t_in.wav", f"{W}/t_out.wav"; sf.write(a, v, sr)
             sh("ffmpeg", "-y", "-v", "error", "-i", a, "-af", f"atempo={TEMPO}", b); v, _ = sf.read(b, dtype="float32")
-        d = max(MIN_FRAME, LEAD + len(v) / sr + TAIL)
+        d = max(MIN_FRAME, READ_FACTOR * float(f.get("min", 0)), LEAD + len(v) / sr + TAIL)
         seg = np.zeros(int(round(d * sr)), dtype=np.float32); s0 = int(LEAD * sr)
         seg[s0:s0 + len(v)] = v[: len(seg) - s0]
         voice.append(seg); durs.append(d)
