@@ -10,7 +10,7 @@ W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
 LEAD, TAIL = 0.12, 0.22   # tight cuts (Krishna, Oct 24: Reels felt slow)
 TEMPO = 1.12              # pitch-preserving speed-up of the voice
 MIN_FRAME = 2.2
-READ_FACTOR = 0.75        # spoken line is a short gist of the slide (Oct 24), so keep 75% of the slide's reading time 'min'
+READ_FACTOR = 0.65        # slide stays up for 65% of its reading time "min" unless the voice needs longer (Oct 24: avoid silent gaps)
 DISCLOSE = "Voiceover: AI-generated in Krishna's own voice."
 STAGED = {}   # repo path -> generated file in /tmp (copied in after the git reset in save())
 def sh(*a): subprocess.run(list(a), check=True)
