@@ -92,10 +92,10 @@
   {
     "id": "d20261024-r2",
     "type": "reel",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r2.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-24/d13-r2-vo90320.mp4",
     "publish_at": "2026-10-24T21:00:00-04:00",
     "theme": "dark",
-    "caption": "A buyer asked me how to price an offer. 4 steps.\n\n1) Start with recent sales of similar homes nearby, not just the list price. 2) Ask your Realtor\u00ae to compare size, age, condition and location. 3) Know your own ceiling before you write the offer. 4) Decide your conditions too: financing and inspection protect you.\n\nSend this to someone writing their first offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Georgetown or Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "caption": "A buyer asked me how to price an offer. 4 steps.\n\n1) Start with recent sales of similar homes nearby, not just the list price. 2) Ask your Realtor\u00ae to compare size, age, condition and location. 3) Know your own ceiling before you write the offer. 4) Decide your conditions too: financing and inspection protect you.\n\nSend this to someone writing their first offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Georgetown or Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonregion #homebuyingtips #keyswithkrishna",
     "approved": true,
     "status": "pending",
     "frames": [
@@ -130,6 +130,16 @@
         "min": 4.0
       }
     ],
-    "vo_pending": true
+    "vo_pending": false,
+    "vo_status": "done",
+    "vo_seconds": 21.3,
+    "vo_frame_seconds": [
+      2.32,
+      3.94,
+      3.38,
+      3.19,
+      3.56,
+      4.89
+    ]
   }
 ]
