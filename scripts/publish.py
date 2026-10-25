@@ -100,6 +100,8 @@ def publish(item):
         p.pop("caption")
     elif t == "reel":
         p["media_type"] = "REELS"; p["video_url"] = item["media_url"]
+        if item.get("trial"):   # Instagram Trial Reel: shown to non-followers first, joins the profile if it performs (Krishna, Oct 25)
+            p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
     elif t == "carousel":
         kids = []
         for u in item["media_urls"]:
@@ -108,7 +110,13 @@ def publish(item):
         p["media_type"] = "CAROUSEL"; p["children"] = ",".join(kids)
     else:
         raise ValueError(t)
-    cid = call(f"{UID}/media", p)["id"]
+    try:
+        cid = call(f"{UID}/media", p)["id"]
+    except urllib.error.HTTPError as e:
+        if "trial_params" not in p: raise
+        item["trial_error"] = e.read().decode()[:300]; p.pop("trial_params")   # not eligible: post as a normal Reel
+        cid = call(f"{UID}/media", p)["id"]
+    if "trial_params" in p: item["trial_status"] = "trial"
     wait(cid)
     return call(f"{UID}/media_publish", {"creation_id": cid})["id"]
 
