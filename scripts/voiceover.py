@@ -72,11 +72,18 @@ def build(m, prompt, it):
         seg[s0:s0 + len(v)] = v[: len(seg) - s0]
         voice.append(seg); durs.append(d)
     vw = f"{W}/{it['id']}-voice.wav"; sf.write(vw, np.concatenate(voice), sr)
-    lst = f"{W}/{it['id']}.txt"
-    with open(lst, "w") as fh:
-        for f, d in zip(frames, durs): fh.write(f"file '{os.path.abspath(f['img'])}'\nduration {d:.3f}\n")
-        fh.write(f"file '{os.path.abspath(frames[-1]['img'])}'\n")
     total = sum(durs)
+    if it.get("motion"):   # animated Reel (motion/reel.html): scenes timed to the voice
+        spec = f"{W}/{it['id']}-spec.json"; json.dump(it["motion"], open(spec, "w"))
+        silent = f"{W}/{it['id']}-silent.mp4"
+        sh("python", "scripts/render_motion.py", spec, json.dumps([round(d, 3) for d in durs]), silent)
+        vin = ["-i", silent]
+    else:                  # static frames
+        lst = f"{W}/{it['id']}.txt"
+        with open(lst, "w") as fh:
+            for f, d in zip(frames, durs): fh.write(f"file '{os.path.abspath(f['img'])}'\nduration {d:.3f}\n")
+            fh.write(f"file '{os.path.abspath(frames[-1]['img'])}'\n")
+        vin = ["-f", "concat", "-safe", "0", "-i", lst]
     base = it["media_url"].split("/main/", 1)[1].rsplit(".", 1)[0]
     out = f"{base}-vo{int(time.time()) % 100000}.mp4"   # new name each run (no stale copies/caches)
     tmp_out = f"{W}/{os.path.basename(out)}"; STAGED[out] = tmp_out
@@ -88,10 +95,10 @@ def build(m, prompt, it):
         fc = (f"[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
               f"[2:a]loudnorm=I=-16:TP=-1.5,aresample=48000,volume=0.16,afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
               f"[vo][mu]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
-        cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", vw, "-ss", str(start), "-i", track,
+        cmd = ["ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-ss", str(start), "-i", track,
                "-filter_complex", fc, "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     else:
-        cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", vw, "-filter_complex",
+        cmd = ["ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-filter_complex",
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
