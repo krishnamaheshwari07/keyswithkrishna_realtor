@@ -35,6 +35,8 @@ body.light .hook,body.light .pt,body.light .cta{color:var(--teal)}
 .of{color:#fff;font-weight:800;letter-spacing:.2em;font-size:30px}
 body.light .of{color:var(--teal)}
 .pt{position:absolute;left:80px;right:80px;top:400px;font-weight:800;font-size:76px;line-height:1.14;color:#fff}
+.note{position:absolute;left:80px;right:80px;top:850px;color:#cfe3e6;font-size:26px;font-weight:500}
+body.light .note{color:#4a6a72}
 .propbox{position:absolute;left:90px;width:900px;height:760px;top:900px}
 .prop{width:900px;height:760px;overflow:visible;filter:drop-shadow(0 22px 30px rgba(3,43,56,.28))}
 svg g[data-anim]{transform-box:view-box}
@@ -71,7 +73,7 @@ S.scenes.forEach((sc, k) => {
   } else if (sc.kind === "point") {
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
-      <div class="pt">${words(sc.text, 0.12, 0.05)}</div>
+      <div class="pt">${words(sc.text, 0.12, 0.05)}</div>${sc.note ? `<div class="note" data-anim="fadeUp:0.5:0.4">${sc.note}</div>` : ""}
       <div class="propbox">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
   } else {
     h = `<div class="wedge" data-anim="wipeIn:0.1:0.5"></div><div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>
