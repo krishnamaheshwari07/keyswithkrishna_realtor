@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:25:12+00:00",
+  "checked_at": "2026-10-26T17:22:34+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -82,8 +82,8 @@
       {
         "name": "media insights: reel",
         "ok": true,
-        "posts_with_data": 39,
-        "posts_seen": 45
+        "posts_with_data": 40,
+        "posts_seen": 46
       },
       {
         "name": "media insights: story",
@@ -140,7 +140,7 @@
       {
         "name": "post insights (reach, views, engagement)",
         "ok": true,
-        "posts_with_data": 84
+        "posts_with_data": 85
       },
       {
         "name": "list page reels",
