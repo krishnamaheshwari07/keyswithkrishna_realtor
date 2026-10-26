@@ -1,198 +1,218 @@
 [
- {
-  "id": "d20261026-r1",
-  "type": "reel",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r1.mp4",
-  "publish_at": "2026-10-26T15:00:00-04:00",
-  "theme": "cream",
-  "caption": "4 things your lawyer does before closing day.\n\n1) Searches the title to confirm the seller can legally sell the home. 2) Reviews your agreement and your mortgage instructions from the lender. 3) Arranges title insurance and prepares to register the transfer. 4) Prepares a statement showing the exact amount you owe on closing.\n\nSave this for your closing week. Steps vary by purchase. General information only, not legal, tax or mortgage advice.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
-  "approved": true,
-  "status": "pending",
-  "frames": [
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f01.png",
-    "say": "Closing in Etobicoke? Here are four things your lawyer does before you get the keys!",
-    "min": 3.0
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f02.png",
-    "say": "One. They search the title to confirm the seller can legally sell the home.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f03.png",
-    "say": "Two. They go over your agreement and the instructions from your lender.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f04.png",
-    "say": "Three. They arrange title insurance and get ready to register the transfer.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f05.png",
-    "say": "Four. They prepare a statement showing exactly what you owe on closing.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r1-frames/f06.png",
-    "say": "Save this for your closing week, and call me at nine oh five, four five two, four two nine eight!",
-    "min": 4.0
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "4 *things your *lawyer does before *closing day"
+  {
+    "id": "d20261026-r1",
+    "type": "reel",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r1-vo15305.mp4",
+    "publish_at": "2026-10-26T15:00:00-04:00",
+    "theme": "cream",
+    "caption": "4 things your lawyer does before closing day.\n\n1) Searches the title to confirm the seller can legally sell the home. 2) Reviews your agreement and your mortgage instructions from the lender. 3) Arranges title insurance and prepares to register the transfer. 4) Prepares a statement showing the exact amount you owe on closing.\n\nSave this for your closing week. Steps vary by purchase. General information only, not legal, tax or mortgage advice.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "approved": true,
+    "status": "pending",
+    "frames": [
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f01.png",
+        "say": "Closing in Etobicoke? Here are four things your lawyer does before you get the keys!",
+        "min": 3.0
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f02.png",
+        "say": "One. They search the title to confirm the seller can legally sell the home.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f03.png",
+        "say": "Two. They go over your agreement and the instructions from your lender.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f04.png",
+        "say": "Three. They arrange title insurance and get ready to register the transfer.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f05.png",
+        "say": "Four. They prepare a statement showing exactly what you owe on closing.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r1-frames/f06.png",
+        "say": "Save this for your closing week, and call me at nine oh five, four five two, four two nine eight!",
+        "min": 4.0
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "4 *things your *lawyer does before *closing day"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "search",
+          "text": "Searches the title to confirm the seller can legally sell the home."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Reviews your agreement and your mortgage instructions from the lender."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "shield",
+          "text": "Arranges title insurance and prepares to register the transfer."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Prepares a statement showing the exact amount you owe on closing."
+        },
+        {
+          "kind": "cta",
+          "text": "Save this for *your *closing *week",
+          "fine": "General information only, not legal, tax or mortgage advice. Steps vary by purchase."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "search",
-     "text": "Searches the title to confirm the seller can legally sell the home."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Reviews your agreement and your mortgage instructions from the lender."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "shield",
-     "text": "Arranges title insurance and prepares to register the transfer."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Prepares a statement showing the exact amount you owe on closing."
-    },
-    {
-     "kind": "cta",
-     "text": "Save this for *your *closing *week",
-     "fine": "General information only, not legal, tax or mortgage advice. Steps vary by purchase."
-    }
-   ]
-  }
- },
- {
-  "id": "d20261026-f1",
-  "type": "feed",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-f1.png",
-  "publish_at": "2026-10-26T16:30:00-04:00",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "caption": "Eyeing a pre-construction townhome in Mississauga? Read the fine print before you sign.\n\nSouth Banks, Mississauga, by Deco Homes & Opus Homes: townhomes from $621,489 per the builder price list (before any rebates). Estimated occupancy: 2029, per the price list. Image: artist's concept, actual product may vary. Incentives, rebates and conditions: ask for the current builder details. Pricing, availability and incentives are subject to change without notice. E.&O.E.\n\nRegister your interest: Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #precon #peelregion #keyswithkrishna"
- },
- {
-  "id": "d20261026-s1",
-  "type": "story",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-s1.mp4",
-  "publish_at": "2026-10-26T19:00:00-04:00",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "caption": "Is the GTA slowing? September's numbers.\n\nTRREB reported 5,040 GTA home sales in September 2026, down 9% from September 2025. New listings were 16,500, down 14.4% year over year, and the MLS® Home Price Index Composite benchmark was down 4.7% year over year. The average selling price was $1,006,409. Source: TRREB Market Watch, September 2026 (released Oct 6, 2026). General information only, not advice.\n\nBuying or selling in the GTA? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna"
- },
- {
-  "id": "d20261026-r2",
-  "type": "reel",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r2.mp4",
-  "publish_at": "2026-10-26T21:00:00-04:00",
-  "theme": "dark",
-  "caption": "Selling in Georgetown? Avoid these 4 mistakes.\n\n1) Pricing from emotion, not from recent sold prices of similar homes. 2) Skipping the basics: a deep clean, decluttering and small repairs. 3) Starting big renovations before asking if they are worth it. 4) Looking only at price and ignoring conditions and the closing date.\n\nSend this to someone thinking of selling. General information only, not legal, tax or mortgage advice. Results vary.\n\nThinking of selling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
-  "approved": true,
-  "status": "pending",
-  "frames": [
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f01.png",
-    "say": "Selling in Georgetown? Here are four mistakes to avoid before you list!",
-    "min": 3.0
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f02.png",
-    "say": "One. Don't price from emotion. Look at what similar homes recently sold for.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f03.png",
-    "say": "Two. Don't skip the basics: a deep clean, decluttering and small repairs.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f04.png",
-    "say": "Three. Don't start a big renovation before asking if it's worth it.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f05.png",
-    "say": "Four. Don't focus only on price. Check the conditions and closing date too.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-10-26/d20261026-r2-frames/f06.png",
-    "say": "Send this to someone thinking of selling, and call me at nine oh five, four five two, four two nine eight!",
-    "min": 4.0
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "SELLER TIPS",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Selling in Georgetown? Avoid these *4 *mistakes"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "chart",
-     "text": "Pricing from emotion, not from recent sold prices of similar homes."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "swatches",
-     "text": "Skipping the basics: a deep clean, decluttering and small repairs."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Starting big renovations before asking if they are worth it."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Looking only at price and ignoring conditions and the closing date."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to someone *thinking *of *selling",
-     "fine": "General information only, not legal, tax or mortgage advice. Results vary."
-    }
-   ]
+    "vo_status": "done",
+    "vo_seconds": 23.5,
+    "vo_frame_seconds": [
+      3.89,
+      4.0,
+      3.42,
+      3.91,
+      3.97,
+      4.35
+    ]
   },
-  "trial": true,
-  "audience": "seller"
- }
+  {
+    "id": "d20261026-f1",
+    "type": "feed",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-f1.png",
+    "publish_at": "2026-10-26T16:30:00-04:00",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "caption": "Eyeing a pre-construction townhome in Mississauga? Read the fine print before you sign.\n\nSouth Banks, Mississauga, by Deco Homes & Opus Homes: townhomes from $621,489 per the builder price list (before any rebates). Estimated occupancy: 2029, per the price list. Image: artist's concept, actual product may vary. Incentives, rebates and conditions: ask for the current builder details. Pricing, availability and incentives are subject to change without notice. E.&O.E.\n\nRegister your interest: Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #precon #peelregion #keyswithkrishna"
+  },
+  {
+    "id": "d20261026-s1",
+    "type": "story",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-s1.mp4",
+    "publish_at": "2026-10-26T19:00:00-04:00",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "caption": "Is the GTA slowing? September's numbers.\n\nTRREB reported 5,040 GTA home sales in September 2026, down 9% from September 2025. New listings were 16,500, down 14.4% year over year, and the MLS\u00ae Home Price Index Composite benchmark was down 4.7% year over year. The average selling price was $1,006,409. Source: TRREB Market Watch, September 2026 (released Oct 6, 2026). General information only, not advice.\n\nBuying or selling in the GTA? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #torontorealestate #keyswithkrishna"
+  },
+  {
+    "id": "d20261026-r2",
+    "type": "reel",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r2-vo15712.mp4",
+    "publish_at": "2026-10-26T21:00:00-04:00",
+    "theme": "dark",
+    "caption": "Selling in Georgetown? Avoid these 4 mistakes.\n\n1) Pricing from emotion, not from recent sold prices of similar homes. 2) Skipping the basics: a deep clean, decluttering and small repairs. 3) Starting big renovations before asking if they are worth it. 4) Looking only at price and ignoring conditions and the closing date.\n\nSend this to someone thinking of selling. General information only, not legal, tax or mortgage advice. Results vary.\n\nThinking of selling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+    "approved": true,
+    "status": "pending",
+    "frames": [
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f01.png",
+        "say": "Selling in Georgetown? Here are four mistakes to avoid before you list!",
+        "min": 3.0
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f02.png",
+        "say": "One. Don't price from emotion. Look at what similar homes recently sold for.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f03.png",
+        "say": "Two. Don't skip the basics: a deep clean, decluttering and small repairs.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f04.png",
+        "say": "Three. Don't start a big renovation before asking if it's worth it.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f05.png",
+        "say": "Four. Don't focus only on price. Check the conditions and closing date too.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-10-26/d20261026-r2-frames/f06.png",
+        "say": "Send this to someone thinking of selling, and call me at nine oh five, four five two, four two nine eight!",
+        "min": 4.0
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "SELLER TIPS",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Selling in Georgetown? Avoid these *4 *mistakes"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "chart",
+          "text": "Pricing from emotion, not from recent sold prices of similar homes."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "swatches",
+          "text": "Skipping the basics: a deep clean, decluttering and small repairs."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Starting big renovations before asking if they are worth it."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Looking only at price and ignoring conditions and the closing date."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to someone *thinking *of *selling",
+          "fine": "General information only, not legal, tax or mortgage advice. Results vary."
+        }
+      ]
+    },
+    "trial": true,
+    "audience": "seller",
+    "vo_status": "done",
+    "vo_seconds": 24.6,
+    "vo_frame_seconds": [
+      3.57,
+      4.66,
+      4.05,
+      3.5,
+      3.83,
+      4.95
+    ]
+  }
 ]
