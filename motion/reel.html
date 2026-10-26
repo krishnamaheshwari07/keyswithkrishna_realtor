@@ -57,6 +57,11 @@ body.light .tlabel{color:var(--teal)}
 body.light .tval{color:#00784e;text-shadow:none}
 .tsub{position:absolute;left:80px;right:80px;top:870px;color:#fff;font-weight:700;font-size:44px}
 body.light .tsub{color:var(--teal)}
+.newsband{position:absolute;left:80px;top:260px;background:#e2574c;color:#fff;font-weight:900;letter-spacing:.16em;font-size:34px;padding:14px 28px;border-radius:12px;display:flex;align-items:center;gap:16px}
+.newsband .dot{width:18px;height:18px;border-radius:50%;background:#fff}
+.newscard{position:absolute;left:80px;right:80px;top:380px;background:#fff;border-radius:30px;padding:44px 48px;box-shadow:0 30px 60px rgba(0,0,0,.3);border-left:16px solid #e2574c}
+.nsrc{font-weight:800;font-size:30px;color:#6b7f85;letter-spacing:.04em;margin-bottom:18px}
+.nhead{font-family:"Playfair Display";font-weight:900;font-size:78px;line-height:1.08;color:#082035}
 .propbox{position:absolute;left:90px;width:900px;height:760px;top:900px}
 .prop{width:900px;height:760px;overflow:visible;filter:drop-shadow(0 22px 30px rgba(3,43,56,.28))}
 svg g[data-anim]{transform-box:view-box}
@@ -92,6 +97,13 @@ S.scenes.forEach((sc, k) => {
       <div class="hookstack"><div class="hook2" data-anim="slam:0.0:0.28">${sc.text.replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>${kick}
       ${sc.tease ? `<div class="tease" data-anim="teaseIn:0.55:0.35">${sc.tease}</div>` : ""}</div>
       <div class="propbox hookprop" data-anim="shake:0.0:0.6">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
+  } else if (sc.kind === "news") {   // Market Watch: a sourced, dated headline card with a breaking-news banner
+    h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
+      <div class="newsband" data-anim="wipeL:0.05:0.35"><span class="dot"></span>MARKET WATCH</div>
+      <div class="newscard" data-anim="riseIn:0.15:0.5"><div class="nsrc">${sc.source || ""}${sc.date ? " · " + sc.date : ""}</div>
+        <div class="nhead">${words(sc.text, 0.4, 0.05)}</div></div>
+      ${sc.note ? `<div class="note2" style="top:1180px" data-anim="fadeUp:0.8:0.4">${sc.note}</div>` : ""}
+      <div class="propbox" style="top:1200px" data-anim="fadeUp:0.3:0.4"><div style="transform:scale(.55);transform-origin:center top">${PROPS.chart()}</div></div>`;
   } else if (sc.kind === "calc") {   // money-math step: label, big counting value, formula line, running total
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
@@ -143,6 +155,7 @@ const A = {
   kickIn: p => `transform:scale(${p >= 1 ? 1 : back(p)}) rotate(${(1 - ease(p)) * -8}deg)`,
   teaseIn: p => `opacity:${p};transform:translateX(${(1 - back(p)) * -300}px)`,
   shake: p => `transform:rotate(${Math.sin(p * Math.PI * 6) * 4 * (1 - p)}deg) scale(${1 + 0.05 * Math.sin(p * Math.PI)})`,
+  wipeL: p => `clip-path:inset(0 ${100 - 100 * ease(p)}% 0 0)`,
   pulse: p => `transform:scale(${1 + 0.06 * Math.max(0, Math.sin(p * Math.PI * 6))})`,
 };
 [0, 1, 2, 3, 4].forEach(i => { const ang = (i - 2) * 16; A["fan" + i] = p => `opacity:${Math.min(1, p * 3)};transform:rotate(${ang * back(p)}deg) translateY(${(1 - ease(p)) * 500}px)`; });
@@ -190,6 +203,7 @@ window.sfxEvents = () => {
     else if (["popIn", "kickIn"].includes(a.n)) ev.push({ t: a.at + 0.03, s: "pop", v: 0.8 });
     else if (a.n === "slam") ev.push({ t: a.at, s: "thud", v: 0.6 });
     else if (a.n === "teaseIn") ev.push({ t: a.at + 0.05, s: "pop", v: 0.5 });
+    else if (a.n === "wipeL") ev.push({ t: a.at, s: "whoosh", v: 0.7 });
   });
   counts.forEach(c => {
     for (let x = 0; x < c.du; x += 0.085) ev.push({ t: c.at + x, s: "tick", v: 0.5 });

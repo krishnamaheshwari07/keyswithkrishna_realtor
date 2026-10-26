@@ -1,12 +1,13 @@
 """Add royalty-free music from posts/audio/ to a Reel (replaces its audio) or turn a Story image into a short video with music.
-Usage:
+Usage (optional --mood=tense picks from posts/audio/tense/):
   python3 scripts/add_music.py reel  <in.mp4> <out.mp4> <seed>
   python3 scripts/add_music.py story <in.png> <out.mp4> <seed> [seconds=8]
 The seed (e.g. the item id) picks the track and start point, so tracks rotate between posts."""
 import glob, hashlib, subprocess, sys
 
-def pick(seed):
-    tracks = sorted(glob.glob("posts/audio/*.mp3"))
+def pick(seed, mood=None):
+    tracks = sorted(glob.glob(f"posts/audio/{mood}/*.mp3")) if mood else []
+    tracks = tracks or sorted(glob.glob("posts/audio/*.mp3"))
     if not tracks:
         sys.exit("no tracks in posts/audio")
     h = int(hashlib.sha256(seed.encode()).hexdigest(), 16)
@@ -23,7 +24,9 @@ def audio_args(track, h, length):
 
 def main():
     kind, src, out, seed = sys.argv[1:5]
-    track, h = pick(seed)
+    mood = next((a.split("=", 1)[1] for a in sys.argv[5:] if a.startswith("--mood=")), None)
+    sys.argv = [a for a in sys.argv if not a.startswith("--mood=")]
+    track, h = pick(seed, mood)
     if kind == "reel":
         length = dur(src)
         a, af = audio_args(track, h, length)

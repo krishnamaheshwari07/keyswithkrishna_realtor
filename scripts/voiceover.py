@@ -63,8 +63,9 @@ def build_sfx(cues_path, total, sr=48000, gain=0.30):
         w = bank[c["s"]] * c.get("v", 1) * gain; i = int(c["t"] * sr); track[i:i + len(w)] += w[: len(track) - i]
     out = cues_path.replace(".sfx.json", "-sfx.wav"); sf.write(out, np.clip(track, -1, 1), sr); return out
 
-def music(seed):
-    tracks = sorted(glob.glob("posts/audio/*.mp3"))
+def music(seed, mood=None):
+    tracks = sorted(glob.glob(f"posts/audio/{mood}/*.mp3")) if mood else []   # e.g. posts/audio/tense/ for Market Watch
+    tracks = tracks or sorted(glob.glob("posts/audio/*.mp3"))
     h = int(hashlib.sha256(seed.encode()).hexdigest(), 16)
     return (tracks[h % len(tracks)], h >> 16) if tracks else (None, 0)
 
@@ -101,7 +102,7 @@ def build(m, prompt, it):
     base = it["media_url"].split("/main/", 1)[1].rsplit(".", 1)[0]
     out = f"{base}-vo{int(time.time()) % 100000}.mp4"   # new name each run (no stale copies/caches)
     tmp_out = f"{W}/{os.path.basename(out)}"; STAGED[out] = tmp_out
-    track, h = music(it["id"])
+    track, h = music(it["id"], it.get("music_mood"))
     venc = ["-c:v", "libx264", "-profile:v", "high", "-level", "4.0", "-pix_fmt", "yuv420p", "-r", "30", "-g", "30",
             "-b:v", "1800k", "-maxrate", "2200k", "-bufsize", "3000k"]
     if track:
