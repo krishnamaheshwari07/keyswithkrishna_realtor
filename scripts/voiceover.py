@@ -51,6 +51,18 @@ def voice_prompt():
     ref = f"{W}/ref.wav"; sh("ffmpeg", "-y", "-v", "error", "-ss", f"{a:.2f}", "-to", f"{b:.2f}", "-i", src, ref)
     return ref, "".join(w.word for w in ws[:best + 1]).strip()
 
+def build_sfx(cues_path, total, sr=48000, gain=0.30):
+    """Mix the sound-effect cues (motion/sfx/*.wav) into one track; gain keeps them under the voice."""
+    import numpy as np, soundfile as sf
+    try: cues = json.load(open(cues_path))
+    except Exception: return None
+    if not cues: return None
+    track = np.zeros(int((total + 1) * sr), dtype=np.float32); bank = {}
+    for c in cues:
+        if c["s"] not in bank: bank[c["s"]] = sf.read(f"motion/sfx/{c['s']}.wav", dtype="float32")[0]
+        w = bank[c["s"]] * c.get("v", 1) * gain; i = int(c["t"] * sr); track[i:i + len(w)] += w[: len(track) - i]
+    out = cues_path.replace(".sfx.json", "-sfx.wav"); sf.write(out, np.clip(track, -1, 1), sr); return out
+
 def music(seed):
     tracks = sorted(glob.glob("posts/audio/*.mp3"))
     h = int(hashlib.sha256(seed.encode()).hexdigest(), 16)
@@ -78,7 +90,9 @@ def build(m, prompt, it):
         silent = f"{W}/{it['id']}-silent.mp4"
         sh("python", "scripts/render_motion.py", spec, json.dumps([round(d, 3) for d in durs]), silent)
         vin = ["-i", silent]
+        sfx_track = build_sfx(silent + ".sfx.json", total)
     else:                  # static frames
+        sfx_track = None
         lst = f"{W}/{it['id']}.txt"
         with open(lst, "w") as fh:
             for f, d in zip(frames, durs): fh.write(f"file '{os.path.abspath(f['img'])}'\nduration {d:.3f}\n")
@@ -94,8 +108,9 @@ def build(m, prompt, it):
         start = h % max(1, int(min(25, dur(track) - total - 1)))
         fc = (f"[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
               f"[2:a]loudnorm=I=-16:TP=-1.5,aresample=48000,volume=0.16,afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
-              f"[vo][mu]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
-        cmd = ["ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-ss", str(start), "-i", track,
+              + (f"[3:a]aresample=48000[fx];[vo][mu][fx]amix=inputs=3:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track
+                 else f"[vo][mu]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]"))
+        cmd = ["ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-ss", str(start), "-i", track, *(["-i", sfx_track] if sfx_track else []),
                "-filter_complex", fc, "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     else:
         cmd = ["ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-filter_complex",

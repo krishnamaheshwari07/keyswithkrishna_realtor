@@ -20,6 +20,8 @@ with sync_playwright() as pw:
     b = pw.chromium.launch(executable_path=exe) if pathlib.Path(exe).exists() else pw.chromium.launch()
     pg = b.new_page(viewport={"width": 1080, "height": 1920})
     pg.goto(page_path.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready")
+    sfx = pg.evaluate("window.sfxEvents ? sfxEvents() : []")
+    json.dump(sfx, open(out + ".sfx.json", "w"))
     for i in range(n):
         # frame 0 = the finished hook screen, so Instagram/Facebook/TikTok use it as the cover (not a blank frame)
         pg.evaluate(f"renderAt({min(1.2, durs[0] - 0.35) if i == 0 else i / FPS})")
