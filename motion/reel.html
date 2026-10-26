@@ -37,6 +37,13 @@ body.light .of{color:var(--teal)}
 .pt{position:absolute;left:80px;right:80px;top:400px;font-weight:800;font-size:76px;line-height:1.14;color:#fff}
 .note{position:absolute;left:80px;right:80px;top:850px;color:#cfe3e6;font-size:26px;font-weight:500}
 body.light .note{color:#4a6a72}
+.hookstack{position:absolute;left:70px;right:70px;top:250px;display:flex;flex-direction:column;align-items:flex-start;gap:30px}
+.hook2{font-family:"Playfair Display";font-weight:900;font-size:124px;line-height:1.02;color:#fff;text-shadow:0 8px 30px rgba(0,0,0,.25)}
+body.light .hook2{color:var(--teal)}
+.kick{background:var(--gold);color:var(--navy);font-weight:900;font-size:74px;padding:10px 34px;border-radius:22px;transform-origin:left center}
+.tease{background:rgba(255,255,255,.14);color:#fff;font-weight:800;font-size:40px;padding:14px 28px;border-radius:40px;border:3px solid var(--gold)}
+body.light .tease{background:#eef6f3;color:var(--teal)}
+.hookprop{top:980px;transform-origin:450px 380px}
 .propbox{position:absolute;left:90px;width:900px;height:760px;top:900px}
 .prop{width:900px;height:760px;overflow:visible;filter:drop-shadow(0 22px 30px rgba(3,43,56,.28))}
 svg g[data-anim]{transform-box:view-box}
@@ -66,10 +73,12 @@ const words = (txt, base, step) => txt.split(/\s+/).map((w, i) => {
 const root = document.getElementById("scenes");
 S.scenes.forEach((sc, k) => {
   const el = document.createElement("div"); el.className = "scene"; el.dataset.k = k; let h = "";
-  if (sc.kind === "hook") {
-    h = `<div class="area" data-anim="fadeUp:0.05:0.35">${S.area}</div>
-      <div class="wedge" data-anim="wipeIn:0.1:0.5"></div><div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>
-      <div class="hook">${words(sc.text, 0.15, 0.09)}</div>`;
+  if (sc.kind === "hook") {   // Oct 26 hook redesign: short line on screen instantly, big moving visual, curiosity tease, no headshot
+    const kick = sc.kick ? `<div class="kick" data-anim="kickIn:0.0:0.35">${sc.kick}</div>` : "";
+    h = `<div class="area" data-anim="fadeUp:0.0:0.2">${S.area}</div>
+      <div class="hookstack"><div class="hook2" data-anim="slam:0.0:0.28">${sc.text.replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>${kick}
+      ${sc.tease ? `<div class="tease" data-anim="teaseIn:0.55:0.35">${sc.tease}</div>` : ""}</div>
+      <div class="propbox hookprop" data-anim="shake:0.0:0.6">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
   } else if (sc.kind === "point") {
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
@@ -102,6 +111,10 @@ const A = {
   growUp: p => `transform:scaleY(${back(p)})`,
   scan: p => `opacity:${Math.min(1, p * 5)};transform:translate(${Math.sin(p * Math.PI * 2) * -180}px,${Math.sin(p * Math.PI) * 60}px)`,
   coinDrop: p => `opacity:${p < 0.85 ? 1 : (1 - p) / 0.15};transform:translateY(${ease(p) * 230}px)`,
+  slam: p => `transform:scale(${p >= 1 ? 1 : 1.35 - 0.35 * ease(p)});filter:blur(${(1 - Math.min(1, p * 1.4)) * 6}px)`,
+  kickIn: p => `transform:scale(${p >= 1 ? 1 : back(p)}) rotate(${(1 - ease(p)) * -8}deg)`,
+  teaseIn: p => `opacity:${p};transform:translateX(${(1 - back(p)) * -300}px)`,
+  shake: p => `transform:rotate(${Math.sin(p * Math.PI * 6) * 4 * (1 - p)}deg) scale(${1 + 0.05 * Math.sin(p * Math.PI)})`,
   pulse: p => `transform:scale(${1 + 0.06 * Math.max(0, Math.sin(p * Math.PI * 6))})`,
 };
 [0, 1, 2, 3, 4].forEach(i => { const ang = (i - 2) * 16; A["fan" + i] = p => `opacity:${Math.min(1, p * 3)};transform:rotate(${ang * back(p)}deg) translateY(${(1 - ease(p)) * 500}px)`; });

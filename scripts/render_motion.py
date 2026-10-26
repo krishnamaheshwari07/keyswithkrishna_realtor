@@ -22,7 +22,7 @@ with sync_playwright() as pw:
     pg.goto(page_path.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready")
     for i in range(n):
         # frame 0 = the finished hook screen, so Instagram/Facebook/TikTok use it as the cover (not a blank frame)
-        pg.evaluate(f"renderAt({min(2.4, durs[0] - 0.35) if i == 0 else i / FPS})")
+        pg.evaluate(f"renderAt({min(1.2, durs[0] - 0.35) if i == 0 else i / FPS})")
         p.stdin.write(pg.screenshot(type="jpeg", quality=90))
     b.close()
 p.stdin.close(); p.wait(); page_path.unlink(missing_ok=True)
