@@ -44,6 +44,19 @@ body.light .hook2{color:var(--teal)}
 .tease{background:rgba(255,255,255,.14);color:#fff;font-weight:800;font-size:40px;padding:14px 28px;border-radius:40px;border:3px solid var(--gold)}
 body.light .tease{background:#eef6f3;color:var(--teal)}
 .hookprop{top:980px;transform-origin:450px 380px}
+ .calcbox{position:absolute;left:80px;right:80px;top:880px;background:rgba(255,255,255,.96);border-radius:36px;padding:50px 50px 44px;box-shadow:0 30px 60px rgba(0,0,0,.25);border:6px solid var(--gold)}
+.cval{font-weight:900;font-size:150px;line-height:1;color:var(--teal);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.cform{margin-top:22px;font-weight:600;font-size:36px;color:#4a6a72}
+.crun{position:absolute;left:80px;top:1370px;display:flex;align-items:center;gap:24px;background:var(--gold);color:var(--navy);border-radius:28px;padding:22px 36px;font-weight:800}
+.crun span{font-size:32px;letter-spacing:.06em;text-transform:uppercase}.crun b{font-size:60px;font-variant-numeric:tabular-nums}
+.note2{position:absolute;left:80px;right:80px;top:1560px;color:#cfe3e6;font-size:26px;font-weight:500;line-height:1.35}
+body.light .note2{color:#4a6a72}
+.tlabel{position:absolute;left:80px;right:80px;top:330px;font-family:"Playfair Display";font-weight:900;font-size:96px;line-height:1.06;color:#fff}
+body.light .tlabel{color:var(--teal)}
+.tval{position:absolute;left:80px;top:640px;font-weight:900;font-size:190px;line-height:1;color:var(--gold);font-variant-numeric:tabular-nums;text-shadow:0 0 60px rgba(250,201,81,.45);transform-origin:left center}
+body.light .tval{color:#00784e;text-shadow:none}
+.tsub{position:absolute;left:80px;right:80px;top:870px;color:#fff;font-weight:700;font-size:44px}
+body.light .tsub{color:var(--teal)}
 .propbox{position:absolute;left:90px;width:900px;height:760px;top:900px}
 .prop{width:900px;height:760px;overflow:visible;filter:drop-shadow(0 22px 30px rgba(3,43,56,.28))}
 svg g[data-anim]{transform-box:view-box}
@@ -79,6 +92,21 @@ S.scenes.forEach((sc, k) => {
       <div class="hookstack"><div class="hook2" data-anim="slam:0.0:0.28">${sc.text.replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>${kick}
       ${sc.tease ? `<div class="tease" data-anim="teaseIn:0.55:0.35">${sc.tease}</div>` : ""}</div>
       <div class="propbox hookprop" data-anim="shake:0.0:0.6">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
+  } else if (sc.kind === "calc") {   // money-math step: label, big counting value, formula line, running total
+    h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
+      <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
+      <div class="pt">${words(sc.text, 0.12, 0.05)}</div>
+      <div class="calcbox" data-anim="riseIn:0.25:0.5"><div class="cval" data-count="${sc.value}" data-at="0.45" data-du="0.9">${sc.value}</div>
+        ${sc.formula ? `<div class="cform">${sc.formula}</div>` : ""}</div>
+      ${sc.running ? `<div class="crun" data-anim="popIn:1.1:0.4"><span>Running total</span><b data-count="${sc.running}" data-at="1.2" data-du="0.6">${sc.running}</b></div>` : ""}
+      ${sc.note ? `<div class="note2" data-anim="fadeUp:0.6:0.4">${sc.note}</div>` : ""}`;
+  } else if (sc.kind === "total") {
+    h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
+      <div class="tlabel">${words(sc.text, 0.05, 0.06)}</div>
+      <div class="tval" data-anim="slam:0.35:0.35"><span data-count="${sc.value}" data-at="0.4" data-du="1.3">${sc.value}</span></div>
+      ${sc.sub ? `<div class="tsub" data-anim="fadeUp:1.4:0.4">${sc.sub}</div>` : ""}
+      ${sc.note ? `<div class="note2" data-anim="fadeUp:1.6:0.4">${sc.note}</div>` : ""}
+      <div class="propbox" style="top:1010px" data-anim="fadeUp:0.2:0.4"><div style="transform:scale(.6);transform-origin:center top">${PROPS.piggy()}</div></div>`;
   } else if (sc.kind === "point") {
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
@@ -128,6 +156,12 @@ function trans(kind, p, dir) { // dir: 1 = entering (p 0->1), -1 = leaving (p 0-
 const anims = [...document.querySelectorAll("[data-anim]")].map(el => {
   const [n, dl, du] = el.dataset.anim.split(":"); const k = +el.closest(".scene").dataset.k; return { el, n, at: START[k] + +dl, du: +du };
 });
+const counts = [...document.querySelectorAll("[data-count]")].map(el => {   // count a value up from 0 (keeps $, commas, %, decimals)
+  const full = el.dataset.count, k = +el.closest(".scene").dataset.k, m = full.match(/[\d][\d,]*(\.\d+)?/);
+  if (!m) return null; const num = parseFloat(m[0].replace(/,/g, "")), dec = m[1] ? m[1].length - 1 : 0;
+  const fmt = v => full.replace(m[0], v.toLocaleString("en-CA", {minimumFractionDigits: dec, maximumFractionDigits: dec}));
+  return { el, full, num, fmt, at: START[k] + +el.dataset.at, du: +el.dataset.du };
+}).filter(Boolean);
 window.renderAt = t => {
   document.getElementById("prog").style.width = (100 * t / TOTAL) + "%";
   document.getElementById("b1").style.transform = `translate(${Math.sin(t * 0.6) * 120}px,${Math.cos(t * 0.4) * 160}px)`;
@@ -140,6 +174,7 @@ window.renderAt = t => {
     else if (k > 0 && t < s + TD) css = trans(TRANS[(k - 1) % 3], (t - s) / TD, 1);
     el.style.cssText = css + (!last && t >= e ? ";z-index:1" : ";z-index:2");
   });
+  counts.forEach(c => { const p = Math.max(0, Math.min(1, (t - c.at) / c.du)); c.el.textContent = p >= 1 ? c.full : c.fmt(c.num * ease(p)); });
   anims.forEach(a => { let p = (t - a.at) / a.du; p = Math.max(0, Math.min(1, p));
     if (a.n === "pulse" || a.n === "swing") { a.el.style.cssText = A[a.n](p); return; }
     a.el.style.cssText = A[a.n] ? A[a.n](p) : ""; });
