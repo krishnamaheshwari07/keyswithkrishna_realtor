@@ -101,7 +101,8 @@
     "tt_publish_id": "v_inbox_file~v2.7701053945963989044",
     "tt_status": "SEND_TO_USER_INBOX",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r1-cover.jpg",
-    "fb_thumb_fix": true
+    "fb_thumb_fix": true,
+    "fb_thumb": "set"
   },
   {
     "id": "d20261026-f1",
@@ -249,7 +250,8 @@
     "tt_publish_id": "v_inbox_file~v2.7701015078444271637",
     "tt_status": "SEND_TO_USER_INBOX",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r2-cover.jpg",
-    "fb_thumb_fix": true
+    "fb_thumb_fix": true,
+    "fb_thumb": "set"
   },
   {
     "id": "x20261026-ratehike",
@@ -376,7 +378,8 @@
     "tt_publish_id": "v_inbox_file~v2.7701138664983087111",
     "tt_status": "SEND_TO_USER_INBOX",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/x20261026-ratehike-cover.jpg",
-    "fb_thumb_fix": true
+    "fb_thumb_fix": true,
+    "fb_thumb": "failed: {\"error\":{\"message\":\"Unsupported post request. Object with ID '1915107846564287' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph "
   },
   {
     "id": "x20261026-ratehike2",
@@ -503,6 +506,7 @@
     "tt_publish_id": "v_inbox_file~v2.7701169529862506503",
     "tt_status": "SEND_TO_USER_INBOX",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/x20261026-ratehike2-cover.jpg",
-    "fb_thumb_fix": true
+    "fb_thumb_fix": true,
+    "fb_thumb": "set"
   }
 ]
