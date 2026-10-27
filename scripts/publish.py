@@ -51,6 +51,21 @@ def fb_video_check(vid):
         time.sleep(10)
     raise RuntimeError("facebook video still processing after 5 min: " + json.dumps(st)[:200])
 
+def fb_thumb(vid, img_url):
+    """Make the hook frame the Facebook cover (otherwise Facebook picks a frame from the middle; Krishna, Oct 26)."""
+    with urllib.request.urlopen(img_url, timeout=60) as r: img = r.read()
+    bnd = "kwk" + str(int(time.time() * 1000))
+    parts = []
+    for k, val in {"access_token": PTOK, "is_preferred": "true"}.items():
+        parts.append(f'--{bnd}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{val}\r\n'.encode())
+    parts.append(f'--{bnd}\r\nContent-Disposition: form-data; name="source"; filename="cover.jpg"\r\nContent-Type: image/jpeg\r\n\r\n'.encode() + img + b"\r\n")
+    body = b"".join(parts) + f"--{bnd}--\r\n".encode()
+    req = urllib.request.Request(f"{FB}/{vid}/thumbnails", body, headers={"Content-Type": f"multipart/form-data; boundary={bnd}"})
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r: return json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(e.read().decode()[:250])
+
 def fb_publish(item):
     t, cap = item["type"], item.get("caption", "")
     url = item.get("media_url", "")
@@ -79,6 +94,11 @@ def fb_publish(item):
         urllib.request.urlopen(req, timeout=180).read()
         fb(f"{PID}/video_reels", {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap})
         fb_video_check(vid)
+        if item.get("cover_url"):
+            try:
+                fb_thumb(vid, item["cover_url"]); item["fb_thumb"] = "set"
+            except Exception as e:
+                item["fb_thumb"] = "failed: " + str(e)[:200]
         return vid
     raise ValueError(t)
 
@@ -100,6 +120,7 @@ def publish(item):
         p.pop("caption")
     elif t == "reel":
         p["media_type"] = "REELS"; p["video_url"] = item["media_url"]
+        if item.get("cover_url"): p["cover_url"] = item["cover_url"]   # hook frame as the Instagram cover
         if item.get("trial"):   # Instagram Trial Reel: shown to non-followers first, joins the profile if it performs (Krishna, Oct 25)
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
     elif t == "carousel":
@@ -130,6 +151,13 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
             except Exception as e:
                 it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
             changed = True; print(it["id"], "facebook backfill", it["fb_status"], it.get("fb_error", ""))
+            continue
+        if it.get("status") == "posted" and it.get("fb_thumb_fix") and it.get("fb_id") and it.get("cover_url") and "fb_thumb" not in it and PID and PTOK:
+            try:
+                fb_thumb(it["fb_id"], it["cover_url"]); it["fb_thumb"] = "set"
+            except Exception as e:
+                it["fb_thumb"] = "failed: " + str(e)[:200]
+            changed = True; print(it["id"], "facebook cover fix", it["fb_thumb"])
             continue
         if it.get("status") != "pending" or not it.get("approved"): continue
         if datetime.fromisoformat(it["publish_at"]) > now: continue

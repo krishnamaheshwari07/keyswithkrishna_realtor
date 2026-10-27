@@ -99,7 +99,9 @@
     "fb_id": "1876304600479939",
     "fb_status": "posted",
     "tt_publish_id": "v_inbox_file~v2.7701053945963989044",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r1-cover.jpg",
+    "fb_thumb_fix": true
   },
   {
     "id": "d20261026-f1",
@@ -245,7 +247,9 @@
     "fb_id": "1164519442994967",
     "fb_status": "posted",
     "tt_publish_id": "v_inbox_file~v2.7701015078444271637",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/d20261026-r2-cover.jpg",
+    "fb_thumb_fix": true
   },
   {
     "id": "x20261026-ratehike",
@@ -370,7 +374,9 @@
     "fb_id": "1915107846564287",
     "fb_status": "posted",
     "tt_publish_id": "v_inbox_file~v2.7701138664983087111",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/x20261026-ratehike-cover.jpg",
+    "fb_thumb_fix": true
   },
   {
     "id": "x20261026-ratehike2",
@@ -495,6 +501,8 @@
     "fb_id": "1470168458310346",
     "fb_status": "posted",
     "tt_publish_id": "v_inbox_file~v2.7701169529862506503",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-26/x20261026-ratehike2-cover.jpg",
+    "fb_thumb_fix": true
   }
 ]

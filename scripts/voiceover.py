@@ -118,6 +118,13 @@ def build(m, prompt, it):
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
+    # cover image = the finished hook (Facebook otherwise picks a frame from the middle of the Reel; Krishna, Oct 26)
+    cover = f"{base}-cover.jpg"; tmp_cover = f"{W}/{os.path.basename(cover)}"
+    try:
+        sh("ffmpeg", "-y", "-v", "error", "-ss", f"{min(1.0, max(0.1, durs[0] - 0.4)):.2f}", "-i", tmp_out, "-frames:v", "1", "-q:v", "2", tmp_cover)
+        STAGED[cover] = tmp_cover; it["_cover"] = cover
+    except Exception as e:
+        print(it["id"], "cover failed:", e)
     print(it["id"], out, f"{total:.1f}s", "frames:", ", ".join(f"{d:.1f}" for d in durs), "music:", track)
     return out, total, durs
 
@@ -137,6 +144,7 @@ def save(results):
                 if it["id"] in upd and it.get("status") == "pending": it.update(upd[it["id"]])
             json.dump(items, open(path, "w"), indent=2); files.append(path)
             files += [u["media_url"].split("/main/", 1)[1] for u in upd.values() if "media_url" in u]
+            files += [u["cover_url"].split("/main/", 1)[1] for u in upd.values() if "cover_url" in u]
         sh("git", "add", *files)
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0: return
         sh("git", "-c", "user.name=kwk-bot", "-c", "user.email=bot@users.noreply.github.com", "commit", "-qm", "Add AI voiceover to Reels")
@@ -163,6 +171,7 @@ def main():
             out, total, durs = build(m, prompt, it)
             upd.update({"media_url": RAW + out, "vo_status": "done", "vo_seconds": round(total, 1),
                         "vo_frame_seconds": [round(d, 2) for d in durs], "caption": caption(it["caption"])})
+            if it.get("_cover"): upd["cover_url"] = RAW + it["_cover"]
         except Exception as e:
             upd.update({"vo_status": "failed", "vo_error": str(e)[:300]}); print(it["id"], "voiceover failed:", e)
         results.setdefault(path, {})[it["id"]] = upd
