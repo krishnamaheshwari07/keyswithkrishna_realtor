@@ -23,6 +23,8 @@ jobs:
           TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
           TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
           TIKTOK_MODE: ${{ vars.TIKTOK_MODE }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_TIKTOK_CHANNEL: ${{ vars.BUFFER_TIKTOK_CHANNEL }}
       - run: |
           git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
           git add -A posts data && (git commit -m "Update post statuses" && git push) || true
