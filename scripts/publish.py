@@ -38,11 +38,29 @@ def fb_get(path, fields):
     except urllib.error.HTTPError as e:
         raise RuntimeError(e.read().decode()[:250])
 
+def fb_exists(vid):
+    """True if the video shows up on the Page (the status read can fail right after upload even when the post went live)."""
+    for path in (f"{PID}/video_reels", f"{PID}/videos", f"{PID}/video_stories"):
+        try:
+            data = fb_get(path, "id").get("data", [])
+            if any(str(x.get("id")) == str(vid) or str(x.get("video_id")) == str(vid) for x in data): return True
+        except Exception:
+            pass
+    return False
+
 def fb_video_check(vid):
     """Wait until Facebook finishes processing an uploaded video; raise if any phase reports an error."""
-    st = {}
+    st = {}; misses = 0
     for _ in range(30):
-        st = fb_get(vid, "status").get("status", {})
+        try:
+            st = fb_get(vid, "status").get("status", {})
+        except RuntimeError as e:
+            if "does not exist" not in str(e): raise
+            misses += 1   # the status read is not always allowed right after upload (Oct 28): retry, then look for the video on the Page
+            if misses >= 4:
+                if fb_exists(vid): return
+                raise RuntimeError(f"facebook video {vid} not found after upload: " + str(e)[:150])
+            time.sleep(15); continue
         phases = {k: (v or {}).get("status") for k, v in st.items() if isinstance(v, dict)}
         if st.get("video_status") == "error" or "error" in phases.values():
             raise RuntimeError("facebook video processing error: " + json.dumps(st)[:220])
@@ -151,6 +169,14 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
             except Exception as e:
                 it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
             changed = True; print(it["id"], "facebook backfill", it["fb_status"], it.get("fb_error", ""))
+            continue
+        if (it.get("status") == "posted" and it.get("fb_status") == "failed" and "does not exist" in it.get("fb_error", "")
+                and not it.get("fb_rechecked") and PID and PTOK and path >= "posts/2026-10-21"):
+            import re
+            m = re.search(r"ID '(\d+)'", it["fb_error"]); it["fb_rechecked"] = True
+            if m and fb_exists(m.group(1)):
+                it["fb_status"] = "posted"; it["fb_id"] = m.group(1); it["fb_note"] = "verified on Page after a failed status read"
+            changed = True; print(it["id"], "facebook recheck", it["fb_status"])
             continue
         if it.get("status") == "posted" and it.get("tt_resend") and it["type"] == "reel" and tiktok.enabled():
             try:
