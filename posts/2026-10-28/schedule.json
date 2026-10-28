@@ -665,7 +665,10 @@
     "theme": "cream",
     "caption": "Brampton basement apartment? Ask this first.\n\n1) Permits: ask what permits and city records exist for the unit. 2) Legal and safe: ask your Realtor and lawyer to confirm it is permitted and up to code. 3) Lender and insurer: lenders count rental income differently, and your insurer should know about the unit.\n\nGeneral information only. Confirm details with the City of Brampton, your lawyer, lender and insurer.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
     "approved": true,
-    "status": "pending"
+    "status": "posted",
+    "ig_media_id": "18112837640173638",
+    "fb_status": "failed",
+    "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '1995155831154358' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook."
   },
   {
     "id": "d20261028-f2",
