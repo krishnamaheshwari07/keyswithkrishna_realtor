@@ -813,8 +813,9 @@
     "fb_status": "failed",
     "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '1552881623262431' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.",
     "tt_publish_id": "v_inbox_file~v2.7701795772357969921",
-    "tt_status": "SEND_TO_USER_INBOX",
-    "tt_resend": true,
-    "fb_rechecked": true
+    "tt_status": "failed",
+    "fb_rechecked": true,
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"202610290411054AB8A1AD5DE5569E1BDD\"}}",
+    "tt_resent_at": "2026-10-28T20:11+00:00"
   }
 ]
