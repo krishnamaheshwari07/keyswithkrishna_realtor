@@ -674,10 +674,10 @@
   {
     "id": "d20261028-boc",
     "type": "reel",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-boc.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-boc-vo99176.mp4",
     "publish_at": "2026-10-28T15:00:00-04:00",
     "theme": "dark",
-    "caption": "Rates just rose. What about your monthly mortgage?\n\nThe Bank of Canada raised its policy rate 0.25% to 2.5% today, its first hike since 2023, and says another increase could be needed.\n- Why: to keep high energy prices from spreading into broader inflation, now expected near 3.5% by year-end.\n- Variable rate: your monthly mortgage could rise about $13 per $100K owed if your lender's prime rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization; about $66 more a month on a $500K mortgage). With a fixed-payment variable, more of each monthly mortgage payment may go to interest instead.\n- Fixed rate: no change until renewal; fixed rates follow bond yields.\n- Buying: higher rates can lower what you qualify for under the stress test. Ask your lender about a rate hold.\n- Renewing soon: compare your options early. Next decision: Dec 9.\n\nSource: Bank of Canada, Oct 28, 2026; Reuters via BNN Bloomberg, Oct 28, 2026; example rate: Ratehub, Oct 28, 2026.\n\nDid this change your plans? Tell me below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice.\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage",
+    "caption": "Rates just rose. What about your monthly mortgage?\n\nThe Bank of Canada raised its policy rate 0.25% to 2.5% today, its first hike since 2023, and says another increase could be needed.\n- Why: to keep high energy prices from spreading into broader inflation, now expected near 3.5% by year-end.\n- Variable rate: your monthly mortgage could rise about $13 per $100K owed if your lender's prime rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization; about $66 more a month on a $500K mortgage). With a fixed-payment variable, more of each monthly mortgage payment may go to interest instead.\n- Fixed rate: no change until renewal; fixed rates follow bond yields.\n- Buying: higher rates can lower what you qualify for under the stress test. Ask your lender about a rate hold.\n- Renewing soon: compare your options early. Next decision: Dec 9.\n\nSource: Bank of Canada, Oct 28, 2026; Reuters via BNN Bloomberg, Oct 28, 2026; example rate: Ratehub, Oct 28, 2026.\n\nDid this change your plans? Tell me below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice.\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage",
     "approved": true,
     "status": "pending",
     "frames": [
@@ -717,7 +717,7 @@
         "min": 4.0
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "MARKET WATCH",
@@ -777,6 +777,18 @@
     },
     "series": "market-watch",
     "music_mood": "tense",
-    "note": "Bank of Canada Oct 28 decision Reel; replaces d20261028-r1 in the 3pm slot (Krishna, Oct 26)."
+    "note": "Bank of Canada Oct 28 decision Reel; replaces d20261028-r1 in the 3pm slot (Krishna, Oct 26).",
+    "vo_status": "done",
+    "vo_seconds": 27.0,
+    "vo_frame_seconds": [
+      2.85,
+      3.25,
+      3.9,
+      3.96,
+      3.7,
+      4.7,
+      4.62
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-boc-cover.jpg"
   }
 ]
