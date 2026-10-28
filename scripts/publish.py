@@ -152,6 +152,14 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
             changed = True; print(it["id"], "facebook backfill", it["fb_status"], it.get("fb_error", ""))
             continue
+        if it.get("status") == "posted" and it.get("tt_resend") and it["type"] == "reel" and tiktok.enabled():
+            try:
+                it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it); it.pop("tt_error", None)
+            except Exception as e:
+                it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
+            it.pop("tt_resend"); it["tt_resent_at"] = now.isoformat(timespec="minutes")
+            changed = True; print(it["id"], "tiktok resend", it["tt_status"], it.get("tt_error", ""))
+            continue
         if it.get("status") == "posted" and it.get("fb_thumb_fix") and it.get("fb_id") and it.get("cover_url") and "fb_thumb" not in it and PID and PTOK:
             try:
                 fb_thumb(it["fb_id"], it["cover_url"]); it["fb_thumb"] = "set"
