@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ontario Home Seller Checklist</title>
+<meta name="description" content="A step-by-step Ontario home selling checklist from prep to closing, by Krishna Rander, Realtor®, PROPERTY.CA INC., Brokerage.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;600;800&display=swap">
+<style>
+/* Keys with Krishna brand: deep teal, green, gold. Checklist sections in order of the buying journey. */
+:root{--bg:#ffffff;--fg:#032b38;--muted:#4a6a72;--band:#032b38;--band2:#00784e;--gold:#fac951;--card:#f4f8f7;--rule:#dbe6e4;--tick:#00784e;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#061d26;--fg:#e8f1ef;--muted:#9fb8bd;--card:#0b2a35;--rule:#18414d;--tick:#6ebe28;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#061d26;--fg:#e8f1ef;--muted:#9fb8bd;--card:#0b2a35;--rule:#18414d;--tick:#6ebe28;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Inter,system-ui,sans-serif}
+header{background:linear-gradient(135deg,var(--band),#02495f 55%,var(--band2));color:#fff;padding:36px 16px 30px}
+.wrap{max-width:760px;margin:0 auto}
+.mark{font-weight:800;letter-spacing:.2em;font-size:12px;color:var(--gold)}
+h1{font-family:"Playfair Display",Georgia,serif;font-weight:900;font-size:clamp(30px,7vw,46px);line-height:1.08;margin:10px 0 10px}
+.sub{color:#d3e6e3;margin:0}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px}
+.prog{flex:1 1 220px;height:12px;border-radius:8px;background:rgba(255,255,255,.18);overflow:hidden}
+.prog i{display:block;height:100%;width:0;background:var(--gold);transition:width .3s}
+.count{font-weight:800;font-size:14px;min-width:90px}
+button{font:inherit;font-weight:700;font-size:14px;border-radius:999px;padding:8px 16px;border:2px solid var(--gold);background:transparent;color:#fff;cursor:pointer}
+button.solid{background:var(--gold);color:#032b38}
+main{padding:24px 16px 48px}
+section{margin:0 0 26px}
+h2{font-family:"Playfair Display",Georgia,serif;font-size:24px;margin:0 0 4px;display:flex;gap:12px;align-items:baseline}
+h2 .n{font-family:Inter;font-weight:800;font-size:13px;background:var(--gold);color:#032b38;border-radius:999px;padding:3px 10px;flex:none}
+.when{color:var(--muted);font-size:14px;margin:0 0 12px}
+ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+li label{display:grid;grid-template-columns:26px 1fr;gap:12px;align-items:start;background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:12px 14px;cursor:pointer}
+li input{appearance:none;width:24px;height:24px;border:2px solid var(--tick);border-radius:7px;margin:2px 0 0;display:grid;place-content:center;background:transparent}
+li input:checked{background:var(--tick)}
+li input:checked::after{content:"";width:6px;height:12px;border:solid #fff;border-width:0 3px 3px 0;transform:rotate(45deg) translate(-1px,-1px)}
+li b{display:block;font-weight:800}
+li span{color:var(--muted);font-size:14.5px}
+li input:checked + div b{text-decoration:line-through;text-decoration-color:var(--tick)}
+.note{background:var(--card);border-left:5px solid var(--gold);border-radius:10px;padding:12px 14px;font-size:14.5px;color:var(--muted)}
+.cta{margin-top:30px;background:var(--band);color:#fff;border-radius:18px;padding:22px}
+.cta h3{font-family:"Playfair Display",Georgia,serif;font-size:24px;margin:0 0 6px}
+.cta a{color:var(--gold);font-weight:800;text-decoration:none;font-size:20px}
+footer{margin-top:26px;padding-top:16px;border-top:1px solid var(--rule);color:var(--muted);font-size:13px}
+footer .brand{color:var(--fg);font-weight:800;font-size:15px}
+footer a{color:inherit}
+@media print{header{background:none;color:#000;padding:0 0 10px}.mark,.sub{color:#000}.bar{display:none}li label{break-inside:avoid;background:none}.cta{background:none;color:#000;border:1px solid #000}.cta a{color:#000}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="mark">KEYS WITH KRISHNA</div>
+  <h1>Ontario Home Seller Checklist: prep to closing</h1>
+  <p class="sub">Tick each step as you go. Your ticks are saved on this device only.</p>
+  <div class="bar"><div class="prog"><i id="pg"></i></div><div class="count" id="ct">0 done</div>
+    <button class="solid" onclick="window.print()">Print / save PDF</button><button onclick="resetAll()">Reset</button></div>
+</div></header>
+<main><div class="wrap" id="list">
+
+<section><h2><span class="n">1</span>Before you list</h2><p class="when">4 to 8 weeks before going on the market</p><ul>
+<li><label><input type="checkbox"><div><b>Ask your lender for a mortgage payout statement</b><span>Know the balance and any prepayment penalty before you set your price. Ask whether the mortgage can be ported to your next home instead.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Work out your net, not just your price</b><span>Mortgage payout, penalty, lawyer fees, brokerage commission (negotiable, there is no standard rate) and moving. Your Realtor® and lawyer can estimate it for your price range.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Find your paperwork now</b><span>Property survey, permits for renovations and basement units, warranty documents, and recent utility and property tax bills. Buyers and lenders often ask.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Condo? Order the status certificate early</b><span>The corporation has 10 days to provide it, and the fee is capped by law. Buyers usually make it a condition.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Consider a pre-listing inspection</b><span>Finding the issues first lets you fix them or price them in, instead of renegotiating after an offer.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Tell your Realtor® about known problems</b><span>Sellers can be required to disclose certain known defects. Ask your lawyer what applies to your home.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">2</span>Getting the home ready</h2><p class="when">2 to 4 weeks before photos</p><ul>
+<li><label><input type="checkbox"><div><b>Fix small, visible issues first</b><span>Dripping taps, burnt-out bulbs, loose handles, scuffed paint. Cheap fixes buyers notice in every photo.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Skip big renovations unless the numbers work</b><span>Ask what similar updated homes sold for before spending on a kitchen or bathroom.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Declutter and depersonalize</b><span>Clear counters, closets and family photos so buyers can picture their own things.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Deep clean, including windows and baseboards</b><span>Clean reads as well cared for.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Boost curb appeal</b><span>Tidy lawn and garden, clean entry, working exterior lights, clear house number. It's the first photo.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Decide what stays and what goes</b><span>List included appliances, fixtures and window coverings in writing now, so there are no surprises later.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">3</span>Pricing and listing</h2><p class="when">Listing week</p><ul>
+<li><label><input type="checkbox"><div><b>Price from recent sold homes, not asking prices</b><span>Compare homes that actually sold nearby, similar in size, age and condition.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Choose an offer strategy with your Realtor®</b><span>Offer date or offers any time. Each suits different markets.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Plan showings around your schedule</b><span>Pets, kids and work. Easy access usually means more showings.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Lock away valuables and medication</b><span>Many people walk through during showings and open houses.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">4</span>Reviewing offers</h2><p class="when">When offers come in</p><ul>
+<li><label><input type="checkbox"><div><b>Look past the price</b><span>Conditions, deposit size, closing date and included items can matter as much as the number.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Check the deposit and its deadline</b><span>The deposit is usually held in the listing brokerage's trust account. Confirm when it is due.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Match the closing date to your next move</b><span>Buying too? Line up both closings with your lawyer and lender, or plan bridge financing.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Track condition deadlines</b><span>The deal isn't firm until the buyer waives or fulfils every condition in writing.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">5</span>After it's firm, up to closing</h2><p class="when">The weeks before closing</p><ul>
+<li><label><input type="checkbox"><div><b>Hire a real estate lawyer and send the paperwork</b><span>The signed agreement, waivers and your mortgage details. They handle the payout and discharge.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Give notice to your lender if needed</b><span>Some mortgages need notice to discharge. Your lawyer will request the final payout statement.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Keep the home insured and in the same condition</b><span>Keep your insurance until closing, and leave included items in place and working.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Book movers and cancel or transfer utilities</b><span>Set final readings for closing day, and arrange mail forwarding with Canada Post.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Allow the buyer's agreed visits</b><span>Most agreements give the buyer a final visit before closing.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">6</span>Closing day and after</h2><p class="when">Handing over the keys</p><ul>
+<li><label><input type="checkbox"><div><b>Leave every key, fob, remote and manual</b><span>Garage remotes, mailbox keys, appliance manuals and alarm codes, usually through your lawyer or Realtor®.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Leave the home clean and empty</b><span>Take everything not included in the sale, unless agreed otherwise.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Report the sale on your tax return</b><span>Selling your principal residence still needs to be reported (the designation form) even if no tax is owed. Ask an accountant.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Cancel home insurance after closing</b><span>Only once your lawyer confirms the sale has closed.</span></div></label></li>
+</ul></section>
+
+<p class="note">Checked October 2026; rules can change. General information only, not legal, tax or mortgage advice. Confirm details with your lawyer, lender, accountant and the official sources below.</p>
+
+<div class="cta"><h3>Want help with any step?</h3><p style="margin:0 0 8px">Ask me anything about selling in Halton, Peel, the GTA or Waterloo Region.</p><a href="tel:+19054524298">Call 905-452-4298</a></div>
+
+<footer>
+  <div class="brand">Krishna Rander, Realtor® · PROPERTY.CA INC., Brokerage</div>
+  <div>Keys with Krishna · @keyswithkrishna_realtor</div>
+  <p>Sources: <a href="https://www.ontario.ca/page/selling-your-home">Ontario: selling your home</a> · <a href="https://www.reco.on.ca/consumers">RECO consumer information</a> · <a href="https://www.ontario.ca/laws/statute/98c19">Condominium Act (status certificates)</a> · <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/principal-residence-other-real-estate/sale-your-principal-residence.html">CRA: sale of your principal residence</a>.</p>
+  <p>Not intended to solicit buyers or sellers already under contract with a brokerage. E.&amp;O.E.</p>
+</footer>
+</div></main>
+<script>
+const KEY="kwk-seller-checklist-v1", boxes=[...document.querySelectorAll("#list input[type=checkbox]")];
+function load(){try{return JSON.parse(localStorage.getItem(KEY)||"[]")}catch(e){return[]}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(boxes.map(b=>b.checked)))}catch(e){}}
+function upd(){const d=boxes.filter(b=>b.checked).length;document.getElementById("pg").style.width=(100*d/boxes.length)+"%";document.getElementById("ct").textContent=d+" of "+boxes.length+" done"}
+const st=load();boxes.forEach((b,i)=>{b.checked=!!st[i];b.addEventListener("change",()=>{save();upd()})});upd();
+function resetAll(){boxes.forEach(b=>b.checked=false);save();upd()}
+</script>
+</body>
+</html>
