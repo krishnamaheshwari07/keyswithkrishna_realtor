@@ -344,7 +344,7 @@
     "theme": "cream",
     "caption": "Oakville, $900K, first home. Cash at closing?\n\nExample only: $900,000 resale home, first-time buyer, insured mortgage.\n1) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the portion above it ($400,000 \u00d7 10% = $40,000) = $65,000.\n2) Ontario land transfer tax: $900,000 \u00d7 2% \u2212 $3,525 = $14,475.\n3) First-time buyer refund: up to $4,000 if you qualify, so $14,475 \u2212 $4,000 = $10,475.\n4) Legal fees and title insurance: about $2,500 (an estimate; fees vary).\nTotal: $65,000 + $10,475 + $2,500 = $77,975.\n\nNot included: sales tax on the mortgage insurance premium, adjustments (like property tax and utilities) and moving costs. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Ontario.ca, Land transfer tax (rates and first-time homebuyer refund, which requires you to be 18+, never to have owned a home anywhere, and to move in within nine months); Government of Canada (Financial Consumer Agency of Canada), minimum down payment. Checked Oct 28, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "frames": [
       {
         "img": "posts/2026-10-28/d20261028-r4-frames/f01.png",
@@ -458,7 +458,13 @@
       3.58,
       4.99
     ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r4-cover.jpg"
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r4-cover.jpg",
+    "ig_media_id": "18471458443142885",
+    "fb_thumb": "set",
+    "fb_id": "40192929640291176",
+    "fb_status": "posted",
+    "tt_status": "failed",
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"202610290532260FF32BAFC9859975CCC4\"}}"
   },
   {
     "id": "d20261028-r5",
