@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ontario Home Buyer Checklist</title>
+<meta name="description" content="A step-by-step Ontario home buying checklist from pre-approval to keys, by Krishna Rander, Realtor®, PROPERTY.CA INC., Brokerage.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;600;800&display=swap">
+<style>
+/* Keys with Krishna brand: deep teal, green, gold. Checklist sections in order of the buying journey. */
+:root{--bg:#ffffff;--fg:#032b38;--muted:#4a6a72;--band:#032b38;--band2:#00784e;--gold:#fac951;--card:#f4f8f7;--rule:#dbe6e4;--tick:#00784e;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#061d26;--fg:#e8f1ef;--muted:#9fb8bd;--card:#0b2a35;--rule:#18414d;--tick:#6ebe28;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#061d26;--fg:#e8f1ef;--muted:#9fb8bd;--card:#0b2a35;--rule:#18414d;--tick:#6ebe28;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Inter,system-ui,sans-serif}
+header{background:linear-gradient(135deg,var(--band),#02495f 55%,var(--band2));color:#fff;padding:36px 16px 30px}
+.wrap{max-width:760px;margin:0 auto}
+.mark{font-weight:800;letter-spacing:.2em;font-size:12px;color:var(--gold)}
+h1{font-family:"Playfair Display",Georgia,serif;font-weight:900;font-size:clamp(30px,7vw,46px);line-height:1.08;margin:10px 0 10px}
+.sub{color:#d3e6e3;margin:0}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px}
+.prog{flex:1 1 220px;height:12px;border-radius:8px;background:rgba(255,255,255,.18);overflow:hidden}
+.prog i{display:block;height:100%;width:0;background:var(--gold);transition:width .3s}
+.count{font-weight:800;font-size:14px;min-width:90px}
+button{font:inherit;font-weight:700;font-size:14px;border-radius:999px;padding:8px 16px;border:2px solid var(--gold);background:transparent;color:#fff;cursor:pointer}
+button.solid{background:var(--gold);color:#032b38}
+main{padding:24px 16px 48px}
+section{margin:0 0 26px}
+h2{font-family:"Playfair Display",Georgia,serif;font-size:24px;margin:0 0 4px;display:flex;gap:12px;align-items:baseline}
+h2 .n{font-family:Inter;font-weight:800;font-size:13px;background:var(--gold);color:#032b38;border-radius:999px;padding:3px 10px;flex:none}
+.when{color:var(--muted);font-size:14px;margin:0 0 12px}
+ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+li label{display:grid;grid-template-columns:26px 1fr;gap:12px;align-items:start;background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:12px 14px;cursor:pointer}
+li input{appearance:none;width:24px;height:24px;border:2px solid var(--tick);border-radius:7px;margin:2px 0 0;display:grid;place-content:center;background:transparent}
+li input:checked{background:var(--tick)}
+li input:checked::after{content:"";width:6px;height:12px;border:solid #fff;border-width:0 3px 3px 0;transform:rotate(45deg) translate(-1px,-1px)}
+li b{display:block;font-weight:800}
+li span{color:var(--muted);font-size:14.5px}
+li input:checked + div b{text-decoration:line-through;text-decoration-color:var(--tick)}
+.note{background:var(--card);border-left:5px solid var(--gold);border-radius:10px;padding:12px 14px;font-size:14.5px;color:var(--muted)}
+.cta{margin-top:30px;background:var(--band);color:#fff;border-radius:18px;padding:22px}
+.cta h3{font-family:"Playfair Display",Georgia,serif;font-size:24px;margin:0 0 6px}
+.cta a{color:var(--gold);font-weight:800;text-decoration:none;font-size:20px}
+footer{margin-top:26px;padding-top:16px;border-top:1px solid var(--rule);color:var(--muted);font-size:13px}
+footer .brand{color:var(--fg);font-weight:800;font-size:15px}
+footer a{color:inherit}
+@media print{header{background:none;color:#000;padding:0 0 10px}.mark,.sub{color:#000}.bar{display:none}li label{break-inside:avoid;background:none}.cta{background:none;color:#000;border:1px solid #000}.cta a{color:#000}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="mark">KEYS WITH KRISHNA</div>
+  <h1>Ontario Home Buyer Checklist: pre-approval to keys</h1>
+  <p class="sub">Tick each step as you go. Your ticks are saved on this device only.</p>
+  <div class="bar"><div class="prog"><i id="pg"></i></div><div class="count" id="ct">0 done</div>
+    <button class="solid" onclick="window.print()">Print / save PDF</button><button onclick="resetAll()">Reset</button></div>
+</div></header>
+<main><div class="wrap" id="list">
+
+<section><h2><span class="n">1</span>Before you shop</h2><p class="when">1 to 3 months before you start viewing homes</p><ul>
+<li><label><input type="checkbox"><div><b>Check your credit report for free</b><span>Equifax and TransUnion both offer free reports. Fix errors before a lender pulls your credit.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Get a pre-approval, and ask how long the rate hold lasts</b><span>Holds are often 90 to 120 days. Ask what happens if rates drop before you buy.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Work out your down payment</b><span>Minimum 5% on the first $500,000, 10% on the part from $500,000 up to $1.5M, 20% at $1.5M or more. Under 20% down needs mortgage default insurance.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Keep your down payment money traceable</b><span>Lenders usually ask for about 90 days of statements. Large unexplained deposits slow things down; gifts need a signed gift letter.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Use first-time buyer programs if you qualify</b><span>FHSA ($8,000 a year, $40,000 lifetime), RRSP Home Buyers' Plan (up to $60,000), Ontario land transfer tax refund (up to $4,000) and, in Toronto, the municipal refund (up to $4,475). Eligibility rules apply.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Budget for closing costs, not just the down payment</b><span>Land transfer tax, legal fees, title insurance, adjustments, inspection and moving. Ask your Realtor® and lawyer for an estimate for your price range.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Write your must-haves vs nice-to-haves</b><span>Bedrooms, commute, schools, parking, basement unit. It keeps offer night decisions clear.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">2</span>Making an offer</h2><p class="when">When you find the one</p><ul>
+<li><label><input type="checkbox"><div><b>Look at what similar homes actually sold for</b><span>Recent sold prices nearby matter more than the asking price.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Decide your conditions</b><span>Common ones: financing, home inspection, lawyer review, and for condos a status certificate review. Know the risk before waiving any.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Have your deposit ready</b><span>Usually a certified cheque, bank draft or wire, often due within 24 hours of acceptance. Confirm your bank's daily limits in advance.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>List every included chattel and fixture in writing</b><span>Appliances, light fixtures, window coverings, EV charger. If it isn't in the agreement, don't assume it stays.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Pick a closing date that works with your lender and lease</b><span>Leave room for your mortgage, lawyer and move. Check your current lease notice period.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">3</span>After your offer is accepted</h2><p class="when">The conditional period, often 5 to 10 days</p><ul>
+<li><label><input type="checkbox"><div><b>Book the home inspection right away</b><span>Attend if you can, and ask about roof age, furnace, electrical panel, moisture and grading.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Send your lender everything they ask for the same day</b><span>Agreement of purchase and sale, MLS sheet, job letter, pay stubs, down payment proof. The appraisal is usually ordered now.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Condo? Get the status certificate reviewed by your lawyer</b><span>It shows the reserve fund, special assessments, rules and any lawsuits.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Firm up or walk away before the deadline, in writing</b><span>Conditions are removed with a signed waiver or notice of fulfilment. Missing the deadline can end the deal.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Don't change jobs or take on new debt</b><span>No new car loans or credit cards until after closing. Lenders can re-check before funding.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">4</span>The weeks before closing</h2><p class="when">About 2 to 6 weeks out</p><ul>
+<li><label><input type="checkbox"><div><b>Hire a real estate lawyer and send them the paperwork</b><span>The signed agreement, waivers and your lender's details. They handle title, taxes and registration.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Get home insurance and send proof to your lawyer</b><span>Most lenders won't fund without it, effective on closing day.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Ask your lawyer about title insurance and your land transfer tax refund</b><span>The first-time buyer refund is usually claimed by your lawyer at closing.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Arrange the balance of your funds</b><span>Your lawyer will tell you the exact amount for the rest of the down payment plus closing costs. Send it as they instruct, a few days early.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Set up utilities, internet and movers</b><span>Hydro, gas, water (often through the city) and internet from closing day. Book movers early for month-end dates.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Do your final visit before closing</b><span>Check that included items are there, appliances and systems work, and nothing new is damaged.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">5</span>Closing day and move-in</h2><p class="when">Keys in hand</p><ul>
+<li><label><input type="checkbox"><div><b>Keys are released once the deal registers</b><span>This can take until the afternoon. Plan movers with some buffer.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Change or re-key the locks</b><span>You don't know how many keys exist.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Photograph the meter readings</b><span>Useful if a utility bill looks wrong.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Update your address</b><span>ServiceOntario (driver's licence within 6 days of moving), CRA, your bank, employer, and Canada Post mail forwarding.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Find your main water shut-off and electrical panel</b><span>Label the panel now, not during an emergency.</span></div></label></li>
+</ul></section>
+
+<section><h2><span class="n">+</span>Buying a new build or pre-construction?</h2><p class="when">Extra steps</p><ul>
+<li><label><input type="checkbox"><div><b>New condo? Use your 10-day cooling-off period</b><span>Ontario gives buyers of new condos from a builder 10 days to cancel. Have a lawyer review the agreement and disclosure in that window.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Read the closing cost section for adjustments and caps</b><span>Development charges, utility hook-ups and Tarion enrolment can be added at closing. Ask whether the agreement caps them.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Plan the deposit schedule month by month</b><span>Know every date and amount before you sign.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Condo occupancy is not final closing</b><span>You may pay monthly occupancy fees before the building registers. Budget for that period.</span></div></label></li>
+<li><label><input type="checkbox"><div><b>Ask about first-time buyer GST/HST relief on new homes</b><span>Federal rules have been changing; confirm the current rebate with your lawyer or the CRA.</span></div></label></li>
+</ul></section>
+
+<p class="note">Figures checked October 2026 and can change. Eligibility rules apply. General information only, not legal, tax or mortgage advice. Confirm details with your lender, lawyer and the official sources below.</p>
+
+<div class="cta"><h3>Want help with any step?</h3><p style="margin:0 0 8px">Ask me anything about buying in Halton, Peel, the GTA or Waterloo Region.</p><a href="tel:+19054524298">Call 905-452-4298</a></div>
+
+<footer>
+  <div class="brand">Krishna Rander, Realtor® · PROPERTY.CA INC., Brokerage</div>
+  <div>Keys with Krishna · @keyswithkrishna_realtor</div>
+  <p>Sources: <a href="https://www.ontario.ca/document/land-transfer-tax/land-transfer-tax-refunds-first-time-homebuyers">Ontario land transfer tax refunds</a> · <a href="https://www.toronto.ca/services-payments/property-taxes-utilities/municipal-land-transfer-tax-mltt/">City of Toronto MLTT</a> · <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html">CRA FHSA</a> · <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html">CRA Home Buyers' Plan</a> · <a href="https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html">FCAC down payment rules</a> · <a href="https://www.ontario.ca/page/buying-new-condominium">Ontario: buying a new condo</a>.</p>
+  <p>Not intended to solicit buyers or sellers already under contract with a brokerage. E.&amp;O.E.</p>
+</footer>
+</div></main>
+<script>
+const KEY="kwk-buyer-checklist-v1", boxes=[...document.querySelectorAll("#list input[type=checkbox]")];
+function load(){try{return JSON.parse(localStorage.getItem(KEY)||"[]")}catch(e){return[]}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(boxes.map(b=>b.checked)))}catch(e){}}
+function upd(){const d=boxes.filter(b=>b.checked).length;document.getElementById("pg").style.width=(100*d/boxes.length)+"%";document.getElementById("ct").textContent=d+" of "+boxes.length+" done"}
+const st=load();boxes.forEach((b,i)=>{b.checked=!!st[i];b.addEventListener("change",()=>{save();upd()})});upd();
+function resetAll(){boxes.forEach(b=>b.checked=false);save();upd()}
+</script>
+</body>
+</html>
