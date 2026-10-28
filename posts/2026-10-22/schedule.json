@@ -9,10 +9,13 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "17950890432057621",
-    "fb_status": "failed",
+    "fb_status": "posted",
     "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '28861437276830724' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook",
     "tt_publish_id": "v_inbox_file~v2.7699569129258403858",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "fb_rechecked": true,
+    "fb_id": "28861437276830724",
+    "fb_note": "verified on Page after a failed status read"
   },
   {
     "id": "d20261022-f1",
@@ -50,9 +53,12 @@
     "approved": true,
     "status": "posted",
     "ig_media_id": "18125127643923381",
-    "fb_status": "failed",
+    "fb_status": "posted",
     "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '1460757499308365' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.",
     "tt_publish_id": "v_inbox_file~v2.7699662054894012437",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "fb_rechecked": true,
+    "fb_id": "1460757499308365",
+    "fb_note": "verified on Page after a failed status read"
   }
 ]

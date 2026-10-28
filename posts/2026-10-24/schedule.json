@@ -58,10 +58,13 @@
       4.81
     ],
     "ig_media_id": "17906506521604560",
-    "fb_status": "failed",
+    "fb_status": "posted",
     "fb_error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '1777703200150163' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.",
     "tt_publish_id": "v_inbox_file~v2.7700311329604732935",
-    "tt_status": "SEND_TO_USER_INBOX"
+    "tt_status": "SEND_TO_USER_INBOX",
+    "fb_rechecked": true,
+    "fb_id": "1777703200150163",
+    "fb_note": "verified on Page after a failed status read"
   },
   {
     "id": "d20261024-f1",
