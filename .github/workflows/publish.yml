@@ -7,11 +7,15 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: publish
+  cancel-in-progress: false   # never two publish runs at once: overlapping runs posted the same item several times (Oct 28)
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: git fetch -q origin main && git reset -q --hard origin/main   # a queued run starts from the latest statuses, not the triggering commit
       - run: python3 scripts/publish.py
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
