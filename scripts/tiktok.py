@@ -36,7 +36,8 @@ def post_via_buffer(item):
     last = None
     for mode in ("shareNow", "shareNext", "addToQueue"):
         q = ('mutation { createPost(input: { text: %s, channelId: "%s", schedulingType: automatic, mode: %s, '
-             'assets: [{ video: { url: %s, metadata: { thumbnailOffset: 1000 } } }] }) %s }') % (text, cid, mode, url, sel)
+             'assets: [{ video: { url: %s, metadata: { thumbnailOffset: 1000 } } }], '
+             'metadata: { tiktok: { isAiGenerated: true } } }) %s }') % (text, cid, mode, url, sel)   # TikTok AI-generated content label (cloned voice)
         try:
             res = _gql(q)["createPost"]
         except RuntimeError as e:
