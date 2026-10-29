@@ -11,7 +11,8 @@ KEY, SECRET, PASS = os.environ.get("TIKTOK_CLIENT_KEY"), os.environ.get("TIKTOK_
 
 BUFFER_KEY = os.environ.get("BUFFER_API_KEY")   # free Buffer account with TikTok connected: posts publicly, fully automatic (Krishna, Oct 28)
 
-PAUSED = False   # Oct 28: Buffer/auto-publish mutes Krishna's cloned voice; Reels now go to his TikTok inbox as drafts and he taps post (Krishna, Oct 28)
+PAUSED = True   # Oct 29: inbox drafts never show in Krishna's TikTok app (0 drafts, no notification) though TikTok reports SEND_TO_USER_INBOX. Paused pending his choice.
+# Oct 28: Buffer/auto-publish mutes Krishna's cloned voice; Reels now go to his TikTok inbox as drafts and he taps post (Krishna, Oct 28)
 
 def enabled():
     return bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
