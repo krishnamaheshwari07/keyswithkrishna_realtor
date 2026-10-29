@@ -11,6 +11,8 @@ KEY, SECRET, PASS = os.environ.get("TIKTOK_CLIENT_KEY"), os.environ.get("TIKTOK_
 
 BUFFER_KEY = os.environ.get("BUFFER_API_KEY")   # free Buffer account with TikTok connected: posts publicly, fully automatic (Krishna, Oct 28)
 
+PAUSED = True   # Oct 28: TikTok mutes every Buffer-posted Reel (voice + music, and music-free too). Held until Krishna picks a fix.
+
 def enabled():
     return bool(BUFFER_KEY) or bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
 
