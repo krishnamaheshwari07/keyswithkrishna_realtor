@@ -1,0 +1,147 @@
+{
+  "post_fields": [
+    "id",
+    "allowedActions",
+    "assets",
+    "author",
+    "channel",
+    "channelId",
+    "channelService",
+    "contentItemId",
+    "dueAt",
+    "error",
+    "externalLink",
+    "ideaId",
+    "isCustomScheduled",
+    "metadata",
+    "metrics",
+    "metricsUpdatedAt",
+    "notes",
+    "notificationStatus",
+    "schedulingType",
+    "sentAt",
+    "sharedNow",
+    "shareMode",
+    "status",
+    "tags",
+    "text",
+    "via",
+    "createdAt",
+    "updatedAt"
+  ],
+  "channels": [
+    {
+      "id": "6ae288a92f1f5ed64805b794",
+      "service": "tiktok",
+      "name": "keyswithkrishna_realtor",
+      "isQueuePaused": false
+    }
+  ],
+  "sent": [
+    {
+      "id": "6ae28d6c7a72c9efac08501e",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-29T00:05:39.759Z",
+      "dueAt": "2026-10-29T00:03:56.887Z",
+      "createdAt": "2026-10-29T00:03:56.832Z",
+      "externalLink": "https://tiktok.com/@keyswithkrishna_realtor/video/7701873811108416775",
+      "text": "Rates just rose. What about your monthly mortgage?\n\nThe Bank"
+    },
+    {
+      "id": "6ae28d617d94db46db2501af",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-29T00:05:28.985Z",
+      "dueAt": "2026-10-29T00:03:45.878Z",
+      "createdAt": "2026-10-29T00:03:45.817Z",
+      "externalLink": "https://tiktok.com/@keyswithkrishna_realtor/video/7701873744494480658",
+      "text": "Oakville, $900K, first home. Cash at closing?\n\nExample only:"
+    },
+    {
+      "id": "6ae28d5604f348da40fd3b5d",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-29T00:04:17.283Z",
+      "dueAt": "2026-10-29T00:03:35.037Z",
+      "createdAt": "2026-10-29T00:03:34.953Z",
+      "externalLink": "https://tiktok.com/@keyswithkrishna_realtor/video/7701873658419023112",
+      "text": "Keys in hand in Milton? Do this first.\n\n1) Change or rekey t"
+    },
+    {
+      "id": "6ae28d0bcc91be5434b9360f",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-29T00:03:10.704Z",
+      "dueAt": "2026-10-29T00:02:19.909Z",
+      "createdAt": "2026-10-29T00:02:19.852Z",
+      "externalLink": "https://tiktok.com/@keyswithkrishna_realtor/video/7701872739954593076",
+      "text": "Co-buying in Waterloo? Your title choice matters.\n\n1) Two co"
+    },
+    {
+      "id": "6ae288ab9746d11846c6cac7",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-19T04:43:44.000Z",
+      "dueAt": "2026-10-19T04:43:44.000Z",
+      "createdAt": "2026-10-19T04:43:44.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7698235030501330182?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    },
+    {
+      "id": "6ae288ab9746d11846c6cac5",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-17T21:25:37.000Z",
+      "dueAt": "2026-10-17T21:25:37.000Z",
+      "createdAt": "2026-10-17T21:25:37.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7697751043790163221?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    },
+    {
+      "id": "6ae288ab9746d11846c6ca49",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-20T15:37:27.000Z",
+      "dueAt": "2026-10-20T15:37:27.000Z",
+      "createdAt": "2026-10-20T15:37:27.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7698774579816221973?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    },
+    {
+      "id": "6ae288ab9746d11846c6ca47",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-22T03:42:58.000Z",
+      "dueAt": "2026-10-22T03:42:58.000Z",
+      "createdAt": "2026-10-22T03:42:58.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7699332633179802901?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    },
+    {
+      "id": "6ae288ab9746d11846c6ca45",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-15T22:33:49.000Z",
+      "dueAt": "2026-10-15T22:33:49.000Z",
+      "createdAt": "2026-10-15T22:33:49.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7697026455745613076?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    },
+    {
+      "id": "6ae288ab9746d11846c6ca43",
+      "status": "sent",
+      "error": null,
+      "sentAt": "2026-10-24T03:53:00.000Z",
+      "dueAt": "2026-10-24T03:53:00.000Z",
+      "createdAt": "2026-10-24T03:53:00.000Z",
+      "externalLink": "https://www.tiktok.com/@keyswithkrishna_realtor/video/7700077388922850581?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "text": "#KeyswithKrishna "
+    }
+  ],
+  "error": [],
+  "scheduled": [],
+  "buffer": "query error: buffer: [{\"message\": \"Value \\\"buffer\\\" does not exist in \\\"PostStatus\\\" enum.\", \"locations\": [{\"line\": 1, \"column\": 84}], \"extensions\": {\"code\": \"GRAPHQL_VALIDATION_FAILED\"}}]",
+  "draft": [],
+  "sending": []
+}
