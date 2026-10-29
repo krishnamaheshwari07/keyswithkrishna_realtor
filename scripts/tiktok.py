@@ -93,7 +93,8 @@ def access_token():
     return tok["access_token"]
 
 def caption_for_tiktok(cap):
-    cap = cap.replace("Comment INFO to get full details, or call 905-452-4298.", "Call 905-452-4298 for full details.")
+    import re   # TikTok has no comment auto-reply: swap any INFO/CHECKLIST comment line for the phone CTA
+    cap = re.sub(r"(?im)^.*\bcomment\s+(info|checklist)\b.*$", "Call 905-452-4298 for full details.", cap)
     return cap[:2200]
 
 def post_video(item):
