@@ -1,0 +1,24 @@
+name: TikTok account check
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/tiktok-whoami.yml', 'scripts/tiktok_whoami.py']
+permissions:
+  contents: write
+concurrency:
+  group: publish
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch -q origin main && git reset -q --hard origin/main
+      - run: python3 scripts/tiktok_whoami.py
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
+      - run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A data && (git commit -m "TikTok account check" && git push) || true
