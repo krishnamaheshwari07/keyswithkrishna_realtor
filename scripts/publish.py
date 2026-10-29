@@ -188,12 +188,13 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["fb_status"] = "posted"; it["fb_id"] = m.group(1); it["fb_note"] = "verified on Page after a failed status read"
             changed = True; print(it["id"], "facebook recheck", it["fb_status"])
             continue
-        if it.get("status") == "posted" and it.get("tt_resend") and it["type"] == "reel" and tiktok.enabled():
+        if it.get("status") == "posted" and it.get("tt_resend") and it["type"] == "reel" and tiktok.enabled() \
+           and (it.get("tt_status") != "waiting_inbox" or now.minute < 10):   # inbox full: retry once an hour, not every run
             try:
                 it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it); it.pop("tt_error", None)
             except Exception as e:
                 it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
-            if "spam_risk_too_many_pending_share" in it.get("tt_error", "") and it.get("tt_resend_tries", 0) < 300:
+            if "spam_risk_too_many_pending_share" in it.get("tt_error", "") and it.get("tt_resend_tries", 0) < 72:
                 it["tt_resend_tries"] = it.get("tt_resend_tries", 0) + 1; it["tt_status"] = "waiting_inbox"   # inbox full: retry next run (Krishna posts the drafts)
             else:
                 it.pop("tt_resend"); it["tt_resent_at"] = now.isoformat(timespec="minutes"); it.pop("tt_resend_tries", None)
