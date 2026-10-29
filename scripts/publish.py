@@ -110,8 +110,12 @@ def fb_publish(item):
         vid = st["video_id"]
         req = urllib.request.Request(st["upload_url"], headers={"Authorization": "OAuth " + PTOK, "file_url": url}, method="POST")
         urllib.request.urlopen(req, timeout=180).read()
-        fb(f"{PID}/video_reels", {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap,
-                                          **({"is_ai_generated": "true"} if item.get("vo_status") == "done" else {})})
+        fin = {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap}
+        try:
+            fb(f"{PID}/video_reels", dict(fin, **({"is_ai_generated": "true"} if item.get("vo_status") == "done" else {})))
+        except RuntimeError as e:
+            if item.get("vo_status") != "done" or "is_ai_generated" not in str(e): raise
+            item["fb_ai_label_error"] = str(e)[:200]; fb(f"{PID}/video_reels", fin)
         fb_video_check(vid)
         if item.get("cover_url"):
             try:
@@ -152,7 +156,12 @@ def publish(item):
     else:
         raise ValueError(t)
     try:
-        cid = call(f"{UID}/media", p)["id"]
+        try:
+            cid = call(f"{UID}/media", p)["id"]
+        except urllib.error.HTTPError as e:
+            if "is_ai_generated" not in p: raise
+            item["ai_label_error"] = e.read().decode()[:200]; p.pop("is_ai_generated")   # never lose a post over the label
+            cid = call(f"{UID}/media", p)["id"]
     except urllib.error.HTTPError as e:
         if "trial_params" not in p: raise
         item["trial_error"] = e.read().decode()[:300]; p.pop("trial_params")   # not eligible: post as a normal Reel
