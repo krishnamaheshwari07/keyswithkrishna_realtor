@@ -693,7 +693,6 @@
     "tt_publish_id": "buffer:6ae2bc41411377cb91b3e2d1",
     "tt_status": "failed",
     "tt_audio": "nocta",
-    "tt_route": "direct",
     "tt_error": "tiktok 403: {\"error\":{\"code\":\"unaudited_client_can_only_post_to_private_accounts\",\"message\":\"Please review our integration guidelines at https://developers.tiktok.com/doc/content-sharing-guidelines/\",\"log_id\":\"2026102911324027FB18C4D1E6E414D438\"}}",
     "tt_resent_at": "2026-10-29T03:32+00:00"
   },
