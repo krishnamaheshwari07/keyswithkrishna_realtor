@@ -220,7 +220,7 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
             except Exception as e:
                 it["fb_status"] = "failed"; it["fb_error"] = str(e)[:300]
             print(it["id"], "facebook", it["fb_status"], it.get("fb_error", ""))
-        if it["status"] == "posted" and it["type"] == "reel" and tiktok.enabled():
+        if it["status"] == "posted" and it["type"] == "reel" and tiktok.enabled() and not it.get("tt_skip"):
             try:
                 it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it)
             except Exception as e:
