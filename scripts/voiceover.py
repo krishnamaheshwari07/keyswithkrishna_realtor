@@ -129,6 +129,13 @@ def build(m, prompt, it):
                    f"afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
                    + ("[2:a]aresample=48000[fx];[mu][fx]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track else "[mu]anull[a]"))
             ins = ["-ss", str(start), "-i", track, *(["-i", sfx_track] if sfx_track else [])]
+        elif it.get("tt_audio") == "nocta" and track:   # voice + music, but the spoken call-to-action (phone number) on the last frame is silent
+            start = h % max(1, int(min(25, dur(track) - total - 1))); cut = sum(durs[:-1])
+            fct = (f"[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000,volume=enable='gte(t,{cut:.2f})':volume=0[vo];"
+                   f"[2:a]loudnorm=I=-16:TP=-1.5,aresample=48000,volume=0.16,afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
+                   + ("[3:a]aresample=48000[fx];[vo][mu][fx]amix=inputs=3:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track
+                      else "[vo][mu]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]"))
+            ins = ["-i", vw, "-ss", str(start), "-i", track, *(["-i", sfx_track] if sfx_track else [])]
         else:
             fct = "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]"
             ins = ["-i", vw]
