@@ -16,13 +16,16 @@ body.light #bg{background:#fff}
 #b2{width:600px;height:600px;background:#fac951;right:-260px;top:1100px;opacity:.25}
 body.light .blob{opacity:.18}
 #prog{position:absolute;left:0;top:0;height:10px;background:var(--gold);z-index:9}
-header{position:absolute;left:80px;right:80px;top:70px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+/* Safe zones (Oct 29): Instagram/Facebook/YouTube cover the top ~220px (status bar, back, search) and the bottom ~450-600px (name, caption, buttons),
+   so the brand bar sits under the top icons and the brokerage line moved up beside it; the scene content is scaled into the middle. */
+header{position:absolute;left:80px;right:80px;top:228px;display:flex;justify-content:space-between;align-items:center;z-index:5}
 .mark{color:#fff;font-weight:800;letter-spacing:.2em;font-size:30px}
 .pill{background:var(--gold);color:var(--navy);font-weight:800;letter-spacing:.14em;font-size:26px;padding:16px 30px;border-radius:40px}
 body.light .mark{color:var(--teal)}
-footer{position:absolute;left:80px;right:80px;bottom:44px;z-index:5;color:#fff;font-weight:700;font-size:30px;line-height:1.75}
-footer .rule{height:5px;background:var(--gold);margin-bottom:22px}
-footer .r1 span{margin-left:34px}
+footer{position:absolute;left:80px;right:80px;top:310px;z-index:5;color:#fff;font-weight:700;font-size:26px;line-height:1.45}
+footer .rule{height:4px;background:var(--gold);margin-top:14px}
+footer .r1 span{margin-left:26px}
+#scenes{position:absolute;inset:0;transform:translateY(272px) scale(.8);transform-origin:50% 0}
 body.light footer{color:var(--teal)}
 .scene{position:absolute;inset:0;will-change:transform,opacity,filter}
 .area{position:absolute;left:80px;top:200px;color:var(--gold);font-weight:800;letter-spacing:.22em;font-size:28px}
@@ -88,7 +91,7 @@ body.light .area{color:#04566b}
 <div id="prog"></div>
 <header><div class="mark">KEYS WITH KRISHNA</div><div class="pill" id="tag"></div></header>
 <div id="scenes"></div>
-<footer><div class="rule"></div><div class="r1">Krishna Rander · Realtor®<span>905-452-4298</span></div><div>PROPERTY.CA INC., Brokerage</div></footer>
+<footer><div class="r1">Krishna Rander · Realtor®<span>905-452-4298</span></div><div>PROPERTY.CA INC., Brokerage</div><div class="rule"></div></footer>
 <script src="props.js"></script>
 <script>
 const S = window.SPEC, D = window.DURS, START = []; let acc = 0; D.forEach(d => { START.push(acc); acc += d; }); const TOTAL = acc;

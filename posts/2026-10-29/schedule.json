@@ -151,7 +151,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "BUYER TIP",
@@ -243,7 +243,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -357,7 +357,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "BUYING PROCESS",
@@ -462,7 +462,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "SELLER TIPS",
@@ -577,7 +577,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "MORTGAGE TIPS",
@@ -682,7 +682,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "MONEY MATH",
