@@ -237,9 +237,9 @@
     "fb_status": "posted",
     "tt_nomusic": false,
     "tt_status": "waiting_inbox",
-    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"2026102920211736E0920945A53F358318\"}}",
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"2026102920214086E555A0B743DB3B1755\"}}",
     "tt_resend": true,
-    "tt_resend_tries": 9
+    "tt_resend_tries": 10
   },
   {
     "id": "d20261028-r3",
@@ -697,9 +697,9 @@
     "tt_publish_id": "buffer:6ae2bc41411377cb91b3e2d1",
     "tt_status": "waiting_inbox",
     "tt_audio": "nocta",
-    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"202610292021187526EC218C16E732802B\"}}",
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"20261029202141FE550D4E1D1312397CAB\"}}",
     "tt_resend": true,
-    "tt_resend_tries": 9
+    "tt_resend_tries": 10
   },
   {
     "id": "d20261028-s2",
