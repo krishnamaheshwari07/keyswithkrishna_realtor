@@ -691,7 +691,8 @@
     "fb_id": "1605727137968357",
     "fb_status": "posted",
     "tt_publish_id": "buffer:6ae2b07442598d490d7d98c7",
-    "tt_status": "BUFFER_SHARENOW"
+    "tt_status": "BUFFER_SHARENOW",
+    "tt_revoice": true
   },
   {
     "id": "d20261028-s2",

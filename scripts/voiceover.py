@@ -23,6 +23,8 @@ def todo():
             if it.get("type") == "reel" and it.get("vo_pending") and it.get("status") == "pending" and it.get("frames") \
                and datetime.fromisoformat(it["publish_at"]) + timedelta(minutes=90) > now:
                 out.append((path, it))
+            elif it.get("type") == "reel" and it.get("tt_revoice") and it.get("frames"):   # already posted: rebuild only the TikTok copy
+                out.append((path, it))
     return out
 
 def voice_prompt():
@@ -118,12 +120,12 @@ def build(m, prompt, it):
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
-    # TikTok copy without background music (TikTok muted the music+voice mix on Oct 28; Krishna): voice + sound effects only
+    # TikTok copy: VOICE ONLY (TikTok muted music+voice and voice+sfx on Oct 28; this isolates the cause)
     tt = f"{base}-tt{int(time.time()) % 100000}.mp4"; tmp_tt = f"{W}/{os.path.basename(tt)}"
     try:
         fct = ("[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
-               + ("[2:a]aresample=48000[fx];[vo][fx]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track else "[vo]anull[a]"))
-        sh("ffmpeg", "-y", "-v", "error", *vin, "-i", vw, *(["-i", sfx_track] if sfx_track else []), "-filter_complex", fct,
+               + "[vo]anull[a]")
+        sh("ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-filter_complex", fct,
            "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_tt)
         STAGED[tt] = tmp_tt; it["_tt"] = tt
     except Exception as e:
@@ -151,7 +153,7 @@ def save(results):
         for path, upd in results.items():
             items = json.load(open(path))
             for it in items:
-                if it["id"] in upd and it.get("status") == "pending": it.update(upd[it["id"]])
+                if it["id"] in upd and (it.get("status") == "pending" or "tt_revoice" in upd[it["id"]]): it.update(upd[it["id"]])
             json.dump(items, open(path, "w"), indent=2); files.append(path)
             files += [u["media_url"].split("/main/", 1)[1] for u in upd.values() if "media_url" in u]
             files += [u["cover_url"].split("/main/", 1)[1] for u in upd.values() if "cover_url" in u]
@@ -176,10 +178,13 @@ def main():
     except Exception as e:
         print("voice setup failed:", e); m = None
     for path, it in jobs:
+        revoice = bool(it.get("tt_revoice")) and it.get("status") == "posted"
         upd = {"vo_pending": False}
         try:
             if m is None: raise RuntimeError("voice model unavailable")
             out, total, durs = build(m, prompt, it)
+            if revoice:
+                results.setdefault(path, {})[it["id"]] = {"tt_media_url": RAW + it["_tt"], "tt_revoice": False}; continue
             upd.update({"media_url": RAW + out, "vo_status": "done", "vo_seconds": round(total, 1),
                         "vo_frame_seconds": [round(d, 2) for d in durs], "caption": caption(it["caption"])})
             if it.get("_cover"): upd["cover_url"] = RAW + it["_cover"]
