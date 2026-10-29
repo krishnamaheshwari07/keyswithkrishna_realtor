@@ -110,7 +110,8 @@ def fb_publish(item):
         vid = st["video_id"]
         req = urllib.request.Request(st["upload_url"], headers={"Authorization": "OAuth " + PTOK, "file_url": url}, method="POST")
         urllib.request.urlopen(req, timeout=180).read()
-        fb(f"{PID}/video_reels", {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap})
+        fb(f"{PID}/video_reels", {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": cap,
+                                          **({"is_ai_generated": "true"} if item.get("vo_status") == "done" else {})})
         fb_video_check(vid)
         if item.get("cover_url"):
             try:
@@ -138,6 +139,7 @@ def publish(item):
         p.pop("caption")
     elif t == "reel":
         p["media_type"] = "REELS"; p["video_url"] = item["media_url"]
+        if item.get("vo_status") == "done": p["is_ai_generated"] = "true"   # Meta "AI info" label: the voiceover is Krishna's AI-cloned voice (Oct 28)
         if item.get("cover_url"): p["cover_url"] = item["cover_url"]   # hook frame as the Instagram cover
         if item.get("trial"):   # Instagram Trial Reel: shown to non-followers first, joins the profile if it performs (Krishna, Oct 25)
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
