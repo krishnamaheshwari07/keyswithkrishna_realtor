@@ -236,7 +236,9 @@
     "fb_id": "1361248953746194",
     "fb_status": "posted",
     "tt_nomusic": false,
-    "tt_resend": true
+    "tt_status": "failed",
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"2026102911350697B817752DADE016F836\"}}",
+    "tt_resent_at": "2026-10-29T03:35+00:00"
   },
   {
     "id": "d20261028-r3",
@@ -694,8 +696,8 @@
     "tt_publish_id": "buffer:6ae2bc41411377cb91b3e2d1",
     "tt_status": "failed",
     "tt_audio": "nocta",
-    "tt_error": "tiktok 403: {\"error\":{\"code\":\"unaudited_client_can_only_post_to_private_accounts\",\"message\":\"Please review our integration guidelines at https://developers.tiktok.com/doc/content-sharing-guidelines/\",\"log_id\":\"2026102911324027FB18C4D1E6E414D438\"}}",
-    "tt_resend": true
+    "tt_error": "tiktok 400: {\"error\":{\"code\":\"spam_risk_too_many_pending_share\",\"message\":\"spam_risk_too_many_pending_share\",\"log_id\":\"202610291135072F81FF1596A0A814D03A\"}}",
+    "tt_resent_at": "2026-10-29T03:35+00:00"
   },
   {
     "id": "d20261028-s2",
