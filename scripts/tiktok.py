@@ -11,10 +11,10 @@ KEY, SECRET, PASS = os.environ.get("TIKTOK_CLIENT_KEY"), os.environ.get("TIKTOK_
 
 BUFFER_KEY = os.environ.get("BUFFER_API_KEY")   # free Buffer account with TikTok connected: posts publicly, fully automatic (Krishna, Oct 28)
 
-PAUSED = True   # Oct 28: TikTok mutes every Buffer-posted Reel (voice + music, and music-free too). Held until Krishna picks a fix.
+PAUSED = False   # Oct 28: Buffer/auto-publish mutes Krishna's cloned voice; Reels now go to his TikTok inbox as drafts and he taps post (Krishna, Oct 28)
 
 def enabled():
-    return bool(BUFFER_KEY) or bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
+    return bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
 
 def _gql(query):
     r = _req("https://api.buffer.com", {"query": query}, token=BUFFER_KEY)
@@ -103,14 +103,14 @@ def caption_for_tiktok(cap):
 
 def post_video(item):
     direct = item.get("tt_route") == "direct"   # Oct 28 test: own app, private post, to see if TikTok keeps the cloned voice outside Buffer
-    if BUFFER_KEY and not direct: return post_via_buffer(item)
+    if BUFFER_KEY and item.get("tt_route") == "buffer": return post_via_buffer(item)   # Buffer only on request: TikTok mutes the voice there
     tok = access_token()
     with urllib.request.urlopen(item["media_url"], timeout=180) as r:
         video = r.read()
         want = int(r.headers.get("Content-Length") or len(video))
     n = len(video)
     if n != want: raise RuntimeError(f"tiktok: downloaded {n} of {want} bytes")
-    mode = "direct" if direct else (os.environ.get("TIKTOK_MODE") or "draft")
+    mode = "direct" if direct else "draft"   # inbox draft: the only route where TikTok keeps the cloned voice
     # TikTok: under 5MB upload whole; otherwise chunks of 5-64MB, last chunk (up to 128MB) takes the remainder
     CH = 10 * 1024 * 1024
     chunk = n if n < 5 * 1024 * 1024 else CH

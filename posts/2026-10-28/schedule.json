@@ -229,13 +229,14 @@
       4.99
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r2-cover.jpg",
-    "tt_skip": true,
     "ai_label_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Foll",
     "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
     "ig_media_id": "18118182122089825",
     "fb_thumb": "set",
     "fb_id": "1361248953746194",
-    "fb_status": "posted"
+    "fb_status": "posted",
+    "tt_nomusic": false,
+    "tt_resend": true
   },
   {
     "id": "d20261028-r3",
@@ -694,7 +695,7 @@
     "tt_status": "failed",
     "tt_audio": "nocta",
     "tt_error": "tiktok 403: {\"error\":{\"code\":\"unaudited_client_can_only_post_to_private_accounts\",\"message\":\"Please review our integration guidelines at https://developers.tiktok.com/doc/content-sharing-guidelines/\",\"log_id\":\"2026102911324027FB18C4D1E6E414D438\"}}",
-    "tt_resent_at": "2026-10-29T03:32+00:00"
+    "tt_resend": true
   },
   {
     "id": "d20261028-s2",
