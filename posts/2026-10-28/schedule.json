@@ -135,7 +135,7 @@
     "theme": "cream",
     "caption": "Mississauga sellers: price high for negotiating room?\n\n1) Start with what similar homes nearby actually sold for, not their asking prices. 2) Buyers compare homes online, so a price far from the market can turn them away. 3) Ask your Realtor for a market analysis of your street and home type. 4) You set the list price; your Realtor advises you with the sold data.\n\nSend this to someone selling soon. General information only. No sale price, result or timeline is promised.\n\nSelling in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #ontariorealestate #keyswithkrishna",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "frames": [
       {
         "img": "posts/2026-10-28/d20261028-r2-frames/f01.png",
@@ -229,7 +229,13 @@
       4.99
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r2-cover.jpg",
-    "tt_skip": true
+    "tt_skip": true,
+    "ai_label_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Foll",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18118182122089825",
+    "fb_thumb": "set",
+    "fb_id": "1361248953746194",
+    "fb_status": "posted"
   },
   {
     "id": "d20261028-r3",
