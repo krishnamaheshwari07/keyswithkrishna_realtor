@@ -102,14 +102,15 @@ def caption_for_tiktok(cap):
     return cap[:2200]
 
 def post_video(item):
-    if BUFFER_KEY: return post_via_buffer(item)
+    direct = item.get("tt_route") == "direct"   # Oct 28 test: own app, private post, to see if TikTok keeps the cloned voice outside Buffer
+    if BUFFER_KEY and not direct: return post_via_buffer(item)
     tok = access_token()
     with urllib.request.urlopen(item["media_url"], timeout=180) as r:
         video = r.read()
         want = int(r.headers.get("Content-Length") or len(video))
     n = len(video)
     if n != want: raise RuntimeError(f"tiktok: downloaded {n} of {want} bytes")
-    mode = os.environ.get("TIKTOK_MODE") or "draft"
+    mode = "direct" if direct else (os.environ.get("TIKTOK_MODE") or "draft")
     # TikTok: under 5MB upload whole; otherwise chunks of 5-64MB, last chunk (up to 128MB) takes the remainder
     CH = 10 * 1024 * 1024
     chunk = n if n < 5 * 1024 * 1024 else CH
@@ -120,10 +121,10 @@ def post_video(item):
         init = _req(f"{API}/post/publish/inbox/video/init/", {"source_info": src}, token=tok)
     else:
         info = _req(f"{API}/post/publish/creator_info/query/", {}, token=tok).get("data", {})
-        privacy = os.environ.get("TIKTOK_PRIVACY") or "SELF_ONLY"
+        privacy = "SELF_ONLY" if direct else (os.environ.get("TIKTOK_PRIVACY") or "SELF_ONLY")
         if privacy not in info.get("privacy_level_options", [privacy]): privacy = "SELF_ONLY"
         post = {"title": caption_for_tiktok(item.get("caption", "")), "privacy_level": privacy,
-                "disable_comment": False, "disable_duet": False, "disable_stitch": False}
+                "disable_comment": False, "disable_duet": False, "disable_stitch": False, "is_aigc": True}
         init = _req(f"{API}/post/publish/video/init/", {"post_info": post, "source_info": src}, token=tok)
     d = init.get("data", {})
     if "upload_url" not in d: raise RuntimeError("tiktok init error: " + json.dumps(init)[:250])

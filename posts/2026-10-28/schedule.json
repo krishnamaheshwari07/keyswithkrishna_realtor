@@ -683,7 +683,7 @@
       5.06,
       4.8
     ],
-    "tt_nomusic": true,
+    "tt_nomusic": false,
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r6-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-28/d20261028-r6-vo36097-tt44110.mp4",
     "ig_media_id": "18421311820153321",
@@ -693,7 +693,8 @@
     "tt_publish_id": "buffer:6ae2bc41411377cb91b3e2d1",
     "tt_status": "BUFFER_SHARENOW",
     "tt_audio": "nocta",
-    "tt_resent_at": "2026-10-29T03:23+00:00"
+    "tt_route": "direct",
+    "tt_resend": true
   },
   {
     "id": "d20261028-s2",
