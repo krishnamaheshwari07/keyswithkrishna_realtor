@@ -155,17 +155,16 @@ def publish(item):
         p["media_type"] = "CAROUSEL"; p["children"] = ",".join(kids)
     else:
         raise ValueError(t)
-    try:
+    while True:   # drop only the optional field Instagram blames (trial first when it says so), never lose the post
         try:
-            cid = call(f"{UID}/media", p)["id"]
+            cid = call(f"{UID}/media", p)["id"]; break
         except urllib.error.HTTPError as e:
-            if "is_ai_generated" not in p: raise
-            item["ai_label_error"] = e.read().decode()[:200]; p.pop("is_ai_generated")   # never lose a post over the label
-            cid = call(f"{UID}/media", p)["id"]
-    except urllib.error.HTTPError as e:
-        if "trial_params" not in p: raise
-        item["trial_error"] = e.read().decode()[:300]; p.pop("trial_params")   # not eligible: post as a normal Reel
-        cid = call(f"{UID}/media", p)["id"]
+            body = e.read().decode()
+            if "trial_params" in p and ("rial" in body or "is_ai_generated" not in p):
+                item["trial_error"] = body[:300]; p.pop("trial_params")
+            elif "is_ai_generated" in p:
+                item["ai_label_error"] = body[:200]; p.pop("is_ai_generated")
+            else: raise
     if "trial_params" in p: item["trial_status"] = "trial"
     wait(cid)
     return call(f"{UID}/media_publish", {"creation_id": cid})["id"]
