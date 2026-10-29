@@ -193,7 +193,10 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it); it.pop("tt_error", None)
             except Exception as e:
                 it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
-            it.pop("tt_resend"); it["tt_resent_at"] = now.isoformat(timespec="minutes")
+            if "spam_risk_too_many_pending_share" in it.get("tt_error", "") and it.get("tt_resend_tries", 0) < 300:
+                it["tt_resend_tries"] = it.get("tt_resend_tries", 0) + 1; it["tt_status"] = "waiting_inbox"   # inbox full: retry next run (Krishna posts the drafts)
+            else:
+                it.pop("tt_resend"); it["tt_resent_at"] = now.isoformat(timespec="minutes"); it.pop("tt_resend_tries", None)
             changed = True; print(it["id"], "tiktok resend", it["tt_status"], it.get("tt_error", ""))
             continue
         if it.get("status") == "posted" and it.get("fb_thumb_fix") and it.get("fb_id") and it.get("cover_url") and "fb_thumb" not in it and PID and PTOK:
@@ -224,5 +227,6 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["tt_publish_id"], it["tt_status"] = tiktok.post_video(it)
             except Exception as e:
                 it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
+                if "spam_risk_too_many_pending_share" in it["tt_error"]: it["tt_resend"] = True; it["tt_status"] = "waiting_inbox"   # retried every run
             print(it["id"], "tiktok", it["tt_status"], it.get("tt_error", ""))
     if changed: json.dump(items, open(path, "w"), indent=2)
