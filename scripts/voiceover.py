@@ -120,12 +120,19 @@ def build(m, prompt, it):
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
-    # TikTok copy: VOICE ONLY (TikTok muted music+voice and voice+sfx on Oct 28; this isolates the cause)
+    # TikTok copy (TikTok muted every Buffer upload with Krishna's voice on Oct 28): "tt_audio": "music" = music + effects, no voice; else voice only
     tt = f"{base}-tt{int(time.time()) % 100000}.mp4"; tmp_tt = f"{W}/{os.path.basename(tt)}"
     try:
-        fct = ("[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
-               + "[vo]anull[a]")
-        sh("ffmpeg", "-y", "-v", "error", *vin, "-i", vw, "-filter_complex", fct,
+        if it.get("tt_audio") == "music" and track:
+            start = h % max(1, int(min(25, dur(track) - total - 1)))
+            fct = (f"[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-16:TP=-1.5,aresample=48000,volume=0.7,"
+                   f"afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[mu];"
+                   + ("[2:a]aresample=48000[fx];[mu][fx]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track else "[mu]anull[a]"))
+            ins = ["-ss", str(start), "-i", track, *(["-i", sfx_track] if sfx_track else [])]
+        else:
+            fct = "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]"
+            ins = ["-i", vw]
+        sh("ffmpeg", "-y", "-v", "error", *vin, *ins, "-filter_complex", fct,
            "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_tt)
         STAGED[tt] = tmp_tt; it["_tt"] = tt
     except Exception as e:

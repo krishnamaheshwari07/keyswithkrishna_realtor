@@ -692,7 +692,9 @@
     "fb_status": "posted",
     "tt_publish_id": "buffer:6ae2b4f804f348da40071f51",
     "tt_status": "BUFFER_SHARENOW",
-    "tt_resent_at": "2026-10-29T02:52+00:00"
+    "tt_resent_at": "2026-10-29T02:52+00:00",
+    "tt_revoice": true,
+    "tt_audio": "music"
   },
   {
     "id": "d20261028-s2",
