@@ -109,7 +109,8 @@
     "tt_publish_id": "v_inbox_file~v2.7702113195007379462",
     "tt_status": "SEND_TO_USER_INBOX",
     "yt_publish_id": "DsC_aJxDYEc",
-    "yt_status": "UPLOADED_PUBLIC"
+    "yt_status": "UPLOADED_PUBLIC",
+    "yt_thumb_fix": true
   },
   {
     "id": "d20261029-s1",

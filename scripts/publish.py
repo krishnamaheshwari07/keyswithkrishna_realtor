@@ -206,6 +206,10 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["fb_thumb"] = "failed: " + str(e)[:200]
             changed = True; print(it["id"], "facebook cover fix", it["fb_thumb"])
             continue
+        if it.get("yt_thumb_fix") and it.get("yt_publish_id") and it.get("cover_url") and youtube.enabled():   # put the hook back as the Short's cover
+            try: youtube.set_thumb(it["yt_publish_id"], it["cover_url"]); it["yt_thumb"] = "set"
+            except Exception as e: it["yt_thumb"] = "failed: " + str(e)[:200]
+            it.pop("yt_thumb_fix"); changed = True; print(it["id"], "youtube cover fix", it["yt_thumb"]); continue
         if it.get("status") != "pending" or not it.get("approved"): continue
         if datetime.fromisoformat(it["publish_at"]) > now: continue
         # wait (up to 90 min past the slot) for the voiceover workflow; after that post the music-only version

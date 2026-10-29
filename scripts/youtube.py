@@ -62,7 +62,20 @@ def post_short(item):
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"youtube {e.code}: {e.read().decode()[:250]}")
     st = res.get("status", {})
+    if item.get("cover_url"):   # YouTube otherwise picks a mid-Reel frame; show the hook (Krishna, Oct 29)
+        try: set_thumb(res["id"], item["cover_url"], tok); item["yt_thumb"] = "set"
+        except Exception as e: item["yt_thumb"] = "failed: " + str(e)[:200]
     return res["id"], "UPLOADED_" + str(st.get("privacyStatus", "?")).upper()
+
+def set_thumb(vid, url, tok=None):
+    tok = tok or access_token()
+    with urllib.request.urlopen(url, timeout=60) as r: img = r.read()
+    req = urllib.request.Request(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}", img,
+                                 {"Authorization": "Bearer " + tok, "Content-Type": "image/jpeg", "Content-Length": str(len(img))}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r: return json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"youtube thumbnail {e.code}: {e.read().decode()[:250]}")
 
 if __name__ == "__main__" and len(sys.argv) == 3 and sys.argv[1] == "connect":
     connect(sys.argv[2].strip())
