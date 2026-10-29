@@ -1,0 +1,15 @@
+{
+ "account_error": "tiktok 401: {\"data\":{},\"error\":{\"code\":\"scope_not_authorized\",\"message\":\"The user did not authorize the scope required for completing this request.\",\"log_id\":\"202610300002463F62D71D7A7FD94E5ECF\"}}",
+ "d20261027-r2": {
+  "status": "PUBLISH_COMPLETE"
+ },
+ "x20261027-ratehike3": {
+  "status": "PUBLISH_COMPLETE",
+  "publicaly_available_post_id": [
+   7701372708583427348
+  ]
+ },
+ "d20261029-r1": {
+  "status": "SEND_TO_USER_INBOX"
+ }
+}
