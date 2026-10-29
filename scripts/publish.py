@@ -3,7 +3,7 @@ Env: IG_USER_ID, IG_ACCESS_TOKEN; optional FB_PAGE_ID, FB_PAGE_TOKEN (also cross
 import glob, json, urllib.error, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone, timedelta
 sys.path.insert(0, os.path.dirname(__file__))
-import tiktok
+import tiktok, youtube
 API = "https://graph.instagram.com/v21.0"
 UID, TOK = os.environ["IG_USER_ID"], os.environ["IG_ACCESS_TOKEN"]
 
@@ -229,4 +229,10 @@ for path in sorted(glob.glob("posts/*/schedule.json")):
                 it["tt_status"] = "failed"; it["tt_error"] = str(e)[:300]
                 if "spam_risk_too_many_pending_share" in it["tt_error"]: it["tt_resend"] = True; it["tt_status"] = "waiting_inbox"   # retried every run
             print(it["id"], "tiktok", it["tt_status"], it.get("tt_error", ""))
+        if it["status"] == "posted" and it["type"] == "reel" and tiktok.BUFFER_KEY and not it.get("yt_status") and not it.get("yt_skip"):   # YouTube Short via Buffer (Oct 29)
+            try:
+                it["yt_publish_id"], it["yt_status"] = youtube.post_short(it)
+            except Exception as e:
+                it["yt_status"] = "failed"; it["yt_error"] = str(e)[:300]
+            print(it["id"], "youtube", it["yt_status"], it.get("yt_error", ""))
     if changed: json.dump(items, open(path, "w"), indent=2)
