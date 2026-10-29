@@ -31,7 +31,8 @@ def _buffer_channel():
 def post_via_buffer(item):
     cid = _buffer_channel()
     text = json.dumps(caption_for_tiktok(item.get("caption", "")))
-    url = json.dumps(item.get("tt_media_url") or item["media_url"])   # music-free copy when available
+    # normal Reels keep their music on TikTok; "tt_nomusic": true sends the music-free copy (e.g. a resend after TikTok removed a sound)
+    url = json.dumps(item.get("tt_media_url") if item.get("tt_nomusic") and item.get("tt_media_url") else item["media_url"])
     sel = "{ ... on PostActionSuccess { post { id } } ... on MutationError { message } }"
     last = None
     for mode in ("shareNow", "shareNext", "addToQueue"):
