@@ -1,18 +1,40 @@
-"""YouTube Shorts via Buffer (free, fully automatic, no Google Cloud project): the Reel's MP4 with Krishna's voice and music goes up as a public Short.
-Needs the YouTube channel connected in Buffer (Channels > Add) and the BUFFER_API_KEY secret already used for TikTok."""
-import json, os, re, tiktok
+"""YouTube Shorts for Keys with Krishna, straight to YouTube's own API (free, no third-party tool).
+Env: YT_CLIENT_ID, YT_CLIENT_SECRET (Google Cloud OAuth client), TIKTOK_TOKEN_KEY (passphrase that encrypts the stored token, shared with TikTok).
+The refresh token is kept only in encrypted form in data/youtube-token.enc.
+CLI: python3 scripts/youtube.py connect <code>   (one-time, run by the 'Connect YouTube' workflow)"""
+import json, os, re, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
+CID, CSEC, PASS = os.environ.get("YT_CLIENT_ID"), os.environ.get("YT_CLIENT_SECRET"), os.environ.get("TIKTOK_TOKEN_KEY")
+REDIRECT = "https://krishnamaheshwari07.github.io/keyswithkrishna_realtor/youtube-callback.html"
+TOKFILE = "data/youtube-token.enc"
 
-def _channel():
-    cid = os.environ.get("BUFFER_YOUTUBE_CHANNEL")
-    if cid: return cid
-    for org in tiktok._gql("query { account { organizations { id } } }")["account"]["organizations"]:
-        for c in tiktok._gql('query { channels(input: {organizationId: "%s"}) { id service } }' % org["id"])["channels"]:
-            if c.get("service", "").lower() == "youtube": return c["id"]
-    return None
+def enabled():
+    return bool(CID and CSEC and PASS and os.path.exists(TOKFILE))
+
+def _crypt(data, decrypt=False):
+    args = ["openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-iter", "200000", "-salt", "-pass", "env:TIKTOK_TOKEN_KEY", "-a", "-A"]
+    if decrypt: args.append("-d")
+    return subprocess.run(args, input=data, capture_output=True, check=True).stdout
+
+def _token_request(**fields):
+    body = urllib.parse.urlencode(dict(client_id=CID, client_secret=CSEC, **fields)).encode()
+    try:
+        with urllib.request.urlopen(urllib.request.Request("https://oauth2.googleapis.com/token", body), timeout=60) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"youtube token {e.code}: {e.read().decode()[:250]}")
+
+def connect(code):
+    t = _token_request(code=code, grant_type="authorization_code", redirect_uri=REDIRECT)
+    if "refresh_token" not in t: raise RuntimeError("youtube: no refresh token returned (use the Connect YouTube page again): " + json.dumps(t)[:200])
+    open(TOKFILE, "wb").write(_crypt(json.dumps({"refresh_token": t["refresh_token"]}).encode()))
+    print("YouTube connected")
+
+def access_token():
+    rt = json.loads(_crypt(open(TOKFILE, "rb").read(), decrypt=True))["refresh_token"]
+    return _token_request(grant_type="refresh_token", refresh_token=rt)["access_token"]
 
 def _title(cap):
-    first = re.split(r"\n", cap.strip())[0].strip()
-    first = re.sub(r"#\w+", "", first).strip()
+    first = re.sub(r"#\w+", "", cap.strip().split("\n")[0]).strip()
     return (first[:88].rstrip(" .,;:") or "Keys with Krishna") + " #Shorts"
 
 def _desc(cap):
@@ -21,21 +43,26 @@ def _desc(cap):
     return cap[:4900]
 
 def post_short(item):
-    cid = _channel()
-    if not cid: return None, "no_channel"
+    tok = access_token()
+    with urllib.request.urlopen(item["media_url"], timeout=180) as r:
+        video = r.read(); want = int(r.headers.get("Content-Length") or len(video))
+    if len(video) != want: raise RuntimeError(f"youtube: downloaded {len(video)} of {want} bytes")
     cap = item.get("caption", "")
-    sel = "{ ... on PostActionSuccess { post { id } } ... on MutationError { message } }"
-    last = None
-    for priv in ("public", "PUBLIC"):
-        meta = 'metadata: { youtube: { title: %s, privacy: %s, madeForKids: false, isAiGenerated: true, notifySubscribers: false } }' % (json.dumps(_title(cap)), priv)
-        q = ('mutation { createPost(input: { text: %s, channelId: "%s", schedulingType: automatic, mode: shareNow, '
-             'assets: [{ video: { url: %s } }], %s }) %s }') % (json.dumps(_desc(cap)), cid, json.dumps(item["media_url"]), meta, sel)
-        try:
-            res = tiktok._gql(q)["createPost"]
-        except RuntimeError as e:
-            last = str(e)
-            if "privacy" in last.lower() or "enum" in last.lower(): continue
-            raise
-        if res.get("post"): return "buffer:" + res["post"]["id"], "BUFFER_SHARENOW"
-        raise RuntimeError("buffer: " + str(res.get("message"))[:250])
-    raise RuntimeError(last or "buffer: short not created")
+    meta = {"snippet": {"title": _title(cap), "description": _desc(cap), "categoryId": "22", "defaultLanguage": "en"},
+            "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False, "containsSyntheticMedia": item.get("vo_status") == "done",
+                       "embeddable": True, "publicStatsViewable": True}}
+    hdr = {"Authorization": "Bearer " + tok, "Content-Type": "application/json; charset=UTF-8",
+           "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(len(video))}
+    init = urllib.request.Request("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+                                  json.dumps(meta).encode(), hdr, method="POST")
+    try:
+        with urllib.request.urlopen(init, timeout=60) as r: loc = r.headers["Location"]
+        up = urllib.request.Request(loc, video, {"Content-Type": "video/mp4", "Content-Length": str(len(video))}, method="PUT")
+        with urllib.request.urlopen(up, timeout=600) as r: res = json.load(r)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"youtube {e.code}: {e.read().decode()[:250]}")
+    st = res.get("status", {})
+    return res["id"], "UPLOADED_" + str(st.get("privacyStatus", "?")).upper()
+
+if __name__ == "__main__" and len(sys.argv) == 3 and sys.argv[1] == "connect":
+    connect(sys.argv[2].strip())

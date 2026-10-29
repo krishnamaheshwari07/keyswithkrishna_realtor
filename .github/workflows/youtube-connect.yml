@@ -1,0 +1,23 @@
+name: Connect YouTube
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Code shown on the Connect YouTube page"
+        required: true
+permissions:
+  contents: write
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/youtube.py connect "$CODE"
+        env:
+          CODE: ${{ inputs.code }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
+      - run: |
+          git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/youtube-token.enc && git commit -m "Connect YouTube (encrypted token)" && git push

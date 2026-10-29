@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connect YouTube</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Source+Sans+3:wght@400;600&display=swap"><style>
+/* Layout: single reading column, brand-green header band, plain policy sections */
+:root{--bg:#fbf8f1;--fg:#16231f;--muted:#55635e;--band:#04211d;--band-fg:#fbf8f1;--gold:#b88a0e;--rule:#e2dccb;
+--display:"Playfair Display",Georgia,serif;--body:"Source Sans 3","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1a17;--fg:#e9e4d6;--muted:#a3b0aa;--band:#04211d;--band-fg:#fbf8f1;--gold:#e8b923;--rule:#22362f;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0b1a17;--fg:#e9e4d6;--muted:#a3b0aa;--band:#04211d;--band-fg:#fbf8f1;--gold:#e8b923;--rule:#22362f;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:17px/1.6 var(--body)}
+header{background:var(--band);color:var(--band-fg);padding-block:40px 32px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:68ch;margin:0 auto}
+.mark{font-weight:600;letter-spacing:.18em;font-size:13px;color:#e8b923;text-transform:uppercase}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(30px,6vw,44px);line-height:1.1;margin:10px 0 8px;text-wrap:balance}
+.eff{color:#c9d4cf;font-size:15px}
+main{padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+section{border-top:1px solid var(--rule);padding-top:18px;margin-top:22px}
+section:first-child{border-top:0;margin-top:0;padding-top:0}
+h2{font-family:var(--display);font-weight:700;font-size:22px;margin:0 0 8px;text-wrap:balance}
+p,li{margin:0 0 10px}
+ul{padding-left:20px;margin:0 0 10px}
+.contact{display:grid;gap:4px;font-variant-numeric:tabular-nums}
+.contact b{color:var(--gold);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:13px}
+footer{color:var(--muted);font-size:14px;margin-top:32px}
+</style><header><div class="wrap"><div class="mark">Keys with Krishna</div><h1>Connect YouTube</h1><div class="eff">Krishna Rander, Realtor® · PROPERTY.CA INC., Brokerage</div></div></header><main><div class="wrap"><section><h2>Connect YouTube</h2><p>Paste your Google OAuth client ID (the public one that ends in .apps.googleusercontent.com, not the secret), then press Connect. It is only used to build the Google sign-in link in this browser.</p>
+<p><input id="cid" style="width:100%;font-size:16px;padding:10px" placeholder="1234-abc.apps.googleusercontent.com" autocomplete="off"></p>
+<p><button id="go" style="font-size:17px;padding:12px 20px">Connect YouTube</button></p>
+<script>
+document.getElementById("go").onclick=function(){var id=document.getElementById("cid").value.trim();if(!id)return;
+var u="https://accounts.google.com/o/oauth2/v2/auth?"+new URLSearchParams({client_id:id,redirect_uri:"https://krishnamaheshwari07.github.io/keyswithkrishna_realtor/youtube-callback.html",response_type:"code",scope:"https://www.googleapis.com/auth/youtube.upload",access_type:"offline",prompt:"consent"});location.href=u;};
+</script></section></div></main></html>

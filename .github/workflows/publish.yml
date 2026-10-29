@@ -27,6 +27,8 @@ jobs:
           TIKTOK_TOKEN_KEY: ${{ secrets.TIKTOK_TOKEN_KEY }}
           TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
           TIKTOK_MODE: ${{ vars.TIKTOK_MODE }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_TIKTOK_CHANNEL: ${{ vars.BUFFER_TIKTOK_CHANNEL }}
       - run: |
