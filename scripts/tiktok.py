@@ -31,7 +31,7 @@ def _buffer_channel():
 def post_via_buffer(item):
     cid = _buffer_channel()
     text = json.dumps(caption_for_tiktok(item.get("caption", "")))
-    url = json.dumps(item["media_url"])
+    url = json.dumps(item.get("tt_media_url") or item["media_url"])   # music-free copy when available
     sel = "{ ... on PostActionSuccess { post { id } } ... on MutationError { message } }"
     last = None
     for mode in ("shareNow", "shareNext", "addToQueue"):

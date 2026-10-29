@@ -118,6 +118,16 @@ def build(m, prompt, it):
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
+    # TikTok copy without background music (TikTok muted the music+voice mix on Oct 28; Krishna): voice + sound effects only
+    tt = f"{base}-tt{int(time.time()) % 100000}.mp4"; tmp_tt = f"{W}/{os.path.basename(tt)}"
+    try:
+        fct = ("[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[vo];"
+               + ("[2:a]aresample=48000[fx];[vo][fx]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]" if sfx_track else "[vo]anull[a]"))
+        sh("ffmpeg", "-y", "-v", "error", *vin, "-i", vw, *(["-i", sfx_track] if sfx_track else []), "-filter_complex", fct,
+           "-map", "[v]", "-map", "[a]", *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_tt)
+        STAGED[tt] = tmp_tt; it["_tt"] = tt
+    except Exception as e:
+        print(it["id"], "tiktok copy failed:", e)
     # cover image = the finished hook (Facebook otherwise picks a frame from the middle of the Reel; Krishna, Oct 26)
     cover = f"{base}-cover.jpg"; tmp_cover = f"{W}/{os.path.basename(cover)}"
     try:
@@ -145,6 +155,7 @@ def save(results):
             json.dump(items, open(path, "w"), indent=2); files.append(path)
             files += [u["media_url"].split("/main/", 1)[1] for u in upd.values() if "media_url" in u]
             files += [u["cover_url"].split("/main/", 1)[1] for u in upd.values() if "cover_url" in u]
+            files += [u["tt_media_url"].split("/main/", 1)[1] for u in upd.values() if "tt_media_url" in u]
         sh("git", "add", *files)
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0: return
         sh("git", "-c", "user.name=kwk-bot", "-c", "user.email=bot@users.noreply.github.com", "commit", "-qm", "Add AI voiceover to Reels")
@@ -172,6 +183,7 @@ def main():
             upd.update({"media_url": RAW + out, "vo_status": "done", "vo_seconds": round(total, 1),
                         "vo_frame_seconds": [round(d, 2) for d in durs], "caption": caption(it["caption"])})
             if it.get("_cover"): upd["cover_url"] = RAW + it["_cover"]
+            if it.get("_tt"): upd["tt_media_url"] = RAW + it["_tt"]
         except Exception as e:
             upd.update({"vo_status": "failed", "vo_error": str(e)[:300]}); print(it["id"], "voiceover failed:", e)
         results.setdefault(path, {})[it["id"]] = upd
