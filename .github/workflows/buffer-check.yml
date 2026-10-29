@@ -7,11 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/buffer_check.py
+      - run: python3 scripts/buffer_check.py; python3 scripts/buffer_schema.py || true
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_TIKTOK_CHANNEL: ${{ vars.BUFFER_TIKTOK_CHANNEL }}
       - run: |
           git config user.name "kwk-bot"; git config user.email "bot@users.noreply.github.com"
           git pull -q --rebase || true
-          git add data/buffer-status.json && (git commit -m "Buffer status check" && git push) || true
+          git add data/buffer-status.json data/buffer-schema.json && (git commit -m "Buffer status check" && git push) || true
