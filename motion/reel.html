@@ -122,7 +122,7 @@ S.scenes.forEach((sc, k) => {
       <div class="propbox" style="top:1200px" data-anim="fadeUp:0.3:0.4"><div style="transform:scale(.55);transform-origin:center top">${PROPS.chart()}</div></div>`;
   } else if (sc.kind === "calc") {   // money-math step: label, big counting value, formula line, running total
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
-      <div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>
+      ${(+sc.of || 1) > 1 ? `<div class="badge"><div class="num" data-anim="popIn:0.05:0.4">${sc.n}</div><div class="of" data-anim="fadeUp:0.15:0.35">STEP ${sc.n} OF ${sc.of}</div></div>` : `<div class="badge"><div class="num" data-anim="popIn:0.05:0.4">✓</div><div class="of" data-anim="fadeUp:0.15:0.35">QUICK TIP</div></div>`}
       <div class="pt">${words(sc.text, 0.12, 0.05)}</div>
       <div class="calcbox" data-anim="riseIn:0.25:0.5"><div class="cval" data-count="${sc.value}" data-at="0.45" data-du="0.9">${sc.value}</div>
         ${sc.formula ? `<div class="cform">${sc.formula}</div>` : ""}</div>
