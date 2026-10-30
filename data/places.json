@@ -1,0 +1,16 @@
+{
+ "_note": "Facebook place IDs for location tags (read from the Page posts Krishna tagged, Oct 30). First keyword found in the Reel's area line or caption wins; otherwise default.",
+ "default": "106262189412553",
+ "places": [
+  ["etobicoke", "112105072139178", "Etobicoke"],
+  ["mississauga", "106262189412553", "Mississauga, Ontario"],
+  ["brampton", "110185085668702", "Brampton, Ontario"],
+  ["oakville", "104153936288668", "Oakville, Ontario"],
+  ["milton", "109493702409366", "Milton, Ontario"],
+  ["georgetown", "100559091412346", "Halton Hills, Ontario"],
+  ["halton hills", "100559091412346", "Halton Hills, Ontario"],
+  ["kitchener", "104045032964460", "Kitchener, Ontario"],
+  ["waterloo", "112763262068685", "Waterloo, Ontario"],
+  ["peel", "106262189412553", "Mississauga, Ontario"]
+ ]
+}

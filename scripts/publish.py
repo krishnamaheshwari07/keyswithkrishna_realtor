@@ -84,11 +84,24 @@ def fb_thumb(vid, img_url):
     except urllib.error.HTTPError as e:
         raise RuntimeError(e.read().decode()[:250])
 
+PLACES = json.load(open("data/places.json")) if os.path.exists("data/places.json") else None
+
+def place_for(item):   # location tag (Krishna, Oct 30): the city the post is about, else Mississauga
+    if not PLACES: return None
+    text = " ".join([str((item.get("motion") or {}).get("area", "")), item.get("caption", "").split("\n")[0], item.get("area", "")]).lower()
+    for kw, pid, _ in PLACES["places"]:
+        if kw in text: return pid
+    return PLACES["default"]
+
 def fb_publish(item):
     t, cap = item["type"], item.get("caption", "")
     url = item.get("media_url", "")
     if t == "feed":
-        return fb(f"{PID}/photos", {"url": url, "caption": cap, "published": "true"})["id"]
+        d = {"url": url, "caption": cap, "published": "true"}
+        if place_for(item):
+            try: return fb(f"{PID}/photos", dict(d, place=place_for(item)))["id"]
+            except RuntimeError as e: item["fb_place_error"] = str(e)[:200]
+        return fb(f"{PID}/photos", d)["id"]
     if t == "carousel":
         ids = [fb(f"{PID}/photos", {"url": u, "published": "false"})["id"] for u in item["media_urls"]]
         data = {"message": cap}
@@ -117,6 +130,9 @@ def fb_publish(item):
             if item.get("vo_status") != "done" or "is_ai_generated" not in str(e): raise
             item["fb_ai_label_error"] = str(e)[:200]; fb(f"{PID}/video_reels", fin)
         fb_video_check(vid)
+        if place_for(item):
+            try: fb(vid, {"place": place_for(item)}); item["fb_place"] = "set"
+            except Exception as e: item["fb_place_error"] = str(e)[:200]
         if item.get("cover_url"):
             try:
                 fb_thumb(vid, item["cover_url"]); item["fb_thumb"] = "set"
@@ -155,15 +171,20 @@ def publish(item):
         p["media_type"] = "CAROUSEL"; p["children"] = ",".join(kids)
     else:
         raise ValueError(t)
+    if t in ("feed", "reel", "carousel") and place_for(item): p["location_id"] = place_for(item)
     while True:   # drop only the optional field Instagram blames (trial first when it says so), never lose the post
         try:
             cid = call(f"{UID}/media", p)["id"]; break
         except urllib.error.HTTPError as e:
             body = e.read().decode()
-            if "trial_params" in p and ("rial" in body or "is_ai_generated" not in p):
+            if "location_id" in p and "locat" in body.lower():
+                item["location_error"] = body[:200]; p.pop("location_id")
+            elif "trial_params" in p and ("rial" in body or "is_ai_generated" not in p):
                 item["trial_error"] = body[:300]; p.pop("trial_params")
             elif "is_ai_generated" in p:
                 item["ai_label_error"] = body[:200]; p.pop("is_ai_generated")
+            elif "location_id" in p:
+                item["location_error"] = body[:200]; p.pop("location_id")
             else: raise
     if "trial_params" in p: item["trial_status"] = "trial"
     wait(cid)
