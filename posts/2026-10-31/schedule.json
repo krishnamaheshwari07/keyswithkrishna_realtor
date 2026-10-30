@@ -1,0 +1,484 @@
+[
+  {
+    "id": "d20261031-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-10-31T11:30:00-04:00",
+    "caption": "Five mistakes that can wreck your first home purchase\n\nBuying your first home in Georgetown or Halton Hills? Save this before you start. 1) Talk to a mortgage lender before you shop, so you know your real budget. 2) Count property tax, insurance and closing costs on top of the price. 3) Visit the neighbourhood on a weeknight and on a weekend. 4) Think hard before giving up your home inspection to win. 5) Plan your monthly budget for life after you move in.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #halton #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1.mp4",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1-cover.jpg",
+    "motion": {
+      "area": "GEORGETOWN",
+      "scenes": [
+        {
+          "kind": "hook",
+          "kick": "BEFORE THE OFFER",
+          "tease": "Watch for number four",
+          "prop": "house",
+          "text": "Five mistakes that can wreck your *first *home *purchase"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "mortgage",
+          "text": "Talk to a mortgage lender before you shop."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "calculator",
+          "text": "Count property tax, insurance and closing costs."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "search",
+          "text": "Visit the neighbourhood on a weeknight and on a weekend."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Think hard before giving up your home inspection."
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "calendar",
+          "text": "Plan your monthly budget for life after you move in."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend buying their *first *home",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ],
+      "tag": "BUYER TIP",
+      "theme": "dark"
+    },
+    "frames": [
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f01.png",
+        "min": 4.0,
+        "say": "Five mistakes that can wreck your first home purchase, before you even make an offer."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f02.png",
+        "min": 5.0,
+        "say": "One. Shopping for homes before you talk to a mortgage lender. You don't know your real budget yet."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f03.png",
+        "min": 5.0,
+        "say": "Two. Looking only at the listing price. Property tax, insurance and closing costs come on top."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f04.png",
+        "min": 4.75,
+        "say": "Three. Skipping the neighbourhood visit. Go once on a weeknight and once on a weekend."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f05.png",
+        "min": 5.0,
+        "say": "Four. Giving up your home inspection just to win. Then any hidden problem is yours alone."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f06.png",
+        "min": 4.5,
+        "say": "Five. Not planning your monthly budget for life after you move in."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r1-frames/f07.png",
+        "min": 4.5,
+        "say": "Send this to a friend buying their first home. Call nine oh five, four five two, four two nine eight."
+      }
+    ],
+    "vo_pending": true,
+    "trigger": "a costly mistake avoided",
+    "share_reason": "a friend about to buy their first home",
+    "series": "reference-style"
+  },
+  {
+    "id": "d20261031-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-10-31T15:00:00-04:00",
+    "caption": "Sign a precon without asking these 5 questions?\n\nThinking about a new-build home? Ask the builder these five questions first. 1) What is the closing date, and what happens if it moves? 2) What is included in the price, and what costs extra? 3) How much is the deposit, and when is each part due? 4) What closing costs and fees get added at the end? 5) What does the builder's warranty cover, and for how long? Get the answers in writing.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#preconstruction #newbuildhomes #halton #peelregion #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2.mp4",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2-cover.jpg",
+    "motion": {
+      "area": "HALTON & PEEL",
+      "scenes": [
+        {
+          "kind": "hook",
+          "kick": "BEFORE YOU SIGN",
+          "tease": "Number five is easy to miss",
+          "prop": "clipboard",
+          "text": "Sign a *precon without asking these *5 questions?"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "calendar",
+          "text": "What is the closing date, and what if it moves?"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "What is in the price, and what costs extra?"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "cheque",
+          "text": "How much is the deposit, and when is each part due?"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "calculator",
+          "text": "What closing costs and fees get added at the end?"
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "shield",
+          "text": "What does the builder's warranty cover, and for how long?"
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend looking at a *new *build",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ],
+      "tag": "PRECON TIPS",
+      "theme": "cream"
+    },
+    "frames": [
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f01.png",
+        "min": 4.0,
+        "say": "Sign a precon contract without asking these five questions, and you may not like what you find at closing."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f02.png",
+        "min": 4.5,
+        "say": "One. What's the closing date, and what happens if it moves?"
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f03.png",
+        "min": 4.5,
+        "say": "Two. What's included in the price, and what costs extra?"
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f04.png",
+        "min": 4.5,
+        "say": "Three. How much is the deposit, and when is each part due?"
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f05.png",
+        "min": 4.5,
+        "say": "Four. What closing costs and extra fees get added at the end?"
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f06.png",
+        "min": 4.5,
+        "say": "Five. What does the builder's warranty cover, and for how long?"
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r2-frames/f07.png",
+        "min": 4.5,
+        "say": "Send this to a friend looking at a new build. Call nine oh five, four five two, four two nine eight."
+      }
+    ],
+    "vo_pending": true,
+    "trigger": "a costly surprise avoided",
+    "share_reason": "a friend looking at a new build",
+    "series": "reference-style"
+  },
+  {
+    "id": "d20261031-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-10-31T17:30:00-04:00",
+    "caption": "Your monthly mortgage is not what your home costs\n\nMost first-time buyers look at one number, the monthly mortgage. Owning a home also means: 1) property tax, 2) home insurance, 3) heat, hydro and water, 4) repairs. Add these up before you decide what you can afford. A home that fits your monthly mortgage but not your full monthly budget can feel tight fast.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3.mp4",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3-cover.jpg",
+    "motion": {
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "kick": "THE REAL MONTHLY COST",
+          "tease": "4 costs people forget",
+          "prop": "calculator",
+          "text": "Your *monthly *mortgage is not what your *home costs"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Property tax: plan for it every year."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "shield",
+          "text": "Home insurance: your lender wants it before closing."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "house",
+          "text": "Heat, hydro and water change with the seasons."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "keys",
+          "text": "Repairs: set money aside, something always breaks."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend about to *buy",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ],
+      "tag": "MORTGAGE TIPS",
+      "theme": "dark"
+    },
+    "frames": [
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f01.png",
+        "min": 3.5,
+        "say": "Your monthly mortgage is not what your home costs you each month."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f02.png",
+        "min": 4.0,
+        "say": "One. Property tax. Plan for it every year."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f03.png",
+        "min": 4.5,
+        "say": "Two. Home insurance. Your lender will want it before closing."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f04.png",
+        "min": 4.5,
+        "say": "Three. Heat, hydro and water. These change with the seasons."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f05.png",
+        "min": 4.5,
+        "say": "Four. Repairs. Something always needs fixing, so set money aside."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r3-frames/f06.png",
+        "min": 5.0,
+        "say": "Add these up before you decide what you can afford. Send this to a friend about to buy. Call nine oh five, four five two, four two nine eight."
+      }
+    ],
+    "vo_pending": true,
+    "trigger": "a hidden cost",
+    "share_reason": "a friend about to buy",
+    "series": "reference-style"
+  },
+  {
+    "id": "d20261031-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-10-31T20:00:00-04:00",
+    "caption": "A listing photo hides 3 things that decide if you'll love it\n\nDo these three checks before you fall in love with a house. 1) Visit the street at 8 in the morning and again at 8 at night. 2) Test your real drive to work or school at rush hour. 3) Check your city's planning website for new roads, towers or developments nearby.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonontario #peelregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4.mp4",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4-cover.jpg",
+    "motion": {
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "kick": "BEFORE YOU FALL IN LOVE",
+          "tease": "Check these three first",
+          "prop": "search",
+          "text": "A listing photo hides *3 things that decide if you'll *love it"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 3,
+          "prop": "search",
+          "text": "The street at 8 in the morning and at 8 at night."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 3,
+          "prop": "keys",
+          "text": "Your real drive to work or school at rush hour."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 3,
+          "prop": "chart",
+          "text": "What is planned nearby: new roads, towers, developments."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend *house *hunting",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ],
+      "tag": "BUYING PROCESS",
+      "theme": "cream"
+    },
+    "frames": [
+      {
+        "img": "posts/2026-10-31/d20261031-r4-frames/f01.png",
+        "min": 4.0,
+        "say": "A listing photo can't show you the three things that decide if you'll like living there."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r4-frames/f02.png",
+        "min": 5.0,
+        "say": "One. The street at eight in the morning and eight at night. Noise and traffic change a lot."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r4-frames/f03.png",
+        "min": 5.0,
+        "say": "Two. Your real drive to work or school. Test it at rush hour, not when the roads are empty."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r4-frames/f04.png",
+        "min": 5.5,
+        "say": "Three. What's planned nearby. Check your city's planning website for new roads, towers or developments."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r4-frames/f05.png",
+        "min": 4.5,
+        "say": "Send this to a friend house hunting. Call nine oh five, four five two, four two nine eight."
+      }
+    ],
+    "vo_pending": true,
+    "trigger": "a hidden risk",
+    "share_reason": "a friend house hunting",
+    "series": "reference-style"
+  },
+  {
+    "id": "d20261031-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-10-31T21:00:00-04:00",
+    "caption": "Buying a home you might leave in 2 years?\n\nThe first question to ask before buying: how long will I really stay? When you buy and later sell, there are one-time costs on both sides, like land transfer tax, legal fees and realtor fees. On a short stay, those costs have little time to pay off. If you might move in about two years, talk it through before you sign.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5.mp4",
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5-cover.jpg",
+    "motion": {
+      "area": "KITCHENER-WATERLOO",
+      "scenes": [
+        {
+          "kind": "hook",
+          "kick": "ASK THIS FIRST",
+          "tease": "Read this before you sign",
+          "prop": "movingbox",
+          "text": "Buying a home you might leave in *2 years?"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Buying and selling both have one-time costs."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Land transfer tax, legal fees and realtor fees."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "chart",
+          "text": "A short stay leaves little time to pay them off."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask first: how long will I really stay?"
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend who might *move *soon",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ],
+      "tag": "BUYER TIP",
+      "theme": "dark"
+    },
+    "frames": [
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f01.png",
+        "min": 3.5,
+        "say": "Thinking of buying a home you might leave in two years? Read this first."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f02.png",
+        "min": 4.5,
+        "say": "When you buy and later sell, there are one-time costs on both sides."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f03.png",
+        "min": 5.0,
+        "say": "Land transfer tax and legal fees when you buy. Realtor fees and legal fees when you sell."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f04.png",
+        "min": 4.0,
+        "say": "On a short stay, those costs have little time to pay off."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f05.png",
+        "min": 5.0,
+        "say": "So ask first: how long will I really stay? If it's about two years, talk to someone before you sign."
+      },
+      {
+        "img": "posts/2026-10-31/d20261031-r5-frames/f06.png",
+        "min": 4.5,
+        "say": "Send this to a friend who might move soon. Call nine oh five, four five two, four two nine eight."
+      }
+    ],
+    "vo_pending": true,
+    "trigger": "a costly assumption",
+    "share_reason": "a friend who might move soon",
+    "series": "reference-style"
+  }
+]
