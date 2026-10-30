@@ -613,7 +613,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "QUICK TIP",
