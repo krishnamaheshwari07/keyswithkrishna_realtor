@@ -1,0 +1,991 @@
+{
+ "search_page": {
+  "error": "{\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"OAuthException\",\"fbtrace_id\":\"AXuW-Vm3Cqi69KHu4pSO41U\"}}"
+ },
+ "places_page": {
+  "error": "{\"error\":{\"message\":\"(#12) Place Search API is deprecated for third parties effective v8.0 is deprecated\",\"type\":\"OAuthException\",\"code\":12,\"fbtrace_id\":\"ADkhxLPPZmCu7FKDc9nw-gx\"}}"
+ },
+ "search_ig": {
+  "error": "{\"error\":{\"message\":\"Authentication Error\",\"code\":190,\"type\":\"OAuthException\",\"fbtrace_id\":\"A-waSrdkeFmYPJxKiTx6W0g\"}}"
+ },
+ "places_ig": {
+  "error": "{\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AwjnFGrQ2J6VHFUk8XP3vuX\"}}"
+ },
+ "page_posts_place": {
+  "data": [
+   {
+    "id": "1124472237410333_122123692773311840",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T03:02:58+0000"
+   },
+   {
+    "id": "1124472237410333_122123690409311840",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-30T02:32:34+0000"
+   },
+   {
+    "id": "1124472237410333_122123688003311840",
+    "created_time": "2026-10-30T01:51:40+0000"
+   },
+   {
+    "id": "1124472237410333_122123684877311840",
+    "place": {
+     "id": "104153936288668",
+     "name": "Oakville, Ontario",
+     "location": {
+      "city": "Oakville",
+      "country": "Canada",
+      "latitude": 43.4465,
+      "longitude": -79.7001,
+      "state": "ON",
+      "zip": "L6(H,J,K,L,M)"
+     }
+    },
+    "created_time": "2026-10-30T01:02:47+0000"
+   },
+   {
+    "id": "1124472237410333_122123679801311840",
+    "place": {
+     "id": "110185085668702",
+     "name": "Brampton, Ontario",
+     "location": {
+      "city": "Brampton",
+      "country": "Canada",
+      "latitude": 43.6833,
+      "longitude": -79.7667,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T00:02:44+0000"
+   },
+   {
+    "id": "1124472237410333_122123667285311840",
+    "place": {
+     "id": "112105072139178",
+     "name": "Etobicoke",
+     "location": {
+      "city": "Etobicoke",
+      "country": "Canada",
+      "latitude": 43.6294,
+      "longitude": -79.5171,
+      "state": "ON",
+      "zip": "M8V-M9C, M9P-M9R, M9V-M9W"
+     }
+    },
+    "created_time": "2026-10-29T21:33:07+0000"
+   },
+   {
+    "id": "1124472237410333_122123663997311840",
+    "created_time": "2026-10-29T20:32:17+0000"
+   },
+   {
+    "id": "1124472237410333_122123658681311840",
+    "place": {
+     "id": "104045032964460",
+     "name": "Kitchener, Ontario",
+     "location": {
+      "city": "Kitchener",
+      "country": "Canada",
+      "latitude": 43.45,
+      "longitude": -80.4833,
+      "state": "ON",
+      "zip": "N2A to N2R"
+     }
+    },
+    "created_time": "2026-10-29T19:02:42+0000"
+   },
+   {
+    "id": "1124472237410333_122123646093311840",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T15:33:45+0000"
+   },
+   {
+    "id": "1124472237410333_122123587395311840",
+    "created_time": "2026-10-29T02:33:19+0000"
+   },
+   {
+    "id": "1124472237410333_122123585997311840",
+    "created_time": "2026-10-29T02:01:24+0000"
+   },
+   {
+    "id": "1124472237410333_122123585013311840",
+    "created_time": "2026-10-29T01:51:12+0000"
+   },
+   {
+    "id": "1124472237410333_122123584971311840",
+    "created_time": "2026-10-29T01:51:10+0000"
+   },
+   {
+    "id": "1124472237410333_122123578743311840",
+    "place": {
+     "id": "106262189412553",
+     "name": "Mississauga, Ontario",
+     "location": {
+      "city": "Mississauga",
+      "country": "Canada",
+      "latitude": 43.6,
+      "longitude": -79.65,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T01:02:18+0000"
+   },
+   {
+    "id": "1124472237410333_122123573439311840",
+    "place": {
+     "id": "112763262068685",
+     "name": "Waterloo, Ontario",
+     "location": {
+      "city": "Waterloo",
+      "country": "Canada",
+      "latitude": 43.46522,
+      "longitude": -80.522317,
+      "state": "ON",
+      "zip": "N2J, N2K, N2L, N2T, N2V"
+     }
+    },
+    "created_time": "2026-10-29T00:02:20+0000"
+   },
+   {
+    "id": "1124472237410333_122123563659311840",
+    "created_time": "2026-10-28T21:32:20+0000"
+   },
+   {
+    "id": "1124472237410333_122123559945311840",
+    "created_time": "2026-10-28T20:31:28+0000"
+   },
+   {
+    "id": "1124472237410333_122123558805311840",
+    "created_time": "2026-10-28T20:17:08+0000"
+   },
+   {
+    "id": "1124472237410333_122123540025311840",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-28T15:33:09+0000"
+   },
+   {
+    "id": "1124472237410333_122123478423311840",
+    "created_time": "2026-10-28T01:01:51+0000"
+   },
+   {
+    "id": "1124472237410333_122123459763311840",
+    "created_time": "2026-10-27T20:31:04+0000"
+   },
+   {
+    "id": "1124472237410333_122123452875311840",
+    "created_time": "2026-10-27T19:02:13+0000"
+   },
+   {
+    "id": "1124472237410333_122123425029311840",
+    "created_time": "2026-10-27T13:31:41+0000"
+   },
+   {
+    "id": "1124472237410333_122123378115311840",
+    "created_time": "2026-10-27T02:32:22+0000"
+   },
+   {
+    "id": "1124472237410333_122123363475311840",
+    "created_time": "2026-10-26T22:50:47+0000"
+   }
+  ],
+  "paging": {
+   "cursors": {
+    "before": "QVFIVG9pNHl4WER1V0xHQjAteTBwLXJrc29xbnEyVzJSNnFPazlCX0pFRXMzVTRuckN1QVpzOUlnMWIxQnFLSGNDQmZAJOElVWFBPSFIxS1dDeHVBUVZA3UlZAvWmdXaE9TVU5rTjU0cmxmemZARTGxLVUhveGtTdTd5SUNnU2FXWlItOUlLZAVFsQmdtY1d4bURBOVE5NThnUmE4azc5ZAjRPaFkxQUdmaEozdFBIbGtQcjlTOGs1ODVaTE42RkRmbWVlVWlRMHd1TkljS2E1aUVNRnpneDJjd1BwY3J2Y3hpM1BOWmpuVUhkZAWRMWU5abUhSaWR1c0VobERsVEhRUTM5NzBKT0s1dHVtRVJlZAmxxZAFdwOFpTdThMZAVN3SUc3VGRuc1h2TndINW9hSDRSeU9pcHM2eW1pUHFMcndFVE5Sekowa1FqMGpDUXFFTGdsUTh2UXJGWUtndk81amhzM2ZArM2NpQUs5bW1JU3RuNFhqOEZAuWFVQdW5DbUlqQVI1Q1hnbzVHOXhGWVhjVlVteUN1S3N1bkM0V2t3TXA4QXo1eUNURXhHN2ZAKTVBGaHpMamJOM2JIdDRTQW1uNUQxeHp3bE5JOWNrQUJIYlJia0dPZAkRQMDd6ckZAWZAVdGbHZALT3pCSjJweEZAXdDZAHa3FhRF9VMWM3XzZAhQkNCRm1fQW9EMXA0MWhRM0VJaldMSkpmX2o5MVh3NURHeG1uY0VUYjQwbXo5eGxpemkzczZAOZAUxjWVpzaUJTR0VHc1ZAodzAxT1VQVFJtcwZDZD",
+    "after": "QVFIVE1iQmdCeEdfMnZATVk4wZAkFfZA3RRZAU1BMG1hbUlPLUlNbE1IOENMY3VqOTNTVFdMZAFhlTkg2MEFpUTBWdG5IbUgxRTFXbUlkOG8wSGlvbGxmSkZAyN1AxcmthTlJHdEhpa2lDSkI4SlZA1MW4wSHhCQ19lc2JBdktkM0pWV0dHOFhCVTFOOEJVRl9SbHU1Uk5waG9kUC05TFRXVVlfbGQ5bTRFS1RoWVZAWY3ZAzNnhNSFd5emN0dDJ6QWtNQl9vUmRLcnQ0Uk14bE9wTi0zYTRCQmtzd2tFZA21kUGR2NktYaXZASOHJ5ZA3ZApRGlwV1hyZAERPbHdENzZAqSGFyQ3VpbWdqMm14bzFsdmJWQlVuUTM3b3BIRW9DLV9jc3ZAhY0hSOTFfNHFJYV9VUEdoUmtpRGNXLU5aODBCcVJOLVlQQk1Dd09ISGpvZAVhKcE5vaklUejYzUnN3MXlmd1BDa1VrdlVaUmdoTXQtNzRxdGRHYUJIaHAwRk9vdHdVLUt1emdqamxqeDZAWQmloTDRlTDdRS1hWakxjMTdKOVZAaLVprZA1ZAySWo0dDFNbWNaeW1BamE0ekE4Ym1EUWlxam1CVVpaLTNjc0UxeGdCb05VeExvS1VaUmZAWc1VOMHlKZA0VKNTk5T00taXluV3prWkYyWXVaREtIdEw2RHJFX184ZA2MtZAEllMndtanp6UVhOOFgtU3VQdENZAU2g2SzFCcTkwUUFzMzdpOWFKendsTlhfRzFYWFVJWjRJb1BkQnFFWTN4QlRCaXZAaZAgZDZD"
+   },
+   "next": "https://graph.facebook.com/v26.0/1124472237410333/posts?fields=id%2Cplace%7Bid%2Cname%2Clocation%7D%2Ccreated_time&limit=25&access_token=EAAWf4s9ZCrKQBSgMObOthceu0gf81MRjMqk6HcBLH7RqNhlvzWCTiZCsgAUd8pQBGyYZCfEEitNnZBPhzY4IgjLzzID3MBWWQYiotYCDFM9jzsHOuDgZCqJtaTAdqmObmGhwo4OSn6K1suEBC5gPHCWsVKmfyjt449VAOPzFsyys60UnUq4bG6STPEdU7ZC9KVQcJ4zFzHhNPGjzUV7bdj&after=QVFIVE1iQmdCeEdfMnZATVk4wZAkFfZA3RRZAU1BMG1hbUlPLUlNbE1IOENMY3VqOTNTVFdMZAFhlTkg2MEFpUTBWdG5IbUgxRTFXbUlkOG8wSGlvbGxmSkZAyN1AxcmthTlJHdEhpa2lDSkI4SlZA1MW4wSHhCQ19lc2JBdktkM0pWV0dHOFhCVTFOOEJVRl9SbHU1Uk5waG9kUC05TFRXVVlfbGQ5bTRFS1RoWVZAWY3ZAzNnhNSFd5emN0dDJ6QWtNQl9vUmRLcnQ0Uk14bE9wTi0zYTRCQmtzd2tFZA21kUGR2NktYaXZASOHJ5ZA3ZApRGlwV1hyZAERPbHdENzZAqSGFyQ3VpbWdqMm14bzFsdmJWQlVuUTM3b3BIRW9DLV9jc3ZAhY0hSOTFfNHFJYV9VUEdoUmtpRGNXLU5aODBCcVJOLVlQQk1Dd09ISGpvZAVhKcE5vaklUejYzUnN3MXlmd1BDa1VrdlVaUmdoTXQtNzRxdGRHYUJIaHAwRk9vdHdVLUt1emdqamxqeDZAWQmloTDRlTDdRS1hWakxjMTdKOVZAaLVprZA1ZAySWo0dDFNbWNaeW1BamE0ekE4Ym1EUWlxam1CVVpaLTNjc0UxeGdCb05VeExvS1VaUmZAWc1VOMHlKZA0VKNTk5T00taXluV3prWkYyWXVaREtIdEw2RHJFX184ZA2MtZAEllMndtanp6UVhOOFgtU3VQdENZAU2g2SzFCcTkwUUFzMzdpOWFKendsTlhfRzFYWFVJWjRJb1BkQnFFWTN4QlRCaXZAaZAgZDZD"
+  }
+ },
+ "page_videos_place": {
+  "data": [
+   {
+    "id": "1827480138587282",
+    "description": "$800K in Halton. Your real mortgage?\n\nExample only: $800,000 resale home, first-time buyer, minimum down payment, insured mortgage, 25-year amortization.\n1) Purchase price: $800,000.\n2) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the $300,000 above it ($30,000) = $55,000. Mortgage before insurance: $800,000 \u2212 $55,000 = $745,000 (93.1% of the price).\n3) Mortgage insurance premium: at 90.01% to 95% loan-to-value the premium is 4.00% of the loan, so $745,000 \u00d7 4.00% = $29,800, added to the mortgage. A 30-year amortization (open to first-time buyers and new-build buyers) adds 0.20%.\nTotal mortgage: $745,000 + $29,800 = $774,800.\n\nNot included: Ontario sales tax on the premium, which is paid at closing and can't be added to the mortgage, plus land transfer tax, legal fees and adjustments. Lenders also apply the stress test and their own qualifying rules.\n\nSources: CMHC, \"Mortgage loan insurance cost\" (premium table), and Sagen premium rates chart; Financial Consumer Agency of Canada, down payment rules; Department of Finance, Sept 16, 2024 (insured price cap $1.5M, 30-year amortizations). Checked Oct 29, 2026. Example only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a friend saving for a first home. Want this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #firsttimehomebuyer #mortgagetips #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T03:02:29+0000"
+   },
+   {
+    "id": "1061120513619733",
+    "description": "Pre-approved in Milton? Not approved yet.\n\n1) Myth: pre-approved means approved. A pre-approval is an estimate of what a lender may lend you. 2) The lender still reviews the home itself and may order an appraisal. 3) A new car loan or a job change before closing can change your approval. 4) Ask your lender how long your rate hold lasts, and what could end it.\n\nSend this to whoever you're co-buying with. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice. Lender rules and approvals vary.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-30T02:32:04+0000"
+   },
+   {
+    "id": "879231571884264",
+    "description": "Selling in Oakville? Hold off on that renovation.\n\n1) Ask your realtor which projects buyers in your area actually value. 2) Fix the small things first: loose handles, dripping taps, burnt-out bulbs. 3) Deep clean and declutter so every room feels bigger. 4) Touch up scuffed walls in a neutral colour, if your realtor agrees.\n\nSend this to a neighbour planning to sell. Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price, result or timeline is guaranteed.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeselling #keyswithkrishna",
+    "place": {
+     "id": "104153936288668",
+     "name": "Oakville, Ontario",
+     "location": {
+      "city": "Oakville",
+      "country": "Canada",
+      "latitude": 43.4465,
+      "longitude": -79.7001,
+      "state": "ON",
+      "zip": "L6(H,J,K,L,M)"
+     }
+    },
+    "created_time": "2026-10-30T01:02:14+0000"
+   },
+   {
+    "id": "1460454016012101",
+    "description": "Brampton new build? Find this page before you sign.\n\n1) Find the Statement of Critical Dates, the first page of the addendum to your agreement. 2) Check the closing date and whether it is firm or tentative; tentative dates can be extended. 3) Know the outside closing date: if the home is not complete by then, you get a 30-day period to terminate. 4) Have your lawyer review the whole agreement before you sign.\n\nSource: Tarion, coverage for closing dates and delays on new freehold homes (tarion.com), read Oct 29, 2026. Condos and other purchases follow different rules. General information only, not legal advice.\n\nSend this to a friend buying a new build. Buying new? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuild #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "110185085668702",
+     "name": "Brampton, Ontario",
+     "location": {
+      "city": "Brampton",
+      "country": "Canada",
+      "latitude": 43.6833,
+      "longitude": -79.7667,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T00:02:14+0000"
+   },
+   {
+    "id": "1416765653967634",
+    "created_time": "2026-10-29T23:02:25+0000"
+   },
+   {
+    "id": "1165693532697870",
+    "description": "Picture this: closing in Etobicoke in two weeks.\n\n1) Lender: ask what documents they still need from you. 2) Moving: book movers and set up utilities for your closing date. 3) Insurance: arrange home insurance to start on your closing date. 4) Walkthrough: do your final walkthrough before closing, and ask your lawyer what ID and funds to bring.\n\nSend this to whoever you're buying with. Planning your closing? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal or mortgage advice. Your lender and lawyer will confirm what applies to you.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
+    "place": {
+     "id": "112105072139178",
+     "name": "Etobicoke",
+     "location": {
+      "city": "Etobicoke",
+      "country": "Canada",
+      "latitude": 43.6294,
+      "longitude": -79.5171,
+      "state": "ON",
+      "zip": "M8V-M9C, M9P-M9R, M9V-M9W"
+     }
+    },
+    "created_time": "2026-10-29T21:32:35+0000"
+   },
+   {
+    "id": "1925463735503642",
+    "description": "Kitchener buyer? Ask for this first.\n\nAsk for the last 12 months of utility bills. They show what the home really costs to heat, cool and power, which helps you plan your monthly budget. Your realtor can request them as part of your offer; the seller may decline, and costs vary with the household.\n\nSend this to a friend house-hunting in Kitchener. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "104045032964460",
+     "name": "Kitchener, Ontario",
+     "location": {
+      "city": "Kitchener",
+      "country": "Canada",
+      "latitude": 43.45,
+      "longitude": -80.4833,
+      "state": "ON",
+      "zip": "N2A to N2R"
+     }
+    },
+    "created_time": "2026-10-29T19:02:15+0000"
+   },
+   {
+    "id": "1499063455613858",
+    "created_time": "2026-10-29T16:34:25+0000"
+   },
+   {
+    "id": "1466029958794627",
+    "description": "Offer accepted in Georgetown. Now what?\n\n1) Deposit: get it in by the deadline in your agreement. 2) Dates: put every condition date on your calendar. 3) Paperwork: send the signed agreement to your lender and your lawyer. 4) Inspection: book it early, while the condition period is open.\n\nSend this to someone whose offer was just accepted. Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not legal or mortgage advice. The terms and dates in your agreement apply.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T15:33:09+0000"
+   },
+   {
+    "id": "1605727137968357",
+    "description": "Rural Peel home? Check the well first.\n\n1) Ask if the home has a well, a septic system, or municipal water and sewer. 2) Well: ask for recent water test results, and consider testing again. 3) Septic: ask for inspection and pumping records, plus the age of the system. 4) Tell your lender and insurer early, since they may have their own requirements.\n\nSave this for your next home tour. General information only. Requirements vary by home, lender and insurer.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #ontariohomes #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-29T02:32:30+0000"
+   },
+   {
+    "id": "1361248953746194",
+    "description": "Mississauga sellers: price high for negotiating room?\n\n1) Start with what similar homes nearby actually sold for, not their asking prices. 2) Buyers compare homes online, so a price far from the market can turn them away. 3) Ask your Realtor for a market analysis of your street and home type. 4) You set the list price; your Realtor advises you with the sold data.\n\nSend this to someone selling soon. General information only. No sale price, result or timeline is promised.\n\nSelling in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #ontariorealestate #keyswithkrishna",
+    "place": {
+     "id": "106262189412553",
+     "name": "Mississauga, Ontario",
+     "location": {
+      "city": "Mississauga",
+      "country": "Canada",
+      "latitude": 43.6,
+      "longitude": -79.65,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T01:01:50+0000"
+   },
+   {
+    "id": "1131664786173952",
+    "description": "Co-buying in Waterloo? Your title choice matters.\n\n1) Two common ways to hold title: joint tenants and tenants in common. 2) Joint tenants: usually equal shares, and a surviving owner takes the whole home. 3) Tenants in common: shares can be unequal, and each share can pass by will. 4) Ask your lawyer which fits your situation, and consider a written co-ownership agreement.\n\nSend this to someone buying with family or a partner. General information only, not legal advice.\n\nBuying in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#waterlooregion #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "112763262068685",
+     "name": "Waterloo, Ontario",
+     "location": {
+      "city": "Waterloo",
+      "country": "Canada",
+      "latitude": 43.46522,
+      "longitude": -80.522317,
+      "state": "ON",
+      "zip": "N2J, N2K, N2L, N2T, N2V"
+     }
+    },
+    "created_time": "2026-10-29T00:01:48+0000"
+   },
+   {
+    "id": "2346422466116026",
+    "created_time": "2026-10-28T23:02:04+0000"
+   },
+   {
+    "id": "40192929640291176",
+    "description": "Oakville, $900K, first home. Cash at closing?\n\nExample only: $900,000 resale home, first-time buyer, insured mortgage.\n1) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the portion above it ($400,000 \u00d7 10% = $40,000) = $65,000.\n2) Ontario land transfer tax: $900,000 \u00d7 2% \u2212 $3,525 = $14,475.\n3) First-time buyer refund: up to $4,000 if you qualify, so $14,475 \u2212 $4,000 = $10,475.\n4) Legal fees and title insurance: about $2,500 (an estimate; fees vary).\nTotal: $65,000 + $10,475 + $2,500 = $77,975.\n\nNot included: sales tax on the mortgage insurance premium, adjustments (like property tax and utilities) and moving costs. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Ontario.ca, Land transfer tax (rates and first-time homebuyer refund, which requires you to be 18+, never to have owned a home anywhere, and to move in within nine months); Government of Canada (Financial Consumer Agency of Canada), minimum down payment. Checked Oct 28, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
+    "created_time": "2026-10-28T21:31:52+0000"
+   },
+   {
+    "id": "2745201622560949",
+    "description": "Rates just rose. What about your monthly mortgage?\n\nThe Bank of Canada raised its policy rate 0.25% to 2.5% today, its first hike since 2023, and says another increase could be needed.\n- Why: to keep high energy prices from spreading into broader inflation, now expected near 3.5% by year-end.\n- Variable rate: your monthly mortgage could rise about $13 per $100K owed if your lender's prime rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization; about $66 more a month on a $500K mortgage). With a fixed-payment variable, more of each monthly mortgage payment may go to interest instead.\n- Fixed rate: no change until renewal; fixed rates follow bond yields.\n- Buying: higher rates can lower what you qualify for under the stress test. Ask your lender about a rate hold.\n- Renewing soon: compare your options early. Next decision: Dec 9.\n\nSource: Bank of Canada, Oct 28, 2026; Reuters via BNN Bloomberg, Oct 28, 2026; example rate: Ratehub, Oct 28, 2026.\n\nDid this change your plans? Tell me below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice.\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage",
+    "created_time": "2026-10-28T20:16:32+0000"
+   },
+   {
+    "id": "1995155831154358",
+    "created_time": "2026-10-28T16:31:35+0000"
+   },
+   {
+    "id": "1131581163160509",
+    "description": "Keys in hand in Milton? Do this first.\n\n1) Change or rekey the locks, since copies of the old keys could still be out there. 2) Confirm your home insurance is active from closing day. 3) Transfer your utilities and update your address so nothing gets missed. 4) Find the main water shut-off and the electrical panel before you need them.\n\nSend this to someone getting their keys this month. General information only. Your lawyer and insurer can confirm what applies to you.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-28T15:32:43+0000"
+   },
+   {
+    "id": "1611737853764451",
+    "description": "Guess the down payment on an $800K Brampton home.\n\nExample only: $800,000 purchase, insured mortgage, 25-year amortization. The minimum down payment in Canada is 5% of the first $500,000 ($500,000 \u00d7 5% = $25,000) plus 10% of the portion above $500,000 ($300,000 \u00d7 10% = $30,000). Total: $55,000, about 6.9% of the price. (Plain 5% would be $40,000.)\n\nNot included: mortgage insurance. On a $745,000 loan (93.1% of the price) the CMHC premium rate is 4.00%, or $29,800, usually added to the mortgage. Ontario sales tax on the premium must be paid in cash at closing, and closing costs are separate. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Government of Canada (Financial Consumer Agency of Canada), minimum down payment rules; CMHC, mortgage loan insurance premium table. Checked Oct 27, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#brampton #bramptonrealestate #firsttimehomebuyer #keyswithkrishna",
+    "created_time": "2026-10-28T01:01:24+0000"
+   },
+   {
+    "id": "1595592181730113",
+    "created_time": "2026-10-27T23:01:14+0000"
+   },
+   {
+    "id": "1684068446493078",
+    "description": "Oakville offer night? Don't skip #3.\n\n1) Confirm your mortgage pre-approval and the monthly mortgage you are comfortable with. 2) Decide your top price with your Realtor before offer night, not during it. 3) Read every condition, such as financing or inspection, before you sign. 4) Line up your deposit funds; the agreement sets when and how it is due.\n\nSend this to someone making an offer soon. General information only, not legal, tax or mortgage advice. Steps vary by purchase.\n\nMaking an offer in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "created_time": "2026-10-27T19:01:38+0000"
+   },
+   {
+    "id": "2163869097834100",
+    "description": "Oct 28 could raise your monthly mortgage. By how much?\n\nThe Bank of Canada announces its rate decision on Oct 28, 2026 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T13:31:08+0000"
+   },
+   {
+    "id": "1470168458310346",
+    "description": "Wednesday could raise your monthly mortgage. By how much?\n\nThe Bank of Canada decides Wednesday, Oct 28 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T02:31:38+0000"
+   },
+   {
+    "id": "1651610376618471",
+    "created_time": "2026-10-26T23:01:19+0000"
+   },
+   {
+    "id": "1876304600479939",
+    "description": "4 things your lawyer does before closing day.\n\n1) Searches the title to confirm the seller can legally sell the home. 2) Reviews your agreement and your mortgage instructions from the lender. 3) Arranges title insurance and prepares to register the transfer. 4) Prepares a statement showing the exact amount you owe on closing.\n\nSave this for your closing week. Steps vary by purchase. General information only, not legal, tax or mortgage advice.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "created_time": "2026-10-26T19:01:56+0000"
+   },
+   {
+    "id": "1164519442994967",
+    "description": "Selling in Georgetown? Avoid these 4 mistakes.\n\n1) Pricing from emotion, not from recent sold prices of similar homes. 2) Skipping the basics: a deep clean, decluttering and small repairs. 3) Starting big renovations before asking if they are worth it. 4) Looking only at price and ignoring conditions and the closing date.\n\nSend this to someone thinking of selling. General information only, not legal, tax or mortgage advice. Results vary.\n\nThinking of selling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+    "created_time": "2026-10-26T16:31:21+0000"
+   }
+  ],
+  "paging": {
+   "cursors": {
+    "before": "QVFIVFJiTlNrTl84REdSWThuaXpqODRfN05jY1BtdmJiTm5hUHZAzUExTb1ZAjcS1NdzFFWTFHeFRzb0JVaHk0LXRHREliSnVWcGZAUdzBmNnFOZAXc4dU40YUxn",
+    "after": "QVFIVGYtMW1HRl9kWEFzNG1SVll0d0M5Wk9lUnl5cW1ZAOVowSmlYbWdRSFd5dWdZAemlySkppYTBMSnltdXhJWGNNbHBvZA0ZAkQlFmS3g4OGo0aU53aElaS3J3"
+   },
+   "next": "https://graph.facebook.com/v26.0/1124472237410333/videos?fields=id%2Ctitle%2Cdescription%2Cplace%7Bid%2Cname%2Clocation%7D%2Ccreated_time&limit=25&access_token=EAAWf4s9ZCrKQBSgMObOthceu0gf81MRjMqk6HcBLH7RqNhlvzWCTiZCsgAUd8pQBGyYZCfEEitNnZBPhzY4IgjLzzID3MBWWQYiotYCDFM9jzsHOuDgZCqJtaTAdqmObmGhwo4OSn6K1suEBC5gPHCWsVKmfyjt449VAOPzFsyys60UnUq4bG6STPEdU7ZC9KVQcJ4zFzHhNPGjzUV7bdj&after=QVFIVGYtMW1HRl9kWEFzNG1SVll0d0M5Wk9lUnl5cW1ZAOVowSmlYbWdRSFd5dWdZAemlySkppYTBMSnltdXhJWGNNbHBvZA0ZAkQlFmS3g4OGo0aU53aElaS3J3"
+  }
+ },
+ "page_reels_place": {
+  "data": [
+   {
+    "id": "1827480138587282",
+    "description": "$800K in Halton. Your real mortgage?\n\nExample only: $800,000 resale home, first-time buyer, minimum down payment, insured mortgage, 25-year amortization.\n1) Purchase price: $800,000.\n2) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the $300,000 above it ($30,000) = $55,000. Mortgage before insurance: $800,000 \u2212 $55,000 = $745,000 (93.1% of the price).\n3) Mortgage insurance premium: at 90.01% to 95% loan-to-value the premium is 4.00% of the loan, so $745,000 \u00d7 4.00% = $29,800, added to the mortgage. A 30-year amortization (open to first-time buyers and new-build buyers) adds 0.20%.\nTotal mortgage: $745,000 + $29,800 = $774,800.\n\nNot included: Ontario sales tax on the premium, which is paid at closing and can't be added to the mortgage, plus land transfer tax, legal fees and adjustments. Lenders also apply the stress test and their own qualifying rules.\n\nSources: CMHC, \"Mortgage loan insurance cost\" (premium table), and Sagen premium rates chart; Financial Consumer Agency of Canada, down payment rules; Department of Finance, Sept 16, 2024 (insured price cap $1.5M, 30-year amortizations). Checked Oct 29, 2026. Example only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a friend saving for a first home. Want this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #firsttimehomebuyer #mortgagetips #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T03:02:29+0000"
+   },
+   {
+    "id": "1061120513619733",
+    "description": "Pre-approved in Milton? Not approved yet.\n\n1) Myth: pre-approved means approved. A pre-approval is an estimate of what a lender may lend you. 2) The lender still reviews the home itself and may order an appraisal. 3) A new car loan or a job change before closing can change your approval. 4) Ask your lender how long your rate hold lasts, and what could end it.\n\nSend this to whoever you're co-buying with. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice. Lender rules and approvals vary.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-30T02:32:04+0000"
+   },
+   {
+    "id": "879231571884264",
+    "description": "Selling in Oakville? Hold off on that renovation.\n\n1) Ask your realtor which projects buyers in your area actually value. 2) Fix the small things first: loose handles, dripping taps, burnt-out bulbs. 3) Deep clean and declutter so every room feels bigger. 4) Touch up scuffed walls in a neutral colour, if your realtor agrees.\n\nSend this to a neighbour planning to sell. Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price, result or timeline is guaranteed.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeselling #keyswithkrishna",
+    "place": {
+     "id": "104153936288668",
+     "name": "Oakville, Ontario",
+     "location": {
+      "city": "Oakville",
+      "country": "Canada",
+      "latitude": 43.4465,
+      "longitude": -79.7001,
+      "state": "ON",
+      "zip": "L6(H,J,K,L,M)"
+     }
+    },
+    "created_time": "2026-10-30T01:02:14+0000"
+   },
+   {
+    "id": "1460454016012101",
+    "description": "Brampton new build? Find this page before you sign.\n\n1) Find the Statement of Critical Dates, the first page of the addendum to your agreement. 2) Check the closing date and whether it is firm or tentative; tentative dates can be extended. 3) Know the outside closing date: if the home is not complete by then, you get a 30-day period to terminate. 4) Have your lawyer review the whole agreement before you sign.\n\nSource: Tarion, coverage for closing dates and delays on new freehold homes (tarion.com), read Oct 29, 2026. Condos and other purchases follow different rules. General information only, not legal advice.\n\nSend this to a friend buying a new build. Buying new? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuild #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "110185085668702",
+     "name": "Brampton, Ontario",
+     "location": {
+      "city": "Brampton",
+      "country": "Canada",
+      "latitude": 43.6833,
+      "longitude": -79.7667,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T00:02:14+0000"
+   },
+   {
+    "id": "1165693532697870",
+    "description": "Picture this: closing in Etobicoke in two weeks.\n\n1) Lender: ask what documents they still need from you. 2) Moving: book movers and set up utilities for your closing date. 3) Insurance: arrange home insurance to start on your closing date. 4) Walkthrough: do your final walkthrough before closing, and ask your lawyer what ID and funds to bring.\n\nSend this to whoever you're buying with. Planning your closing? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal or mortgage advice. Your lender and lawyer will confirm what applies to you.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
+    "place": {
+     "id": "112105072139178",
+     "name": "Etobicoke",
+     "location": {
+      "city": "Etobicoke",
+      "country": "Canada",
+      "latitude": 43.6294,
+      "longitude": -79.5171,
+      "state": "ON",
+      "zip": "M8V-M9C, M9P-M9R, M9V-M9W"
+     }
+    },
+    "created_time": "2026-10-29T21:32:35+0000"
+   },
+   {
+    "id": "1925463735503642",
+    "description": "Kitchener buyer? Ask for this first.\n\nAsk for the last 12 months of utility bills. They show what the home really costs to heat, cool and power, which helps you plan your monthly budget. Your realtor can request them as part of your offer; the seller may decline, and costs vary with the household.\n\nSend this to a friend house-hunting in Kitchener. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "104045032964460",
+     "name": "Kitchener, Ontario",
+     "location": {
+      "city": "Kitchener",
+      "country": "Canada",
+      "latitude": 43.45,
+      "longitude": -80.4833,
+      "state": "ON",
+      "zip": "N2A to N2R"
+     }
+    },
+    "created_time": "2026-10-29T19:02:15+0000"
+   },
+   {
+    "id": "1466029958794627",
+    "description": "Offer accepted in Georgetown. Now what?\n\n1) Deposit: get it in by the deadline in your agreement. 2) Dates: put every condition date on your calendar. 3) Paperwork: send the signed agreement to your lender and your lawyer. 4) Inspection: book it early, while the condition period is open.\n\nSend this to someone whose offer was just accepted. Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not legal or mortgage advice. The terms and dates in your agreement apply.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T15:33:09+0000"
+   },
+   {
+    "id": "1605727137968357",
+    "description": "Rural Peel home? Check the well first.\n\n1) Ask if the home has a well, a septic system, or municipal water and sewer. 2) Well: ask for recent water test results, and consider testing again. 3) Septic: ask for inspection and pumping records, plus the age of the system. 4) Tell your lender and insurer early, since they may have their own requirements.\n\nSave this for your next home tour. General information only. Requirements vary by home, lender and insurer.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #ontariohomes #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-29T02:32:30+0000"
+   },
+   {
+    "id": "1361248953746194",
+    "description": "Mississauga sellers: price high for negotiating room?\n\n1) Start with what similar homes nearby actually sold for, not their asking prices. 2) Buyers compare homes online, so a price far from the market can turn them away. 3) Ask your Realtor for a market analysis of your street and home type. 4) You set the list price; your Realtor advises you with the sold data.\n\nSend this to someone selling soon. General information only. No sale price, result or timeline is promised.\n\nSelling in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #ontariorealestate #keyswithkrishna",
+    "place": {
+     "id": "106262189412553",
+     "name": "Mississauga, Ontario",
+     "location": {
+      "city": "Mississauga",
+      "country": "Canada",
+      "latitude": 43.6,
+      "longitude": -79.65,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T01:01:50+0000"
+   },
+   {
+    "id": "1131664786173952",
+    "description": "Co-buying in Waterloo? Your title choice matters.\n\n1) Two common ways to hold title: joint tenants and tenants in common. 2) Joint tenants: usually equal shares, and a surviving owner takes the whole home. 3) Tenants in common: shares can be unequal, and each share can pass by will. 4) Ask your lawyer which fits your situation, and consider a written co-ownership agreement.\n\nSend this to someone buying with family or a partner. General information only, not legal advice.\n\nBuying in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#waterlooregion #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "112763262068685",
+     "name": "Waterloo, Ontario",
+     "location": {
+      "city": "Waterloo",
+      "country": "Canada",
+      "latitude": 43.46522,
+      "longitude": -80.522317,
+      "state": "ON",
+      "zip": "N2J, N2K, N2L, N2T, N2V"
+     }
+    },
+    "created_time": "2026-10-29T00:01:48+0000"
+   },
+   {
+    "id": "40192929640291176",
+    "description": "Oakville, $900K, first home. Cash at closing?\n\nExample only: $900,000 resale home, first-time buyer, insured mortgage.\n1) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the portion above it ($400,000 \u00d7 10% = $40,000) = $65,000.\n2) Ontario land transfer tax: $900,000 \u00d7 2% \u2212 $3,525 = $14,475.\n3) First-time buyer refund: up to $4,000 if you qualify, so $14,475 \u2212 $4,000 = $10,475.\n4) Legal fees and title insurance: about $2,500 (an estimate; fees vary).\nTotal: $65,000 + $10,475 + $2,500 = $77,975.\n\nNot included: sales tax on the mortgage insurance premium, adjustments (like property tax and utilities) and moving costs. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Ontario.ca, Land transfer tax (rates and first-time homebuyer refund, which requires you to be 18+, never to have owned a home anywhere, and to move in within nine months); Government of Canada (Financial Consumer Agency of Canada), minimum down payment. Checked Oct 28, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
+    "created_time": "2026-10-28T21:31:52+0000"
+   },
+   {
+    "id": "2745201622560949",
+    "description": "Rates just rose. What about your monthly mortgage?\n\nThe Bank of Canada raised its policy rate 0.25% to 2.5% today, its first hike since 2023, and says another increase could be needed.\n- Why: to keep high energy prices from spreading into broader inflation, now expected near 3.5% by year-end.\n- Variable rate: your monthly mortgage could rise about $13 per $100K owed if your lender's prime rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization; about $66 more a month on a $500K mortgage). With a fixed-payment variable, more of each monthly mortgage payment may go to interest instead.\n- Fixed rate: no change until renewal; fixed rates follow bond yields.\n- Buying: higher rates can lower what you qualify for under the stress test. Ask your lender about a rate hold.\n- Renewing soon: compare your options early. Next decision: Dec 9.\n\nSource: Bank of Canada, Oct 28, 2026; Reuters via BNN Bloomberg, Oct 28, 2026; example rate: Ratehub, Oct 28, 2026.\n\nDid this change your plans? Tell me below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice.\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage",
+    "created_time": "2026-10-28T20:16:32+0000"
+   },
+   {
+    "id": "1131581163160509",
+    "description": "Keys in hand in Milton? Do this first.\n\n1) Change or rekey the locks, since copies of the old keys could still be out there. 2) Confirm your home insurance is active from closing day. 3) Transfer your utilities and update your address so nothing gets missed. 4) Find the main water shut-off and the electrical panel before you need them.\n\nSend this to someone getting their keys this month. General information only. Your lawyer and insurer can confirm what applies to you.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-28T15:32:43+0000"
+   },
+   {
+    "id": "1611737853764451",
+    "description": "Guess the down payment on an $800K Brampton home.\n\nExample only: $800,000 purchase, insured mortgage, 25-year amortization. The minimum down payment in Canada is 5% of the first $500,000 ($500,000 \u00d7 5% = $25,000) plus 10% of the portion above $500,000 ($300,000 \u00d7 10% = $30,000). Total: $55,000, about 6.9% of the price. (Plain 5% would be $40,000.)\n\nNot included: mortgage insurance. On a $745,000 loan (93.1% of the price) the CMHC premium rate is 4.00%, or $29,800, usually added to the mortgage. Ontario sales tax on the premium must be paid in cash at closing, and closing costs are separate. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Government of Canada (Financial Consumer Agency of Canada), minimum down payment rules; CMHC, mortgage loan insurance premium table. Checked Oct 27, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#brampton #bramptonrealestate #firsttimehomebuyer #keyswithkrishna",
+    "created_time": "2026-10-28T01:01:24+0000"
+   },
+   {
+    "id": "1684068446493078",
+    "description": "Oakville offer night? Don't skip #3.\n\n1) Confirm your mortgage pre-approval and the monthly mortgage you are comfortable with. 2) Decide your top price with your Realtor before offer night, not during it. 3) Read every condition, such as financing or inspection, before you sign. 4) Line up your deposit funds; the agreement sets when and how it is due.\n\nSend this to someone making an offer soon. General information only, not legal, tax or mortgage advice. Steps vary by purchase.\n\nMaking an offer in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "created_time": "2026-10-27T19:01:38+0000"
+   },
+   {
+    "id": "2163869097834100",
+    "description": "Oct 28 could raise your monthly mortgage. By how much?\n\nThe Bank of Canada announces its rate decision on Oct 28, 2026 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T13:31:08+0000"
+   },
+   {
+    "id": "1470168458310346",
+    "description": "Wednesday could raise your monthly mortgage. By how much?\n\nThe Bank of Canada decides Wednesday, Oct 28 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T02:31:38+0000"
+   },
+   {
+    "id": "1876304600479939",
+    "description": "4 things your lawyer does before closing day.\n\n1) Searches the title to confirm the seller can legally sell the home. 2) Reviews your agreement and your mortgage instructions from the lender. 3) Arranges title insurance and prepares to register the transfer. 4) Prepares a statement showing the exact amount you owe on closing.\n\nSave this for your closing week. Steps vary by purchase. General information only, not legal, tax or mortgage advice.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "created_time": "2026-10-26T19:01:56+0000"
+   },
+   {
+    "id": "1164519442994967",
+    "description": "Selling in Georgetown? Avoid these 4 mistakes.\n\n1) Pricing from emotion, not from recent sold prices of similar homes. 2) Skipping the basics: a deep clean, decluttering and small repairs. 3) Starting big renovations before asking if they are worth it. 4) Looking only at price and ignoring conditions and the closing date.\n\nSend this to someone thinking of selling. General information only, not legal, tax or mortgage advice. Results vary.\n\nThinking of selling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+    "created_time": "2026-10-26T16:31:21+0000"
+   },
+   {
+    "id": "2629255447514087",
+    "description": "A buyer asked me: what's a home inspection condition?\n\n1) It's a clause in your offer that gives you a set window to inspect. 2) An inspector goes through the home and writes a report. 3) If issues come up, you might renegotiate or walk away, depending on the wording. 4) Remove the condition and the deal becomes firm, so ask your lawyer first.\n\nSave this for before you make an offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-26T01:01:27+0000"
+   },
+   {
+    "id": "1633779474767640",
+    "description": "Closing in Georgetown next month? Check these 4 things first.\n\n1) Confirm your mortgage approval is still valid and your funds are ready. 2) Arrange home insurance so it starts on your closing date. 3) Ask your lawyer exactly what funds are due, and when. 4) Book your movers and set up utilities and your change of address.\n\nSend this to someone closing this year. General information only, not legal, tax or mortgage advice.\n\nBuying or selling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #firsttimehomebuyer #keyswithkrishna",
+    "created_time": "2026-10-25T19:01:20+0000"
+   },
+   {
+    "id": "4590542797886404",
+    "description": "A buyer asked me how to price an offer. 4 steps.\n\n1) Start with recent sales of similar homes nearby, not just the list price. 2) Ask your Realtor\u00ae to compare size, age, condition and location. 3) Know your own ceiling before you write the offer. 4) Decide your conditions too: financing and inspection protect you.\n\nSend this to someone writing their first offer. General information only, not legal, tax or mortgage advice.\n\nBuying in Georgetown or Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-25T01:11:01+0000"
+   },
+   {
+    "id": "1777703200150163",
+    "description": "New build in Brampton? Your 5 steps from signing to keys.\n\n1) Have a real estate lawyer review the agreement before you sign. 2) Pay your deposits on the dates in your agreement. 3) Pick finishes and upgrades by the builder's deadlines. 4) Walk the home with the builder at the pre-delivery inspection. 5) Confirm your mortgage approval is still valid before closing.\n\nSend this to someone buying a new build. General information only, not legal, tax or mortgage advice.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #newbuildhomes #keyswithkrishna",
+    "created_time": "2026-10-24T19:01:18+0000"
+   },
+   {
+    "id": "2326536304803443",
+    "description": "Submitting an offer in Cambridge? Check these 4 things first. 1) Your pre-approval: know the price you're comfortable with, not just your maximum. 2) Conditions: decide which ones protect you, like financing and inspection. 3) Deposit: know the amount and when it must be delivered. 4) Offer expiry, closing date and inclusions: put it all in writing.\n\nSend this to someone writing an offer soon. General information only, not legal advice.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-24T01:02:02+0000"
+   },
+   {
+    "id": "1050438848043657",
+    "description": "Before removing conditions in Milton, ask these 3 questions. 1) Is my financing fully approved, in writing, for this exact property? 2) Did I read the inspection report and price any big repairs? 3) Has my lawyer reviewed the agreement and explained my deposit?\n\nSend this to someone with an accepted offer. General information only, not legal advice.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-23T19:01:08+0000"
+   }
+  ],
+  "paging": {
+   "cursors": {
+    "before": "QVFIVFJiTlNrTl84REdSWThuaXpqODRfN05jY1BtdmJiTm5hUHZAzUExTb1ZAjcS1NdzFFWTFHeFRzb0JVaHk0LXRHREliSnVWcGZAUdzBmNnFOZAXc4dU40YUxn",
+    "after": "QVFIVERvN0FxNnB3WFoyamdnSEtCUUd3TVhkNjY2djNTNTBFSG1nM0ZALQlpNSG1WZAjBVMmd2anlDVUlRdDdNMUlYNmZAuTVl5X2dXdG1UN0tuS3ZAfbVAxcGdB"
+   },
+   "next": "https://graph.facebook.com/v26.0/1124472237410333/video_reels?fields=id%2Cdescription%2Cplace%7Bid%2Cname%2Clocation%7D%2Ccreated_time&limit=25&access_token=EAAWf4s9ZCrKQBSgMObOthceu0gf81MRjMqk6HcBLH7RqNhlvzWCTiZCsgAUd8pQBGyYZCfEEitNnZBPhzY4IgjLzzID3MBWWQYiotYCDFM9jzsHOuDgZCqJtaTAdqmObmGhwo4OSn6K1suEBC5gPHCWsVKmfyjt449VAOPzFsyys60UnUq4bG6STPEdU7ZC9KVQcJ4zFzHhNPGjzUV7bdj&after=QVFIVERvN0FxNnB3WFoyamdnSEtCUUd3TVhkNjY2djNTNTBFSG1nM0ZALQlpNSG1WZAjBVMmd2anlDVUlRdDdNMUlYNmZAuTVl5X2dXdG1UN0tuS3ZAfbVAxcGdB"
+  }
+ },
+ "page_feed_place": {
+  "data": [
+   {
+    "id": "1124472237410333_122123692773311840",
+    "message": "$800K in Halton. Your real mortgage?\n\nExample only: $800,000 resale home, first-time buyer, minimum down payment, insured mortgage, 25-year amortization.\n1) Purchase price: $800,000.\n2) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the $300,000 above it ($30,000) = $55,000. Mortgage before insurance: $800,000 \u2212 $55,000 = $745,000 (93.1% of the price).\n3) Mortgage insurance premium: at 90.01% to 95% loan-to-value the premium is 4.00% of the loan, so $745,000 \u00d7 4.00% = $29,800, added to the mortgage. A 30-year amortization (open to first-time buyers and new-build buyers) adds 0.20%.\nTotal mortgage: $745,000 + $29,800 = $774,800.\n\nNot included: Ontario sales tax on the premium, which is paid at closing and can't be added to the mortgage, plus land transfer tax, legal fees and adjustments. Lenders also apply the stress test and their own qualifying rules.\n\nSources: CMHC, \"Mortgage loan insurance cost\" (premium table), and Sagen premium rates chart; Financial Consumer Agency of Canada, down payment rules; Department of Finance, Sept 16, 2024 (insured price cap $1.5M, 30-year amortizations). Checked Oct 29, 2026. Example only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a friend saving for a first home. Want this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #firsttimehomebuyer #mortgagetips #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T03:02:58+0000"
+   },
+   {
+    "id": "1124472237410333_122123690409311840",
+    "message": "Pre-approved in Milton? Not approved yet.\n\n1) Myth: pre-approved means approved. A pre-approval is an estimate of what a lender may lend you. 2) The lender still reviews the home itself and may order an appraisal. 3) A new car loan or a job change before closing can change your approval. 4) Ask your lender how long your rate hold lasts, and what could end it.\n\nSend this to whoever you're co-buying with. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice. Lender rules and approvals vary.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-30T02:32:34+0000"
+   },
+   {
+    "id": "1124472237410333_122123688003311840",
+    "message": "Waiting on rates? Do this math first.\n\n1) Variable rate: your monthly mortgage could rise about $13 per $100,000 owed if your rate rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization). 2) On a $500,000 mortgage that is about $66 more a month. 3) Fixed rate: no change until you renew; fixed rates follow bond yields.\n\nSources: Bank of Canada, Oct 28, 2026 (policy rate raised 0.25% to 2.5%); example rate: Ratehub, Oct 28, 2026. Calculated with Canadian semi-annual compounding. Examples only. Not financial or mortgage advice.\n\nRenewing or buying soon? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mortgagerates #bankofcanada #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-30T01:51:40+0000"
+   },
+   {
+    "id": "1124472237410333_122123684877311840",
+    "message": "Selling in Oakville? Hold off on that renovation.\n\n1) Ask your realtor which projects buyers in your area actually value. 2) Fix the small things first: loose handles, dripping taps, burnt-out bulbs. 3) Deep clean and declutter so every room feels bigger. 4) Touch up scuffed walls in a neutral colour, if your realtor agrees.\n\nSend this to a neighbour planning to sell. Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price, result or timeline is guaranteed.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeselling #keyswithkrishna",
+    "place": {
+     "id": "104153936288668",
+     "name": "Oakville, Ontario",
+     "location": {
+      "city": "Oakville",
+      "country": "Canada",
+      "latitude": 43.4465,
+      "longitude": -79.7001,
+      "state": "ON",
+      "zip": "L6(H,J,K,L,M)"
+     }
+    },
+    "created_time": "2026-10-30T01:02:47+0000"
+   },
+   {
+    "id": "1124472237410333_122123679801311840",
+    "message": "Brampton new build? Find this page before you sign.\n\n1) Find the Statement of Critical Dates, the first page of the addendum to your agreement. 2) Check the closing date and whether it is firm or tentative; tentative dates can be extended. 3) Know the outside closing date: if the home is not complete by then, you get a 30-day period to terminate. 4) Have your lawyer review the whole agreement before you sign.\n\nSource: Tarion, coverage for closing dates and delays on new freehold homes (tarion.com), read Oct 29, 2026. Condos and other purchases follow different rules. General information only, not legal advice.\n\nSend this to a friend buying a new build. Buying new? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuild #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "110185085668702",
+     "name": "Brampton, Ontario",
+     "location": {
+      "city": "Brampton",
+      "country": "Canada",
+      "latitude": 43.6833,
+      "longitude": -79.7667,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-30T00:02:44+0000"
+   },
+   {
+    "id": "1124472237410333_122123667285311840",
+    "message": "Picture this: closing in Etobicoke in two weeks.\n\n1) Lender: ask what documents they still need from you. 2) Moving: book movers and set up utilities for your closing date. 3) Insurance: arrange home insurance to start on your closing date. 4) Walkthrough: do your final walkthrough before closing, and ask your lawyer what ID and funds to bring.\n\nSend this to whoever you're buying with. Planning your closing? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal or mortgage advice. Your lender and lawyer will confirm what applies to you.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
+    "place": {
+     "id": "112105072139178",
+     "name": "Etobicoke",
+     "location": {
+      "city": "Etobicoke",
+      "country": "Canada",
+      "latitude": 43.6294,
+      "longitude": -79.5171,
+      "state": "ON",
+      "zip": "M8V-M9C, M9P-M9R, M9V-M9W"
+     }
+    },
+    "created_time": "2026-10-29T21:33:07+0000"
+   },
+   {
+    "id": "1124472237410333_122123663997311840",
+    "message": "Mississauga condo? Ask for this first.\n\nAsk your lawyer about the status certificate. 1) What it is: a condo corporation summary of fees, the reserve fund, special assessments and legal issues. 2) When to ask: right after your offer is accepted; ask your realtor about a review condition in your offer. 3) Who reviews it: your lawyer, so ask what to look for in the fee and reserve fund lines.\n\nGeneral information only, not legal advice.\n\nBuying a condo? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #condoliving #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-29T20:32:17+0000"
+   },
+   {
+    "id": "1124472237410333_122123658681311840",
+    "message": "Kitchener buyer? Ask for this first.\n\nAsk for the last 12 months of utility bills. They show what the home really costs to heat, cool and power, which helps you plan your monthly budget. Your realtor can request them as part of your offer; the seller may decline, and costs vary with the household.\n\nSend this to a friend house-hunting in Kitchener. Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "104045032964460",
+     "name": "Kitchener, Ontario",
+     "location": {
+      "city": "Kitchener",
+      "country": "Canada",
+      "latitude": 43.45,
+      "longitude": -80.4833,
+      "state": "ON",
+      "zip": "N2A to N2R"
+     }
+    },
+    "created_time": "2026-10-29T19:02:42+0000"
+   },
+   {
+    "id": "1124472237410333_122123646093311840",
+    "message": "Offer accepted in Georgetown. Now what?\n\n1) Deposit: get it in by the deadline in your agreement. 2) Dates: put every condition date on your calendar. 3) Paperwork: send the signed agreement to your lender and your lawyer. 4) Inspection: book it early, while the condition period is open.\n\nSend this to someone whose offer was just accepted. Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not legal or mortgage advice. The terms and dates in your agreement apply.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "place": {
+     "id": "100559091412346",
+     "name": "Halton Hills, Ontario",
+     "location": {
+      "city": "Georgetown",
+      "country": "Canada",
+      "latitude": 43.6494,
+      "longitude": -79.901,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T15:33:45+0000"
+   },
+   {
+    "id": "1124472237410333_122123587395311840",
+    "message": "Rural Peel home? Check the well first.\n\n1) Ask if the home has a well, a septic system, or municipal water and sewer. 2) Well: ask for recent water test results, and consider testing again. 3) Septic: ask for inspection and pumping records, plus the age of the system. 4) Tell your lender and insurer early, since they may have their own requirements.\n\nSave this for your next home tour. General information only. Requirements vary by home, lender and insurer.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #ontariohomes #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-29T02:33:19+0000"
+   },
+   {
+    "id": "1124472237410333_122123585997311840",
+    "message": "Renewing in Halton? Compare before you sign.\n\n1) Know your date: check your renewal date and when offers arrive. 2) Compare offers: look at rate, term and prepayment rules, not only the rate. 3) Ask about switching: ask what it costs and what it takes. A mortgage broker or lender can run the numbers for you.\n\nGeneral information only, not mortgage advice. Lender rules vary.\n\nMortgage coming up for renewal? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagerenewal #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-29T02:01:24+0000"
+   },
+   {
+    "id": "1124472237410333_122123585013311840",
+    "message": "Renewing in Halton? Compare before you sign.\n\n1) Know your date: check your renewal date and when offers arrive. 2) Compare offers: look at rate, term and prepayment rules, not only the rate. 3) Ask about switching: ask what it costs and what it takes. A mortgage broker or lender can run the numbers for you.\n\nGeneral information only, not mortgage advice. Lender rules vary.\n\nMortgage coming up for renewal? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagerenewal #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-29T01:51:12+0000"
+   },
+   {
+    "id": "1124472237410333_122123584971311840",
+    "message": "Renewing in Halton? Compare before you sign.\n\n1) Know your date: check your renewal date and when offers arrive. 2) Compare offers: look at rate, term and prepayment rules, not only the rate. 3) Ask about switching: ask what it costs and what it takes. A mortgage broker or lender can run the numbers for you.\n\nGeneral information only, not mortgage advice. Lender rules vary.\n\nMortgage coming up for renewal? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagerenewal #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-29T01:51:10+0000"
+   },
+   {
+    "id": "1124472237410333_122123578743311840",
+    "message": "Mississauga sellers: price high for negotiating room?\n\n1) Start with what similar homes nearby actually sold for, not their asking prices. 2) Buyers compare homes online, so a price far from the market can turn them away. 3) Ask your Realtor for a market analysis of your street and home type. 4) You set the list price; your Realtor advises you with the sold data.\n\nSend this to someone selling soon. General information only. No sale price, result or timeline is promised.\n\nSelling in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #ontariorealestate #keyswithkrishna",
+    "place": {
+     "id": "106262189412553",
+     "name": "Mississauga, Ontario",
+     "location": {
+      "city": "Mississauga",
+      "country": "Canada",
+      "latitude": 43.6,
+      "longitude": -79.65,
+      "state": "ON"
+     }
+    },
+    "created_time": "2026-10-29T01:02:18+0000"
+   },
+   {
+    "id": "1124472237410333_122123573439311840",
+    "message": "Co-buying in Waterloo? Your title choice matters.\n\n1) Two common ways to hold title: joint tenants and tenants in common. 2) Joint tenants: usually equal shares, and a surviving owner takes the whole home. 3) Tenants in common: shares can be unequal, and each share can pass by will. 4) Ask your lawyer which fits your situation, and consider a written co-ownership agreement.\n\nSend this to someone buying with family or a partner. General information only, not legal advice.\n\nBuying in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#waterlooregion #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "112763262068685",
+     "name": "Waterloo, Ontario",
+     "location": {
+      "city": "Waterloo",
+      "country": "Canada",
+      "latitude": 43.46522,
+      "longitude": -80.522317,
+      "state": "ON",
+      "zip": "N2J, N2K, N2L, N2T, N2V"
+     }
+    },
+    "created_time": "2026-10-29T00:02:20+0000"
+   },
+   {
+    "id": "1124472237410333_122123563659311840",
+    "message": "Oakville, $900K, first home. Cash at closing?\n\nExample only: $900,000 resale home, first-time buyer, insured mortgage.\n1) Minimum down payment: 5% of the first $500,000 ($25,000) + 10% of the portion above it ($400,000 \u00d7 10% = $40,000) = $65,000.\n2) Ontario land transfer tax: $900,000 \u00d7 2% \u2212 $3,525 = $14,475.\n3) First-time buyer refund: up to $4,000 if you qualify, so $14,475 \u2212 $4,000 = $10,475.\n4) Legal fees and title insurance: about $2,500 (an estimate; fees vary).\nTotal: $65,000 + $10,475 + $2,500 = $77,975.\n\nNot included: sales tax on the mortgage insurance premium, adjustments (like property tax and utilities) and moving costs. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Ontario.ca, Land transfer tax (rates and first-time homebuyer refund, which requires you to be 18+, never to have owned a home anywhere, and to move in within nine months); Government of Canada (Financial Consumer Agency of Canada), minimum down payment. Checked Oct 28, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
+    "created_time": "2026-10-28T21:32:20+0000"
+   },
+   {
+    "id": "1124472237410333_122123559945311840",
+    "message": "Buying new in Caledon? Up to $50,000 GST rebate.\n\n1) What: a rebate of the GST, or the federal part of the HST, on a newly built home. 2) Who: eligible first-time buyers; for builder purchases, agreements signed on or after Mar 20, 2025. 3) How: ask your builder if they offer it, or apply to the CRA, usually within 2 years of taking ownership.\n\nSource: Canada Revenue Agency, \"First-time buyers can save more on new homes\", Mar 17, 2026. Eligibility rules apply and other conditions may apply. General information only, not tax, mortgage or legal advice.\n\nBuying a new home? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#firsttimehomebuyer #newbuild #caledon #keyswithkrishna",
+    "created_time": "2026-10-28T20:31:28+0000"
+   },
+   {
+    "id": "1124472237410333_122123558805311840",
+    "message": "Rates just rose. What about your monthly mortgage?\n\nThe Bank of Canada raised its policy rate 0.25% to 2.5% today, its first hike since 2023, and says another increase could be needed.\n- Why: to keep high energy prices from spreading into broader inflation, now expected near 3.5% by year-end.\n- Variable rate: your monthly mortgage could rise about $13 per $100K owed if your lender's prime rises the full 0.25% (example 3.43% to 3.68%, 25-year amortization; about $66 more a month on a $500K mortgage). With a fixed-payment variable, more of each monthly mortgage payment may go to interest instead.\n- Fixed rate: no change until renewal; fixed rates follow bond yields.\n- Buying: higher rates can lower what you qualify for under the stress test. Ask your lender about a rate hold.\n- Renewing soon: compare your options early. Next decision: Dec 9.\n\nSource: Bank of Canada, Oct 28, 2026; Reuters via BNN Bloomberg, Oct 28, 2026; example rate: Ratehub, Oct 28, 2026.\n\nDid this change your plans? Tell me below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice.\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage",
+    "created_time": "2026-10-28T20:17:08+0000"
+   },
+   {
+    "id": "1124472237410333_122123540025311840",
+    "message": "Keys in hand in Milton? Do this first.\n\n1) Change or rekey the locks, since copies of the old keys could still be out there. 2) Confirm your home insurance is active from closing day. 3) Transfer your utilities and update your address so nothing gets missed. 4) Find the main water shut-off and the electrical panel before you need them.\n\nSend this to someone getting their keys this month. General information only. Your lawyer and insurer can confirm what applies to you.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "place": {
+     "id": "109493702409366",
+     "name": "Milton, Ontario",
+     "location": {
+      "city": "Milton",
+      "country": "Canada",
+      "latitude": 43.51105,
+      "longitude": -79.88386,
+      "state": "ON",
+      "zip": "L9E & L9T"
+     }
+    },
+    "created_time": "2026-10-28T15:33:09+0000"
+   },
+   {
+    "id": "1124472237410333_122123478423311840",
+    "message": "Guess the down payment on an $800K Brampton home.\n\nExample only: $800,000 purchase, insured mortgage, 25-year amortization. The minimum down payment in Canada is 5% of the first $500,000 ($500,000 \u00d7 5% = $25,000) plus 10% of the portion above $500,000 ($300,000 \u00d7 10% = $30,000). Total: $55,000, about 6.9% of the price. (Plain 5% would be $40,000.)\n\nNot included: mortgage insurance. On a $745,000 loan (93.1% of the price) the CMHC premium rate is 4.00%, or $29,800, usually added to the mortgage. Ontario sales tax on the premium must be paid in cash at closing, and closing costs are separate. Lenders also apply their own qualifying rules, including the stress test.\n\nSources: Government of Canada (Financial Consumer Agency of Canada), minimum down payment rules; CMHC, mortgage loan insurance premium table. Checked Oct 27, 2026. Estimates only; eligibility and lender rules apply. Not mortgage, tax or legal advice.\n\nSend this to a first-time buyer you know. Planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#brampton #bramptonrealestate #firsttimehomebuyer #keyswithkrishna",
+    "created_time": "2026-10-28T01:01:51+0000"
+   },
+   {
+    "id": "1124472237410333_122123459763311840",
+    "message": "Up to $60,000 from your own RRSP. Milton first-time buyers, read this.\n\nThe Home Buyers' Plan lets eligible first-time buyers withdraw up to $60,000 from their RRSP toward a home, and repay it to their RRSP over a 15-year period. Each spouse or partner can withdraw from their own RRSP. You need a written agreement to buy or build, and the first-time buyer test looks at whether you lived in a home you owned in the current or past four calendar years. Amounts not repaid on schedule are added to your income.\n\nSource: Canada Revenue Agency, Home Buyers' Plan (canada.ca, page modified Jan 20, 2026). Eligibility rules apply. General information only, not tax, mortgage or legal advice.\n\nBuying your first home in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
+    "created_time": "2026-10-27T20:31:04+0000"
+   },
+   {
+    "id": "1124472237410333_122123452875311840",
+    "message": "Oakville offer night? Don't skip #3.\n\n1) Confirm your mortgage pre-approval and the monthly mortgage you are comfortable with. 2) Decide your top price with your Realtor before offer night, not during it. 3) Read every condition, such as financing or inspection, before you sign. 4) Line up your deposit funds; the agreement sets when and how it is due.\n\nSend this to someone making an offer soon. General information only, not legal, tax or mortgage advice. Steps vary by purchase.\n\nMaking an offer in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homebuyingtips #ontariorealestate #keyswithkrishna",
+    "created_time": "2026-10-27T19:02:13+0000"
+   },
+   {
+    "id": "1124472237410333_122123425029311840",
+    "message": "Oct 28 could raise your monthly mortgage. By how much?\n\nThe Bank of Canada announces its rate decision on Oct 28, 2026 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T13:31:41+0000"
+   },
+   {
+    "id": "1124472237410333_122123378115311840",
+    "message": "Wednesday could raise your monthly mortgage. By how much?\n\nThe Bank of Canada decides Wednesday, Oct 28 (policy rate now 2.25%).\n- Reuters poll: 19 of 34 economists expect a hike to 2.50%; markets moved from about a 30% chance to roughly three in four.\n- Not everyone agrees: some economists, incl. National Bank's St\u00e9fane Marion, argue against a hike now.\n- Variable rate: your monthly mortgage could rise about $13 for every $100K you owe (example 3.43% to 3.68%, 25-year amortization; on a $500K mortgage that's about $66 more a month).\n- Fixed rate: no change until renewal; fixed rates follow bond yields. Buying or renewing? Ask your lender about a rate hold.\n- Selling: national sales were down 7.7% year over year in September; price from recent sold homes.\n\nSources: Reuters poll, Oct 23, 2026; MoneySense, Oct 22, 2026; Canadian Mortgage Professional, Oct 26, 2026; CREA (Sept 2026 data).\n\nRaise, hold or cut? Comment your guess below.\n\nComment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #GTArealestate #keyswithkrishna",
+    "created_time": "2026-10-27T02:32:22+0000"
+   },
+   {
+    "id": "1124472237410333_122123363475311840",
+    "message": "Eyeing a pre-construction townhome in Mississauga? Read the fine print before you sign.\n\nSouth Banks, Mississauga, by Deco Homes & Opus Homes: townhomes from $549,990* net of rebate. Estimated occupancy: 2029, per the price list. Image: artist's concept, actual product may vary.\n\n*Net of rebate. Rebate eligibility and conditions apply; confirm with the builder. From $621,489 before rebate, per the builder price list. Pricing, availability and incentives are subject to change without notice. E.&O.E.\n\nRegister your interest: Comment INFO to get full details, or call 905-452-4298.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #precon #peelregion #keyswithkrishna",
+    "created_time": "2026-10-26T22:50:47+0000"
+   }
+  ],
+  "paging": {
+   "cursors": {
+    "before": "QVFIVE1VQ25kNzJ5ck82SkdyZAldkXzJ3Vkk0akY3ZAzZAKbHFKUkJhMGRpVWxkWlNhRDQ5OS1BSDVTbjQwci1PUk4yNFpqNXVFempodzdVZAExUdVlJbnZAleUx4NkFvMUE2T0RVTDFWNmRXZAUhtQnplRng4ZAFl5WS1DQmJFZAFA2aVZArV1lWMnprMHVFTVNxclhEa3hHYkptajhNaUU2Vm4tQ2M1V20xTDg0QlpCOEdaSHg0ajNXcGZAuSFJzeXdvbjRia2luU2FRbzFtV0ptX1ZAUQWJEZAUdZAdkpPcC03djM2YkZA1ZA296RzlRZAUhzaUJ6RW5TODVjUXpVS2stMUU3WUVkRVdTTmNfeG4wcVRkZAHpzelZAqcVZAoVUtGWFNDY3ZA0T3VCcHZAQSUdVZAUx3OEhVUV9FZAjFQd0VHejdvajR6SU1PYW5reWJnMnprY19zWnJlTmpQTl9JSE80Tnk1RFREWGE3X1FFVUhSM2VjMHkwM2djWmZAXNXdZAb2VJaXNVbWZAGR2tfb0taaEZAxX0NtNGV3OGtlMktJNDNlSldZAWkZAfUW1nTTZAKT2RYMTE1VFpabE9fZAkxCWUNhaXpJVmxfc0ZALem14QlVjeC1UczhWUU0ta3d2QUoyQU9MZAm1HRTZA2WmdpakxzcTZAhVEt3SEpkRmFnUGJvcmw0QklpbElha2dKZAVNnZAHRnMjZApV1VzWXdVR2M0ZAHgtZAFVhSDdwd3hHT0taa3NBSXhjRkhKb0szTTA1OTVqZAllOdEw3MHlzZA0E4VWZARMUxMYjZAjckZA2aTNkbUQ4ZAHlXT19UMktsTFUzYnl2b3lvb1NSVkdfd1B3djBUWHBhenV2YnNMdF9OcGgzNXpHejIwalYzMTRWaFBhaXU1MTdhdFNvVFRGNzRpVlIxalh6aFlld1pEVUxjUGQwaUVDM2I0aWJkOWQ5TTUxRlhTYVpVbGRmMkQtSV9WUDFhOHdmUmRIbE5zbnR1T2wydwZDZD",
+    "after": "QVFIVFZAJZATRMcTdfamhEZAjY5OHFMUEtObUFBTEJwbW9maF9EYm45Y2YxZAnFhVmpvZAEdUQ2xYQWlqT3dwOGRPMWd5WTVwN2wyZAkNsaFc4NzFESU5vbWF1WnhrZAU9aaUlkMlN2LV92VS1sTGxuUWpuV1c4ekRpcFYwWGtWdmZAkUlBRZAHh0dnotQzZAvbmE4d01Ib2JYdm0zbDgzeVQyUmJ4SGlkQmRCc0hxN3VpbHpWODRsZAVRJei1QRzk4OERZAUE02eXpBUFNLVlcwVkwtdEM5X0dEbXNhZAjdsR3Ixdm9nbFJya1JpZAFBwVTVKYmJyNURXQ1VZAZAElrX0xaZAmlJY3c1OXNLVHZAlMWZAmeGJRUm9EU1prWXF2Tlg1TDRXWkk1TEhGQzhJaTF0UEtIOXlUdnpQVFV4bWN0dlN6Wm56VWR2eDdjTGU3UEQ3ODc4VVFRbUl6bFhBNWZASc0RhTVFTQ0RmcUZAZAZAUhfZAGdTMTVFcERESTFjS2h4Nk1rcFFtN3JTTjdFNGdGVHVhNDZAqYVNzUlh5MzBEVjB4aUxhcmE3bUQ2RGFmY3dnaTk2a0g1ZA245dEV0UV9GeUdMd1NNaERFbTZAtMlVIc3RwekxlSFBVYzJtTGVxdXhCd0o3QjZAIY1RuVVkyS19BbUxSWDFXZA3lVUnZAsano2b3ozazlwcXVObHBYR2pkc3pTb21MZAE14ZAExUcGpYdnJfTmZA3Y1VIeXZA4YW56NlhfQjdvdTJ3WDdPdG4taFl2dTNRSnM3Y3ZAFdG5QblcxS0hRNmFBR0VvbUMtcGtCdWZAXcW8weFRQV1A2N3ZAadlJNckRRdWNrX1gzRmVfdHBWaXRqQ05KaFZAaNkQ0UERjbW5JOFBMblJnUmdiOHRMRUNNOFJvZATRLblpOOTNXOVB0WWxjNmg0RENSSngzV3ZA1b1FkeHRuOHY1QjAwS1dXbExVSUx3T2ZA6aEl4c1g5aTRXOUdBbGJlLUZA2QQZDZD"
+   },
+   "next": "https://graph.facebook.com/v26.0/1124472237410333/feed?fields=id%2Cmessage%2Cplace%7Bid%2Cname%2Clocation%7D%2Ccreated_time&limit=25&access_token=EAAWf4s9ZCrKQBSgMObOthceu0gf81MRjMqk6HcBLH7RqNhlvzWCTiZCsgAUd8pQBGyYZCfEEitNnZBPhzY4IgjLzzID3MBWWQYiotYCDFM9jzsHOuDgZCqJtaTAdqmObmGhwo4OSn6K1suEBC5gPHCWsVKmfyjt449VAOPzFsyys60UnUq4bG6STPEdU7ZC9KVQcJ4zFzHhNPGjzUV7bdj&after=QVFIVFZAJZATRMcTdfamhEZAjY5OHFMUEtObUFBTEJwbW9maF9EYm45Y2YxZAnFhVmpvZAEdUQ2xYQWlqT3dwOGRPMWd5WTVwN2wyZAkNsaFc4NzFESU5vbWF1WnhrZAU9aaUlkMlN2LV92VS1sTGxuUWpuV1c4ekRpcFYwWGtWdmZAkUlBRZAHh0dnotQzZAvbmE4d01Ib2JYdm0zbDgzeVQyUmJ4SGlkQmRCc0hxN3VpbHpWODRsZAVRJei1QRzk4OERZAUE02eXpBUFNLVlcwVkwtdEM5X0dEbXNhZAjdsR3Ixdm9nbFJya1JpZAFBwVTVKYmJyNURXQ1VZAZAElrX0xaZAmlJY3c1OXNLVHZAlMWZAmeGJRUm9EU1prWXF2Tlg1TDRXWkk1TEhGQzhJaTF0UEtIOXlUdnpQVFV4bWN0dlN6Wm56VWR2eDdjTGU3UEQ3ODc4VVFRbUl6bFhBNWZASc0RhTVFTQ0RmcUZAZAZAUhfZAGdTMTVFcERESTFjS2h4Nk1rcFFtN3JTTjdFNGdGVHVhNDZAqYVNzUlh5MzBEVjB4aUxhcmE3bUQ2RGFmY3dnaTk2a0g1ZA245dEV0UV9GeUdMd1NNaERFbTZAtMlVIc3RwekxlSFBVYzJtTGVxdXhCd0o3QjZAIY1RuVVkyS19BbUxSWDFXZA3lVUnZAsano2b3ozazlwcXVObHBYR2pkc3pTb21MZAE14ZAExUcGpYdnJfTmZA3Y1VIeXZA4YW56NlhfQjdvdTJ3WDdPdG4taFl2dTNRSnM3Y3ZAFdG5QblcxS0hRNmFBR0VvbUMtcGtCdWZAXcW8weFRQV1A2N3ZAadlJNckRRdWNrX1gzRmVfdHBWaXRqQ05KaFZAaNkQ0UERjbW5JOFBMblJnUmdiOHRMRUNNOFJvZATRLblpOOTNXOVB0WWxjNmg0RENSSngzV3ZA1b1FkeHRuOHY1QjAwS1dXbExVSUx3T2ZA6aEl4c1g5aTRXOUdBbGJlLUZA2QQZDZD"
+  }
+ }
+}
