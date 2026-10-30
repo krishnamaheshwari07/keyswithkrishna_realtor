@@ -44,7 +44,7 @@ def _desc(cap):
 
 def post_short(item):
     tok = access_token()
-    with urllib.request.urlopen(item["media_url"], timeout=180) as r:
+    with urllib.request.urlopen(item.get("yt_media_url") or item["media_url"], timeout=180) as r:   # pinned-hook copy when there is one
         video = r.read(); want = int(r.headers.get("Content-Length") or len(video))
     if len(video) != want: raise RuntimeError(f"youtube: downloaded {len(video)} of {want} bytes")
     cap = item.get("caption", "")

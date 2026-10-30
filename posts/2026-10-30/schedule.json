@@ -40,7 +40,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "BUYING PROCESS",
@@ -159,7 +159,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "MONEY MATH",
@@ -295,7 +295,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "SELLER TIPS",
@@ -410,7 +410,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -514,7 +514,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "MYTH VS FACT",
@@ -613,7 +613,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "QUICK TIP",

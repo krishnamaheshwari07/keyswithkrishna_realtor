@@ -145,6 +145,17 @@ def build(m, prompt, it):
     except Exception as e:
         print(it["id"], "tiktok copy failed:", e)
     # cover image = the finished hook (Facebook otherwise picks a frame from the middle of the Reel; Krishna, Oct 26)
+    # YouTube copy (Oct 30): same video and sound, but the hook headline stays pinned on every scene, because YouTube picks its own Shorts cover frame
+    if it.get("motion"):
+        try:
+            yspec = f"{W}/{it['id']}-yt-spec.json"; json.dump(dict(it["motion"], pin=True), open(yspec, "w"))
+            ysil = f"{W}/{it['id']}-yt-silent.mp4"
+            sh("python", "scripts/render_motion.py", yspec, json.dumps([round(d, 3) for d in durs]), ysil)
+            yt = f"{base}-yt{int(time.time()) % 100000}.mp4"; tmp_yt = f"{W}/{os.path.basename(yt)}"
+            sh("ffmpeg", "-y", "-v", "error", "-i", ysil, "-i", tmp_out, "-map", "0:v", "-map", "1:a", "-c", "copy", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_yt)
+            STAGED[yt] = tmp_yt; it["_yt"] = yt
+        except Exception as e:
+            print(it["id"], "youtube copy failed:", e)
     cover = f"{base}-cover.jpg"; tmp_cover = f"{W}/{os.path.basename(cover)}"
     try:
         sh("ffmpeg", "-y", "-v", "error", "-ss", f"{min(1.0, max(0.1, durs[0] - 0.4)):.2f}", "-i", tmp_out, "-frames:v", "1", "-q:v", "2", tmp_cover)
@@ -172,6 +183,7 @@ def save(results):
             files += [u["media_url"].split("/main/", 1)[1] for u in upd.values() if "media_url" in u]
             files += [u["cover_url"].split("/main/", 1)[1] for u in upd.values() if "cover_url" in u]
             files += [u["tt_media_url"].split("/main/", 1)[1] for u in upd.values() if "tt_media_url" in u]
+            files += [u["yt_media_url"].split("/main/", 1)[1] for u in upd.values() if "yt_media_url" in u]
         sh("git", "add", *files)
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0: return
         sh("git", "-c", "user.name=kwk-bot", "-c", "user.email=bot@users.noreply.github.com", "commit", "-qm", "Add AI voiceover to Reels")
@@ -203,6 +215,7 @@ def main():
                         "vo_frame_seconds": [round(d, 2) for d in durs], "caption": caption(it["caption"])})
             if it.get("_cover"): upd["cover_url"] = RAW + it["_cover"]
             if it.get("_tt"): upd["tt_media_url"] = RAW + it["_tt"]
+            if it.get("_yt"): upd["yt_media_url"] = RAW + it["_yt"]
         except Exception as e:
             upd.update({"vo_status": "failed", "vo_error": str(e)[:300]}); print(it["id"], "voiceover failed:", e)
         results.setdefault(path, {})[it["id"]] = upd
