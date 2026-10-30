@@ -15,6 +15,8 @@ for name, tok in toks.items():
 pid = os.environ.get("FB_PAGE_ID")
 if pid and toks["page"]:
     out["page_posts_place"] = get(f"{pid}/posts", toks["page"], fields="id,place{id,name,location},created_time", limit=25)
-for cand in ["108204732534389", "105468149486385", "112008808810771"]:
-    out["cand_" + cand] = get(cand, toks["page"] or toks["ig"], fields="id,name,location")
+if pid and toks["page"]:
+    out["page_videos_place"] = get(f"{pid}/videos", toks["page"], fields="id,title,description,place{id,name,location},created_time", limit=25)
+    out["page_reels_place"] = get(f"{pid}/video_reels", toks["page"], fields="id,description,place{id,name,location},created_time", limit=25)
+    out["page_feed_place"] = get(f"{pid}/feed", toks["page"], fields="id,message,place{id,name,location},created_time", limit=25)
 json.dump(out, open("data/location-lookup.json", "w"), indent=1); print(json.dumps(out, indent=1)[:3000])
