@@ -130,9 +130,7 @@ def fb_publish(item):
             if item.get("vo_status") != "done" or "is_ai_generated" not in str(e): raise
             item["fb_ai_label_error"] = str(e)[:200]; fb(f"{PID}/video_reels", fin)
         fb_video_check(vid)
-        if place_for(item):
-            try: fb(vid, {"place": place_for(item)}); item["fb_place"] = "set"
-            except Exception as e: item["fb_place_error"] = str(e)[:200]
+        # FB Reel location: Meta's API rejects "place" on videos (#12 deprecated since v2.9), so it's app-only. Instagram's location_id still works.
         if item.get("cover_url"):
             try:
                 fb_thumb(vid, item["cover_url"]); item["fb_thumb"] = "set"
