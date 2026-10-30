@@ -1,6 +1,6 @@
 """Publish approved, due items from posts/*/schedule.json to Instagram (Graph API, free).
 Env: IG_USER_ID, IG_ACCESS_TOKEN; optional FB_PAGE_ID, FB_PAGE_TOKEN (also cross-posts to the Facebook Page). Only items with "approved": true and "status": "pending" are posted."""
-import glob, json, urllib.error, os, sys, time, urllib.parse, urllib.request
+import glob, json, re, urllib.error, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone, timedelta
 sys.path.insert(0, os.path.dirname(__file__))
 import tiktok, youtube
@@ -161,6 +161,8 @@ def publish(item):
         p["media_type"] = "REELS"; p["video_url"] = item["media_url"]
         if item.get("vo_status") == "done": p["is_ai_generated"] = "true"   # Meta "AI info" label: the voiceover is Krishna's AI-cloned voice (Oct 28)
         if item.get("cover_url"): p["cover_url"] = item["cover_url"]   # hook frame as the Instagram cover
+        hook = re.sub(r"[*#]", "", ((item.get("motion") or {}).get("scenes") or [{}])[0].get("text") or item.get("caption", "").split("\n")[0]).strip()
+        p["audio_name"] = ("Keys with Krishna · " + hook)[:60].rstrip(" .,;:")   # names the Reel's original audio (Krishna, Oct 30)
         if item.get("trial"):   # Instagram Trial Reel: shown to non-followers first, joins the profile if it performs (Krishna, Oct 25)
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
     elif t == "carousel":
@@ -177,7 +179,9 @@ def publish(item):
             cid = call(f"{UID}/media", p)["id"]; break
         except urllib.error.HTTPError as e:
             body = e.read().decode()
-            if "location_id" in p and "locat" in body.lower():
+            if "audio_name" in p and "audio" in body.lower():
+                item["audio_name_error"] = body[:200]; p.pop("audio_name")
+            elif "location_id" in p and "locat" in body.lower():
                 item["location_error"] = body[:200]; p.pop("location_id")
             elif "trial_params" in p and ("rial" in body or "is_ai_generated" not in p):
                 item["trial_error"] = body[:300]; p.pop("trial_params")
@@ -185,6 +189,8 @@ def publish(item):
                 item["ai_label_error"] = body[:200]; p.pop("is_ai_generated")
             elif "location_id" in p:
                 item["location_error"] = body[:200]; p.pop("location_id")
+            elif "audio_name" in p:
+                item["audio_name_error"] = body[:200]; p.pop("audio_name")
             else: raise
     if "trial_params" in p: item["trial_status"] = "trial"
     wait(cid)
