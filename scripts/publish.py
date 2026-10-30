@@ -162,7 +162,9 @@ def publish(item):
         if item.get("vo_status") == "done": p["is_ai_generated"] = "true"   # Meta "AI info" label: the voiceover is Krishna's AI-cloned voice (Oct 28)
         if item.get("cover_url"): p["cover_url"] = item["cover_url"]   # hook frame as the Instagram cover
         hook = re.sub(r"[*#]", "", ((item.get("motion") or {}).get("scenes") or [{}])[0].get("text") or item.get("caption", "").split("\n")[0]).strip()
-        p["audio_name"] = ("Keys with Krishna · " + hook)[:60].rstrip(" .,;:")   # names the Reel's original audio (Krishna, Oct 30)
+        an = "Keys with Krishna · " + hook
+        if len(an) > 60: an = an[:61].rsplit(" ", 1)[0]   # cut at a word, never mid-word
+        p["audio_name"] = an.rstrip(" .,;:·")   # names the Reel's original audio (Krishna, Oct 30)
         if item.get("trial"):   # Instagram Trial Reel: shown to non-followers first, joins the profile if it performs (Krishna, Oct 25)
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
     elif t == "carousel":
