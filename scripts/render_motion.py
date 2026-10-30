@@ -19,7 +19,7 @@ with sync_playwright() as pw:
     exe = "/opt/pw-browsers/chromium"
     b = pw.chromium.launch(executable_path=exe) if pathlib.Path(exe).exists() else pw.chromium.launch()
     pg = b.new_page(viewport={"width": 1080, "height": 1920})
-    pg.goto(page_path.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready")
+    pg.goto(page_path.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready"); pg.evaluate("window.fontsReady || null")
     sfx = pg.evaluate("window.sfxEvents ? sfxEvents() : []")
     json.dump(sfx, open(out + ".sfx.json", "w"))
     for i in range(n):
