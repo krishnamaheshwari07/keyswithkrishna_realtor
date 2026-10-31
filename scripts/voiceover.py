@@ -71,6 +71,30 @@ def music(seed, mood=None):
     h = int(hashlib.sha256(seed.encode()).hexdigest(), 16)
     return (tracks[h % len(tracks)], h >> 16) if tracks else (None, 0)
 
+PHONE_SAY = "Call nine oh five, four five two, four two nine eight."
+
+def fix_frames(it):
+    """Guard (Krishna, Oct 31): the voice must match the screen. If a line repeats the line before it
+    (e.g. a 'this one is easy to miss' twist written onto the wrong frame), the twist moves onto the step it
+    belongs to and the frame gets its own words back; the CTA frame always says the CTA."""
+    import re
+    norm = lambda x: re.sub(r"[^a-z0-9 ]", "", (x or "").lower()).split()
+    fr, sc = it.get("frames") or [], (it.get("motion") or {}).get("scenes") or []
+    changed = False
+    for i in range(1, len(fr)):
+        a, b = norm(fr[i - 1].get("say")), " ".join(norm(fr[i].get("say")))
+        key = " ".join(a[1:7]) if len(a) > 6 else " ".join(a)
+        if key and key in b:
+            fr[i - 1]["say"] = fr[i]["say"]                                   # the longer, twisted version is the step's line
+            s_ = sc[i] if i < len(sc) else {}
+            txt = re.sub(r"[*]", "", s_.get("text", "")).strip()
+            if s_.get("kind") == "cta" or i == len(fr) - 1:
+                fr[i]["say"] = (txt.rstrip(".") + ". " if txt else "Send this to a friend who needs it. ") + PHONE_SAY
+            else:
+                fr[i]["say"] = txt or fr[i]["say"]
+            changed = True; print(it["id"], f"fixed repeated voice line on frame {i}")
+    return changed
+
 def build(m, prompt, it):
     import numpy as np, soundfile as sf
     sr = None; voice = []; frames = it["frames"]; durs = []
@@ -206,6 +230,7 @@ def main():
     for path, it in jobs:
         revoice = bool(it.get("tt_revoice")) and it.get("status") == "posted"
         upd = {"vo_pending": False}
+        if fix_frames(it): upd["frames"] = it["frames"]
         try:
             if m is None: raise RuntimeError("voice model unavailable")
             out, total, durs = build(m, prompt, it)
