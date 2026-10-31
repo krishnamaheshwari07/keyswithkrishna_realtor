@@ -1,0 +1,20 @@
+name: Fetch B-roll photos
+on:
+  push:
+    paths: [".github/workflows/broll-fetch.yml"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p posts/assets/broll
+          for id in _Yvc7TlKQSU RsSJT4jXspw ELbQdEZyCmc MJBFMeXprFQ uJOj8lrB79E kFshpy8OjPo JV7oxKXoy80 qI9wcKD5kBI s1fbccnVfcQ eFvev1RcBh4 k9oPZY9B8bU G18HVIWSuDg ehAOXJPxr0s MJg5y4Scdmw 20NrkdfyHoI YIerB5ZX3m4 QHHCENSJVqo iBqZO-0ykxw; do
+            curl -sSL -m 60 -A "Mozilla/5.0" -o "posts/assets/broll/$id.jpg" "https://unsplash.com/photos/$id/download?force=true&w=1600" || true
+            file "posts/assets/broll/$id.jpg" | grep -q JPEG || rm -f "posts/assets/broll/$id.jpg"
+          done
+          ls -la posts/assets/broll
+          git config user.name "kwk-bot"; git config user.email "actions@github.com"
+          git add posts/assets/broll && git commit -m "B-roll photos (Unsplash, free licence)" && git push || true
