@@ -6,8 +6,8 @@
     "approved": true,
     "status": "pending",
     "publish_at": "2026-10-31T11:30:00-04:00",
-    "caption": "Georgetown buyer? Skip one step and you could inherit a hidden problem.\n\nBuying your first home in Georgetown or Halton Hills? Save this before you start. 1) Talk to a mortgage lender before you shop, so you know your real budget. 2) Count property tax, insurance and closing costs on top of the price. 3) Visit the neighbourhood on a weeknight and on a weekend. 4) Think hard before giving up your home inspection to win. 5) Plan your monthly budget for life after you move in.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #halton #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1.mp4",
+    "caption": "Five mistakes that can wreck your first home purchase\n\nBuying your first home in Georgetown or Halton Hills? Save this before you start. 1) Talk to a mortgage lender before you shop, so you know your real budget. 2) Count property tax, insurance and closing costs on top of the price. 3) Visit the neighbourhood on a weeknight and on a weekend. 4) Think hard before giving up your home inspection to win. 5) Plan your monthly budget for life after you move in.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #halton #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1-vo5550.mp4",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1-cover.jpg",
     "motion": {
       "area": "GEORGETOWN",
@@ -100,11 +100,24 @@
         "say": "Send this to a friend buying their first home. Call nine oh five, four five two, four two nine eight."
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "trigger": "a costly mistake avoided",
     "share_reason": "a friend about to buy their first home",
     "series": "reference-style",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "vo_status": "done",
+    "vo_seconds": 30.0,
+    "vo_frame_seconds": [
+      4.07,
+      4.18,
+      4.76,
+      4.05,
+      4.56,
+      3.33,
+      5.1
+    ],
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1-tt5568.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r1-yt5715.mp4"
   },
   {
     "id": "d20261031-r2",
@@ -113,8 +126,8 @@
     "approved": true,
     "status": "pending",
     "publish_at": "2026-10-31T15:00:00-04:00",
-    "caption": "Signing a Halton or Peel new build? The page you skip may cost you.\n\nThinking about a new-build home? Ask the builder these five questions first. 1) What is the closing date, and what happens if it moves? 2) What is included in the price, and what costs extra? 3) How much is the deposit, and when is each part due? 4) What closing costs and fees get added at the end? 5) What does the builder's warranty cover, and for how long? Get the answers in writing.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#preconstruction #newbuildhomes #halton #peelregion #firsttimehomebuyer #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2.mp4",
+    "caption": "Sign a precon without asking these 5 questions?\n\nThinking about a new-build home? Ask the builder these five questions first. 1) What is the closing date, and what happens if it moves? 2) What is included in the price, and what costs extra? 3) How much is the deposit, and when is each part due? 4) What closing costs and fees get added at the end? 5) What does the builder's warranty cover, and for how long? Get the answers in writing.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#preconstruction #newbuildhomes #halton #peelregion #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2-vo6229.mp4",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2-cover.jpg",
     "motion": {
       "area": "HALTON & PEEL",
@@ -207,11 +220,24 @@
         "say": "Five. And this one is easy to miss. What does the builder's warranty cover, and for how long?"
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "trigger": "a costly surprise avoided",
     "share_reason": "a friend looking at a new build",
     "series": "reference-style",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "vo_status": "done",
+    "vo_seconds": 26.4,
+    "vo_frame_seconds": [
+      4.92,
+      2.93,
+      3.0,
+      3.6,
+      3.78,
+      3.14,
+      4.99
+    ],
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2-tt6245.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r2-yt6367.mp4"
   },
   {
     "id": "d20261031-r3",
@@ -220,8 +246,8 @@
     "approved": true,
     "status": "pending",
     "publish_at": "2026-10-31T17:30:00-04:00",
-    "caption": "Milton buyer, approved? The real monthly bill could shock you.\n\nMost first-time buyers look at one number, the monthly mortgage. Owning a home also means: 1) property tax, 2) home insurance, 3) heat, hydro and water, 4) repairs. Add these up before you decide what you can afford. A home that fits your monthly mortgage but not your full monthly budget can feel tight fast.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3.mp4",
+    "caption": "Your monthly mortgage is not what your home costs\n\nMost first-time buyers look at one number, the monthly mortgage. Owning a home also means: 1) property tax, 2) home insurance, 3) heat, hydro and water, 4) repairs. Add these up before you decide what you can afford. A home that fits your monthly mortgage but not your full monthly budget can feel tight fast.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagetips #firsttimehomebuyer #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3-vo6827.mp4",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3-cover.jpg",
     "motion": {
       "area": "MILTON",
@@ -302,11 +328,23 @@
         "say": "Four. And this one catches people off guard. Repairs. Something always needs fixing, so set money aside."
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "trigger": "a hidden cost",
     "share_reason": "a friend about to buy",
     "series": "reference-style",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "vo_status": "done",
+    "vo_seconds": 23.5,
+    "vo_frame_seconds": [
+      2.8,
+      3.27,
+      2.93,
+      3.68,
+      4.55,
+      6.23
+    ],
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3-tt6841.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r3-yt6952.mp4"
   },
   {
     "id": "d20261031-r4",
@@ -315,8 +353,8 @@
     "approved": true,
     "status": "pending",
     "publish_at": "2026-10-31T20:00:00-04:00",
-    "caption": "Brampton buyer: the house looks perfect. The street may not be.\n\nDo these three checks before you fall in love with a house. 1) Visit the street at 8 in the morning and again at 8 at night. 2) Test your real drive to work or school at rush hour. 3) Check your city's planning website for new roads, towers or developments nearby.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonontario #peelregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4.mp4",
+    "caption": "A listing photo hides 3 things that decide if you'll love it\n\nDo these three checks before you fall in love with a house. 1) Visit the street at 8 in the morning and again at 8 at night. 2) Test your real drive to work or school at rush hour. 3) Check your city's planning website for new roads, towers or developments nearby.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonontario #peelregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4-vo7388.mp4",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4-cover.jpg",
     "motion": {
       "area": "BRAMPTON",
@@ -385,11 +423,22 @@
         "say": "Three. This one could change how you feel about the whole street. What's planned nearby. Check your city's planning website for new roads, towers or developments."
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "trigger": "a hidden risk",
     "share_reason": "a friend house hunting",
     "series": "reference-style",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "vo_status": "done",
+    "vo_seconds": 22.7,
+    "vo_frame_seconds": [
+      4.17,
+      4.75,
+      4.69,
+      4.92,
+      4.18
+    ],
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4-tt7403.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r4-yt7511.mp4"
   },
   {
     "id": "d20261031-r5",
@@ -398,8 +447,8 @@
     "approved": true,
     "status": "pending",
     "publish_at": "2026-10-31T21:00:00-04:00",
-    "caption": "Waterloo Region buyer? Move in 2 years and it may cost you far more than you expect.\n\nThe first question to ask before buying: how long will I really stay? When you buy and later sell, there are one-time costs on both sides, like land transfer tax, legal fees and realtor fees. On a short stay, those costs have little time to pay off. If you might move in about two years, talk it through before you sign.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5.mp4",
+    "caption": "Buying a home you might leave in 2 years?\n\nThe first question to ask before buying: how long will I really stay? When you buy and later sell, there are one-time costs on both sides, like land transfer tax, legal fees and realtor fees. On a short stay, those costs have little time to pay off. If you might move in about two years, talk it through before you sign.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5-vo8018.mp4",
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5-cover.jpg",
     "motion": {
       "area": "KITCHENER-WATERLOO",
@@ -480,10 +529,22 @@
         "say": "Send this to a friend who might move soon. Call nine oh five, four five two, four two nine eight."
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "trigger": "a costly assumption",
     "share_reason": "a friend who might move soon",
     "series": "reference-style",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "vo_status": "done",
+    "vo_seconds": 24.5,
+    "vo_frame_seconds": [
+      3.05,
+      3.85,
+      4.72,
+      3.18,
+      4.82,
+      4.93
+    ],
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5-tt8033.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r5-yt8154.mp4"
   }
 ]
