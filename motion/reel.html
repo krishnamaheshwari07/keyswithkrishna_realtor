@@ -36,14 +36,14 @@ footer .r1 span{margin-left:26px}
 .big .tease{font-size:44px;padding:16px 32px}
 .big .hookprop{display:none}
 /* YouTube copy (Oct 30): YouTube picks its own Shorts cover frame, so the hook headline stays pinned under the brand bar on every scene */
-body.pin .inner{transform:translateY(410px) scale(.74)}
+body.pin .inner{transform:translateY(900px) scale(.5)}   /* Oct 30 night: Krishna saw tiny/random Short covers, so on the YouTube copy every frame carries the big hook up top and the step shrinks below it */
 body.pin .big .inner{transform:none}
-#pinhook{position:absolute;left:80px;right:80px;top:418px;z-index:5;font-family:"Playfair Display";font-weight:900;font-size:44px;line-height:1.12;color:#fff;display:none;
-  overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+#pinhook{position:absolute;left:70px;right:70px;top:440px;z-index:5;font-family:"Playfair Display";font-weight:900;font-size:var(--pfs,104px);line-height:1.02;letter-spacing:-.01em;color:#fff;display:none}
 body.light #pinhook{color:var(--teal)}
 #pinhook .hl{color:var(--gold)}
 body.light #pinhook .hl{color:#00784e}
 body:not(.pin) #pinhook{display:none}
+body.pin #pinhook{display:block}
 body.light footer{color:var(--teal)}
 .scene{position:absolute;inset:0;will-change:transform,opacity,filter}
 .area{position:absolute;left:80px;top:200px;color:var(--gold);font-weight:800;letter-spacing:.22em;font-size:28px}
@@ -181,6 +181,9 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
     while (fs > 96 && tooBig()) { fs -= 4; inner.style.setProperty("--hfs", fs + "px"); }
     sc.style.cssText = prev;
   });
+  const ph = document.getElementById("pinhook");   // YouTube copy: biggest pinned hook that fits between the brand bar and the shrunken step
+  if (S.pin) { ph.style.display = "block"; let f = 120; ph.style.setProperty("--pfs", f + "px");
+    while ((ph.offsetHeight > 420 || ph.scrollWidth > ph.clientWidth + 2) && f > 56) { f -= 4; ph.style.setProperty("--pfs", f + "px"); } }
 };
 const ease = p => 1 - Math.pow(1 - p, 3), back = p => { const c = 1.70158; p -= 1; return 1 + (c + 1) * p * p * p + c * p * p; };
 const A = {
