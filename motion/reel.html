@@ -128,7 +128,7 @@ S.scenes.forEach((sc, k) => {
     const kick = sc.kick ? `<div class="kick" data-anim="kickIn:0.0:0.35">${sc.kick}</div>` : "";
     h = `<div class="area" data-anim="fadeUp:0.0:0.2">${S.area}</div>
       <div class="hookstack"><div class="hook2" data-anim="slam:0.0:0.28">${sc.text.replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>${kick}
-      ${sc.tease ? `<div class="tease" data-anim="teaseIn:0.55:0.35">${sc.tease}</div>` : ""}</div>
+      </div><!-- no tease line on the hook (Krishna, Oct 31): the cover shows only the hook and the sticker -->
       ${sc.clip ? `<div class="clip" data-anim="clipIn:0.0:0.5"><div class="tape"></div><div class="paper">
           <div class="csrc"><span>${sc.clip.source || ""}</span><span>${sc.clip.date || ""}</span></div>
           <div class="chead">${(sc.clip.headline || "").replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>
