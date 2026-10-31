@@ -559,11 +559,14 @@
     "type": "story",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-10-31T12:30:00-04:00",
     "caption": "Mississauga buyer: is the water heater rented?\n\nA rental water heater may come with a contract that transfers to you. Ask for the monthly cost, the contract length and any buyout fee, and have your lawyer review it before closing.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Terms vary by contract. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-s1.mp4",
-    "hook_rule": "tension-v3"
+    "hook_rule": "tension-v3",
+    "ig_media_id": "18024491888930437",
+    "fb_id": "1516850453834097",
+    "fb_status": "posted"
   },
   {
     "id": "d20261031-f1",
