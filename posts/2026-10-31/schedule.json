@@ -641,7 +641,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-10-31T22:30:00-04:00",
     "caption": "Etobicoke offer accepted? Not sold yet.\n\nAn accepted offer with conditions is not a final sale until those conditions are removed. Common buyer conditions, like financing or a home inspection, each come with a deadline in the agreement. Until they are waived, the buyer may be able to walk away under the agreement's terms. Ask your Realtor\u00ae for every condition date and put them in your calendar.\n\nSend this to a friend selling this year. Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only, not legal advice. Your agreement's terms govern.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homeselling #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r6-vo46007-vo91819.mp4",
@@ -741,6 +741,14 @@
       5.04
     ],
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r6-vo46007-tt91834.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r6-vo46007-yt91943.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-10-31/d20261031-r6-vo46007-yt91943.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18074754623582986",
+    "fb_thumb": "set",
+    "fb_id": "1759143045374158",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "Lvdcii0xkVA",
+    "yt_status": "UPLOADED_PUBLIC"
   }
 ]
