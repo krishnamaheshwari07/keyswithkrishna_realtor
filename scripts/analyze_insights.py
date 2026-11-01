@@ -88,7 +88,36 @@ def summarise(groups, label):
     return f"{label}\n" + "\n".join(out)
 
 
+def schedule_index():
+    import glob
+    idx = {}
+    for f in glob.glob("posts/*/schedule.json"):
+        try:
+            for it in json.load(open(f)): idx[it["id"]] = it
+        except Exception: pass
+    return idx
+
+
+def honest_mistake_section(rows):
+    """Krishna, Nov 1 2026: track the 'honest mistake' Reels (series "honest-mistake") against his other Reels."""
+    reels = [r for r in rows if r["kind"] == "reel"]
+    hm = [r for r in reels if r.get("series") == "honest-mistake"]
+    other = [r for r in reels if r.get("series") != "honest-mistake"]
+    print("\nHonest-mistake Reels vs other Reels")
+    if not hm:
+        print("  none posted in this window yet"); return
+    for label, grp in (("honest-mistake", hm), ("other Reels", other)):
+        if grp:
+            print(f"  {label:<15} n={len(grp):>2} | median reach {statistics.median(r['reach'] for r in grp):6.1f} | median views {statistics.median(r['views'] for r in grp):6.1f}"
+                  f" | comments {sum(r['comments'] for r in grp)} | shares {sum(r['shares'] for r in grp)}")
+    base = statistics.median(r["reach"] for r in other) if other else 0
+    for r in sorted(hm, key=lambda r: -r["reach"]):
+        x = f"{r['reach'] / base:.1f}x median" if base else "n/a"
+        print(f"  {r['reach']:>4} reach ({x}), {r['views']} views, {r['comments']} comments, {r['shares']} shares | {r['t']:%b %d} | {r.get('mistake') or ''} | {r['cap']}")
+
+
 def main():
+    idx = schedule_index()
     d = json.load(open("data/insights.json"))
     ig = d.get("instagram", {})
     now = parse(d["updated_at"])
@@ -106,7 +135,9 @@ def main():
                      "eng": eng, "saves": m.get("saved") or 0, "shares": m.get("shares") or 0,
                      "visits": m.get("profile_visits") or 0, "follows": m.get("follows") or 0,
                      "topic": "Story" if p["kind"] == "story" else topic_of(p.get("caption_start")),
-                     "cap": (p.get("caption_start") or "").split("\n")[0][:70], "link": p.get("permalink")})
+                     "cap": (p.get("caption_start") or "").split("\n")[0][:70], "link": p.get("permalink"),
+                     "comments": m.get("comments") or 0, "series": (idx.get(p.get("schedule_id")) or {}).get("series"),
+                     "mistake": (idx.get(p.get("schedule_id")) or {}).get("mistake")})
     print(f"Instagram @{ig.get('account', {}).get('username')} | followers {ig.get('account', {}).get('followers_count')} "
           f"| posts compared: {len(rows)} (last {DAYS} days, older than {MIN_AGE_H}h)\n")
     if not rows:
@@ -125,6 +156,7 @@ def main():
     for r in sorted(rows, key=lambda r: r["reach"])[:5]:
         print(f"  {r['reach']:>3} reach, {r['views']:>3} views, {r['eng']} eng | {r['kind']:<8} {r['t']:%a %b %d %H:%M} | {r['cap']}")
     tot = {k: sum(r[k] for r in rows) for k in ("saves", "shares", "visits", "follows")}
+    honest_mistake_section(rows)
     print(f"\nTotals: saves {tot['saves']}, shares {tot['shares']}, profile visits {tot['visits']}, follows from posts {tot['follows']}")
 
     # ---- reach drop / suppression checks
