@@ -1,0 +1,606 @@
+[
+ {
+  "id": "d20261101-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T11:30:00-05:00",
+  "caption": "Moving day in Mississauga and nothing turns on? Do these four things first.\n\nMoving into your new Mississauga home? 1) Book hydro, water and gas to start on your closing date. 2) Have home insurance in place by closing; your lender may ask for proof. 3) Photograph the empty home and the meter readings before the furniture goes in. 4) Set up Canada Post mail forwarding before the move.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f01.png",
+    "say": "Moving day in Mississauga. And nothing turns on.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f02.png",
+    "say": "Step one. Book your hydro, water and gas to start on your closing date, not after.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f03.png",
+    "say": "Step two. Get your home insurance in place for closing day. Your lender may want proof.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f04.png",
+    "say": "Now the part people forget. Photograph the empty home and your meter readings before the furniture goes in.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f05.png",
+    "say": "Last one. Set up mail forwarding with Canada Post before the truck shows up.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r1-frames/f06.png",
+    "say": "Send this to someone closing this year. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Moving day. Mississauga. *No *power?",
+     "kick": "DON'T GET STUCK",
+     "prop": "movingbox"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Book hydro, water and gas to start on your closing date."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "shield",
+     "text": "Have home insurance in place by closing. Your lender may ask for proof."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Photograph the empty home and the meter readings before furniture goes in."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "movingbox",
+     "text": "Set up Canada Post mail forwarding before the move."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *closing this year",
+     "fine": "General information only, not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "trigger": "relief",
+  "share_reason": "a friend closing on a home this year",
+  "hook_rule": "tension-v3",
+  "format": "step-by-step (buying process)",
+  "brand_corner": "head"
+ },
+ {
+  "id": "d20261101-s1",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T12:30:00-05:00",
+  "caption": "Closing in Mississauga? Who turns the lights on?\n\nUtilities may not switch on by themselves. My new Reel shows what to book before closing day.\n\nComment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-s1.mp4",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T15:00:00-05:00",
+  "caption": "Brampton sellers: one old renovation could stall your sale.\n\nBefore you list, 1) ask the city's building department for your home's permit history. 2) Check that any finished basement, deck or addition had a permit. 3) A buyer's lawyer may ask, and open permits can slow a deal. 4) Talk to your realtor and lawyer before you list, not after an offer.\n\nSelling in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #sellingyourhome #homeseller #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f01.png",
+    "say": "Brampton sellers: one old renovation could stall your sale.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f02.png",
+    "say": "Step one. Ask the city's building department for the permit history on your home.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f03.png",
+    "say": "Then check any finished basement, deck or addition. Each one may need a permit on record.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f04.png",
+    "say": "Now the twist. A buyer's lawyer may ask about it, and an open permit can slow the deal down.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f05.png",
+    "say": "Last step. Talk to your realtor and lawyer before you list, not after the offer.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r2-frames/f06.png",
+    "say": "Send this to a neighbour about to sell. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Old renovation can *stall Brampton sales.",
+     "kick": "BEFORE YOU LIST",
+     "prop": "clipboard"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "search",
+     "text": "Ask the city's building department for your home's permit history."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Finished basement, deck or addition? Check each one had a permit."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "A buyer's lawyer may ask. Open permits can slow the deal."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "Talk to your realtor and lawyer about it before you list."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to a neighbour *about to sell",
+     "fine": "General information only, not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "trigger": "a costly mistake avoided",
+  "share_reason": "a neighbour who renovated and may sell",
+  "hook_rule": "tension-v3",
+  "audience": "seller",
+  "trial": true,
+  "format": "mistake-then-fix",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-f1",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T16:30:00-05:00",
+  "caption": "Oakville first home? Up to $4,000 may be claimable at closing.\n\nOntario's land transfer tax refund for qualifying first-time buyers is up to $4,000. It can be claimed right at registration (ask your lawyer how it is handled), or later through the Ministry of Finance within 18 months. Key conditions: you must be at least 18, a Canadian citizen or permanent resident, move in as your principal residence within nine months, and never have owned an eligible home anywhere in the world (a spouse's past ownership can also matter).\n\nSource: Ontario.ca, \"Land transfer tax refunds for first-time homebuyers\" (updated Feb 10, 2026). Eligibility rules apply.\n\nBuying your first home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-f1.png",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T17:30:00-05:00",
+  "caption": "Milton, $850K home. Is 5% down enough?\n\nExample only: $850,000 resale home, owner-occupied, minimum down payment.\n1) First $500,000 x 5% = $25,000.\n2) Remaining $350,000 x 10% = $35,000. Minimum down payment = $60,000.\n3) Mortgage before insurance: $850,000 - $60,000 = $790,000.\n4) Loan-to-value is 92.94%, so the CMHC premium rate is 4.00%: $790,000 x 4.00% = $31,600, which can be added to the mortgage ($821,600). Ontario sales tax on the premium is paid in cash at closing.\nLegal fees, land transfer tax and moving costs are extra. Lenders also apply the stress test, so what you can afford may differ from what you qualify for.\n\nSources: Financial Consumer Agency of Canada, down payment page (modified Oct 15, 2025); CMHC premium schedule for homeowner loans.\n\nWant this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice. Eligibility rules apply.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #downpayment #firsttimehomebuyer #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f01.png",
+    "say": "Milton, eight hundred fifty thousand. Minimum down payment?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f02.png",
+    "say": "Step one. The first five hundred thousand needs five percent down: twenty-five thousand dollars.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f03.png",
+    "say": "Now the twist. The rest needs ten percent: thirty-five thousand dollars. That makes sixty thousand so far.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f04.png",
+    "say": "Step three. That leaves a mortgage of seven hundred ninety thousand dollars, before mortgage insurance.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f05.png",
+    "say": "Step four. With under ten percent down, insurance may cost four percent of the loan: thirty-one thousand six hundred dollars, and it can be added to the mortgage.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f06.png",
+    "say": "So the minimum down payment on this home is sixty thousand dollars. And that is before closing costs.",
+    "min": 6.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r3-frames/f07.png",
+    "say": "Save this before you set your budget. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$850K in *Milton. Minimum down payment?",
+     "kick": "NOT JUST 5%",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 4,
+     "prop": "piggy",
+     "text": "First $500,000 at 5%",
+     "value": "$25,000",
+     "formula": "$500,000 × 5%",
+     "running": "$25,000"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Remaining $350,000 at 10%",
+     "value": "$35,000",
+     "formula": "$350,000 × 10%",
+     "running": "$60,000"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Mortgage before insurance",
+     "value": "$790,000",
+     "formula": "$850,000 − $60,000",
+     "running": "$790,000"
+    },
+    {
+     "kind": "calc",
+     "n": 4,
+     "of": 4,
+     "prop": "shield",
+     "text": "CMHC premium at 4.00%",
+     "value": "$31,600",
+     "formula": "$790,000 × 4.00%",
+     "running": "Mortgage $821,600 with premium",
+     "note": "Premium can be added to the mortgage."
+    },
+    {
+     "kind": "total",
+     "text": "Minimum down payment, about",
+     "value": "$60,000",
+     "sub": "Plus Ontario sales tax on the premium, closing costs and moving.",
+     "note": "Example only: $850,000 resale home, owner-occupied, minimum down payment, 4.00% premium (90.01% to 95% loan-to-value). Sources: FCAC, canada.ca (Oct 15, 2025); CMHC premium schedule. Lenders also apply the stress test. Not mortgage advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Save this before you *set your budget",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "trigger": "surprise",
+  "share_reason": "the partner you are buying with",
+  "hook_rule": "tension-v3",
+  "series": "money-math",
+  "format": "money-math",
+  "brand_corner": "head"
+ },
+ {
+  "id": "d20261101-s2",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T19:00:00-05:00",
+  "caption": "Milton, $850K home. Is 5% down enough?\n\nThe minimum down payment is calculated in two parts. My new Reel works through a real example, with sources.\n\nComment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-s2.mp4",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T20:00:00-05:00",
+  "caption": "Closing day in Halton Hills and still no keys? Here's why timing matters.\n\nPicture this: it's closing day. 1) Your lawyer registers the transfer first; keys are released after that. 2) Scammers can fake emails, so phone your lawyer to confirm payment instructions before sending funds. 3) Registration can run into the afternoon, so plan your movers around it. 4) Ask your lawyer when you sign documents and which ID to bring.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #halton #closingday #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f01.png",
+    "say": "Closing day in Halton Hills. Still no keys.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f02.png",
+    "say": "Picture this: closing day. Your lawyer registers the transfer first, and the keys come after that.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f03.png",
+    "say": "Now the twist. Scammers can fake emails. Phone your lawyer to confirm payment instructions before you send any money.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f04.png",
+    "say": "Registration can run into the afternoon, so don't book your movers for early morning.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f05.png",
+    "say": "Last step. Ask your lawyer when you sign your documents and which ID to bring.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r4-frames/f06.png",
+    "say": "Save this for your closing day. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Closing day. Halton Hills. *No *keys?",
+     "kick": "TIMING MATTERS",
+     "prop": "keys"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Your lawyer registers the transfer first. Keys are released after that."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Phone your lawyer to confirm payment instructions before sending funds."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Registration can run into the afternoon. Plan your movers around it."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask your lawyer when you sign documents and which ID to bring."
+    },
+    {
+     "kind": "cta",
+     "text": "Save this for your *closing day",
+     "fine": "General information only, not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "trigger": "relief",
+  "share_reason": "someone closing on a Halton Hills home",
+  "hook_rule": "tension-v3",
+  "format": "Picture this scenario (buying process)",
+  "brand_corner": "head"
+ },
+ {
+  "id": "d20261101-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T21:00:00-05:00",
+  "caption": "Cambridge buyer: is that fence really yours?\n\nAsk for the seller's property survey and have your lawyer review it. It may show your lot lines and whether a fence, shed or driveway crosses them.\n\nBuying in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #cambridgeontario #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r5-frames/f01.png",
+    "say": "Cambridge buyer. Is that fence really yours?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r5-frames/f02.png",
+    "say": "Ask for the seller's survey. It may show your lot lines, and whether a fence or shed crosses them.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r5-frames/f03.png",
+    "say": "Send this to a friend buying a house. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYER TIP",
+   "area": "CAMBRIDGE (WATERLOO REGION)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Cambridge buyer. Is that *fence yours?",
+     "kick": "ASK THIS",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "search",
+     "text": "Ask for the seller's survey. Have your lawyer review it."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to a friend *buying a house",
+     "fine": "General information only, not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "trigger": "surprise",
+  "share_reason": "a friend about to make an offer on a house",
+  "hook_rule": "tension-v3",
+  "format": "quick-tip",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-f2",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T21:45:00-05:00",
+  "caption": "Peel buyers: the GTA just hit pause.\n\nTRREB says buyers were in a holding pattern in September 2026. GTA sales: 5,040, down 9.0% from September 2025. New listings: 16,500, down 14.4%. Average selling price: $1,006,409, down 5.1%. In Peel Region, the average price was $906,719 on 936 sales (all home types).\n\nSource: TRREB Market Watch, September 2026, released Oct 6, 2026. Past results don't predict future prices.\n\nWant this worked out for your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not financial or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #GTArealestate #mississaugarealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-f2.png",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo"
+ },
+ {
+  "id": "d20261101-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-01T22:30:00-05:00",
+  "caption": "Caledon buyer: clear well water isn't always safe water.\n\nLooking at a Caledon home with a well and septic? 1) Clear water can still carry bacteria you can't see. 2) Ask for a recent water test, and ask about making a new one an offer condition. 3) The septic system is underground; ask about an inspection and pump-out records. 4) Build both checks into your offer conditions with your realtor and lawyer.\n\nLooking at rural homes? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #caledonrealestate #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-01/d20261101-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f01.png",
+    "say": "Caledon well water. Clear doesn't mean safe.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f02.png",
+    "say": "The myth: if it looks clear, it's fine. But bacteria can't be seen.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f03.png",
+    "say": "Ask for the latest water test, and ask your lawyer about making a new one a condition of your offer.",
+    "min": 5.75
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f04.png",
+    "say": "Now the twist. The septic tank is underground. Ask about an inspection and the pump-out records.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f05.png",
+    "say": "Last step. Have your realtor and lawyer build both checks into your offer conditions.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-01/d20261101-r6-frames/f06.png",
+    "say": "Send this to anyone eyeing a country property. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYER TIP",
+   "area": "CALEDON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Caledon well: clear water isn't *safe.",
+     "kick": "MYTH VS FACT",
+     "prop": "shield"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "search",
+     "text": "Myth: clear well water is safe. Bacteria can't be seen."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask for a recent water test, and ask about a new one as a condition."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "house",
+     "text": "Septic is underground. Ask about an inspection and pump-out records."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "Build both checks into your offer conditions with your realtor and lawyer."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to anyone *eyeing a country property",
+     "fine": "General information only, not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "trigger": "surprise",
+  "share_reason": "a friend looking at rural homes",
+  "hook_rule": "tension-v3",
+  "format": "myth vs fact",
+  "brand_corner": "logo"
+ }
+]
