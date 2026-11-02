@@ -1,624 +1,700 @@
 [
- {
-  "id": "d20261102-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T11:30:00-05:00",
-  "caption": "Kitchener buyer: one missed date can end your deal.\n\nOffer accepted? The work is not over. 1) Find the condition dates in your offer and put them in your calendar. 2) Book your home inspection right away, as inspectors can fill up. 3) Ask your lender which documents they need and by when. 4) If a condition isn't waived or extended in writing by its date, the deal can end. Ask your realtor and lawyer how your conditions work.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerrealestate #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f01.png",
-    "say": "Kitchener buyer: one missed date can end it.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f02.png",
-    "say": "Step one. Find your condition dates in the offer and put them in your phone.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f03.png",
-    "say": "Step two. Book the inspection right away. Good inspectors can fill up fast.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f04.png",
-    "say": "Now the twist. Ask your lender which documents they need, and by when.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f05.png",
-    "say": "Last step. Miss the date without a written waiver or extension, and the deal can end.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r1-frames/f06.png",
-    "say": "Send this to a friend whose offer was just accepted. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "KITCHENER",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Missed condition date can *end *deals.",
-     "kick": "ONE DATE",
-     "prop": "calendar"
+  {
+    "id": "d20261102-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T11:30:00-05:00",
+    "caption": "Kitchener buyer: one missed date can end your deal.\n\nOffer accepted? The work is not over. 1) Find the condition dates in your offer and put them in your calendar. 2) Book your home inspection right away, as inspectors can fill up. 3) Ask your lender which documents they need and by when. 4) If a condition isn't waived or extended in writing by its date, the deal can end. Ask your realtor and lawyer how your conditions work.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerrealestate #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r1-vo21741.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f01.png",
+        "say": "Kitchener buyer: one missed date can end it.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f02.png",
+        "say": "Step one. Find your condition dates in the offer and put them in your phone.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f03.png",
+        "say": "Step two. Book the inspection right away. Good inspectors can fill up fast.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f04.png",
+        "say": "Now the twist. Ask your lender which documents they need, and by when.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f05.png",
+        "say": "Last step. Miss the date without a written waiver or extension, and the deal can end.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r1-frames/f06.png",
+        "say": "Send this to a friend whose offer was just accepted. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "KITCHENER",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Missed condition date can *end *deals.",
+          "kick": "ONE DATE",
+          "prop": "calendar"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Find the condition dates in your accepted offer and put them in your calendar today."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Book your home inspection right away. Inspectors can fill up before your date."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Ask your lender which documents they need, and by when."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Miss the date without a written waiver or extension and the deal can end.",
+          "note": "Ask your realtor and lawyer how your conditions work."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to someone whose *offer was just *accepted",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Find the condition dates in your accepted offer and put them in your calendar today."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Book your home inspection right away. Inspectors can fill up before your date."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Ask your lender which documents they need, and by when."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Miss the date without a written waiver or extension and the deal can end.",
-     "note": "Ask your realtor and lawyer how your conditions work."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to someone whose *offer was just *accepted",
-     "fine": "General information only, not legal, tax or mortgage advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "a costly mistake avoided",
+    "share_reason": "a friend whose offer was just accepted",
+    "format": "step-by-step",
+    "buying_process": true,
+    "hook_pattern": "4 direct address with a stake",
+    "vo_status": "done",
+    "vo_seconds": 24.7,
+    "vo_frame_seconds": [
+      2.98,
+      3.74,
+      4.79,
+      3.64,
+      4.6,
+      4.99
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r1-tt21755.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r1-yt21863.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "a costly mistake avoided",
-  "share_reason": "a friend whose offer was just accepted",
-  "format": "step-by-step",
-  "buying_process": true,
-  "hook_pattern": "4 direct address with a stake"
- },
- {
-  "id": "d20261102-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T15:00:00-05:00",
-  "caption": "Sold your Etobicoke home. Where do you live until you close on the next one?\n\nSelling and buying at once? 1) Ask whether both deals can close on the same day. 2) If they can't, plan where you'd stay and store your belongings in between. 3) Ask your lender about bridge financing, which is short-term and has costs. 4) Tell your lawyer both closing dates early so they can plan the funds.\n\nSelling and buying at the same time? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homeseller #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f01.png",
-    "say": "Sold your Etobicoke home? Where will you live?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f02.png",
-    "say": "Step one. Ask if your sale and purchase can close the same day.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f03.png",
-    "say": "Now the twist. If dates don't match, plan where you'll stay and store things.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f04.png",
-    "say": "Step three. Ask your lender about bridge financing. It's short-term and it has costs.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f05.png",
-    "say": "Last step. Tell your lawyer both closing dates early so they can plan the money.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r2-frames/f06.png",
-    "say": "Send this to a friend who is selling and buying at once. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Sold Etobicoke home. Nowhere to *go?",
-     "kick": "CLOSING DATES",
-     "prop": "movingbox"
+  {
+    "id": "d20261102-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T15:00:00-05:00",
+    "caption": "Sold your Etobicoke home. Where do you live until you close on the next one?\n\nSelling and buying at once? 1) Ask whether both deals can close on the same day. 2) If they can't, plan where you'd stay and store your belongings in between. 3) Ask your lender about bridge financing, which is short-term and has costs. 4) Tell your lawyer both closing dates early so they can plan the funds.\n\nSelling and buying at the same time? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homeseller #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-vo22170.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f01.png",
+        "say": "Sold your Etobicoke home? Where will you live?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f02.png",
+        "say": "Step one. Ask if your sale and purchase can close the same day.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f03.png",
+        "say": "Now the twist. If dates don't match, plan where you'll stay and store things.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f04.png",
+        "say": "Step three. Ask your lender about bridge financing. It's short-term and it has costs.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f05.png",
+        "say": "Last step. Tell your lawyer both closing dates early so they can plan the money.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r2-frames/f06.png",
+        "say": "Send this to a friend who is selling and buying at once. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Sold Etobicoke home. Nowhere to *go?",
+          "kick": "CLOSING DATES",
+          "prop": "movingbox"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Ask whether your sale and purchase can close on the same day."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "If not, plan where you'd stay and store your belongings between closings."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Ask your lender about bridge financing. It is short-term and has costs."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Tell your lawyer both closing dates early so they can plan the funds."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend *selling and *buying at once",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Ask whether your sale and purchase can close on the same day."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "If not, plan where you'd stay and store your belongings between closings."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Ask your lender about bridge financing. It is short-term and has costs."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Tell your lawyer both closing dates early so they can plan the funds."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to a friend *selling and *buying at once",
-     "fine": "General information only, not legal, tax or mortgage advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "relief",
+    "share_reason": "a friend selling and buying at once",
+    "format": "mistake-then-fix",
+    "audience": "seller",
+    "trial": true,
+    "hook_pattern": "7 specific scene cold open",
+    "vo_status": "done",
+    "vo_seconds": 23.9,
+    "vo_frame_seconds": [
+      2.26,
+      3.25,
+      4.26,
+      5.07,
+      4.03,
+      4.99
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-tt22184.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-yt22287.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "relief",
-  "share_reason": "a friend selling and buying at once",
-  "format": "mistake-then-fix",
-  "audience": "seller",
-  "trial": true,
-  "hook_pattern": "7 specific scene cold open"
- },
- {
-  "id": "d20261102-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T17:30:00-05:00",
-  "caption": "$1M Georgetown home. What's the land transfer tax at closing?\n\nExample: a $1,000,000 purchase, no refund. Ontario land transfer tax: $55,000 x 0.5% = $275; next $195,000 x 1% = $1,950 (running $2,225); next $150,000 x 1.5% = $2,250 (running $4,475); last $600,000 x 2% = $12,000. Total: $16,475. Provincial tax only; legal fees, title insurance and adjustments are extra, and Toronto adds its own tax.\n\nSource: Ontario.ca, \"Calculating land transfer tax\" (updated Apr 22, 2026). Eligibility rules apply to refunds.\n\nMoving up? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #landtransfertax #moneymath #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f01.png",
-    "say": "Million dollar Georgetown home. Land transfer tax?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f02.png",
-    "say": "Step one. The first fifty-five thousand dollars at half a percent: two hundred seventy-five dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f03.png",
-    "say": "Step two. The next one hundred ninety-five thousand at one percent: one thousand, nine hundred fifty dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f04.png",
-    "say": "Step three. The next one hundred fifty thousand at one and a half percent: two thousand, two hundred fifty dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f05.png",
-    "say": "Last band. The remaining six hundred thousand at two percent: twelve thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f06.png",
-    "say": "So all in, the land transfer tax is sixteen thousand, four hundred seventy-five dollars.",
-    "min": 6.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r3-frames/f07.png",
-    "say": "Send this to someone moving up in Georgetown. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "$1M Georgetown home. Closing *tax?",
-     "kick": "NOT 2% EITHER",
-     "prop": "calculator"
+  {
+    "id": "d20261102-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T17:30:00-05:00",
+    "caption": "$1M Georgetown home. What's the land transfer tax at closing?\n\nExample: a $1,000,000 purchase, no refund. Ontario land transfer tax: $55,000 x 0.5% = $275; next $195,000 x 1% = $1,950 (running $2,225); next $150,000 x 1.5% = $2,250 (running $4,475); last $600,000 x 2% = $12,000. Total: $16,475. Provincial tax only; legal fees, title insurance and adjustments are extra, and Toronto adds its own tax.\n\nSource: Ontario.ca, \"Calculating land transfer tax\" (updated Apr 22, 2026). Eligibility rules apply to refunds.\n\nMoving up? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #landtransfertax #moneymath #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r3-vo22663.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f01.png",
+        "say": "Million dollar Georgetown home. Land transfer tax?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f02.png",
+        "say": "Step one. The first fifty-five thousand dollars at half a percent: two hundred seventy-five dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f03.png",
+        "say": "Step two. The next one hundred ninety-five thousand at one percent: one thousand, nine hundred fifty dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f04.png",
+        "say": "Step three. The next one hundred fifty thousand at one and a half percent: two thousand, two hundred fifty dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f05.png",
+        "say": "Last band. The remaining six hundred thousand at two percent: twelve thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f06.png",
+        "say": "So all in, the land transfer tax is sixteen thousand, four hundred seventy-five dollars.",
+        "min": 6.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r3-frames/f07.png",
+        "say": "Send this to someone moving up in Georgetown. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "$1M Georgetown home. Closing *tax?",
+          "kick": "NOT 2% EITHER",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 4,
+          "prop": "calculator",
+          "text": "First $55,000 at 0.5%",
+          "value": "$275",
+          "formula": "$55,000 x 0.5%",
+          "running": "$275"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Next $195,000 at 1%",
+          "value": "$1,950",
+          "formula": "$195,000 x 1%",
+          "running": "$2,225"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Next $150,000 at 1.5%",
+          "value": "$2,250",
+          "formula": "$150,000 x 1.5%",
+          "running": "$4,475"
+        },
+        {
+          "kind": "calc",
+          "n": 4,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Last $600,000 at 2%",
+          "value": "$12,000",
+          "formula": "$600,000 x 2%",
+          "running": "$16,475"
+        },
+        {
+          "kind": "total",
+          "text": "Ontario land transfer tax, about",
+          "value": "$16,475",
+          "sub": "Provincial tax only. Not included: legal fees, title insurance, adjustments.",
+          "note": "Example only: $1,000,000 home, no refund (not a first-time buyer). Source: Ontario.ca, Calculating land transfer tax (updated Apr 22, 2026). Toronto adds its own tax. Not tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to someone *moving up in Georgetown",
+          "fine": "Example only. Not tax or legal advice."
+        }
+      ]
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 4,
-     "prop": "calculator",
-     "text": "First $55,000 at 0.5%",
-     "value": "$275",
-     "formula": "$55,000 x 0.5%",
-     "running": "$275"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Next $195,000 at 1%",
-     "value": "$1,950",
-     "formula": "$195,000 x 1%",
-     "running": "$2,225"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Next $150,000 at 1.5%",
-     "value": "$2,250",
-     "formula": "$150,000 x 1.5%",
-     "running": "$4,475"
-    },
-    {
-     "kind": "calc",
-     "n": 4,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Last $600,000 at 2%",
-     "value": "$12,000",
-     "formula": "$600,000 x 2%",
-     "running": "$16,475"
-    },
-    {
-     "kind": "total",
-     "text": "Ontario land transfer tax, about",
-     "value": "$16,475",
-     "sub": "Provincial tax only. Not included: legal fees, title insurance, adjustments.",
-     "note": "Example only: $1,000,000 home, no refund (not a first-time buyer). Source: Ontario.ca, Calculating land transfer tax (updated Apr 22, 2026). Toronto adds its own tax. Not tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to someone *moving up in Georgetown",
-     "fine": "Example only. Not tax or legal advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "surprise",
+    "share_reason": "someone moving up to a bigger home",
+    "format": "money-math",
+    "series": "money-math",
+    "hook_pattern": "8 price anchor (sourced)",
+    "vo_status": "done",
+    "vo_seconds": 30.4,
+    "vo_frame_seconds": [
+      3.11,
+      4.28,
+      4.94,
+      4.98,
+      4.11,
+      4.18,
+      4.82
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r3-tt22680.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r3-yt22804.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "surprise",
-  "share_reason": "someone moving up to a bigger home",
-  "format": "money-math",
-  "series": "money-math",
-  "hook_pattern": "8 price anchor (sourced)"
- },
- {
-  "id": "d20261102-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T20:00:00-05:00",
-  "caption": "Oakville closing: no insurance may mean no keys.\n\nBefore closing day: 1) Your lender may require proof of home insurance. 2) Ask for a policy that starts on your closing date, not after. 3) Older home? Mention any oil tank or old wiring early, as it can affect coverage. 4) Send proof of insurance to your lawyer a few days before closing.\n\nClosing soon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #closingday #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f01.png",
-    "say": "Oakville buyer: no insurance may mean no keys.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f02.png",
-    "say": "Step one. Your lender may want proof of home insurance before closing day.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f03.png",
-    "say": "Step two. Ask for a policy that starts on your closing date, not after.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f04.png",
-    "say": "Now the twist. Mention any oil tank or old wiring early. It can change your coverage.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f05.png",
-    "say": "Last step. Send your lawyer the proof of insurance a few days before closing.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r4-frames/f06.png",
-    "say": "Save this for your closing week. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Oakville closing: no insurance, *no *keys?",
-     "kick": "BEFORE CLOSING",
-     "prop": "shield"
+  {
+    "id": "d20261102-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T20:00:00-05:00",
+    "caption": "Oakville closing: no insurance may mean no keys.\n\nBefore closing day: 1) Your lender may require proof of home insurance. 2) Ask for a policy that starts on your closing date, not after. 3) Older home? Mention any oil tank or old wiring early, as it can affect coverage. 4) Send proof of insurance to your lawyer a few days before closing.\n\nClosing soon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #closingday #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r4-vo23102.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f01.png",
+        "say": "Oakville buyer: no insurance may mean no keys.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f02.png",
+        "say": "Step one. Your lender may want proof of home insurance before closing day.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f03.png",
+        "say": "Step two. Ask for a policy that starts on your closing date, not after.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f04.png",
+        "say": "Now the twist. Mention any oil tank or old wiring early. It can change your coverage.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f05.png",
+        "say": "Last step. Send your lawyer the proof of insurance a few days before closing.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r4-frames/f06.png",
+        "say": "Save this for your closing week. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Oakville closing: no insurance, *no *keys?",
+          "kick": "BEFORE CLOSING",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "shield",
+          "text": "Your lender may require proof of home insurance before closing day."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Ask for a policy that starts on your closing date, not after."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Older home? Mention any oil tank or old wiring early. It can affect coverage."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Send proof of insurance to your lawyer a few days before closing."
+        },
+        {
+          "kind": "cta",
+          "text": "Save this for your *closing *week",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "shield",
-     "text": "Your lender may require proof of home insurance before closing day."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Ask for a policy that starts on your closing date, not after."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Older home? Mention any oil tank or old wiring early. It can affect coverage."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Send proof of insurance to your lawyer a few days before closing."
-    },
-    {
-     "kind": "cta",
-     "text": "Save this for your *closing *week",
-     "fine": "General information only, not legal, tax or mortgage advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "relief",
+    "share_reason": "the partner you are buying with",
+    "format": "step-by-step",
+    "buying_process": true,
+    "hook_pattern": "2 cost of a mistake (no figure)",
+    "vo_status": "done",
+    "vo_seconds": 24.0,
+    "vo_frame_seconds": [
+      3.18,
+      3.85,
+      4.24,
+      4.77,
+      4.12,
+      3.84
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r4-tt23116.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r4-yt23215.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "relief",
-  "share_reason": "the partner you are buying with",
-  "format": "step-by-step",
-  "buying_process": true,
-  "hook_pattern": "2 cost of a mistake (no figure)"
- },
- {
-  "id": "d20261102-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T21:00:00-05:00",
-  "caption": "Selling before your Brampton mortgage ends? Check the penalty first.\n\nBreaking a closed mortgage early usually means a prepayment penalty, usually the higher of three months' interest or the interest rate differential (IRD). The IRD can be much higher, so ask your lender to calculate yours before you list. Buying again? Ask whether you can port your mortgage to your new home.\n\nSource: Financial Consumer Agency of Canada, \"Mortgage fees: Prepayment penalties\" (page updated Oct 15, 2025).\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagetips #homeowner #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f01.png",
-    "say": "Selling before your mortgage ends? Check the penalty.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f02.png",
-    "say": "Step one. Break a closed mortgage early and there's usually a penalty.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f03.png",
-    "say": "Step two. Usually the higher of three months' interest or the IRD.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f04.png",
-    "say": "Now the twist. The IRD can be far bigger, so ask your lender to calculate yours.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f05.png",
-    "say": "Last step. Buying again? Ask if you can port your mortgage to your new home.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r5-frames/f06.png",
-    "say": "Send this to a friend who may sell before renewal. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MORTGAGE TIPS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Sell befroe renewal? Penalty may *shock.",
-     "kick": "BREAK EARLY?",
-     "prop": "mortgage"
+  {
+    "id": "d20261102-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T21:00:00-05:00",
+    "caption": "Selling before your Brampton mortgage ends? Check the penalty first.\n\nBreaking a closed mortgage early usually means a prepayment penalty, usually the higher of three months' interest or the interest rate differential (IRD). The IRD can be much higher, so ask your lender to calculate yours before you list. Buying again? Ask whether you can port your mortgage to your new home.\n\nSource: Financial Consumer Agency of Canada, \"Mortgage fees: Prepayment penalties\" (page updated Oct 15, 2025).\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagetips #homeowner #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r5-vo23516.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f01.png",
+        "say": "Selling before your mortgage ends? Check the penalty.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f02.png",
+        "say": "Step one. Break a closed mortgage early and there's usually a penalty.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f03.png",
+        "say": "Step two. Usually the higher of three months' interest or the IRD.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f04.png",
+        "say": "Now the twist. The IRD can be far bigger, so ask your lender to calculate yours.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f05.png",
+        "say": "Last step. Buying again? Ask if you can port your mortgage to your new home.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r5-frames/f06.png",
+        "say": "Send this to a friend who may sell before renewal. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MORTGAGE TIPS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Sell befroe renewal? Penalty may *shock.",
+          "kick": "BREAK EARLY?",
+          "prop": "mortgage"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Breaking a closed mortgage early usually means a prepayment penalty."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calculator",
+          "text": "It's usually the higher of three months' interest or the IRD."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "chart",
+          "text": "The IRD can be much higher. Ask your lender to calculate yours.",
+          "note": "Source: Financial Consumer Agency of Canada, page updated Oct 15, 2025."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "keys",
+          "text": "Buying again? Ask if you can port your mortgage to your new home."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend *who may *sell before renewal",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Breaking a closed mortgage early usually means a prepayment penalty."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calculator",
-     "text": "It's usually the higher of three months' interest or the IRD."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "chart",
-     "text": "The IRD can be much higher. Ask your lender to calculate yours.",
-     "note": "Source: Financial Consumer Agency of Canada, page updated Oct 15, 2025."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "keys",
-     "text": "Buying again? Ask if you can port your mortgage to your new home."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to a friend *who may *sell before renewal",
-     "fine": "General information only, not legal, tax or mortgage advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "trigger": "a costly mistake avoided",
+    "share_reason": "a friend who may sell before their mortgage renews",
+    "format": "myth-vs-fact",
+    "series": "honest-mistake",
+    "mistake": "'before' is spelled 'befroe' in the on-screen hook (cosmetic slip; all facts and the voice are correct)",
+    "hook_pattern": "5 timing objection",
+    "vo_status": "done",
+    "vo_seconds": 24.2,
+    "vo_frame_seconds": [
+      2.71,
+      4.24,
+      3.68,
+      4.91,
+      3.64,
+      5.02
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r5-tt23530.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r5-yt23631.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "trigger": "a costly mistake avoided",
-  "share_reason": "a friend who may sell before their mortgage renews",
-  "format": "myth-vs-fact",
-  "series": "honest-mistake",
-  "mistake": "'before' is spelled 'befroe' in the on-screen hook (cosmetic slip; all facts and the voice are correct)",
-  "hook_pattern": "5 timing objection"
- },
- {
-  "id": "d20261102-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T22:30:00-05:00",
-  "caption": "Waterloo home's hidden winter bill? Ask this before you offer.\n\nQuick tip: ask for the last twelve months of heating and hydro bills before you make an offer. They aren't always available, but it's fair to ask, and they give you a real idea of what the home costs to run.\n\nHouse hunting in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #quicktip #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-02/d20261102-r6-frames/f01.png",
-    "say": "Buying in Waterloo? Ask this before you offer.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r6-frames/f02.png",
-    "say": "Ask for twelve months of heating and hydro bills before you make an offer.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-02/d20261102-r6-frames/f03.png",
-    "say": "Send this to whoever you're house hunting with. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "WATERLOO (KWC)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Waterloo home's hidden *winter *bill?",
-     "kick": "ASK FIRST",
-     "prop": "calculator"
+  {
+    "id": "d20261102-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T22:30:00-05:00",
+    "caption": "Waterloo home's hidden winter bill? Ask this before you offer.\n\nQuick tip: ask for the last twelve months of heating and hydro bills before you make an offer. They aren't always available, but it's fair to ask, and they give you a real idea of what the home costs to run.\n\nHouse hunting in Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #quicktip #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r6-vo23763.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-02/d20261102-r6-frames/f01.png",
+        "say": "Buying in Waterloo? Ask this before you offer.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r6-frames/f02.png",
+        "say": "Ask for twelve months of heating and hydro bills before you make an offer.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-02/d20261102-r6-frames/f03.png",
+        "say": "Send this to whoever you're house hunting with. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "WATERLOO (KWC)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Waterloo home's hidden *winter *bill?",
+          "kick": "ASK FIRST",
+          "prop": "calculator"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "calculator",
+          "text": "Ask for twelve months of heating and hydro bills before you make an offer.",
+          "note": "Not always available, but it is fair to ask."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to whoever you're *house *hunting with",
+          "fine": "General information only, not legal, tax or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "calculator",
-     "text": "Ask for twelve months of heating and hydro bills before you make an offer.",
-     "note": "Not always available, but it is fair to ask."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to whoever you're *house *hunting with",
-     "fine": "General information only, not legal, tax or mortgage advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "surprise",
+    "share_reason": "the person house hunting with you",
+    "format": "quick-tip",
+    "hook_pattern": "6 tease + reveal",
+    "vo_status": "done",
+    "vo_seconds": 10.7,
+    "vo_frame_seconds": [
+      2.22,
+      3.58,
+      4.87
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r6-tt23769.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r6-yt23813.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "surprise",
-  "share_reason": "the person house hunting with you",
-  "format": "quick-tip",
-  "hook_pattern": "6 tease + reveal"
- },
- {
-  "id": "d20261102-f1",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T16:30:00-05:00",
-  "caption": "Hidden title problems can become yours.\n\nBuying in Peel? Title insurance is a one-time fee at closing that can help cover certain title problems. Ask your lawyer what your policy covers, what it excludes, and raise any title questions before you close.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Coverage varies by policy.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #titleinsurance #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-f1.png",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "format": "educational",
-  "hook_pattern": "3 tease"
- },
- {
-  "id": "d20261102-f2",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T21:45:00-05:00",
-  "caption": "Late deposit can wreck your offer.\n\nOffer accepted in Mississauga? Your deposit usually has a deadline. 1) Check your offer for the exact date. 2) Confirm with your realtor who the payee is and how to send it. 3) Ask your bank early, because bank drafts and wires can have limits and delays.\n\nMaking an offer soon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice. Terms vary by offer.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-f2.png",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "format": "educational",
-  "hook_pattern": "2 cost of a mistake"
- },
- {
-  "id": "d20261102-s1",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T12:30:00-05:00",
-  "caption": "Milton townhome? Check this monthly fee.\n\nSome freehold townhomes have a monthly common-elements fee (a POTL fee). Ask what it covers and how it can change before you make an offer.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-s1.mp4",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "format": "educational"
- },
- {
-  "id": "d20261102-s2",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-02T19:00:00-05:00",
-  "caption": "Offer accepted. Is the deal really firm?\n\nOne missed date could change that. My new Reel walks through the condition dates every buyer should know.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#homebuyingtips #firsttimehomebuyer #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-s2.mp4",
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "format": "reel-teaser"
- }
+  {
+    "id": "d20261102-f1",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T16:30:00-05:00",
+    "caption": "Hidden title problems can become yours.\n\nBuying in Peel? Title insurance is a one-time fee at closing that can help cover certain title problems. Ask your lawyer what your policy covers, what it excludes, and raise any title questions before you close.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Coverage varies by policy.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #titleinsurance #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-f1.png",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "format": "educational",
+    "hook_pattern": "3 tease"
+  },
+  {
+    "id": "d20261102-f2",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T21:45:00-05:00",
+    "caption": "Late deposit can wreck your offer.\n\nOffer accepted in Mississauga? Your deposit usually has a deadline. 1) Check your offer for the exact date. 2) Confirm with your realtor who the payee is and how to send it. 3) Ask your bank early, because bank drafts and wires can have limits and delays.\n\nMaking an offer soon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice. Terms vary by offer.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-f2.png",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "format": "educational",
+    "hook_pattern": "2 cost of a mistake"
+  },
+  {
+    "id": "d20261102-s1",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T12:30:00-05:00",
+    "caption": "Milton townhome? Check this monthly fee.\n\nSome freehold townhomes have a monthly common-elements fee (a POTL fee). Ask what it covers and how it can change before you make an offer.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-s1.mp4",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "format": "educational"
+  },
+  {
+    "id": "d20261102-s2",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-02T19:00:00-05:00",
+    "caption": "Offer accepted. Is the deal really firm?\n\nOne missed date could change that. My new Reel walks through the condition dates every buyer should know.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#homebuyingtips #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-s2.mp4",
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "format": "reel-teaser"
+  }
 ]
