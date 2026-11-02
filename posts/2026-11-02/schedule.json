@@ -121,7 +121,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-02T15:00:00-05:00",
     "caption": "Sold your Etobicoke home. Where do you live until you close on the next one?\n\nSelling and buying at once? 1) Ask whether both deals can close on the same day. 2) If they can't, plan where you'd stay and store your belongings in between. 3) Ask your lender about bridge financing, which is short-term and has costs. 4) Tell your lawyer both closing dates early so they can plan the funds.\n\nSelling and buying at the same time? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homeseller #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-vo22170.mp4",
@@ -224,7 +224,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-tt22184.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-yt22287.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-r2-yt22287.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18077110670754880",
+    "fb_thumb": "set",
+    "fb_id": "1105149285455849",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "pc_CDyCWGn0",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261102-r3",
