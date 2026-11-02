@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T14:37:52+00:00",
+  "checked_at": "2026-11-02T20:47:52+00:00",
   "graph_version": "v23.0",
   "instagram": {
     "probes": [
@@ -82,14 +82,14 @@
       {
         "name": "media insights: reel",
         "ok": true,
-        "posts_with_data": 78,
-        "posts_seen": 84
+        "posts_with_data": 80,
+        "posts_seen": 86
       },
       {
         "name": "media insights: story",
         "ok": true,
-        "posts_with_data": 8,
-        "posts_seen": 8
+        "posts_with_data": 9,
+        "posts_seen": 9
       },
       {
         "name": "content publishing limit",
