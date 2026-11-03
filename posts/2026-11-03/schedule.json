@@ -147,7 +147,11 @@
     "fb_status": "posted",
     "yt_thumb": "set",
     "yt_publish_id": "InDP47Xv71g",
-    "yt_status": "UPLOADED_PUBLIC"
+    "yt_status": "UPLOADED_PUBLIC",
+    "tt_resend": true,
+    "tt_route": "buffer",
+    "tt_nomusic": true,
+    "tt_note": "Nov 3 one-post TikTok test (Krishna): voice-only copy via Buffer, public"
   },
   {
     "id": "d20261103-f1",
