@@ -423,7 +423,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -440,28 +440,32 @@
           "n": 1,
           "of": 4,
           "prop": "lawyer",
-          "text": "Your lawyer prepares a statement of adjustments before closing day."
+          "text": "Your lawyer prepares a statement of adjustments before closing day.",
+          "short": "Lawyer's adjustments"
         },
         {
           "kind": "point",
           "n": 2,
           "of": 4,
           "prop": "calculator",
-          "text": "It splits costs like property tax and utilities between you and the seller."
+          "text": "It splits costs like property tax and utilities between you and the seller.",
+          "short": "Costs get split"
         },
         {
           "kind": "point",
           "n": 3,
           "of": 4,
           "prop": "cheque",
-          "text": "Now the twist. The final amount can differ from your early estimate."
+          "text": "Now the twist. The final amount can differ from your early estimate.",
+          "short": "Amount can change"
         },
         {
           "kind": "point",
           "n": 4,
           "of": 4,
           "prop": "clipboard",
-          "text": "Ask your lawyer to walk you through it before closing day."
+          "text": "Ask your lawyer to walk you through it before closing day.",
+          "short": "Review every line"
         },
         {
           "kind": "cta",
@@ -549,7 +553,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "REAL ESTATE NEWS",
@@ -578,7 +582,8 @@
           "of": 3,
           "prop": "chart",
           "text": "Council set the 2026 tax at 3% of the property's assessed value.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
+          "note": "Source: City of Toronto, Nov 2, 2026.",
+          "short": "Tax rate set"
         },
         {
           "kind": "point",
@@ -586,7 +591,8 @@
           "of": 3,
           "prop": "calendar",
           "text": "It covers how the home was used from Jan 1 to Dec 31, 2026.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
+          "note": "Source: City of Toronto, Nov 2, 2026.",
+          "short": "Full-year use"
         },
         {
           "kind": "point",
@@ -594,7 +600,8 @@
           "of": 3,
           "prop": "clipboard",
           "text": "Owners can declare online until April 30, 2027. My take: note the date.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
+          "note": "Source: City of Toronto, Nov 2, 2026.",
+          "short": "Declaration deadline"
         },
         {
           "kind": "cta",
