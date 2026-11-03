@@ -73,6 +73,7 @@ def music(seed, mood=None):
 
 PHONE_SAY = "Call nine oh five, four five two, four two nine eight."
 LEDGER, PHOTOS = "data/photo-usage.json", "posts/assets/krishna/photos"
+TAKEN = set()  # photos handed out earlier in this same run (not yet saved to disk)
 
 def used_photos():
     """Every real photo already used anywhere (Krishna, Nov 3: a photo is never used twice)."""
@@ -81,7 +82,7 @@ def used_photos():
         for it in json.load(open(path)):
             for ph in ((it.get("motion") or {}).get("photo"), it.get("photo")):
                 if ph: used.add(ph)
-    return used
+    return used | TAKEN
 
 def assign_photo(it):
     """Give a Reel one unused real photo of Krishna for its hook/cover and cta (kept on re-renders)."""
@@ -91,7 +92,7 @@ def assign_photo(it):
     free = [p for p in pool if p not in used_photos()]
     if not free:
         print(it["id"], "NO UNUSED PHOTOS LEFT: Reel renders without a photo; ask Krishna for new videos"); return False
-    m["photo"] = free[0]; print(it["id"], "photo", free[0], f"({len(free) - 1} unused left)"); return True
+    m["photo"] = free[0]; TAKEN.add(free[0]); print(it["id"], "photo", free[0], f"({len(free) - 1} unused left)"); return True
 
 def fix_frames(it):
     """Guard (Krishna, Oct 31): the voice must match the screen. If a line repeats the line before it

@@ -62,7 +62,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "BUYING PROCESS",
@@ -116,8 +116,7 @@
           "text": "Save this for your *PDI day",
           "fine": "General information only, not legal advice. Source: Tarion."
         }
-      ],
-      "photo": "p001.jpg"
+      ]
     },
     "hook_rule": "tension-v3",
     "brand_corner": "headshot",
@@ -198,7 +197,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "MONEY MATH",
@@ -254,8 +253,7 @@
           "text": "Send this to someone *buying under 20% down",
           "fine": "Example only. Not mortgage, tax or legal advice."
         }
-      ],
-      "photo": "p001.jpg"
+      ]
     },
     "hook_rule": "tension-v3",
     "brand_corner": "logo",
@@ -319,7 +317,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "QUICK TIP",
@@ -343,8 +341,7 @@
           "text": "Send this to someone *getting pre-approved",
           "fine": "General information only, not mortgage advice."
         }
-      ],
-      "photo": "p001.jpg"
+      ]
     },
     "hook_rule": "tension-v3",
     "brand_corner": "logo",
@@ -406,7 +403,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -451,8 +448,7 @@
           "text": "Save this for your *closing week",
           "fine": "General information only, not legal advice."
         }
-      ],
-      "photo": "p001.jpg"
+      ]
     },
     "hook_rule": "tension-v3",
     "brand_corner": "headshot",
