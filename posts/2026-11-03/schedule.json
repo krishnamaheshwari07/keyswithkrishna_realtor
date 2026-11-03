@@ -1,617 +1,578 @@
 [
-  {
-    "id": "d20261103-s1",
-    "type": "story",
-    "theme": "cream",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T12:30:00-05:00",
-    "caption": "Caledon basement: was it permitted?\n\nAsk your lawyer to check for open building permits and work orders before you close. Unfinished work may become the new owner's problem.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-s1.mp4",
-    "hook_rule": "tension-v3",
-    "brand_corner": "headshot",
-    "format": "educational",
-    "audience": "buyer"
-  },
-  {
-    "id": "d20261103-r1",
-    "type": "reel",
-    "theme": "dark",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T15:00:00-05:00",
-    "caption": "Mississauga buyer: skip this, pay later.\n\nBefore you remove the inspection condition: 1) Check your offer for the inspection condition and its exact deadline. 2) Attend the inspection and ask the inspector to explain every major issue. 3) An inspection is visual, so it can't see behind walls or underground. 4) Waiving an inspection may leave you paying for repairs you never saw. 5) Read the report before the deadline and ask your lawyer before removing the condition.\n\nBuying in Mississauga? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homeinspection #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r1-vo8695.mp4",
-    "frames": [
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f01.png",
-        "say": "Mississauga buyers, skipping this could cost you.",
-        "min": 2.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f02.png",
-        "say": "Step one. Check your offer for an inspection condition, and its exact deadline.",
-        "min": 5.0
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f03.png",
-        "say": "Step two. Be there in person. Ask the inspector to walk you through the big findings.",
-        "min": 5.0
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f04.png",
-        "say": "Step three. Remember, an inspector only reports what they can actually see.",
-        "min": 4.75
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f05.png",
-        "say": "Now the twist. Skip it, and you may pay for repairs nobody warned you about.",
-        "min": 5.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f06.png",
-        "say": "Last step. Read the whole report early, and talk to your lawyer before you remove the condition.",
-        "min": 5.25
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r1-frames/f07.png",
-        "say": "Save this for your inspection day. Call nine oh five, four five two, four two nine eight.",
-        "min": 4.5
-      }
-    ],
-    "vo_pending": false,
-    "motion": {
-      "theme": "dark",
-      "tag": "BUYING PROCESS",
-      "area": "MISSISSAUGA",
-      "scenes": [
-        {
-          "kind": "hook",
-          "text": "Mississauga buyer: skip this, *pay later.",
-          "kick": "HIDDEN REPAIRS",
-          "prop": "search"
-        },
-        {
-          "kind": "point",
-          "n": 1,
-          "of": 5,
-          "prop": "clipboard",
-          "text": "Your offer may include a home inspection condition. Know its exact deadline."
-        },
-        {
-          "kind": "point",
-          "n": 2,
-          "of": 5,
-          "prop": "search",
-          "text": "Attend the inspection and ask the inspector to explain every major issue."
-        },
-        {
-          "kind": "point",
-          "n": 3,
-          "of": 5,
-          "prop": "house",
-          "text": "An inspection is visual. It can't see behind walls or underground."
-        },
-        {
-          "kind": "point",
-          "n": 4,
-          "of": 5,
-          "prop": "calculator",
-          "text": "Now the twist. Waiving inspection may leave you paying for repairs you never saw."
-        },
-        {
-          "kind": "point",
-          "n": 5,
-          "of": 5,
-          "prop": "lawyer",
-          "text": "Read the report before the deadline. Ask your lawyer before removing the condition."
-        },
-        {
-          "kind": "cta",
-          "text": "Save this for your *inspection day",
-          "fine": "General information only, not legal advice."
-        }
-      ]
+ {
+  "id": "d20261103-s1",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T12:30:00-05:00",
+  "caption": "Caledon basement: was it permitted?\n\nAsk your lawyer to check for open building permits and work orders before you close. Unfinished work may become the new owner's problem.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-s1.mp4",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "format": "educational",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T15:00:00-05:00",
+  "caption": "Cambridge new build: your PDI form matters.\n\nBefore you get your keys on a new Ontario home: 1) Your builder leads a floor-by-floor walk-through, called the Pre-Delivery Inspection (PDI). 2) You or a designate must attend, and a designate needs written authority. 3) Every item that's incomplete, damaged or not working is recorded on the PDI form. 4) You sign the PDI form, the official record of the home's condition before you move in. 5) Items not fixed by move-in can be reported on Tarion's Initial, Mid-Year or Year-End Form.\n\nSource: Tarion, Pre-Delivery Inspection and claim forms pages.\n\nBuying a new build in Cambridge? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #newbuild #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f01.png",
+    "say": "Cambridge new build? Your PDI form matters.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f02.png",
+    "say": "Step one. Before you get keys, your builder walks you through the home, floor by floor.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f03.png",
+    "say": "Step two. You, or someone you appoint in writing, must be there.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f04.png",
+    "say": "Step three. Anything incomplete, damaged or not working gets written on the form.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f05.png",
+    "say": "Now the twist. When you sign that form, it becomes the official record of the home's condition.",
+    "min": 5.75
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f06.png",
+    "say": "Last step. Items still unfixed after move-in get reported on Tarion's warranty forms.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r1-frames/f07.png",
+    "say": "Save this for your PDI day. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "CAMBRIDGE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Cambridge new build: your *PDI form matters.",
+     "kick": "BEFORE YOU SIGN",
+     "prop": "clipboard"
     },
-    "hook_rule": "tension-v3",
-    "brand_corner": "headshot",
-    "trigger": "fear of a costly mistake avoided",
-    "share_reason": "a friend about to make an offer",
-    "format": "step-by-step",
-    "buying_process": true,
-    "hook_pattern": "2 cost of a mistake (no figure)",
-    "audience": "buyer",
-    "vo_status": "done",
-    "vo_seconds": 29.3,
-    "vo_frame_seconds": [
-      2.2,
-      4.19,
-      4.93,
-      4.44,
-      4.05,
-      4.75,
-      4.73
-    ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r1-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r1-tt8706.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r1-yt8799.mp4"
-  },
-  {
-    "id": "d20261103-f1",
-    "type": "feed",
-    "theme": "cream",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T16:30:00-05:00",
-    "caption": "Milton first-timers: cheaper monthly, costlier overall?\n\nSince Dec 15, 2024, first-time buyers can use a 30-year amortization on insured mortgages. A longer amortization may lower your monthly mortgage, but you may pay more interest overall. Ask your lender to show 25 years and 30 years side by side.\n\nSource: Department of Finance Canada, news release Sept 16, 2024. Eligibility and lender rules apply.\n\nFirst home in Milton? Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #mortgagetips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-f1.png",
-    "hook_rule": "tension-v3",
-    "brand_corner": "logo",
-    "format": "first-time-buyer",
-    "hook_pattern": "2 cost of a mistake / tease (no figure)",
-    "audience": "buyer"
-  },
-  {
-    "id": "d20261103-r2",
-    "type": "reel",
-    "theme": "cream",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T17:30:00-05:00",
-    "caption": "$900K Etobicoke home: two closing taxes?\n\nExample: a $900,000 home in the City of Toronto, no refund. Ontario land transfer tax: $55,000 x 0.5% = $275; next $195,000 x 1% = $1,950; next $150,000 x 1.5% = $2,250; last $500,000 x 2% = $10,000. Total: $14,475. Toronto's municipal land transfer tax uses the same brackets at this price: $14,475. Both together: $28,950, before any first-time buyer refund. Legal fees, title insurance and adjustments are extra.\n\nSources: City of Toronto, Municipal land transfer tax rates (rates as of Apr 1, 2026; page modified Apr 7, 2026); Ontario.ca, Calculating land transfer tax. Eligibility rules apply to refunds.\n\nBuying in Etobicoke and want this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #landtransfertax #moneymath #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r2-vo9228.mp4",
-    "frames": [
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f01.png",
-        "say": "Nine hundred thousand dollars in Etobicoke. Two closing taxes?",
-        "min": 2.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f02.png",
-        "say": "Step one. Ontario land transfer tax on the first four hundred thousand dollars: four thousand, four hundred seventy-five dollars.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f03.png",
-        "say": "Step two. The remaining five hundred thousand at two percent: ten thousand dollars.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f04.png",
-        "say": "Now the twist. Toronto adds its own land transfer tax. The first four hundred thousand: four thousand, four hundred seventy-five dollars.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f05.png",
-        "say": "Last band. Toronto's tax on the remaining five hundred thousand at two percent: ten thousand dollars.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f06.png",
-        "say": "So all in, both taxes come to twenty-eight thousand, nine hundred fifty dollars.",
-        "min": 6.0
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r2-frames/f07.png",
-        "say": "Send this to someone buying in Toronto. Call nine oh five, four five two, four two nine eight.",
-        "min": 4.5
-      }
-    ],
-    "vo_pending": false,
-    "motion": {
-      "theme": "cream",
-      "tag": "MONEY MATH",
-      "area": "ETOBICOKE (TORONTO)",
-      "scenes": [
-        {
-          "kind": "hook",
-          "text": "$900K Etobicoke home: *two closing taxes?",
-          "kick": "BOTH APPLY",
-          "prop": "calculator"
-        },
-        {
-          "kind": "calc",
-          "n": 1,
-          "of": 4,
-          "prop": "calculator",
-          "text": "Ontario tax on the first $400,000",
-          "value": "$4,475",
-          "formula": "$275 + $1,950 + $2,250",
-          "running": "$4,475"
-        },
-        {
-          "kind": "calc",
-          "n": 2,
-          "of": 4,
-          "prop": "calculator",
-          "text": "Ontario tax on the next $500,000 at 2%",
-          "value": "$10,000",
-          "formula": "$500,000 x 2%",
-          "running": "$14,475"
-        },
-        {
-          "kind": "calc",
-          "n": 3,
-          "of": 4,
-          "prop": "calculator",
-          "text": "Now the twist. Toronto's own tax, first $400,000",
-          "value": "$4,475",
-          "formula": "$275 + $1,950 + $2,250",
-          "running": "$18,950"
-        },
-        {
-          "kind": "calc",
-          "n": 4,
-          "of": 4,
-          "prop": "calculator",
-          "text": "Toronto tax on the next $500,000 at 2%",
-          "value": "$10,000",
-          "formula": "$500,000 x 2%",
-          "running": "$28,950"
-        },
-        {
-          "kind": "total",
-          "text": "Both land transfer taxes, about",
-          "value": "$28,950",
-          "sub": "Before any first-time buyer refund. Not included: legal fees, title insurance, adjustments.",
-          "note": "Example only: $900,000 one- or two-unit home in the City of Toronto, no refund. Sources: City of Toronto, Municipal land transfer tax rates (rates as of Apr 1, 2026; page modified Apr 7, 2026); Ontario.ca, Calculating land transfer tax. Not tax or legal advice."
-        },
-        {
-          "kind": "cta",
-          "text": "Send this to someone *buying in Toronto",
-          "fine": "Example only. Not tax or legal advice."
-        }
-      ]
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 5,
+     "prop": "house",
+     "text": "Your builder leads a floor-by-floor walk-through before handing over the keys."
     },
-    "hook_rule": "tension-v3",
-    "brand_corner": "logo",
-    "trigger": "surprise",
-    "share_reason": "someone buying in Toronto",
-    "format": "money-math",
-    "series": "money-math",
-    "hook_pattern": "11 interactive / number that demands explanation (sourced)",
-    "audience": "buyer",
-    "vo_status": "done",
-    "vo_seconds": 31.9,
-    "vo_frame_seconds": [
-      2.91,
-      4.83,
-      4.12,
-      6.04,
-      4.89,
-      3.9,
-      5.24
-    ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r2-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r2-tt9240.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r2-yt9331.mp4"
-  },
-  {
-    "id": "d20261103-s2",
-    "type": "story",
-    "theme": "dark",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T19:00:00-05:00",
-    "caption": "Closing soon? Final number may change.\n\nYour lawyer's closing statement can differ from your early estimate. Watch my new Reel on my page for what to ask before closing day.\n\nClosing in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #closingday #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-s2.mp4",
-    "hook_rule": "tension-v3",
-    "brand_corner": "headshot",
-    "format": "repurpose-tease",
-    "audience": "buyer"
-  },
-  {
-    "id": "d20261103-r3",
-    "type": "reel",
-    "theme": "dark",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T20:00:00-05:00",
-    "caption": "Kitchener pre-approval: your rate may expire.\n\nAsk your lender how many days your pre-approval rate hold lasts. The length varies by lender, and if it runs out before you buy, your rate could change.\n\nGetting pre-approved in Kitchener? Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #preapproval #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-vo9480.mp4",
-    "frames": [
-      {
-        "img": "posts/2026-11-03/d20261103-r3-frames/f01.png",
-        "say": "Your Kitchener pre-approval rate may expire.",
-        "min": 2.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r3-frames/f02.png",
-        "say": "Ask your lender exactly how many days your rate hold lasts. It varies by lender.",
-        "min": 5.25
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r3-frames/f03.png",
-        "say": "Send this to someone getting pre-approved. Call nine oh five, four five two, four two nine eight.",
-        "min": 4.5
-      }
-    ],
-    "vo_pending": false,
-    "motion": {
-      "theme": "dark",
-      "tag": "QUICK TIP",
-      "area": "KITCHENER",
-      "scenes": [
-        {
-          "kind": "hook",
-          "text": "Kitchener pre-approval: *your rate may expire.",
-          "kick": "CHECK THIS DATE",
-          "prop": "mortgage"
-        },
-        {
-          "kind": "point",
-          "n": 1,
-          "of": 1,
-          "prop": "calendar",
-          "text": "Ask your lender: how many days does my rate hold last? Lengths vary."
-        },
-        {
-          "kind": "cta",
-          "text": "Send this to someone *getting pre-approved",
-          "fine": "General information only, not mortgage advice."
-        }
-      ]
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 5,
+     "prop": "lawyer",
+     "text": "You or a designate must attend. A designate needs written authority."
     },
-    "hook_rule": "tension-v3",
-    "brand_corner": "logo",
-    "trigger": "fear of a costly mistake avoided",
-    "share_reason": "a friend about to get pre-approved",
-    "format": "quick-tip",
-    "hook_pattern": "2 cost of a mistake (no figure)",
-    "audience": "buyer",
-    "trial": true,
-    "vo_status": "done",
-    "vo_seconds": 11.2,
-    "vo_frame_seconds": [
-      2.5,
-      3.77,
-      4.93
-    ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-tt9484.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-yt9517.mp4"
-  },
-  {
-    "id": "d20261103-r4",
-    "type": "reel",
-    "theme": "cream",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T21:00:00-05:00",
-    "caption": "Georgetown closing: final bill may change.\n\nBefore closing day: 1) Your lawyer prepares a statement of adjustments. 2) It splits costs like property tax and utilities between you and the seller. 3) The final amount can differ from your early estimate. 4) Ask your lawyer to walk you through it before closing day.\n\nClosing soon in Georgetown? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #closingday #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838.mp4",
-    "frames": [
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f01.png",
-        "say": "Closing in Georgetown? Your final bill may change.",
-        "min": 2.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f02.png",
-        "say": "Step one. Before closing, your lawyer prepares a statement of adjustments.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f03.png",
-        "say": "Step two. It divides things like property tax and utilities between you and the seller.",
-        "min": 5.25
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f04.png",
-        "say": "Now the twist. That final amount can land different from your first estimate.",
-        "min": 5.0
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f05.png",
-        "say": "Last step. Ask your lawyer to walk you through every line before closing day.",
-        "min": 4.75
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r4-frames/f06.png",
-        "say": "Save this for your closing week. Call nine oh five, four five two, four two nine eight.",
-        "min": 4.5
-      }
-    ],
-    "vo_pending": false,
-    "motion": {
-      "theme": "cream",
-      "tag": "BUYING PROCESS",
-      "area": "HALTON HILLS (GEORGETOWN)",
-      "scenes": [
-        {
-          "kind": "hook",
-          "text": "Georgetown closing: final bill *may change.",
-          "kick": "ADJUSTMENTS",
-          "prop": "calculator"
-        },
-        {
-          "kind": "point",
-          "n": 1,
-          "of": 4,
-          "prop": "lawyer",
-          "text": "Your lawyer prepares a statement of adjustments before closing day."
-        },
-        {
-          "kind": "point",
-          "n": 2,
-          "of": 4,
-          "prop": "calculator",
-          "text": "It splits costs like property tax and utilities between you and the seller."
-        },
-        {
-          "kind": "point",
-          "n": 3,
-          "of": 4,
-          "prop": "cheque",
-          "text": "Now the twist. The final amount can differ from your early estimate."
-        },
-        {
-          "kind": "point",
-          "n": 4,
-          "of": 4,
-          "prop": "clipboard",
-          "text": "Ask your lawyer to walk you through it before closing day."
-        },
-        {
-          "kind": "cta",
-          "text": "Save this for your *closing week",
-          "fine": "General information only, not legal advice."
-        }
-      ]
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 5,
+     "prop": "clipboard",
+     "text": "Every item that's incomplete, damaged or not working goes on the PDI form."
     },
-    "hook_rule": "tension-v3",
-    "brand_corner": "headshot",
-    "trigger": "relief",
-    "share_reason": "the partner you are buying with",
-    "format": "step-by-step",
-    "buying_process": true,
-    "hook_pattern": "7 specific scene / cost of a mistake",
-    "audience": "buyer",
-    "vo_status": "done",
-    "vo_seconds": 24.1,
-    "vo_frame_seconds": [
-      2.51,
-      4.43,
-      4.5,
-      4.02,
-      4.05,
-      4.63
-    ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-tt9847.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-yt9918.mp4"
-  },
-  {
-    "id": "d20261103-f2",
-    "type": "feed",
-    "theme": "dark",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T21:45:00-05:00",
-    "caption": "Oakville offer: can you take it back?\n\nEvery offer has an irrevocable time. Until it passes, the seller can accept, and you generally can't withdraw it. Before you sign, confirm the price, conditions and closing date with your realtor.\n\nMaking an offer in Oakville? Want help before you sign? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #makinganoffer #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-f2.png",
-    "hook_rule": "tension-v3",
-    "brand_corner": "logo",
-    "format": "educational",
-    "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
-  },
-  {
-    "id": "d20261103-r5",
-    "type": "reel",
-    "theme": "dark",
-    "approved": true,
-    "status": "pending",
-    "publish_at": "2026-11-03T22:30:00-05:00",
-    "caption": "Own in Toronto? April 30 matters.\n\nThe City of Toronto reported on Nov 2, 2026 that the 2026 Vacant Home Tax declaration period is open. Council set the 2026 tax at 3% of a property's assessed value (current value assessment). The declaration covers how the home was used from Jan 1 to Dec 31, 2026, and owners can declare online through the City's portal until April 30, 2027. My take: put the date in your calendar, and ask the City or your lawyer if you're unsure how it applies to you.\n\nSource: City of Toronto news release, Nov 2, 2026.\n\nDid you know about this? Tell me below.\n\nBuying or selling in Toronto? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#torontorealestate #vacanthometax #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304.mp4",
-    "frames": [
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f01.png",
-        "say": "Own a home in Toronto? April thirtieth matters.",
-        "min": 2.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f02.png",
-        "say": "On November second, the City of Toronto opened the 2026 vacant home tax declaration.",
-        "min": 4.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f03.png",
-        "say": "Step one. Council set the 2026 tax at three percent of the home's assessed value.",
-        "min": 5.0
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f04.png",
-        "say": "Step two. The declaration covers how the home was used, January first to December thirty-first.",
-        "min": 5.5
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f05.png",
-        "say": "Step three. Owners can declare online until April thirtieth, twenty twenty-seven. My take: put the date in your calendar.",
-        "min": 5.25
-      },
-      {
-        "img": "posts/2026-11-03/d20261103-r5-frames/f06.png",
-        "say": "Send this to a Toronto homeowner. Did you know about this? Tell me below. Call nine oh five, four five two, four two nine eight.",
-        "min": 4.5
-      }
-    ],
-    "vo_pending": false,
-    "motion": {
-      "theme": "dark",
-      "tag": "REAL ESTATE NEWS",
-      "area": "TORONTO",
-      "scenes": [
-        {
-          "kind": "hook",
-          "text": "Own in Toronto? *April 30 matters.",
-          "kick": "3% VACANT TAX",
-          "prop": "calendar",
-          "clip": {
-            "source": "City of Toronto",
-            "date": "Nov 2, 2026",
-            "headline": "2026 *vacant home tax* declaration now open"
-          }
-        },
-        {
-          "kind": "news",
-          "source": "City of Toronto",
-          "date": "Nov 2, 2026",
-          "text": "The 2026 vacant home tax declaration period is now open."
-        },
-        {
-          "kind": "point",
-          "n": 1,
-          "of": 3,
-          "prop": "chart",
-          "text": "Council set the 2026 tax at 3% of the property's assessed value.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
-        },
-        {
-          "kind": "point",
-          "n": 2,
-          "of": 3,
-          "prop": "calendar",
-          "text": "It covers how the home was used from Jan 1 to Dec 31, 2026.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
-        },
-        {
-          "kind": "point",
-          "n": 3,
-          "of": 3,
-          "prop": "clipboard",
-          "text": "Owners can declare online until April 30, 2027. My take: note the date.",
-          "note": "Source: City of Toronto, Nov 2, 2026."
-        },
-        {
-          "kind": "cta",
-          "text": "Send this to a *Toronto homeowner. Did you know?",
-          "fine": "General information only, not tax or legal advice."
-        }
-      ]
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 5,
+     "prop": "lawyer",
+     "text": "Now the twist. You sign the PDI form, the official record of the home's condition.",
+     "note": "Source: Tarion, Pre-Delivery Inspection page."
     },
-    "hook_rule": "tension-v3",
-    "brand_corner": "logo",
-    "trigger": "surprise",
-    "share_reason": "a Toronto homeowner who may not know the date",
-    "format": "market-watch",
-    "series": "market-watch",
-    "hook_pattern": "3 number/date that demands explanation (sourced, exact date)",
-    "audience": "buyer",
-    "music_mood": "tense",
-    "vo_status": "done",
-    "vo_seconds": 29.7,
-    "vo_frame_seconds": [
-      3.33,
-      4.72,
-      4.52,
-      5.02,
-      6.2,
-      5.96
-    ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-tt10314.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-yt10401.mp4"
-  }
+    {
+     "kind": "point",
+     "n": 5,
+     "of": 5,
+     "prop": "calendar",
+     "text": "Items not fixed by move-in go on Tarion's Initial, Mid-Year or Year-End Form.",
+     "note": "Source: Tarion, Pre-Delivery Inspection page."
+    },
+    {
+     "kind": "cta",
+     "text": "Save this for your *PDI day",
+     "fine": "General information only, not legal advice. Source: Tarion."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend buying a new build",
+  "format": "step-by-step",
+  "buying_process": true,
+  "hook_pattern": "2 cost of a mistake (no figure)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-f1",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T16:30:00-05:00",
+  "caption": "Milton first-timers: cheaper monthly, costlier overall?\n\nSince Dec 15, 2024, first-time buyers can use a 30-year amortization on insured mortgages. A longer amortization may lower your monthly mortgage, but you may pay more interest overall. Ask your lender to show 25 years and 30 years side by side.\n\nSource: Department of Finance Canada, news release Sept 16, 2024. Eligibility and lender rules apply.\n\nFirst home in Milton? Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-f1.png",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "format": "first-time-buyer",
+  "hook_pattern": "2 cost of a mistake / tease (no figure)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T17:30:00-05:00",
+  "caption": "$700K Georgetown home. Hidden closing cost?\n\nExample: a $700,000 home, minimum down payment: 5% x $500,000 = $25,000 plus 10% x $200,000 = $20,000, so $45,000 down and a $655,000 mortgage (93.57% loan-to-value). CMHC premium for the 90.01% to 95% band: 4.00% x $655,000 = $26,200, which may be added to the mortgage ($681,200 total). Ontario's 8% sales tax on the premium: $26,200 x 8% = $2,096, which can't be added to the loan and is paid at closing. Cash for the down payment plus the sales tax: $47,096. 25-year amortization; a 30-year amortization adds a 0.20% surcharge. Not included: land transfer tax, legal fees, adjustments.\n\nSources: CMHC, Premium information for homeowner and small rental loans, and Purchase pages; Ontario sales tax rate of 8% per Ratehub and Nesto (confirm with your lawyer). Lenders also apply the stress test and debt ratios.\n\nBuying in Georgetown and want this worked out for your price? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #cmhc #moneymath #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f01.png",
+    "say": "Seven hundred thousand dollar Georgetown home. Hidden closing cost?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f02.png",
+    "say": "Step one. The minimum down payment is five percent of the first five hundred thousand, plus ten percent of the rest: forty-five thousand dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f03.png",
+    "say": "Step two. The CMHC premium is four percent of the mortgage: twenty-six thousand, two hundred dollars. It can be added to your mortgage.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f04.png",
+    "say": "Now the twist. Ontario charges eight percent sales tax on that premium: two thousand, ninety-six dollars. It can't be added to your mortgage.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f05.png",
+    "say": "So you need about forty-seven thousand, ninety-six dollars in cash for those items.",
+    "min": 6.0
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r2-frames/f06.png",
+    "say": "Send this to someone buying with less than twenty percent down. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "MONEY MATH",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$700K Georgetown home. *Hidden closing cost?",
+     "kick": "PAID IN CASH",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Minimum down payment on $700,000",
+     "value": "$45,000",
+     "formula": "5% x $500,000 + 10% x $200,000",
+     "running": "$45,000 cash"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "mortgage",
+     "text": "CMHC premium at 4.00% on $655,000",
+     "value": "$26,200",
+     "formula": "$655,000 x 4.00%",
+     "running": "$45,000 cash",
+     "note": "Premium may be added to the mortgage, so it is not cash."
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "cheque",
+     "text": "Now the twist. Ontario PST on the premium, 8%",
+     "value": "$2,096",
+     "formula": "$26,200 x 8%",
+     "running": "$47,096 cash",
+     "note": "The sales tax can't be added to the loan."
+    },
+    {
+     "kind": "total",
+     "text": "Cash for down payment plus PST, about",
+     "value": "$47,096",
+     "sub": "Premium of $26,200 may be added to the mortgage, making it $681,200. Not included: land transfer tax, legal fees, adjustments.",
+     "note": "Example only: $700,000 home, minimum down payment, 25-year amortization (a 30-year amortization adds a 0.20% premium surcharge). Sources: CMHC premium information and Purchase pages; Ontario PST rate of 8% per Ratehub and Nesto, confirm with your lawyer. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *buying under 20% down",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "surprise",
+  "share_reason": "someone buying with under 20% down",
+  "format": "money-math",
+  "series": "money-math",
+  "hook_pattern": "4 direct address / number that demands explanation (sourced)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-s2",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T19:00:00-05:00",
+  "caption": "Closing soon? Final number may change.\n\nYour lawyer's closing statement can differ from your early estimate. Watch my new Reel on my page for what to ask before closing day.\n\nClosing in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #closingday #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-s2.mp4",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "format": "repurpose-tease",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T20:00:00-05:00",
+  "caption": "Kitchener pre-approval: your rate may expire.\n\nAsk your lender how many days your pre-approval rate hold lasts. The length varies by lender, and if it runs out before you buy, your rate could change.\n\nGetting pre-approved in Kitchener? Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #preapproval #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-vo9480.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-03/d20261103-r3-frames/f01.png",
+    "say": "Your Kitchener pre-approval rate may expire.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r3-frames/f02.png",
+    "say": "Ask your lender exactly how many days your rate hold lasts. It varies by lender.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r3-frames/f03.png",
+    "say": "Send this to someone getting pre-approved. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": false,
+  "motion": {
+   "theme": "dark",
+   "tag": "QUICK TIP",
+   "area": "KITCHENER",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Kitchener pre-approval: *your rate may expire.",
+     "kick": "CHECK THIS DATE",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "calendar",
+     "text": "Ask your lender: how many days does my rate hold last? Lengths vary."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *getting pre-approved",
+     "fine": "General information only, not mortgage advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend about to get pre-approved",
+  "format": "quick-tip",
+  "hook_pattern": "2 cost of a mistake (no figure)",
+  "audience": "buyer",
+  "trial": true,
+  "vo_status": "done",
+  "vo_seconds": 11.2,
+  "vo_frame_seconds": [
+   2.5,
+   3.77,
+   4.93
+  ],
+  "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-cover.jpg",
+  "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-tt9484.mp4",
+  "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r3-yt9517.mp4"
+ },
+ {
+  "id": "d20261103-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T21:00:00-05:00",
+  "caption": "Georgetown closing: final bill may change.\n\nBefore closing day: 1) Your lawyer prepares a statement of adjustments. 2) It splits costs like property tax and utilities between you and the seller. 3) The final amount can differ from your early estimate. 4) Ask your lawyer to walk you through it before closing day.\n\nClosing soon in Georgetown? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #closingday #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f01.png",
+    "say": "Closing in Georgetown? Your final bill may change.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f02.png",
+    "say": "Step one. Before closing, your lawyer prepares a statement of adjustments.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f03.png",
+    "say": "Step two. It divides things like property tax and utilities between you and the seller.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f04.png",
+    "say": "Now the twist. That final amount can land different from your first estimate.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f05.png",
+    "say": "Last step. Ask your lawyer to walk you through every line before closing day.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r4-frames/f06.png",
+    "say": "Save this for your closing week. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": false,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Georgetown closing: final bill *may change.",
+     "kick": "ADJUSTMENTS",
+     "prop": "calculator"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Your lawyer prepares a statement of adjustments before closing day."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "It splits costs like property tax and utilities between you and the seller."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Now the twist. The final amount can differ from your early estimate."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask your lawyer to walk you through it before closing day."
+    },
+    {
+     "kind": "cta",
+     "text": "Save this for your *closing week",
+     "fine": "General information only, not legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "trigger": "relief",
+  "share_reason": "the partner you are buying with",
+  "format": "step-by-step",
+  "buying_process": true,
+  "hook_pattern": "7 specific scene / cost of a mistake",
+  "audience": "buyer",
+  "vo_status": "done",
+  "vo_seconds": 24.1,
+  "vo_frame_seconds": [
+   2.51,
+   4.43,
+   4.5,
+   4.02,
+   4.05,
+   4.63
+  ],
+  "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-cover.jpg",
+  "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-tt9847.mp4",
+  "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-yt9918.mp4"
+ },
+ {
+  "id": "d20261103-f2",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T21:45:00-05:00",
+  "caption": "Oakville offer: can you take it back?\n\nEvery offer has an irrevocable time. Until it passes, the seller can accept, and you generally can't withdraw it. Before you sign, confirm the price, conditions and closing date with your realtor.\n\nMaking an offer in Oakville? Want help before you sign? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #makinganoffer #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-f2.png",
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261103-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-03T22:30:00-05:00",
+  "caption": "Own in Toronto? April 30 matters.\n\nThe City of Toronto reported on Nov 2, 2026 that the 2026 Vacant Home Tax declaration period is open. Council set the 2026 tax at 3% of a property's assessed value (current value assessment). The declaration covers how the home was used from Jan 1 to Dec 31, 2026, and owners can declare online through the City's portal until April 30, 2027. My take: put the date in your calendar, and ask the City or your lawyer if you're unsure how it applies to you.\n\nSource: City of Toronto news release, Nov 2, 2026.\n\nDid you know about this? Tell me below.\n\nBuying or selling in Toronto? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#torontorealestate #vacanthometax #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f01.png",
+    "say": "Own a home in Toronto? April thirtieth matters.",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f02.png",
+    "say": "On November second, the City of Toronto opened the 2026 vacant home tax declaration.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f03.png",
+    "say": "Step one. Council set the 2026 tax at three percent of the home's assessed value.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f04.png",
+    "say": "Step two. The declaration covers how the home was used, January first to December thirty-first.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f05.png",
+    "say": "Step three. Owners can declare online until April thirtieth, twenty twenty-seven. My take: put the date in your calendar.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-03/d20261103-r5-frames/f06.png",
+    "say": "Send this to a Toronto homeowner. Did you know about this? Tell me below. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": false,
+  "motion": {
+   "theme": "dark",
+   "tag": "REAL ESTATE NEWS",
+   "area": "TORONTO",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Own in Toronto? *April 30 matters.",
+     "kick": "3% VACANT TAX",
+     "prop": "calendar",
+     "clip": {
+      "source": "City of Toronto",
+      "date": "Nov 2, 2026",
+      "headline": "2026 *vacant home tax* declaration now open"
+     }
+    },
+    {
+     "kind": "news",
+     "source": "City of Toronto",
+     "date": "Nov 2, 2026",
+     "text": "The 2026 vacant home tax declaration period is now open."
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 3,
+     "prop": "chart",
+     "text": "Council set the 2026 tax at 3% of the property's assessed value.",
+     "note": "Source: City of Toronto, Nov 2, 2026."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 3,
+     "prop": "calendar",
+     "text": "It covers how the home was used from Jan 1 to Dec 31, 2026.",
+     "note": "Source: City of Toronto, Nov 2, 2026."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 3,
+     "prop": "clipboard",
+     "text": "Owners can declare online until April 30, 2027. My take: note the date.",
+     "note": "Source: City of Toronto, Nov 2, 2026."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to a *Toronto homeowner. Did you know?",
+     "fine": "General information only, not tax or legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "surprise",
+  "share_reason": "a Toronto homeowner who may not know the date",
+  "format": "market-watch",
+  "series": "market-watch",
+  "hook_pattern": "3 number/date that demands explanation (sourced, exact date)",
+  "audience": "buyer",
+  "music_mood": "tense",
+  "vo_status": "done",
+  "vo_seconds": 29.7,
+  "vo_frame_seconds": [
+   3.33,
+   4.72,
+   4.52,
+   5.02,
+   6.2,
+   5.96
+  ],
+  "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-cover.jpg",
+  "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-tt10314.mp4",
+  "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-yt10401.mp4"
+ }
 ]
