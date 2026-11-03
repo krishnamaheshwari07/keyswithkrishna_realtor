@@ -185,7 +185,7 @@ def build(m, prompt, it):
                "[0:v]fps=30,scale=1080:1920,format=yuv420p[v];[1:a]loudnorm=I=-15:TP=-1.5,aresample=48000[a]", "-map", "[v]", "-map", "[a]",
                *venc, "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", tmp_out]
     sh(*cmd)
-    # TikTok copy (TikTok muted every Buffer upload with Krishna's voice on Oct 28): "tt_audio": "music" = music + effects, no voice; else voice only
+    # TikTok copy (TikTok muted auto-published uploads with Krishna's voice on Oct 28): "tt_audio": "music" = music + effects, no voice; else voice only
     tt = f"{base}-tt{int(time.time()) % 100000}.mp4"; tmp_tt = f"{W}/{os.path.basename(tt)}"
     try:
         if it.get("tt_audio") == "music" and track:

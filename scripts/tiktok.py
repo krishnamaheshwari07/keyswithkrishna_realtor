@@ -9,48 +9,13 @@ REDIRECT = "https://krishnamaheshwari07.github.io/keyswithkrishna_realtor/tiktok
 TOKFILE = "data/tiktok-token.enc"
 KEY, SECRET, PASS = os.environ.get("TIKTOK_CLIENT_KEY"), os.environ.get("TIKTOK_CLIENT_SECRET"), os.environ.get("TIKTOK_TOKEN_KEY")
 
-BUFFER_KEY = os.environ.get("BUFFER_API_KEY")   # free Buffer account with TikTok connected: posts publicly, fully automatic (Krishna, Oct 28)
+# Third-party posting service removed (Krishna, Nov 3, 2026: never use it). TikTok goes only through Krishna's own TikTok app connection.
 
 PAUSED = True   # Oct 29: inbox drafts never show in Krishna's TikTok app (0 drafts, no notification) though TikTok reports SEND_TO_USER_INBOX. Paused pending his choice.
-# Oct 28: Buffer/auto-publish mutes Krishna's cloned voice; Reels now go to his TikTok inbox as drafts and he taps post (Krishna, Oct 28)
+# Oct 28: auto-publishing muted Krishna's cloned voice; Reels go to his TikTok inbox as drafts and he taps post (Krishna, Oct 28)
 
 def enabled():
     return bool(KEY and SECRET and PASS and os.path.exists(TOKFILE))
-
-def _gql(query):
-    r = _req("https://api.buffer.com", {"query": query}, token=BUFFER_KEY)
-    if r.get("errors"): raise RuntimeError("buffer: " + json.dumps(r["errors"])[:250])
-    return r.get("data", {})
-
-def _buffer_channel():
-    cid = os.environ.get("BUFFER_TIKTOK_CHANNEL")
-    if cid: return cid
-    for org in _gql("query { account { organizations { id } } }")["account"]["organizations"]:
-        chans = _gql('query { channels(input: {organizationId: "%s"}) { id service isQueuePaused } }' % org["id"])["channels"]
-        for c in chans:
-            if c.get("service", "").lower() == "tiktok": return c["id"]
-    raise RuntimeError("buffer: no TikTok channel connected")
-
-def post_via_buffer(item):
-    cid = _buffer_channel()
-    text = json.dumps(caption_for_tiktok(item.get("caption", "")))
-    # normal Reels keep their music on TikTok; "tt_nomusic": true sends the music-free copy (e.g. a resend after TikTok removed a sound)
-    url = json.dumps(item.get("tt_media_url") if item.get("tt_nomusic") and item.get("tt_media_url") else item["media_url"])
-    sel = "{ ... on PostActionSuccess { post { id } } ... on MutationError { message } }"
-    last = None
-    for mode in ("shareNow", "shareNext", "addToQueue"):
-        q = ('mutation { createPost(input: { text: %s, channelId: "%s", schedulingType: automatic, mode: %s, '
-             'assets: [{ video: { url: %s, metadata: { thumbnailOffset: 1000 } } }], '
-             'metadata: { tiktok: { isAiGenerated: true } } }) %s }') % (text, cid, mode, url, sel)   # TikTok AI-generated content label (cloned voice)
-        try:
-            res = _gql(q)["createPost"]
-        except RuntimeError as e:
-            last = str(e)
-            if "mode" in last.lower() or "enum" in last.lower(): continue   # try the next scheduling mode
-            raise
-        if res.get("post"): return "buffer:" + res["post"]["id"], "BUFFER_" + mode.upper()
-        raise RuntimeError("buffer: " + str(res.get("message"))[:250])
-    raise RuntimeError(last or "buffer: post not created")
 
 def _crypt(data, decrypt=False):
     args = ["openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-iter", "200000", "-salt", "-pass", "env:TIKTOK_TOKEN_KEY", "-a", "-A"]
@@ -103,8 +68,7 @@ def caption_for_tiktok(cap):
     return cap[:2200]
 
 def post_video(item):
-    direct = item.get("tt_route") == "direct"   # Oct 28 test: own app, private post, to see if TikTok keeps the cloned voice outside Buffer
-    if BUFFER_KEY and item.get("tt_route") == "buffer": return post_via_buffer(item)   # Buffer only on request: TikTok mutes the voice there
+    direct = item.get("tt_route") == "direct"   # Oct 28 test: own app, private post, to see if TikTok keeps the cloned voice
     tok = access_token()
     with urllib.request.urlopen(item["media_url"], timeout=180) as r:
         video = r.read()
