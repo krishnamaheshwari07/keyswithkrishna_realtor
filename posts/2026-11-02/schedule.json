@@ -717,12 +717,15 @@
     "type": "story",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-02T19:00:00-05:00",
     "caption": "Offer accepted. Is the deal really firm?\n\nOne missed date could change that. My new Reel walks through the condition dates every buyer should know.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#homebuyingtips #firsttimehomebuyer #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-02/d20261102-s2.mp4",
     "hook_rule": "tension-v3",
     "brand_corner": "logo",
-    "format": "reel-teaser"
+    "format": "reel-teaser",
+    "ig_media_id": "17919178869532784",
+    "fb_id": "4406089129702292",
+    "fb_status": "posted"
   }
 ]
