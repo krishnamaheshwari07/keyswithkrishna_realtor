@@ -35,6 +35,9 @@ footer .r1 span{margin-left:26px}
 .big .kick{font-size:84px;padding:12px 38px}
 .big .tease{font-size:44px;padding:16px 32px}
 .big .hookprop{display:none}
+/* Krishna's real photo on the hook/cover (Nov 3, 2026): a cut-out from his own videos, bottom-right, hook text above it */
+.kph{position:absolute;right:-20px;bottom:0;width:760px;height:900px;display:flex;align-items:flex-end;justify-content:flex-end}
+.kph img{max-width:100%;max-height:100%;object-fit:contain;filter:drop-shadow(0 24px 40px rgba(0,0,0,.45))}
 /* YouTube copy (Oct 30): YouTube picks its own Shorts cover frame, so the hook headline stays pinned under the brand bar on every scene */
 body.pin .inner{transform:translateY(900px) scale(.5)}   /* Oct 30 night: Krishna saw tiny/random Short covers, so on the YouTube copy every frame carries the big hook up top and the step shrinks below it */
 body.pin .big .inner{transform:none}
@@ -122,6 +125,8 @@ const words = (txt, base, step) => txt.split(/\s+/).map((w, i) => {
   const hl = w.startsWith("*"); w = w.replace(/\*/g, "");
   return `<span class="w${hl ? " hl" : ""}" data-anim="wordUp:${(base + i * step).toFixed(2)}:0.38">${w}</span>`; }).join(" ");
 const root = document.getElementById("scenes");
+const KP = ["k01.png","k02.png","k03.png","k04.png","k05.png","k06.png","k07.png","k08.png","k09.png","k10.png","k11.png","k12.png"];   // Krishna's real photos, posts/assets/krishna
+const PH = [...JSON.stringify(S.scenes[0] || {})].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);   // same Reel -> same photo, different Reels -> different photos
 S.scenes.forEach((sc, k) => {
   const el = document.createElement("div"); el.className = "scene"; el.dataset.k = k; let h = "";
   if (sc.kind === "hook") {   // Oct 26 hook redesign: short line on screen instantly, big moving visual, curiosity tease, no headshot
@@ -133,7 +138,7 @@ S.scenes.forEach((sc, k) => {
           <div class="csrc"><span>${sc.clip.source || ""}</span><span>${sc.clip.date || ""}</span></div>
           <div class="chead">${(sc.clip.headline || "").replace(/\*([^\s]+)/g, '<span class="hl">$1</span>')}</div>
           <div class="cbody">${"<i></i>".repeat(8)}</div></div></div>`
-        : `<div class="propbox hookprop" data-anim="shake:0.0:0.6">${(PROPS[sc.prop] || PROPS.house)()}</div>`}`;
+        : `<div class="propbox hookprop" data-anim="shake:0.0:0.6">${(PROPS[sc.prop] || PROPS.house)()}</div><div class="kph" data-anim="headIn:0.05:0.5"><img src="../posts/assets/krishna/${KP[PH % KP.length]}"></div>`}`;
   } else if (sc.kind === "news") {   // Market Watch: a sourced, dated headline card with a breaking-news banner
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       <div class="newsband" data-anim="wipeL:0.05:0.35"><span class="dot"></span>MARKET WATCH</div>
@@ -162,7 +167,7 @@ S.scenes.forEach((sc, k) => {
       <div class="pt">${words(sc.text, 0.12, 0.05)}</div>${sc.note ? `<div class="note" data-anim="fadeUp:0.5:0.4">${sc.note}</div>` : ""}
       <div class="propbox">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
   } else {
-    h = `<div class="wedge" data-anim="wipeIn:0.1:0.5"></div><div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>
+    h = `<div class="wedge" data-anim="wipeIn:0.1:0.5"></div><div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/krishna/${KP[(PH + 5) % KP.length]}"></div>
       <div class="cta">${words(sc.text, 0.1, 0.07)}</div>
       <div class="phone" data-anim="pulse:0.6:${Math.max(1, D[k] - 0.6).toFixed(2)}">905-452-4298</div>
       <div class="fine" data-anim="fadeUp:0.8:0.4">${sc.fine || ""}</div>`;
@@ -177,7 +182,7 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
     const hk = sc.querySelector(".hook2"), st = sc.querySelector(".hookstack"), inner = sc.querySelector(".inner"); if (!hk || !st) return;
     const prev = sc.style.cssText; sc.style.cssText = "display:block";
     let fs = 200;
-    const tooBig = () => st.offsetTop + st.offsetHeight > 1450 || hk.scrollWidth > hk.clientWidth + 2;
+    const tooBig = () => st.offsetTop + st.offsetHeight > (sc.querySelector('.kph') ? 1010 : 1450) || hk.scrollWidth > hk.clientWidth + 2;
     while (fs > 96 && tooBig()) { fs -= 4; inner.style.setProperty("--hfs", fs + "px"); }
     sc.style.cssText = prev;
   });
