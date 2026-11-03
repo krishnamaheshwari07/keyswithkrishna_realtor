@@ -116,6 +116,26 @@ def fix_frames(it):
             changed = True; print(it["id"], f"fixed repeated voice line on frame {i}")
     return changed
 
+def say_labels(it):
+    """Krishna, Nov 3: on step Reels the voice says the step's short tracker label first, then the full step
+    ("Step three: list every defect. Anything incomplete..."). Idempotent; no-op when there's no label."""
+    import re
+    W = "zero one two three four five six seven eight nine ten".split()
+    norm = lambda x: re.sub(r"[^a-z0-9 ]", "", (x or "").lower()).split()
+    fr, sc = it.get("frames") or [], (it.get("motion") or {}).get("scenes") or []
+    changed = False
+    for f, s_ in zip(fr, sc):
+        if s_.get("kind") != "point" or not s_.get("short") or (+s_.get("of", 1) or 1) < 2: continue
+        lab, say = s_["short"].strip().rstrip("."), (f.get("say") or "").strip()
+        if " ".join(norm(lab)) in " ".join(norm(say)[:8]): continue
+        n, of = int(s_.get("n", 0)), int(s_.get("of", 0))
+        rest = re.sub(r"^(step\s+\w+|last step|final step)[.,:!]?\s*", "", say, flags=re.I)
+        head = "Last step" if n == of and n > 1 else f"Step {W[n] if 0 < n < len(W) else n}"
+        f["say"] = f"{head}: {lab[0].lower() + lab[1:] if not lab[:3].isupper() else lab}. {rest}".strip()
+        changed = True
+    if changed: print(it["id"], "voice now says each step's label first")
+    return changed
+
 def build(m, prompt, it):
     import numpy as np, soundfile as sf
     sr = None; voice = []; frames = it["frames"]; durs = []
@@ -258,6 +278,7 @@ def main():
         revoice = bool(it.get("tt_revoice")) and it.get("status") == "posted"
         upd = {"vo_pending": False}
         if fix_frames(it): upd["frames"] = it["frames"]
+        if say_labels(it): upd["frames"] = it["frames"]
         if assign_photo(it): upd["motion"] = it["motion"]
         try:
             if m is None: raise RuntimeError("voice model unavailable")
