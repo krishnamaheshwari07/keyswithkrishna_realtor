@@ -72,6 +72,26 @@ def music(seed, mood=None):
     return (tracks[h % len(tracks)], h >> 16) if tracks else (None, 0)
 
 PHONE_SAY = "Call nine oh five, four five two, four two nine eight."
+LEDGER, PHOTOS = "data/photo-usage.json", "posts/assets/krishna/photos"
+
+def used_photos():
+    """Every real photo already used anywhere (Krishna, Nov 3: a photo is never used twice)."""
+    used = set((json.load(open(LEDGER)).get("used") or {}) if os.path.exists(LEDGER) else {})
+    for path in glob.glob("posts/*/schedule.json"):
+        for it in json.load(open(path)):
+            for ph in ((it.get("motion") or {}).get("photo"), it.get("photo")):
+                if ph: used.add(ph)
+    return used
+
+def assign_photo(it):
+    """Give a Reel one unused real photo of Krishna for its hook/cover and cta (kept on re-renders)."""
+    m = it.get("motion")
+    if not m or m.get("photo"): return False
+    pool = json.load(open(f"{PHOTOS}/index.json"))["photos"] if os.path.exists(f"{PHOTOS}/index.json") else []
+    free = [p for p in pool if p not in used_photos()]
+    if not free:
+        print(it["id"], "NO UNUSED PHOTOS LEFT: Reel renders without a photo; ask Krishna for new videos"); return False
+    m["photo"] = free[0]; print(it["id"], "photo", free[0], f"({len(free) - 1} unused left)"); return True
 
 def fix_frames(it):
     """Guard (Krishna, Oct 31): the voice must match the screen. If a line repeats the line before it
@@ -208,6 +228,12 @@ def save(results):
             files += [u["cover_url"].split("/main/", 1)[1] for u in upd.values() if "cover_url" in u]
             files += [u["tt_media_url"].split("/main/", 1)[1] for u in upd.values() if "tt_media_url" in u]
             files += [u["yt_media_url"].split("/main/", 1)[1] for u in upd.values() if "yt_media_url" in u]
+        led = json.load(open(LEDGER)) if os.path.exists(LEDGER) else {"note": "Real photos of Krishna already used (never reuse).", "used": {}}
+        for upd in results.values():
+            for iid, u in upd.items():
+                ph = (u.get("motion") or {}).get("photo")
+                if ph: led.setdefault("used", {})[ph] = iid
+        json.dump(led, open(LEDGER, "w"), indent=1); files.append(LEDGER)
         sh("git", "add", *files)
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0: return
         sh("git", "-c", "user.name=kwk-bot", "-c", "user.email=bot@users.noreply.github.com", "commit", "-qm", "Add AI voiceover to Reels")
@@ -231,6 +257,7 @@ def main():
         revoice = bool(it.get("tt_revoice")) and it.get("status") == "posted"
         upd = {"vo_pending": False}
         if fix_frames(it): upd["frames"] = it["frames"]
+        if assign_photo(it): upd["motion"] = it["motion"]
         try:
             if m is None: raise RuntimeError("voice model unavailable")
             out, total, durs = build(m, prompt, it)
