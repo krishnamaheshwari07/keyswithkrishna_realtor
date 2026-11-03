@@ -211,7 +211,10 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
   document.querySelectorAll(".scene").forEach(sc => {   // source line always sits under the step text, never on top of a long one
     const pt = sc.querySelector(".pt"), nt = sc.querySelector(".note"); if (!pt) return;
     const prev = sc.style.cssText; sc.style.cssText = "display:block";
-    if (!nt) { sc.style.cssText = prev; return; }
+    if (!nt) {   // no source line: the picture still moves below long step text
+      const below = pt.offsetTop + pt.offsetHeight + 30, inn = sc.querySelector(".inner");
+      if (below > 900) { inn.style.setProperty("--pbt", below + "px"); inn.style.setProperty("--pbs", Math.max(.7, (1660 - below) / 760).toFixed(3)); }
+      sc.style.cssText = prev; return; }
     const need = pt.offsetTop + pt.offsetHeight + 24, inn = sc.querySelector(".inner"); if (need > 850) inn.style.setProperty("--nt", need + "px");
     const below = Math.max(need, 850) + nt.offsetHeight + 20; if (below > 900) { inn.style.setProperty("--pbt", below + "px"); inn.style.setProperty("--pbs", Math.max(.7, (1660 - below) / 760).toFixed(3)); }   // picture moves down (and shrinks) so it never covers the source line
     sc.style.cssText = prev; });
