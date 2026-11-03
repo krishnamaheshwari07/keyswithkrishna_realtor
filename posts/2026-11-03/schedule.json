@@ -390,7 +390,7 @@
     "status": "pending",
     "publish_at": "2026-11-03T21:00:00-05:00",
     "caption": "Georgetown closing: final bill may change.\n\nBefore closing day: 1) Your lawyer prepares a statement of adjustments. 2) It splits costs like property tax and utilities between you and the seller. 3) The final amount can differ from your early estimate. 4) Ask your lawyer to walk you through it before closing day.\n\nClosing soon in Georgetown? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #closingday #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-vo39125.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-vo39125-vo48221.mp4",
     "frames": [
       {
         "img": "posts/2026-11-03/d20261103-r4-frames/f01.png",
@@ -399,22 +399,22 @@
       },
       {
         "img": "posts/2026-11-03/d20261103-r4-frames/f02.png",
-        "say": "Step one. Before closing, your lawyer prepares a statement of adjustments.",
+        "say": "Step one: lawyer's adjustments. Before closing, your lawyer prepares a statement of adjustments.",
         "min": 4.5
       },
       {
         "img": "posts/2026-11-03/d20261103-r4-frames/f03.png",
-        "say": "Step two. It divides things like property tax and utilities between you and the seller.",
+        "say": "Step two: costs get split. It divides things like property tax and utilities between you and the seller.",
         "min": 5.25
       },
       {
         "img": "posts/2026-11-03/d20261103-r4-frames/f04.png",
-        "say": "Now the twist. That final amount can land different from your first estimate.",
+        "say": "Step three: amount can change. Now the twist. That final amount can land different from your first estimate.",
         "min": 5.0
       },
       {
         "img": "posts/2026-11-03/d20261103-r4-frames/f05.png",
-        "say": "Last step. Ask your lawyer to walk you through every line before closing day.",
+        "say": "Last step: review every line. Ask your lawyer to walk you through every line before closing day.",
         "min": 4.75
       },
       {
@@ -423,7 +423,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -484,18 +484,18 @@
     "hook_pattern": "7 specific scene / cost of a mistake",
     "audience": "buyer",
     "vo_status": "done",
-    "vo_seconds": 23.6,
+    "vo_seconds": 27.2,
     "vo_frame_seconds": [
-      2.56,
-      3.94,
-      4.8,
-      3.86,
-      3.46,
-      4.94
+      2.75,
+      4.81,
+      4.98,
+      5.22,
+      4.85,
+      4.58
     ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-tt39136.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-yt39214.mp4"
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-vo39125-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-vo39125-tt48237.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r4-vo9838-vo35184-vo39125-yt48351.mp4"
   },
   {
     "id": "d20261103-f2",
@@ -520,7 +520,7 @@
     "status": "pending",
     "publish_at": "2026-11-03T22:30:00-05:00",
     "caption": "Own in Toronto? April 30 matters.\n\nThe City of Toronto reported on Nov 2, 2026 that the 2026 Vacant Home Tax declaration period is open. Council set the 2026 tax at 3% of a property's assessed value (current value assessment). The declaration covers how the home was used from Jan 1 to Dec 31, 2026, and owners can declare online through the City's portal until April 30, 2027. My take: put the date in your calendar, and ask the City or your lawyer if you're unsure how it applies to you.\n\nSource: City of Toronto news release, Nov 2, 2026.\n\nDid you know about this? Tell me below.\n\nBuying or selling in Toronto? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#torontorealestate #vacanthometax #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-vo35744.mp4",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-vo35744-vo48825.mp4",
     "frames": [
       {
         "img": "posts/2026-11-03/d20261103-r5-frames/f01.png",
@@ -534,17 +534,17 @@
       },
       {
         "img": "posts/2026-11-03/d20261103-r5-frames/f03.png",
-        "say": "Step one. Council set the 2026 tax at three percent of the home's assessed value.",
+        "say": "Step one: tax rate set. Council set the 2026 tax at three percent of the home's assessed value.",
         "min": 5.0
       },
       {
         "img": "posts/2026-11-03/d20261103-r5-frames/f04.png",
-        "say": "Step two. The declaration covers how the home was used, January first to December thirty-first.",
+        "say": "Step two: full-year use. The declaration covers how the home was used, January first to December thirty-first.",
         "min": 5.5
       },
       {
         "img": "posts/2026-11-03/d20261103-r5-frames/f05.png",
-        "say": "Step three. Owners can declare online until April thirtieth, twenty twenty-seven. My take: put the date in your calendar.",
+        "say": "Last step: declaration deadline. Owners can declare online until April thirtieth, twenty twenty-seven. My take: put the date in your calendar.",
         "min": 5.25
       },
       {
@@ -553,7 +553,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "REAL ESTATE NEWS",
@@ -621,17 +621,17 @@
     "audience": "buyer",
     "music_mood": "tense",
     "vo_status": "done",
-    "vo_seconds": 28.8,
+    "vo_seconds": 29.6,
     "vo_frame_seconds": [
-      3.01,
-      4.34,
-      4.86,
-      4.96,
-      5.78,
-      5.89
+      2.82,
+      4.36,
+      4.79,
+      5.09,
+      6.93,
+      5.59
     ],
-    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-cover.jpg",
-    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-tt35757.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-yt35859.mp4"
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-vo35744-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-vo35744-tt48843.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-03/d20261103-r5-vo10304-vo35744-yt48973.mp4"
   }
 ]
