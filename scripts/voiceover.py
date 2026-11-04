@@ -7,7 +7,7 @@ import os, sys, glob, json, subprocess, hashlib, time, shutil
 from datetime import datetime, timezone, timedelta
 RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/"
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
-SPEED = 1.05              # Krishna, Nov 4: every Reel plays 1.05x faster (was 1.1x on Nov 3, felt too fast) (voice and screen times; animations keep their natural motion)
+SPEED = 1.0               # Krishna, Nov 4: back to normal 1x speed (tried 1.1x on Nov 3 and 1.05x on Nov 4) (voice and screen times; animations keep their natural motion)
 LEAD, TAIL = 0.12 / SPEED, 0.22 / SPEED   # tight cuts (Krishna, Oct 24: Reels felt slow)
 TEMPO = 1.12 * SPEED      # pitch-preserving speed-up of the voice
 MIN_FRAME = 2.2 / SPEED
