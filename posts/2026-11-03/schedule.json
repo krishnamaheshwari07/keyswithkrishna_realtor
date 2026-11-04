@@ -516,9 +516,7 @@
     "yt_status": "UPLOADED_PUBLIC",
     "tt_route": "direct",
     "tt_note": "Nov 4 one-post TikTok test (Krishna): own TikTok app, private (SELF_ONLY), voice + music",
-    "tt_status": "failed",
-    "tt_error": "tiktok 403: {\"error\":{\"code\":\"unaudited_client_can_only_post_to_private_accounts\",\"message\":\"Please review our integration guidelines at https://developers.tiktok.com/doc/content-sharing-guidelines/\",\"log_id\":\"20261104140901DD28C1DAA19B893BFF08\"}}",
-    "tt_resent_at": "2026-11-04T06:08+00:00"
+    "tt_resend": true
   },
   {
     "id": "d20261103-f2",
