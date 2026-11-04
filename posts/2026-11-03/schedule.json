@@ -520,8 +520,10 @@
       "publish_id": "v_pub_file~v2-1.7704195957248608277",
       "result": "TikTok muted the sound (voice + music): 'This sound isn't available'"
     },
-    "tt_resend": true,
-    "tt_nomusic": true
+    "tt_nomusic": true,
+    "tt_publish_id": "v_pub_file~v2-1.7704197693412837383",
+    "tt_status": "PUBLISH_COMPLETE",
+    "tt_resent_at": "2026-11-04T06:23+00:00"
   },
   {
     "id": "d20261103-f2",
