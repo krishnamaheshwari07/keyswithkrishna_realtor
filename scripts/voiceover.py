@@ -7,7 +7,7 @@ import os, sys, glob, json, subprocess, hashlib, time, shutil
 from datetime import datetime, timezone, timedelta
 RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/"
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
-SPEED = 1.1               # Krishna, Nov 3: every Reel plays 1.1x faster (voice and screen times; animations keep their natural motion)
+SPEED = 1.05              # Krishna, Nov 4: every Reel plays 1.05x faster (was 1.1x on Nov 3, felt too fast) (voice and screen times; animations keep their natural motion)
 LEAD, TAIL = 0.12 / SPEED, 0.22 / SPEED   # tight cuts (Krishna, Oct 24: Reels felt slow)
 TEMPO = 1.12 * SPEED      # pitch-preserving speed-up of the voice
 MIN_FRAME = 2.2 / SPEED
@@ -118,23 +118,35 @@ def fix_frames(it):
     return changed
 
 def say_labels(it):
-    """Krishna, Nov 3: on step Reels the voice says the step's short tracker label first, then the full step
-    ("Step three: list every defect. Anything incomplete..."). Idempotent; no-op when there's no label."""
+    """Krishna, Nov 3-4: on step Reels the voice says the step's short tracker label first, then the full step,
+    introduced with natural transitions instead of "Step one/two" (Nov 4): "First, ...", "Next, ...", "Then, ...",
+    "After that, ...", "Finally, ...". Money-math calc lines get the same transitions. Idempotent."""
     import re
-    W = "zero one two three four five six seven eight nine ten".split()
     norm = lambda x: re.sub(r"[^a-z0-9 ]", "", (x or "").lower()).split()
+    lead = re.compile(r"^(?:(?:step\s+\w+|last step|final step)[.,:!]?|(?:firstly|first|next|then|after that|finally|lastly)[.,:!])\s*", re.I)
+    MID = ["Next", "Then", "After that"]
+    def head(n, of):
+        if n <= 1: return "First"
+        if n >= of: return "Finally"
+        return MID[(n - 2) % len(MID)]
     fr, sc = it.get("frames") or [], (it.get("motion") or {}).get("scenes") or []
     changed = False
     for f, s_ in zip(fr, sc):
-        if s_.get("kind") != "point" or not s_.get("short") or (+s_.get("of", 1) or 1) < 2: continue
-        lab, say = s_["short"].strip().rstrip("."), (f.get("say") or "").strip()
-        if " ".join(norm(lab)) in " ".join(norm(say)[:8]): continue
-        n, of = int(s_.get("n", 0)), int(s_.get("of", 0))
-        rest = re.sub(r"^(step\s+\w+|last step|final step)[.,:!]?\s*", "", say, flags=re.I)
-        head = "Last step" if n == of and n > 1 else f"Step {W[n] if 0 < n < len(W) else n}"
-        f["say"] = f"{head}: {lab[0].lower() + lab[1:] if not lab[:3].isupper() else lab}. {rest}".strip()
-        changed = True
-    if changed: print(it["id"], "voice now says each step's label first")
+        kind = s_.get("kind")
+        if kind not in ("point", "calc") or (int(s_.get("of", 1) or 1)) < 2: continue
+        n, of = int(s_.get("n", 0) or 0), int(s_.get("of", 0) or 0)
+        say = (f.get("say") or "").strip()
+        h = head(n, of)
+        rest = lead.sub("", say)
+        lab = (s_.get("short") or "").strip().rstrip(".") if kind == "point" else ""
+        if lab and " ".join(norm(lab)) in " ".join(norm(rest)[:8]): lab = ""   # label already spoken
+        if lab:
+            lab = lab if lab[:3].isupper() else lab[0].lower() + lab[1:]
+            new = f"{h}, {lab}. {rest}".strip()
+        else:
+            new = f"{h}, {rest[:1].lower() + rest[1:] if rest[:2] != rest[:2].upper() else rest}".strip()
+        if new != say: f["say"] = new; changed = True
+    if changed: print(it["id"], "voice now opens each step with First / Next / Finally and its label")
     return changed
 
 def build(m, prompt, it):
