@@ -516,7 +516,9 @@
     "yt_status": "UPLOADED_PUBLIC",
     "tt_route": "direct",
     "tt_note": "Nov 4 one-post TikTok test (Krishna): own TikTok app, private (SELF_ONLY), voice + music",
-    "tt_resend": true
+    "tt_publish_id": "v_pub_file~v2-1.7704195957248608277",
+    "tt_status": "PUBLISH_COMPLETE",
+    "tt_resent_at": "2026-11-04T06:17+00:00"
   },
   {
     "id": "d20261103-f2",
