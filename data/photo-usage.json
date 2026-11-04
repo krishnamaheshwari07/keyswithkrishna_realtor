@@ -1,10 +1,14 @@
 {
- "note": "Real photos of Krishna already used (never reuse). Filled automatically by scripts/voiceover.py for Reels; the daily batch adds feed posts, carousels and Stories.",
- "used": {
-  "p001.jpg": "d20261103-r5",
-  "p002.jpg": "d20261103-r1",
-  "p003.jpg": "d20261103-r2",
-  "p004.jpg": "d20261103-r3",
-  "p005.jpg": "d20261103-r4"
- }
+  "note": "Real photos of Krishna already used (never reuse). Filled automatically by scripts/voiceover.py for Reels; the daily batch adds feed posts, carousels and Stories.",
+  "used": {
+    "p001.jpg": "d20261103-r5",
+    "p002.jpg": "d20261103-r1",
+    "p003.jpg": "d20261103-r2",
+    "p004.jpg": "d20261103-r3",
+    "p005.jpg": "d20261103-r4",
+    "p006.jpg": "d20261104-f1",
+    "p007.jpg": "d20261104-f2",
+    "p008.jpg": "d20261104-s1",
+    "p009.jpg": "d20261104-s2"
+  }
 }
