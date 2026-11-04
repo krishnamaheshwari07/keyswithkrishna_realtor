@@ -70,7 +70,8 @@ def caption_for_tiktok(cap):
 def post_video(item):
     direct = item.get("tt_route") == "direct"   # Oct 28 test: own app, private post, to see if TikTok keeps the cloned voice
     tok = access_token()
-    with urllib.request.urlopen(item["media_url"], timeout=180) as r:
+    src_url = item.get("tt_media_url") if item.get("tt_nomusic") and item.get("tt_media_url") else item["media_url"]   # voice-only TikTok copy on request
+    with urllib.request.urlopen(src_url, timeout=180) as r:
         video = r.read()
         want = int(r.headers.get("Content-Length") or len(video))
     n = len(video)
