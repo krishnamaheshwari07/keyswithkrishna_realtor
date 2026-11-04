@@ -426,7 +426,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -556,7 +556,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": false,
+    "vo_pending": true,
     "motion": {
       "theme": "dark",
       "tag": "REAL ESTATE NEWS",

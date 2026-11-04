@@ -7,10 +7,11 @@ import os, sys, glob, json, subprocess, hashlib, time, shutil
 from datetime import datetime, timezone, timedelta
 RAW = "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/"
 W = "/tmp/vo"; os.makedirs(W, exist_ok=True)
-LEAD, TAIL = 0.12, 0.22   # tight cuts (Krishna, Oct 24: Reels felt slow)
-TEMPO = 1.12              # pitch-preserving speed-up of the voice
-MIN_FRAME = 2.2
-READ_FACTOR = 0.65        # slide stays up for 65% of its reading time "min" unless the voice needs longer (Oct 24: avoid silent gaps)
+SPEED = 1.1               # Krishna, Nov 3: every Reel plays 1.1x faster (voice and screen times; animations keep their natural motion)
+LEAD, TAIL = 0.12 / SPEED, 0.22 / SPEED   # tight cuts (Krishna, Oct 24: Reels felt slow)
+TEMPO = 1.12 * SPEED      # pitch-preserving speed-up of the voice
+MIN_FRAME = 2.2 / SPEED
+READ_FACTOR = 0.65 / SPEED  # slide stays up for 65% of its reading time "min" (then sped up) unless the voice needs longer (Oct 24: avoid silent gaps)
 DISCLOSE = "Voiceover: AI-generated in Krishna's own voice."
 STAGED = {}   # repo path -> generated file in /tmp (copied in after the git reset in save())
 def sh(*a): subprocess.run(list(a), check=True)

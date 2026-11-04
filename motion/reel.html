@@ -129,6 +129,17 @@ body.light .st.now .c{background:var(--gold);border-color:var(--teal);color:var(
 body.light .st .bar{background:#cfdcdd}
 body.light .st .arw{color:#04566b;filter:none}
 .trkon .pt{top:470px}
+.vtrk{position:absolute;left:80px;right:60px;top:236px;display:flex;flex-direction:column;gap:20px}
+.vr{position:relative;display:flex;align-items:center;gap:26px}
+.vr .c{flex:none;width:78px;height:78px;border-radius:50%;background:var(--gold);color:var(--navy);font-weight:900;font-size:44px;display:flex;align-items:center;justify-content:center;position:relative;z-index:1}
+.vr:not(:last-child)::after{content:"";position:absolute;left:36px;top:70px;width:6px;height:36px;background:var(--gold)}
+.vr span{font-weight:800;font-size:var(--vfs,60px);line-height:1.05;color:#fff;white-space:nowrap}
+body.light .vr span{color:var(--teal)}
+.ctatrk .cta{top:var(--ct,760px);font-size:var(--cfs,92px)}
+.ctatrk .phone{top:var(--ph,1000px)}
+.ctatrk .fine{top:calc(var(--ph,1000px) + 170px)}
+.ctatrk .headcard{width:400px;height:500px;bottom:250px}
+.ctatrk .wedge{height:560px}
 </style></head><body>
 <div id="bg"><div class="blob" id="b1"></div><div class="blob" id="b2"></div></div>
 <div id="prog"></div>
@@ -147,6 +158,14 @@ const words = (txt, base, step) => txt.split(/\s+/).map((w, i) => {
   const hl = w.startsWith("*"); w = w.replace(/\*/g, "");
   return `<span class="w${hl ? " hl" : ""}" data-anim="wordUp:${(base + i * step).toFixed(2)}:0.38">${w}</span>`; }).join(" ");
 const root = document.getElementById("scenes");
+const shortLabel = x => x.short || `Step ${x.n}`;   // batch writes a 2-3 word "short" label per step
+// step tracker row (Krishna, Nov 3). cur > of = the CTA recap: every step ticked and labelled, ticks pop in one by one (his wife's idea)
+const tracker = (cur, of, dur) => { const pts = S.scenes.filter(x => x.kind === "point"), recap = cur > of;
+  return `<div class="trk" style="--of:${of}">${Array.from({ length: of }, (_, i) => { const n = i + 1, d = pts.find(x => x.n === n) || { n }, st = n < cur ? "done" : n === cur ? "now" : "next", fresh = n === cur - 1;
+    const bar = n > 1 ? `<div class="bar"><i style="width:${n <= cur ? 100 : 0}%"${n === cur ? ` data-anim="wipeL:0.0:0.35"` : recap ? ` data-anim="wipeL:${(0.15 * n - 0.1).toFixed(2)}:0.2"` : ""}></i></div>` : "";
+    const pop = recap ? ` data-anim="popIn:${(0.15 * n).toFixed(2)}:0.35"` : fresh || st === "now" ? ` data-anim="popIn:${st === "now" ? 0.25 : 0.0}:0.4"` : "";
+    const lab = recap ? ` data-anim="fadeUp:${(0.15 * n + 0.1).toFixed(2)}:0.3"` : fresh ? ` data-anim="fadeUp:0.1:0.35"` : "";
+    return `<div class="st ${st}"><div class="cw">${bar}<div class="c"${pop}>${st === "done" ? "✓" : n}</div></div>${st === "done" ? `<div class="l"${lab}>${shortLabel(d)}</div>` : st === "now" ? `<div class="arw" data-anim="blinkDown:0.3:${Math.max(1, dur - 0.3).toFixed(2)}"><svg viewBox="0 0 60 44"><path d="M6 8 L30 34 L54 8" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg></div>` : ""}</div>`; }).join("")}</div>`; };
 S.scenes.forEach((sc, k) => {
   const el = document.createElement("div"); el.className = "scene"; el.dataset.k = k; let h = "";
   if (sc.kind === "hook") {   // Oct 26 hook redesign: short line on screen instantly, big moving visual, curiosity tease, no headshot
@@ -183,17 +202,18 @@ S.scenes.forEach((sc, k) => {
       <div class="propbox" style="top:1010px" data-anim="fadeUp:0.2:0.4"><div style="transform:scale(.6);transform-origin:center top">${PROPS.piggy()}</div></div>`;
   } else if (sc.kind === "point") {
     const done = S.scenes.filter(x => x.kind === "point" && x.n < sc.n), last = done.length - 1;
-    const short = x => x.short || `Step ${x.n}`;   // batch writes a 2-3 word "short" label per step
-    const trk = `<div class="trk" style="--of:${sc.of}">${Array.from({ length: sc.of }, (_, i) => { const n = i + 1, d = done.find(x => x.n === n), st = n < sc.n ? "done" : n === sc.n ? "now" : "next", fresh = n === sc.n - 1;
-      const bar = n > 1 ? `<div class="bar"><i style="width:${n <= sc.n ? 100 : 0}%"${n === sc.n ? ` data-anim="wipeL:0.0:0.35"` : ""}></i></div>` : "";
-      return `<div class="st ${st}"><div class="cw">${bar}<div class="c"${fresh || st === "now" ? ` data-anim="popIn:${st === "now" ? 0.25 : 0.0}:0.4"` : ""}>${st === "done" ? "✓" : n}</div></div>${st === "done" ? `<div class="l"${fresh ? ` data-anim="fadeUp:0.1:0.35"` : ""}>${short(d)}</div>` : st === "now" ? `<div class="arw" data-anim="blinkDown:0.3:${Math.max(1, D[k] - 0.3).toFixed(2)}"><svg viewBox="0 0 60 44"><path d="M6 8 L30 34 L54 8" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg></div>` : ""}</div>`; }).join("")}</div>`;
+    const trk = tracker(sc.n, sc.of, D[k]);
     const one = (+sc.of || 1) < 2; if (!one) el.classList.add("trkon");   // a single-tip Reel keeps the simple badge
     h = `<div class="area" data-anim="fadeUp:0.0:0.3">${S.area}</div>
       ${one ? `<div class="badge"><div class="num" data-anim="popIn:0.05:0.4">✓</div><div class="of" data-anim="fadeUp:0.15:0.35">QUICK TIP</div></div>` : trk}
       <div class="pt">${words(sc.text, 0.12, 0.05)}</div>${sc.note ? `<div class="note" data-anim="fadeUp:0.5:0.4">${sc.note}</div>` : ""}
       <div class="propbox">${(PROPS[sc.prop] || PROPS.house)()}</div>`;
   } else {
-    h = `<div class="wedge" data-anim="wipeIn:0.1:0.5"></div>${S.photo ? `<div class="headcard" data-anim="headIn:0.2:0.6"><img src="../posts/assets/krishna/photos/${S.photo}"></div>` : `<div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>`}
+    const pts = S.scenes.filter(x => x.kind === "point"), nof = +(pts[0] || {}).of || 0;
+    // CTA recap (Krishna + his wife, Nov 3): every step in one vertical list with big labels, ticks popping in one by one
+    const rec = nof >= 2 && pts.length === nof ? `<div class="vtrk">${pts.map((x, i) => `<div class="vr"><div class="c" data-anim="popIn:${(0.12 + 0.18 * i).toFixed(2)}:0.35">✓</div><span data-anim="fadeUp:${(0.18 + 0.18 * i).toFixed(2)}:0.3">${shortLabel(x)}</span></div>`).join("")}</div>` : "";
+    if (rec) el.classList.add("ctatrk");
+    h = `${rec}<div class="wedge" data-anim="wipeIn:0.1:0.5"></div>${S.photo ? `<div class="headcard" data-anim="headIn:0.2:0.6"><img src="../posts/assets/krishna/photos/${S.photo}"></div>` : `<div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>`}
       <div class="cta">${words(sc.text, 0.1, 0.07)}</div>
       <div class="phone" data-anim="pulse:0.6:${Math.max(1, D[k] - 0.6).toFixed(2)}">905-452-4298</div>
       <div class="fine" data-anim="fadeUp:0.8:0.4">${sc.fine || ""}</div>`;
@@ -222,6 +242,12 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
     const need = pt.offsetTop + pt.offsetHeight + 24, inn = sc.querySelector(".inner"); if (need > 850) inn.style.setProperty("--nt", need + "px");
     const below = Math.max(need, 850) + nt.offsetHeight + 20; if (below > 900) { inn.style.setProperty("--pbt", below + "px"); inn.style.setProperty("--pbs", Math.max(.7, (1660 - below) / 760).toFixed(3)); }   // picture moves down (and shrinks) so it never covers the source line
     sc.style.cssText = prev; });
+  document.querySelectorAll(".ctatrk").forEach(sc => {   // CTA recap: big step labels, then the save line, then the phone pill above the photo card
+    const v = sc.querySelector(".vtrk"), c = sc.querySelector(".cta"), inn = sc.querySelector(".inner"), prev = sc.style.cssText; sc.style.cssText = "display:block";
+    let vf = 60; while (vf > 38 && v.scrollWidth > v.clientWidth + 2) { vf -= 2; inn.style.setProperty("--vfs", vf + "px"); }
+    const ct = v.offsetTop + v.offsetHeight + 44; inn.style.setProperty("--ct", ct + "px");
+    let f = 92; while (f > 60 && ct + c.offsetHeight > 1020) { f -= 4; inn.style.setProperty("--cfs", f + "px"); }
+    inn.style.setProperty("--ph", (ct + c.offsetHeight + 30) + "px"); sc.style.cssText = prev; });
   const ph = document.getElementById("pinhook");   // YouTube copy: biggest pinned hook that fits between the brand bar and the shrunken step
   if (S.pin) { ph.style.display = "block"; let f = 120; ph.style.setProperty("--pfs", f + "px");
     while ((ph.offsetHeight > 420 || ph.scrollWidth > ph.clientWidth + 2) && f > 56) { f -= 4; ph.style.setProperty("--pfs", f + "px"); } }
