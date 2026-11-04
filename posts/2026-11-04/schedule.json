@@ -315,7 +315,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "failed",
     "publish_at": "2026-11-04T17:30:00-05:00",
     "caption": "Etobicoke: why's this home still listed?\n\nOne quick tip before you offer: ask your Realtor for the home's listing history, including price changes, days on market and any past listings. It shows how the market has already responded to the home.\n\nTouring homes in Etobicoke and want help with the details? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not financial advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #torontorealestate #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-vo11.mp4",
@@ -380,7 +380,9 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-tt17.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-yt63.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-yt63.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "error": "container error"
   },
   {
     "id": "d20261104-s2",
