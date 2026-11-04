@@ -1,688 +1,773 @@
 [
- {
-  "id": "d20261104-r1",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T11:30:00-05:00",
-  "caption": "Mississauga condo? Surprise bill coming?\n\nBuying a resale condo in Mississauga? 1) Ask the condo corporation for the status certificate; anyone can request it. 2) The corporation can charge up to $100 including tax and must provide it within 10 days. 3) Read the budget, the statement on the reserve fund and any special assessments charged to the unit. 4) Look for unpaid fees on the unit and any outstanding judgments or ongoing lawsuits against the corporation. 5) Have your lawyer review it before your condition date.\n\nSource: Condo Authority of Ontario, status certificates page (read Nov 4, 2026).\n\nBuying in Mississauga? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #condobuyer #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f01.png",
-    "say": "Mississauga condo. Is a surprise bill coming?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f02.png",
-    "say": "Step one: ask for it. Anyone can request the certificate.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f03.png",
-    "say": "Step two: fee and deadline. Up to one hundred dollars, tax included, delivered within ten days.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f04.png",
-    "say": "Step three: check the money. Budget, reserve fund, special assessments.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f05.png",
-    "say": "Step four: arrears and lawsuits. Now the twist. Check for unpaid fees and legal action.",
-    "min": 6
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f06.png",
-    "say": "Last step: lawyer reviews. Do it before your condition date.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r1-frames/f07.png",
-    "say": "Save this for your next condo offer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Mississauga condo? *Surprise *bill coming?",
-     "kick": "SPECIAL ASSESSMENT",
-     "prop": "clipboard"
+  {
+    "id": "d20261104-r1",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T11:30:00-05:00",
+    "caption": "Mississauga condo? Surprise bill coming?\n\nBuying a resale condo in Mississauga? 1) Ask the condo corporation for the status certificate; anyone can request it. 2) The corporation can charge up to $100 including tax and must provide it within 10 days. 3) Read the budget, the statement on the reserve fund and any special assessments charged to the unit. 4) Look for unpaid fees on the unit and any outstanding judgments or ongoing lawsuits against the corporation. 5) Have your lawyer review it before your condition date.\n\nSource: Condo Authority of Ontario, status certificates page (read Nov 4, 2026).\n\nBuying in Mississauga? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #condobuyer #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r1-vo95260.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f01.png",
+        "say": "Mississauga condo. Is a surprise bill coming?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f02.png",
+        "say": "Step one: ask for it. Anyone can request the certificate.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f03.png",
+        "say": "Step two: fee and deadline. Up to one hundred dollars, tax included, delivered within ten days.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f04.png",
+        "say": "Step three: check the money. Budget, reserve fund, special assessments.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f05.png",
+        "say": "Step four: arrears and lawsuits. Now the twist. Check for unpaid fees and legal action.",
+        "min": 6
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f06.png",
+        "say": "Last step: lawyer reviews it. lawyer reviews. Do it before your condition date.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r1-frames/f07.png",
+        "say": "Save this for your next condo offer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Mississauga condo? *Surprise *bill coming?",
+          "kick": "SPECIAL ASSESSMENT",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Ask the condo corporation for the status certificate. Anyone can request it.",
+          "short": "Ask for it"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "calendar",
+          "text": "The fee is capped at $100 with tax, and it's due within 10 days.",
+          "short": "Fee and deadline",
+          "note": "Source: Condo Authority of Ontario, status certificates page."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "piggy",
+          "text": "Read the budget, the reserve fund statement and any special assessments.",
+          "short": "Check the money",
+          "note": "Source: Condo Authority of Ontario."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "search",
+          "text": "Now the twist. Look for unpaid fees on the unit and any lawsuits against the corporation.",
+          "short": "Arrears and lawsuits"
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "lawyer",
+          "text": "Have your lawyer review it before your condition date.",
+          "short": "Lawyer reviews it"
+        },
+        {
+          "kind": "cta",
+          "text": "Save this for your next *condo offer",
+          "fine": "General information only, not legal advice. Source: Condo Authority of Ontario."
+        }
+      ],
+      "photo": "p010.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 5,
-     "prop": "clipboard",
-     "text": "Ask the condo corporation for the status certificate. Anyone can request it.",
-     "short": "Ask for it"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 5,
-     "prop": "calendar",
-     "text": "The fee is capped at $100 with tax, and it's due within 10 days.",
-     "short": "Fee and deadline",
-     "note": "Source: Condo Authority of Ontario, status certificates page."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 5,
-     "prop": "piggy",
-     "text": "Read the budget, the reserve fund statement and any special assessments.",
-     "short": "Check the money",
-     "note": "Source: Condo Authority of Ontario."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 5,
-     "prop": "search",
-     "text": "Now the twist. Look for unpaid fees on the unit and any lawsuits against the corporation.",
-     "short": "Arrears and lawsuits"
-    },
-    {
-     "kind": "point",
-     "n": 5,
-     "of": 5,
-     "prop": "lawyer",
-     "text": "Have your lawyer review it before your condition date.",
-     "short": "Lawyer reviews it"
-    },
-    {
-     "kind": "cta",
-     "text": "Save this for your next *condo offer",
-     "fine": "General information only, not legal advice. Source: Condo Authority of Ontario."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "fear of a costly surprise avoided",
+    "share_reason": "a friend buying a condo",
+    "format": "step-by-step",
+    "hook_pattern": "4 direct address / cost of a mistake (no figure)",
+    "audience": "buyer",
+    "buying_process": true,
+    "vo_status": "done",
+    "vo_seconds": 26.1,
+    "vo_frame_seconds": [
+      2.0,
+      2.97,
+      4.6,
+      3.81,
+      4.45,
+      3.96,
+      4.36
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r1-tt95276.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r1-yt95389.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "fear of a costly surprise avoided",
-  "share_reason": "a friend buying a condo",
-  "format": "step-by-step",
-  "hook_pattern": "4 direct address / cost of a mistake (no figure)",
-  "audience": "buyer",
-  "buying_process": true
- },
- {
-  "id": "d20261104-s1",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T12:30:00-05:00",
-  "caption": "Condo buyer: what's hiding in the status certificate?\n\nIt may show special assessments, unpaid fees on the unit and lawsuits against the condo corporation. Watch my new Reel for the steps.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Source: Condo Authority of Ontario.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#condobuyer #homebuyingtips #keyswithkrishna",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "photo": "p008.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address / tease",
-  "audience": "buyer",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-s1.mp4"
- },
- {
-  "id": "d20261104-r2",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T15:00:00-05:00",
-  "caption": "Oakville sellers: strangers may open drawers.\n\nBefore showings in Oakville: 1) Lock up jewellery, cash and valuables, not just out of sight. 2) Take prescription medication out of bathrooms and bedside tables. 3) Put away bills, bank statements and anything with your personal details. 4) Take spare keys, garage remotes and your laptop with you. 5) Ask your Realtor how showings are booked and who has access.\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeselling #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f01.png",
-    "say": "Oakville sellers. Strangers may open your drawers.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f02.png",
-    "say": "Step one: valuables. Lock up jewellery and cash, not just out of sight.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f03.png",
-    "say": "Step two: medication. Take prescriptions out of bathrooms and bedside tables.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f04.png",
-    "say": "Step three: personal papers. Put away bills, statements and anything with your details.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f05.png",
-    "say": "Step four: keys and laptop. Now the twist. Take spare keys, remotes and your laptop with you.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f06.png",
-    "say": "Last step: ask your Realtor. Ask how showings are booked and who gets access.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r2-frames/f07.png",
-    "say": "Send this to a friend about to list their home. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "SELLER TIPS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Oakville sellers: strangers may *open drawers.",
-     "kick": "LOCK THESE UP",
-     "prop": "shield"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 5,
-     "prop": "shield",
-     "text": "Lock up jewellery, cash and valuables, not just out of sight.",
-     "short": "Valuables"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 5,
-     "prop": "clipboard",
-     "text": "Take prescription medication out of bathrooms and bedside tables.",
-     "short": "Medication"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 5,
-     "prop": "search",
-     "text": "Put away bills, bank statements and anything with your personal details.",
-     "short": "Personal papers"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 5,
-     "prop": "keys",
-     "text": "Now the twist. Take spare keys, garage remotes and your laptop with you.",
-     "short": "Keys and laptop"
-    },
-    {
-     "kind": "point",
-     "n": 5,
-     "of": 5,
-     "prop": "calendar",
-     "text": "Ask your Realtor how showings are booked and who has access.",
-     "short": "Ask your Realtor"
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to a friend about to *list their home",
-     "fine": "General information only, not legal advice."
-    }
-   ]
+  {
+    "id": "d20261104-s1",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T12:30:00-05:00",
+    "caption": "Condo buyer: what's hiding in the status certificate?\n\nIt may show special assessments, unpaid fees on the unit and lawsuits against the condo corporation. Watch my new Reel for the steps.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Source: Condo Authority of Ontario.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#condobuyer #homebuyingtips #keyswithkrishna",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "photo": "p008.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address / tease",
+    "audience": "buyer",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-s1.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "protective relief",
-  "share_reason": "a friend about to list their home",
-  "format": "seller-tips",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "seller"
- },
- {
-  "id": "d20261104-f1",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T16:30:00-05:00",
-  "caption": "Buying in Peel? Check what's being built next door.\n\nBefore you offer, look beyond the home. 1) Search your city's website for development applications near the property. 2) Ask your Realtor what's planned nearby: roads, towers, schools or transit. 3) A quiet street today may look different in a few years.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Plans can change.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #realestateontario #keyswithkrishna",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "photo": "p006.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f1.png"
- },
- {
-  "id": "d20261104-r3",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T17:30:00-05:00",
-  "caption": "Etobicoke: why's this home still listed?\n\nOne quick tip before you offer: ask your Realtor for the home's listing history, including price changes, days on market and any past listings. It shows how the market has already responded to the home.\n\nTouring homes in Etobicoke and want help with the details? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not financial advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #torontorealestate #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r3-frames/f01.png",
-    "say": "Etobicoke buyer. Why is this home still listed?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r3-frames/f02.png",
-    "say": "Ask your Realtor for the listing history: price changes, days on market and any past listings.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r3-frames/f03.png",
-    "say": "Send this to a friend touring homes. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYER TIPS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke: why's this home *still listed?",
-     "kick": "ASK FIRST",
-     "prop": "chart"
+  {
+    "id": "d20261104-r2",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T15:00:00-05:00",
+    "caption": "Oakville sellers: strangers may open drawers.\n\nBefore showings in Oakville: 1) Lock up jewellery, cash and valuables, not just out of sight. 2) Take prescription medication out of bathrooms and bedside tables. 3) Put away bills, bank statements and anything with your personal details. 4) Take spare keys, garage remotes and your laptop with you. 5) Ask your Realtor how showings are booked and who has access.\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeselling #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r2-vo95902.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f01.png",
+        "say": "Oakville sellers. Strangers may open your drawers.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f02.png",
+        "say": "Step one: valuables. Lock up jewellery and cash, not just out of sight.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f03.png",
+        "say": "Step two: medication. Take prescriptions out of bathrooms and bedside tables.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f04.png",
+        "say": "Step three: personal papers. Put away bills, statements and anything with your details.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f05.png",
+        "say": "Step four: keys and laptop. Now the twist. Take spare keys, remotes and your laptop with you.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f06.png",
+        "say": "Last step: ask your Realtor. Ask how showings are booked and who gets access.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r2-frames/f07.png",
+        "say": "Send this to a friend about to list their home. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "SELLER TIPS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Oakville sellers: strangers may *open drawers.",
+          "kick": "LOCK THESE UP",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "shield",
+          "text": "Lock up jewellery, cash and valuables, not just out of sight.",
+          "short": "Valuables"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Take prescription medication out of bathrooms and bedside tables.",
+          "short": "Medication"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "search",
+          "text": "Put away bills, bank statements and anything with your personal details.",
+          "short": "Personal papers"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "keys",
+          "text": "Now the twist. Take spare keys, garage remotes and your laptop with you.",
+          "short": "Keys and laptop"
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "calendar",
+          "text": "Ask your Realtor how showings are booked and who has access.",
+          "short": "Ask your Realtor"
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend about to *list their home",
+          "fine": "General information only, not legal advice."
+        }
+      ],
+      "photo": "p011.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "chart",
-     "text": "Ask your Realtor for the listing history: price changes, days on market and past listings."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to a friend *touring homes",
-     "fine": "General information only."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "protective relief",
+    "share_reason": "a friend about to list their home",
+    "format": "seller-tips",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "seller",
+    "vo_status": "done",
+    "vo_seconds": 28.4,
+    "vo_frame_seconds": [
+      2.38,
+      4.27,
+      4.16,
+      4.29,
+      4.93,
+      3.92,
+      4.44
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r2-tt95918.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r2-yt96044.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "curiosity",
-  "share_reason": "a friend touring homes",
-  "format": "quick-tip",
-  "hook_pattern": "10 call-out / tease",
-  "audience": "buyer",
-  "trial": true
- },
- {
-  "id": "d20261104-s2",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T19:00:00-05:00",
-  "caption": "Buying new? Is your deposit protected?\n\nTarion's deposit protection has limits, and payments made before signing aren't covered. Watch my new Reel at 8 pm for the steps.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Source: Tarion.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#newbuild #tarion #homebuyingtips #keyswithkrishna",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "photo": "p009.jpg",
-  "format": "educational",
-  "hook_pattern": "2 cost of a mistake / tease",
-  "audience": "buyer",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-s2.mp4"
- },
- {
-  "id": "d20261104-r4",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T20:00:00-05:00",
-  "caption": "Brampton new build? Is your deposit safe?\n\nDeposit protection on new Ontario homes has limits. 1) Freehold, price $600,000 or less: Tarion deposit coverage is up to $60,000. 2) Over $600,000: 10% of the price, up to a maximum of $100,000. 3) Register your purchase agreement with Tarion; Tarion says purchasers who register within 45 days qualify for the maximum coverage. 4) Reservation or hold payments made before signing are not covered. 5) Condo deposits must be held in trust; if they were not, Tarion covers up to $20,000.\n\nSource: Tarion, deposit protection pages (read Nov 4, 2026).\n\nBuying a new build in Brampton? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice. Tarion has announced changes to freehold deposit coverage, deferred to January 1, 2027; confirm current rules with Tarion and your lawyer.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuild #tarion #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f01.png",
-    "say": "Brampton new build. Is your deposit really safe?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f02.png",
-    "say": "Step one: know the cap. Tarion covers up to sixty thousand dollars on freehold homes at six hundred thousand or less.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f03.png",
-    "say": "Step two: over six hundred thousand. It's ten percent of the price, up to one hundred thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f04.png",
-    "say": "Step three: register it. Register with Tarion within forty-five days of signing.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f05.png",
-    "say": "Step four: the gap. Now the twist. Payments before signing, like reservation or hold payments, aren't covered.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f06.png",
-    "say": "Last step: condo deposits. They must be held in trust. If not, Tarion covers up to twenty thousand dollars.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r4-frames/f07.png",
-    "say": "Send this to someone buying a new build. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton new build. *Deposit *safe?",
-     "kick": "HAS LIMITS",
-     "prop": "cheque"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 5,
-     "prop": "shield",
-     "text": "Tarion covers up to $60,000 on freehold homes priced $600,000 or less.",
-     "short": "Know the cap",
-     "note": "Source: Tarion deposit protection pages, Nov 4, 2026."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 5,
-     "prop": "calculator",
-     "text": "Over $600,000, it's 10% of the price, up to $100,000.",
-     "short": "Over $600,000",
-     "note": "Source: Tarion deposit protection pages, Nov 4, 2026."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 5,
-     "prop": "clipboard",
-     "text": "Register your purchase agreement with Tarion within 45 days of signing.",
-     "short": "Register it",
-     "note": "Source: Tarion, Nov 4, 2026. Rules may change."
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 5,
-     "prop": "cheque",
-     "text": "Now the twist. Reservation or hold payments before signing aren't covered.",
-     "short": "The gap",
-     "note": "Source: Tarion deposit protection pages."
-    },
-    {
-     "kind": "point",
-     "n": 5,
-     "of": 5,
-     "prop": "lawyer",
-     "text": "Condo deposits go in trust. If not, Tarion covers up to $20,000.",
-     "short": "Condo deposits",
-     "note": "Source: Tarion deposit protection pages."
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to someone *buying a new build",
-     "fine": "General information only, not legal advice. Source: Tarion. Confirm current rules with Tarion."
-    }
-   ]
+  {
+    "id": "d20261104-f1",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T16:30:00-05:00",
+    "caption": "Buying in Peel? Check what's being built next door.\n\nBefore you offer, look beyond the home. 1) Search your city's website for development applications near the property. 2) Ask your Realtor what's planned nearby: roads, towers, schools or transit. 3) A quiet street today may look different in a few years.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Plans can change.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #realestateontario #keyswithkrishna",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "photo": "p006.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f1.png"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "fear of a costly mistake avoided",
-  "share_reason": "someone buying a new build",
-  "format": "step-by-step",
-  "hook_pattern": "2 cost of a mistake / tease (no figure)",
-  "audience": "buyer",
-  "buying_process": true
- },
- {
-  "id": "d20261104-r5",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T21:00:00-05:00",
-  "caption": "Kitchener inspection passed? Not everything's checked.\n\nBefore your inspection condition ends: 1) Read the limitations section; most reports list what couldn't be inspected. 2) Ask which areas were locked or blocked, like attics or crawl spaces. 3) For an older home, ask whether a qualified tradesperson should check the wiring, plumbing or sewer line. 4) Your insurer may ask about the age of the wiring, plumbing and heating. 5) Get your answers before the condition date, not after.\n\nBuying in Kitchener and want help with the details? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homeinspection #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f01.png",
-    "say": "Kitchener inspection passed? Not everything gets checked.",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f02.png",
-    "say": "Step one: read the limits. Most reports list what couldn't be inspected. Start there.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f03.png",
-    "say": "Step two: blocked areas. Ask which spots were locked or blocked, like attics or crawl spaces.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f04.png",
-    "say": "Step three: older home. Ask whether a qualified tradesperson should check wiring, plumbing or the sewer line.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f05.png",
-    "say": "Step four: insurance. Now the twist. Your insurer may ask about wiring, plumbing and heating age.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f06.png",
-    "say": "Last step: timing. Get your answers before your inspection condition date, not after.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r5-frames/f07.png",
-    "say": "Send this to a friend about to book an inspection. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYER TIPS",
-   "area": "KITCHENER",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Kitchener inspection passed? *Not *everything's checked.",
-     "kick": "READ THE LIMITS",
-     "prop": "search"
+  {
+    "id": "d20261104-r3",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T17:30:00-05:00",
+    "caption": "Etobicoke: why's this home still listed?\n\nOne quick tip before you offer: ask your Realtor for the home's listing history, including price changes, days on market and any past listings. It shows how the market has already responded to the home.\n\nTouring homes in Etobicoke and want help with the details? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not financial advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #torontorealestate #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-vo96233.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r3-frames/f01.png",
+        "say": "Etobicoke buyer. Why is this home still listed?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r3-frames/f02.png",
+        "say": "Ask your Realtor for the listing history: price changes, days on market and any past listings.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r3-frames/f03.png",
+        "say": "Send this to a friend touring homes. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYER TIPS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke: why's this home *still listed?",
+          "kick": "ASK FIRST",
+          "prop": "chart"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "chart",
+          "text": "Ask your Realtor for the listing history: price changes, days on market and past listings."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend *touring homes",
+          "fine": "General information only."
+        }
+      ],
+      "photo": "p012.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 5,
-     "prop": "clipboard",
-     "text": "Most inspection reports list what couldn't be inspected. Read that part first.",
-     "short": "Read the limits"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 5,
-     "prop": "search",
-     "text": "Ask which areas were locked or blocked, like attics or crawl spaces.",
-     "short": "Blocked areas"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 5,
-     "prop": "clipboard",
-     "text": "Ask if a qualified tradesperson should check the wiring, plumbing or sewer line.",
-     "short": "Older home?"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 5,
-     "prop": "shield",
-     "text": "Now the twist. Your insurer may ask about wiring, plumbing and heating age.",
-     "short": "Insurance"
-    },
-    {
-     "kind": "point",
-     "n": 5,
-     "of": 5,
-     "prop": "calendar",
-     "text": "Get your answers before your inspection condition date, not after.",
-     "short": "Timing"
-    },
-    {
-     "kind": "cta",
-     "text": "Send this to a friend about to *book an inspection",
-     "fine": "General information only, not legal advice."
-    }
-   ]
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "curiosity",
+    "share_reason": "a friend touring homes",
+    "format": "quick-tip",
+    "hook_pattern": "10 call-out / tease",
+    "audience": "buyer",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 10.5,
+    "vo_frame_seconds": [
+      2.27,
+      4.35,
+      3.84
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-tt96239.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r3-yt96285.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "surprise",
-  "share_reason": "a friend about to book an inspection",
-  "format": "mistake-then-fix",
-  "hook_pattern": "1 contrarian / myth",
-  "audience": "buyer"
- },
- {
-  "id": "d20261104-f2",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T21:45:00-05:00",
-  "caption": "Georgetown buyer: cash short at closing?\n\nBefore your conditions end: 1) Ask your lawyer for a closing cost estimate. 2) Include legal fees, land transfer tax, title insurance and adjustments. 3) Know your cash needed before you commit.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
-  "hook_rule": "tension-v3",
-  "brand_corner": "headshot",
-  "photo": "p007.jpg",
-  "format": "educational",
-  "hook_pattern": "7 specific scene / tease",
-  "audience": "buyer",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f2.png"
- },
- {
-  "id": "d20261104-r6",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-04T22:30:00-05:00",
-  "caption": "Milton showing: what can you miss?\n\nPicture this: you have 10 minutes inside a Milton home. 1) Look up: check ceilings for stains, peeling paint and cracks near corners. 2) Open and close every door and window; sticking ones may point to moisture or movement. 3) Run the taps, flush the toilets and sniff for musty odours. 4) Take photos, then ask your Realtor to follow up on anything odd.\n\nTouring homes in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. A showing check does not replace a home inspection.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #homebuyingtips #housetour #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f01.png",
-    "say": "Picture this. Milton showing. What could you miss?",
-    "min": 2.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f02.png",
-    "say": "Step one: look up. Check ceilings for stains, peeling paint and cracks near corners.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f03.png",
-    "say": "Step two: doors and windows. Open and close them. Sticking ones may point to moisture or movement.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f04.png",
-    "say": "Step three: taps and smells. Run the taps, flush the toilets and sniff for musty odours.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f05.png",
-    "say": "Last step: photos. Now the twist. Take photos, then ask your Realtor to follow up on anything odd.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-04/d20261104-r6-frames/f06.png",
-    "say": "Save this for your next showing. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYER TIPS",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Milton showing: what can you *miss?",
-     "kick": "10-MINUTE CHECK",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "search",
-     "text": "Check ceilings for stains, peeling paint and cracks near corners.",
-     "short": "Look up"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "house",
-     "text": "Open and close every door and window. Sticking ones may point to moisture or movement.",
-     "short": "Doors and windows"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Run the taps, flush the toilets and sniff for musty odours.",
-     "short": "Taps and smells"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Now the twist. Take photos, then ask your Realtor to follow up on anything odd.",
-     "short": "Photos"
-    },
-    {
-     "kind": "cta",
-     "text": "Save this for your next *showing",
-     "fine": "General information only."
-    }
-   ]
+  {
+    "id": "d20261104-s2",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T19:00:00-05:00",
+    "caption": "Buying new? Is your deposit protected?\n\nTarion's deposit protection has limits, and payments made before signing aren't covered. Watch my new Reel at 8 pm for the steps.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice. Source: Tarion.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#newbuild #tarion #homebuyingtips #keyswithkrishna",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "photo": "p009.jpg",
+    "format": "educational",
+    "hook_pattern": "2 cost of a mistake / tease",
+    "audience": "buyer",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-s2.mp4"
   },
-  "hook_rule": "tension-v3",
-  "brand_corner": "logo",
-  "trigger": "relief",
-  "share_reason": "a friend about to tour homes",
-  "format": "picture-this",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261104-r4",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T20:00:00-05:00",
+    "caption": "Brampton new build? Is your deposit safe?\n\nDeposit protection on new Ontario homes has limits. 1) Freehold, price $600,000 or less: Tarion deposit coverage is up to $60,000. 2) Over $600,000: 10% of the price, up to a maximum of $100,000. 3) Register your purchase agreement with Tarion; Tarion says purchasers who register within 45 days qualify for the maximum coverage. 4) Reservation or hold payments made before signing are not covered. 5) Condo deposits must be held in trust; if they were not, Tarion covers up to $20,000.\n\nSource: Tarion, deposit protection pages (read Nov 4, 2026).\n\nBuying a new build in Brampton? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal, tax or mortgage advice. Tarion has announced changes to freehold deposit coverage, deferred to January 1, 2027; confirm current rules with Tarion and your lawyer.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuild #tarion #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r4-vo96842.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f01.png",
+        "say": "Brampton new build. Is your deposit really safe?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f02.png",
+        "say": "Step one: know the cap. Tarion covers up to sixty thousand dollars on freehold homes at six hundred thousand or less.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f03.png",
+        "say": "Step two: over $600,000. over six hundred thousand. It's ten percent of the price, up to one hundred thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f04.png",
+        "say": "Step three: register it. Register with Tarion within forty-five days of signing.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f05.png",
+        "say": "Step four: the gap. Now the twist. Payments before signing, like reservation or hold payments, aren't covered.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f06.png",
+        "say": "Last step: condo deposits. They must be held in trust. If not, Tarion covers up to twenty thousand dollars.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r4-frames/f07.png",
+        "say": "Send this to someone buying a new build. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton new build. *Deposit *safe?",
+          "kick": "HAS LIMITS",
+          "prop": "cheque"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "shield",
+          "text": "Tarion covers up to $60,000 on freehold homes priced $600,000 or less.",
+          "short": "Know the cap",
+          "note": "Source: Tarion deposit protection pages, Nov 4, 2026."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "calculator",
+          "text": "Over $600,000, it's 10% of the price, up to $100,000.",
+          "short": "Over $600,000",
+          "note": "Source: Tarion deposit protection pages, Nov 4, 2026."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Register your purchase agreement with Tarion within 45 days of signing.",
+          "short": "Register it",
+          "note": "Source: Tarion, Nov 4, 2026. Rules may change."
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "cheque",
+          "text": "Now the twist. Reservation or hold payments before signing aren't covered.",
+          "short": "The gap",
+          "note": "Source: Tarion deposit protection pages."
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "lawyer",
+          "text": "Condo deposits go in trust. If not, Tarion covers up to $20,000.",
+          "short": "Condo deposits",
+          "note": "Source: Tarion deposit protection pages."
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to someone *buying a new build",
+          "fine": "General information only, not legal advice. Source: Tarion. Confirm current rules with Tarion."
+        }
+      ],
+      "photo": "p013.jpg"
+    },
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "fear of a costly mistake avoided",
+    "share_reason": "someone buying a new build",
+    "format": "step-by-step",
+    "hook_pattern": "2 cost of a mistake / tease (no figure)",
+    "audience": "buyer",
+    "buying_process": true,
+    "vo_status": "done",
+    "vo_seconds": 31.8,
+    "vo_frame_seconds": [
+      2.87,
+      4.95,
+      5.19,
+      4.29,
+      5.06,
+      4.98,
+      4.46
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r4-tt96860.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r4-yt96999.mp4"
+  },
+  {
+    "id": "d20261104-r5",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T21:00:00-05:00",
+    "caption": "Kitchener inspection passed? Not everything's checked.\n\nBefore your inspection condition ends: 1) Read the limitations section; most reports list what couldn't be inspected. 2) Ask which areas were locked or blocked, like attics or crawl spaces. 3) For an older home, ask whether a specialist should check the wiring, plumbing or sewer line. 4) Your insurer may ask about the age of the wiring, plumbing and heating. 5) Get your answers before the condition date, not after.\n\nBuying in Kitchener and want help with the details? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homeinspection #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r5-vo97521.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f01.png",
+        "say": "Kitchener inspection passed? Not everything gets checked.",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f02.png",
+        "say": "Step one: read the limits. Most reports list what couldn't be inspected. Start there.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f03.png",
+        "say": "Step two: blocked areas. Ask which spots were locked or blocked, like attics or crawl spaces.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f04.png",
+        "say": "Step three: older home. Ask whether a qualified tradesperson should check wiring, plumbing or the sewer line.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f05.png",
+        "say": "Step four: insurance. Now the twist. Your insurer may ask about wiring, plumbing and heating age.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f06.png",
+        "say": "Last step: timing. Get your answers before your inspection condition date, not after.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r5-frames/f07.png",
+        "say": "Send this to a friend about to book an inspection. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYER TIPS",
+      "area": "KITCHENER",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Kitchener inspection passed? *Not *everything's checked.",
+          "kick": "READ THE LIMITS",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Most inspection reports list what couldn't be inspected. Read that part first.",
+          "short": "Read the limits"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 5,
+          "prop": "search",
+          "text": "Ask which areas were locked or blocked, like attics or crawl spaces.",
+          "short": "Blocked areas"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 5,
+          "prop": "clipboard",
+          "text": "Ask if a specialist should check the wiring, plumbing or sewer line.",
+          "short": "Older home?"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 5,
+          "prop": "shield",
+          "text": "Now the twist. Your insurer may ask about wiring, plumbing and heating age.",
+          "short": "Insurance"
+        },
+        {
+          "kind": "point",
+          "n": 5,
+          "of": 5,
+          "prop": "calendar",
+          "text": "Get your answers before your inspection condition date, not after.",
+          "short": "Timing"
+        },
+        {
+          "kind": "cta",
+          "text": "Send this to a friend about to *book an inspection",
+          "fine": "General information only, not legal advice."
+        }
+      ],
+      "photo": "p014.jpg"
+    },
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "surprise",
+    "share_reason": "a friend about to book an inspection",
+    "format": "mistake-then-fix",
+    "hook_pattern": "1 contrarian / myth",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 29.2,
+    "vo_frame_seconds": [
+      2.77,
+      4.56,
+      4.47,
+      4.6,
+      4.56,
+      4.02,
+      4.18
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r5-tt97539.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r5-yt97668.mp4"
+  },
+  {
+    "id": "d20261104-f2",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T21:45:00-05:00",
+    "caption": "Georgetown buyer: cash short at closing?\n\nBefore your conditions end: 1) Ask your lawyer for a closing cost estimate. 2) Include legal fees, land transfer tax, title insurance and adjustments. 3) Know your cash needed before you commit.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+    "hook_rule": "tension-v3",
+    "brand_corner": "headshot",
+    "photo": "p007.jpg",
+    "format": "educational",
+    "hook_pattern": "7 specific scene / tease",
+    "audience": "buyer",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f2.png"
+  },
+  {
+    "id": "d20261104-r6",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-04T22:30:00-05:00",
+    "caption": "Milton showing: what can you miss?\n\nPicture this: you have 10 minutes inside a Milton home. 1) Look up: check ceilings for stains, peeling paint and cracks near corners. 2) Open and close every door and window; sticking ones may point to moisture or movement. 3) Run the taps, flush the toilets and sniff for musty odours. 4) Take photos, then ask your Realtor to follow up on anything odd.\n\nTouring homes in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. A showing check does not replace a home inspection.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #homebuyingtips #housetour #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r6-vo98135.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f01.png",
+        "say": "Picture this. Milton showing. What could you miss?",
+        "min": 2.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f02.png",
+        "say": "Step one: look up. Check ceilings for stains, peeling paint and cracks near corners.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f03.png",
+        "say": "Step two: doors and windows. Open and close them. Sticking ones may point to moisture or movement.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f04.png",
+        "say": "Step three: taps and smells. Run the taps, flush the toilets and sniff for musty odours.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f05.png",
+        "say": "Last step: photos. Now the twist. Take photos, then ask your Realtor to follow up on anything odd.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-04/d20261104-r6-frames/f06.png",
+        "say": "Save this for your next showing. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYER TIPS",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Milton showing: what can you *miss?",
+          "kick": "10-MINUTE CHECK",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "search",
+          "text": "Check ceilings for stains, peeling paint and cracks near corners.",
+          "short": "Look up"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "house",
+          "text": "Open and close every door and window. Sticking ones may point to moisture or movement.",
+          "short": "Doors and windows"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Run the taps, flush the toilets and sniff for musty odours.",
+          "short": "Taps and smells"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Now the twist. Take photos, then ask your Realtor to follow up on anything odd.",
+          "short": "Photos"
+        },
+        {
+          "kind": "cta",
+          "text": "Save this for your next *showing",
+          "fine": "General information only."
+        }
+      ],
+      "photo": "p015.jpg"
+    },
+    "hook_rule": "tension-v3",
+    "brand_corner": "logo",
+    "trigger": "relief",
+    "share_reason": "a friend about to tour homes",
+    "format": "picture-this",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.0,
+    "vo_frame_seconds": [
+      2.42,
+      4.56,
+      4.48,
+      4.46,
+      4.57,
+      4.46
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r6-tt98149.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-r6-yt98265.mp4"
+  }
 ]
