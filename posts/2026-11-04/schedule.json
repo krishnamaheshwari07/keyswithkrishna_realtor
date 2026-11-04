@@ -296,7 +296,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-04T16:30:00-05:00",
     "caption": "Buying in Peel? Check what's being built next door.\n\nBefore you offer, look beyond the home. 1) Search your city's website for development applications near the property. 2) Ask your Realtor what's planned nearby: roads, towers, schools or transit. 3) A quiet street today may look different in a few years.\n\nBuying in Peel Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Plans can change.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #realestateontario #keyswithkrishna",
     "hook_rule": "tension-v3",
@@ -305,7 +305,10 @@
     "format": "educational",
     "hook_pattern": "4 direct address with a stake",
     "audience": "buyer",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f1.png"
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f1.png",
+    "ig_media_id": "18127251379878058",
+    "fb_id": "122124392019311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261104-r3",
