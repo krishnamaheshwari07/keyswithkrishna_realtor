@@ -145,7 +145,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-05T15:00:00-05:00",
     "caption": "Milton sellers: one surprise can sink a deal.\n\nBefore you list: 1) Consider a pre-listing inspection to see what a buyer's inspector may find. 2) Fix small, safe items first and keep the receipts. 3) Put known issues in writing; a known problem left unsaid can come back after closing. 4) Ask your Realtor\u00ae which repairs are worth doing before you list.\n\nSelling in Milton? Want a plan before you list? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #sellingyourhome #sellertips #keyswithkrishna",
     "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2-vo82133.mp4",
@@ -253,7 +253,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2-tt82148.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2-yt82259.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2-yt82259.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18119155286277823",
+    "fb_thumb": "set",
+    "fb_id": "952832174286706",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "fi_AEP3qCxI",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261105-f1",
