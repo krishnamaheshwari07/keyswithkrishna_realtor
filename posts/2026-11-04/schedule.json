@@ -684,7 +684,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-04T21:45:00-05:00",
     "caption": "Georgetown buyer: cash short at closing?\n\nBefore your conditions end: 1) Ask your lawyer for a closing cost estimate. 2) Include legal fees, land transfer tax, title insurance and adjustments. 3) Know your cash needed before you commit.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
     "hook_rule": "tension-v3",
@@ -693,7 +693,10 @@
     "format": "educational",
     "hook_pattern": "7 specific scene / tease",
     "audience": "buyer",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f2.png"
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-04/d20261104-f2.png",
+    "ig_media_id": "18120933086517111",
+    "fb_id": "122124414891311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261104-r6",
