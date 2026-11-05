@@ -110,7 +110,7 @@ svg g[data-anim]{transform-box:view-box}
 body.light .fine{color:#4a6a72}
 body.light .hl{color:#00784e}
 body.light .area{color:#04566b}
-/* step tracker (Krishna, Nov 3): a row of step circles across the top, in the one zone no app covers. Finished steps are gold, ticked and labelled; the current step is big; steps still to come are faint numbers */
+/* step tracker (Krishna, Nov 3; numbers kept on finished steps Nov 5): a row of step circles across the top, in the one zone no app covers. Finished steps are gold, numbered and labelled; the current step is big; steps still to come are faint numbers */
 .trk{position:absolute;left:10px;right:10px;top:238px;display:grid;grid-template-columns:repeat(var(--of),1fr)}
 .st{position:relative;display:flex;flex-direction:column;align-items:center;text-align:center}
 .st .cw{position:relative;height:100px;width:100%;display:flex;align-items:center;justify-content:center}
@@ -135,6 +135,11 @@ body.light .st .arw{color:#04566b;filter:none}
 .vr:not(:last-child)::after{content:"";position:absolute;left:36px;top:70px;width:6px;height:36px;background:var(--gold)}
 .vr span{font-weight:800;font-size:var(--vfs,60px);line-height:1.05;color:#fff;white-space:nowrap}
 body.light .vr span{color:var(--teal)}
+.eng{position:absolute;left:60px;top:1400px;display:flex;gap:26px}
+.eng .ic{display:flex;flex-direction:column;align-items:center;gap:8px;width:150px}
+.eng svg{width:120px;height:120px;filter:drop-shadow(0 6px 10px rgba(0,0,0,.35))}
+.eng b{font-weight:800;font-size:34px;color:#fff;letter-spacing:.02em}
+body.light .eng b{color:var(--teal)}
 .ctatrk .cta{top:var(--ct,760px);font-size:var(--cfs,92px)}
 .ctatrk .phone{top:var(--ph,1000px)}
 .ctatrk .fine{top:calc(var(--ph,1000px) + 170px)}
@@ -165,7 +170,7 @@ const tracker = (cur, of, dur) => { const pts = S.scenes.filter(x => x.kind === 
     const bar = n > 1 ? `<div class="bar"><i style="width:${n <= cur ? 100 : 0}%"${n === cur ? ` data-anim="wipeL:0.0:0.35"` : recap ? ` data-anim="wipeL:${(0.15 * n - 0.1).toFixed(2)}:0.2"` : ""}></i></div>` : "";
     const pop = recap ? ` data-anim="popIn:${(0.15 * n).toFixed(2)}:0.35"` : fresh || st === "now" ? ` data-anim="popIn:${st === "now" ? 0.25 : 0.0}:0.4"` : "";
     const lab = recap ? ` data-anim="fadeUp:${(0.15 * n + 0.1).toFixed(2)}:0.3"` : fresh ? ` data-anim="fadeUp:0.1:0.35"` : "";
-    return `<div class="st ${st}"><div class="cw">${bar}<div class="c"${pop}>${st === "done" ? "✓" : n}</div></div>${st === "done" ? `<div class="l"${lab}>${shortLabel(d)}</div>` : st === "now" ? `<div class="arw" data-anim="blinkDown:0.3:${Math.max(1, dur - 0.3).toFixed(2)}"><svg viewBox="0 0 60 44"><path d="M6 8 L30 34 L54 8" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg></div>` : ""}</div>`; }).join("")}</div>`; };
+    return `<div class="st ${st}"><div class="cw">${bar}<div class="c"${pop}>${n}</div></div>${st === "done" ? `<div class="l"${lab}>${shortLabel(d)}</div>` : st === "now" ? `<div class="arw" data-anim="blinkDown:0.3:${Math.max(1, dur - 0.3).toFixed(2)}"><svg viewBox="0 0 60 44"><path d="M6 8 L30 34 L54 8" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg></div>` : ""}</div>`; }).join("")}</div>`; };
 S.scenes.forEach((sc, k) => {
   const el = document.createElement("div"); el.className = "scene"; el.dataset.k = k; let h = "";
   if (sc.kind === "hook") {   // Oct 26 hook redesign: short line on screen instantly, big moving visual, curiosity tease, no headshot
@@ -211,11 +216,12 @@ S.scenes.forEach((sc, k) => {
   } else {
     const pts = S.scenes.filter(x => x.kind === "point"), nof = +(pts[0] || {}).of || 0;
     // CTA recap (Krishna + his wife, Nov 3): every step in one vertical list with big labels, ticks popping in one by one
-    const rec = nof >= 2 && pts.length === nof ? `<div class="vtrk">${pts.map((x, i) => `<div class="vr"><div class="c" data-anim="popIn:${(0.12 + 0.18 * i).toFixed(2)}:0.35">✓</div><span data-anim="fadeUp:${(0.18 + 0.18 * i).toFixed(2)}:0.3">${shortLabel(x)}</span></div>`).join("")}</div>` : "";
+    const rec = nof >= 2 && pts.length === nof ? `<div class="vtrk">${pts.map((x, i) => `<div class="vr"><div class="c" data-anim="popIn:${(0.12 + 0.18 * i).toFixed(2)}:0.35">${x.n}</div><span data-anim="fadeUp:${(0.18 + 0.18 * i).toFixed(2)}:0.3">${shortLabel(x)}</span></div>`).join("")}</div>` : "";
     if (rec) el.classList.add("ctatrk");
     h = `${rec}<div class="wedge" data-anim="wipeIn:0.1:0.5"></div>${S.photo ? `<div class="headcard" data-anim="headIn:0.2:0.6"><img src="../posts/assets/krishna/photos/${S.photo}"></div>` : `<div class="head" data-anim="headIn:0.2:0.6"><img src="../posts/assets/headshot-cutout.png"></div>`}
       <div class="cta">${words(sc.text, 0.1, 0.07)}</div>
       <div class="phone" data-anim="pulse:0.6:${Math.max(1, D[k] - 0.6).toFixed(2)}">905-452-4298</div>
+      <div class="eng">${[["Like",'<path d="M48 84 C20 64 8 50 8 32 C8 19 18 10 30 10 C38 10 44 14 48 21 C52 14 58 10 66 10 C78 10 88 19 88 32 C88 50 76 64 48 84Z" fill="#ff3b5c"/>'],["Comment",'<path d="M48 12 C24 12 8 27 8 45 C8 55 13 63 21 69 L17 86 L36 76 C40 77 44 78 48 78 C72 78 88 63 88 45 C88 27 72 12 48 12Z" fill="#fac951"/>'],["Share",'<path d="M86 12 L10 44 L38 54 L48 84 Z" fill="#ffffff" stroke="#032b38" stroke-width="5" stroke-linejoin="round"/><path d="M38 54 L86 12" stroke="#032b38" stroke-width="5"/>']].map(([l, p], i) => `<div class="ic" data-anim="popIn:${(0.9 + 0.2 * i).toFixed(2)}:0.4"><svg viewBox="0 0 96 96">${p}</svg><b>${l}</b></div>`).join("")}</div>
       <div class="fine" data-anim="fadeUp:0.8:0.4">${sc.fine || ""}</div>`;
   }
   if (sc.kind === "hook" && !sc.clip) el.classList.add("big");
