@@ -1,0 +1,700 @@
+[
+ {
+  "id": "d20261105-r1",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T11:30:00-05:00",
+  "caption": "Family gift for your Mississauga down payment? Your lender may want proof.\n\nUsing a gift from family for your down payment? 1) Ask your lender which documents it needs. 2) Get a signed gift letter saying the money is a gift, not a loan. 3) Move the money into your own account early; a late transfer can leave your lender asking questions. 4) Give your lawyer the gift letter well before closing day.\n\nRequirements vary by lender, so confirm with yours.\n\nBuying in Mississauga? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not mortgage or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #downpayment #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f01.png",
+    "say": "Family gift. Will your lender accept it?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f02.png",
+    "say": "First, ask your lender. Find out which documents they need before any money moves.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f03.png",
+    "say": "Next, get a gift letter. It should say in writing that the money is a gift, not a loan.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f04.png",
+    "say": "Then, move it early. Now the twist. A late transfer can leave your lender asking questions.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f05.png",
+    "say": "Finally, tell your lawyer. Hand over the gift letter well before closing day.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r1-frames/f06.png",
+    "say": "Send this to someone getting family help with a down payment. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Family gift. Mississauga lender *may refuse.",
+     "kick": "GIFT LETTER",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Ask your lender what documents it needs for a gifted down payment.",
+     "short": "Ask the lender"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Get a signed gift letter saying the money is a gift, not a loan.",
+     "short": "Get a gift letter"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "piggy",
+     "text": "Deposit it early: a late transfer can leave your lender asking questions.",
+     "short": "Move it early"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Give your lawyer the gift letter well before closing day.",
+     "short": "Tell your lawyer"
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *getting family help",
+     "fine": "General information only. Lender requirements vary. Not mortgage or legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "fear of a costly surprise avoided",
+  "share_reason": "a friend getting family help with the down payment",
+  "format": "step-by-step",
+  "hook_pattern": "4 direct address / cost of a mistake (no figure)",
+  "audience": "buyer",
+  "buying_process": true
+ },
+ {
+  "id": "d20261105-s1",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T12:30:00-05:00",
+  "caption": "GTA sales fell last month. Who has the edge?\n\nTRREB's October figures are out (released Nov 4, 2026). New Reel tonight at 9 pm on my page.\n\nBuying or selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Source: TRREB Market Watch, Nov 4, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #trreb #keyswithkrishna",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "photo": "p018.jpg",
+  "format": "repurpose-teaser",
+  "hook_pattern": "3 number / tease",
+  "audience": "buyer",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-s1.mp4"
+ },
+ {
+  "id": "d20261105-r2",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T15:00:00-05:00",
+  "caption": "Milton sellers: one surprise can sink a deal.\n\nBefore you list: 1) Consider a pre-listing inspection to see what a buyer's inspector may find. 2) Fix small, safe items first and keep the receipts. 3) Put known issues in writing; a known problem left unsaid can come back after closing. 4) Ask your Realtor® which repairs are worth doing before you list.\n\nSelling in Milton? Want a plan before you list? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #sellingyourhome #sellertips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f01.png",
+    "say": "Milton sellers. What could sink your deal?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f02.png",
+    "say": "First, think about a pre-listing inspection. It shows what a buyer's inspector could find.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f03.png",
+    "say": "Next, fix the small stuff. Keep the receipts so buyers can see the work done.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f04.png",
+    "say": "Then, disclose honestly. Now the twist. A known problem left unsaid can come back after closing.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f05.png",
+    "say": "Finally, ask me which repairs are actually worth doing before you list.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r2-frames/f06.png",
+    "say": "Save this for before you list. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "SELLER TIPS",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Milton sellers: *surprises can sink deals.",
+     "kick": "KNOWN ISSUES",
+     "prop": "clipboard"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "search",
+     "text": "Consider a pre-listing inspection to see what a buyer's inspector may find.",
+     "short": "Pre-list inspection"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Fix small, safe items first and keep the receipts.",
+     "short": "Fix the small stuff"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "shield",
+     "text": "A known problem left unsaid can come back after closing.",
+     "short": "Disclose honestly"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "house",
+     "text": "Ask which repairs are worth doing before you list.",
+     "short": "Ask your Realtor®"
+    },
+    {
+     "kind": "cta",
+     "text": "Save this before you *list your home",
+     "fine": "General information only, not legal advice. Ask your lawyer about disclosure duties."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "fear of a deal falling through",
+  "share_reason": "a neighbour about to list their home",
+  "format": "mistake-then-fix",
+  "hook_pattern": "6 tease + stake (seller)",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261105-f1",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T16:30:00-05:00",
+  "caption": "Etobicoke older home: will your insurer say yes?\n\nBefore your conditions end: 1) Ask what type of wiring the home has. 2) Ask your inspector to check the panel and wiring. 3) Call your insurance broker. Some insurers may ask for upgrades or decline older wiring, so check before you go firm.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal or insurance advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #homeinsurance #keyswithkrishna",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "photo": "p016.jpg",
+  "format": "educational",
+  "hook_pattern": "4 direct address / cost of a mistake (no figure)",
+  "audience": "buyer",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-f1.png"
+ },
+ {
+  "id": "d20261105-r3",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T17:30:00-05:00",
+  "caption": "$6 coffee. Five years. What could it add up to for a Brampton buyer's down payment?\n\nExample only: set aside $6 a day, 365 days a year.\n1) One year: $6 x 365 = $2,190.\n2) Five years: $2,190 x 5 = $10,950.\n3) Per month over 60 months: $10,950 / 60 = $182.50.\nThat is about $10,950 toward a down payment, before any interest. Simple arithmetic only.\n\nWant help planning your down payment? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #downpayment #firsttimehomebuyer #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f01.png",
+    "say": "Five years of coffee. What's it worth?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f02.png",
+    "say": "First, one year of coffee. Six dollars times three sixty-five is two thousand, one hundred ninety dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f03.png",
+    "say": "Next, five years. Now the number. Ten thousand, nine hundred fifty dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f04.png",
+    "say": "Finally, spread over sixty months, that's one hundred eighty-two dollars and fifty cents a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f05.png",
+    "say": "So set aside six dollars a day for five years, and that's about ten thousand, nine hundred fifty dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r3-frames/f06.png",
+    "say": "Send this to a friend saving for a home. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "MONEY MATH",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$6 coffee. Five years. *Down payment?",
+     "kick": "DO THE MATH",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "calculator",
+     "text": "One year of coffee",
+     "value": "$2,190",
+     "formula": "$6 × 365 days",
+     "running": "$2,190"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Five years of coffee",
+     "value": "$10,950",
+     "formula": "$2,190 × 5 years",
+     "running": "$10,950"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "calendar",
+     "text": "Spread over 60 months",
+     "value": "$182.50",
+     "formula": "$10,950 ÷ 60",
+     "running": "$182.50 a month"
+    },
+    {
+     "kind": "total",
+     "text": "Set aside $6 a day for 5 years, about",
+     "value": "$10,950",
+     "sub": "A start on your down payment, before any interest.",
+     "note": "Example only: $6 a day, 365 days a year, 5 years, no interest. Simple arithmetic, not financial advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to a friend *saving for a home",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "surprise at the real number",
+  "share_reason": "a friend who is saving for a home",
+  "format": "money-math",
+  "hook_pattern": "3 number that demands explanation (sourced arithmetic)",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261105-s2",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T19:00:00-05:00",
+  "caption": "Georgetown buyer: could unpaid property tax become yours?\n\nUnpaid municipal property tax can be added to a property's tax bill. Before closing, ask your lawyer to confirm with the municipality that the taxes are paid up.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "photo": "p019.jpg",
+  "format": "educational",
+  "hook_pattern": "4 direct address / tease",
+  "audience": "buyer",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-s2.mp4"
+ },
+ {
+  "id": "d20261105-r4",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T20:00:00-05:00",
+  "caption": "Oakville buyer: do you know how old the roof is?\n\nBefore your conditions end: 1) Ask the seller how old the roof is and request any repair records. 2) Ask your inspector about the age and condition of the furnace and air conditioner. 3) Ask for rough replacement costs; a repair you learn about after conditions end can become yours. 4) If something is near the end of its life, talk to your Realtor® about your options.\n\nBuying in Oakville? Want help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. An inspection is not a guarantee of condition.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homeinspection #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f01.png",
+    "say": "Oakville buyer. How old's that roof?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f02.png",
+    "say": "First, the roof. Ask how old it is and whether there are repair records.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f03.png",
+    "say": "Next, the furnace and air conditioner. Ask your inspector how old they are and how they're running.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f04.png",
+    "say": "Then, replacement costs. Now the twist. A repair you learn about after conditions end can become yours.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f05.png",
+    "say": "Finally, use what you learn. Talk to me about your options before you go firm.",
+    "min": 6
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r4-frames/f06.png",
+    "say": "Send this to someone who's touring homes. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Oakville buyer: how old's the *roof?",
+     "kick": "BIG TICKET ITMES",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "house",
+     "text": "Ask the seller how old the roof is, and request any repair records.",
+     "short": "Roof age"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask your inspector about the age and condition of the furnace and air conditioner.",
+     "short": "Furnace and A/C"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Ask your inspector for rough replacement costs before conditions end.",
+     "short": "Replacement costs"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "If something is near the end of its life, talk to your Realtor® about your options.",
+     "short": "Use what you learn"
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *touring homes",
+     "fine": "General information only. An inspection is not a guarantee of condition."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "fear of a costly surprise avoided",
+  "share_reason": "a friend touring homes",
+  "format": "mistake-then-fix",
+  "hook_pattern": "2 cost of a mistake / direct address (no figure)",
+  "audience": "buyer",
+  "buying_process": true,
+  "series": "honest-mistake",
+  "mistake": "Gold sticker on the hook reads 'BIG TICKET ITMES' (letters swapped in ITEMS); everything else is correct."
+ },
+ {
+  "id": "d20261105-r5",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T21:00:00-05:00",
+  "caption": "GTA sales fell 7.9% in October. Do buyers have more leverage?\n\nTRREB reports (Market Watch, released Nov 4, 2026): October GTA sales were 5,603, down 7.9% from October 2025, and new listings were 14,173, down 11.9%. The average selling price was $1,024,108, down 2.7% year over year, and the MLS HPI Composite benchmark was down 4.3% year over year. Seasonally adjusted, sales, new listings and prices edged up from September. TRREB says buyers continued to benefit from substantial negotiating power on price.\n\nMy take: if you are selling, price to recent sales in your own neighbourhood, not last year's.\n\nGood news or bad news for buyers? Tell me below.\n\nWant numbers for your own street? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial or mortgage advice. Source: TRREB Market Watch, October 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #trreb #marketwatch #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f01.png",
+    "say": "GTA home sales just dropped. Who benefits?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f02.png",
+    "say": "TRREB released October's numbers. Five thousand, six hundred three sales, and fourteen thousand, one hundred seventy-three new listings.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f03.png",
+    "say": "First, prices. The average is about one million twenty-four thousand dollars, down two point seven percent.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f04.png",
+    "say": "Next, month over month. Seasonally adjusted, sales, listings and prices edged up from September.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f05.png",
+    "say": "Then, buyers. Now the twist. TRREB says buyers kept substantial negotiating power on price.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f06.png",
+    "say": "Finally, my take. Sellers should price to recent local sales, not last year's.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r5-frames/f07.png",
+    "say": "Send this to someone buying this year. Good news or bad news for buyers? Tell me below. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "MARKET WATCH",
+   "area": "GTA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "GTA sales down *7.9%. Buyer leverage?",
+     "kick": "OCTOBER NUMBERS",
+     "prop": "chart",
+     "clip": {
+      "source": "TRREB",
+      "date": "Nov 4, 2026",
+      "headline": "GTA home *sales *fell *7.9% in October; *listings *fell *11.9%"
+     }
+    },
+    {
+     "kind": "news",
+     "source": "TRREB",
+     "date": "Nov 4, 2026",
+     "text": "October: 5,603 GTA sales and 14,173 new listings."
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "chart",
+     "text": "Average price $1,024,108, down 2.7%. Benchmark price down 4.3%, year over year.",
+     "short": "Prices",
+     "note": "Source: TRREB Market Watch, October 2026 (released Nov 4, 2026)."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Seasonally adjusted, sales, listings and prices edged up from September.",
+     "short": "Month over month",
+     "note": "Source: TRREB Market Watch, October 2026."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "handshake",
+     "text": "TRREB says buyers kept substantial negotiating power on price.",
+     "short": "Buyers",
+     "note": "Source: TRREB, Nov 4, 2026."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "house",
+     "text": "My take: sellers should price to recent local sales, not last year's.",
+     "short": "My take"
+    },
+    {
+     "kind": "cta",
+     "text": "Good news or bad news for *buyers?",
+     "fine": "General information only. Not financial or mortgage advice. Source: TRREB Market Watch, Nov 4, 2026."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "surprise",
+  "share_reason": "someone deciding when to buy",
+  "format": "market-watch",
+  "hook_pattern": "3 number that demands explanation (sourced, TRREB)",
+  "audience": "buyer",
+  "series": "market-watch",
+  "music_mood": "tense"
+ },
+ {
+  "id": "d20261105-f2",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T21:45:00-05:00",
+  "caption": "Caledon buyer: what's hiding under the snow?\n\nBuying this winter? 1) Roofs, decks, grading and drainage can be hard to see under snow. 2) Ask your inspector to note anything that couldn't be inspected. 3) Ask your Realtor® about conditions that can protect you.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #homeinspection #homebuyingtips #keyswithkrishna",
+  "hook_rule": "tension-v3",
+  "brand_corner": "headshot",
+  "photo": "p017.jpg",
+  "format": "educational",
+  "hook_pattern": "1/4 tease + stake",
+  "audience": "buyer",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-f2.png"
+ },
+ {
+  "id": "d20261105-r6",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-05T22:30:00-05:00",
+  "caption": "Kitchener buyer: the seller offers early keys. Read this first.\n\nBefore you agree to early possession: 1) Ask your lawyer first. 2) Put the terms in writing, including what happens if the deal falls through. 3) Confirm your insurance covers you from the day you get the keys. 4) Hold off on renovating until the deal has closed; money you spend before then may be hard to get back.\n\nBuying in Kitchener? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #closingday #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-05/d20261105-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f01.png",
+    "say": "Seller offers early keys. Take them?",
+    "min": 2.5
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f02.png",
+    "say": "First, call your lawyer. Do it before you agree to early possession.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f03.png",
+    "say": "Next, get it in writing. Spell out what happens if the deal falls through.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f04.png",
+    "say": "Then, check your insurance. Make sure you're covered from the day you get the keys.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f05.png",
+    "say": "Finally, wait to renovate. Now the twist. If the deal falls through, money you spent may be hard to get back.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-05/d20261105-r6-frames/f06.png",
+    "say": "Send this to someone closing soon. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "KITCHENER",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Kitchener: seller offers early keys. *Careful.",
+     "kick": "BEFORE YOU AGREE",
+     "prop": "keys"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Ask your lawyer before you agree to early possession.",
+     "short": "Lawyer first"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Put the terms in writing, including what happens if the deal falls through.",
+     "short": "Get it in writing"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "shield",
+     "text": "Confirm your insurance covers you from the day you get the keys.",
+     "short": "Check insurance"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "swatches",
+     "text": "Hold off on renovating until the deal has closed.",
+     "short": "Wait to renovate"
+    },
+    {
+     "kind": "cta",
+     "text": "Send this to someone *closing soon",
+     "fine": "General information only, not legal advice."
+    }
+   ]
+  },
+  "hook_rule": "tension-v3",
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend closing soon",
+  "format": "step-by-step",
+  "hook_pattern": "9/4 direct address with a stake",
+  "audience": "buyer",
+  "buying_process": true
+ }
+]

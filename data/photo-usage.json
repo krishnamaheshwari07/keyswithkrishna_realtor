@@ -1,20 +1,24 @@
 {
- "note": "Real photos of Krishna already used (never reuse). Filled automatically by scripts/voiceover.py for Reels; the daily batch adds feed posts, carousels and Stories.",
- "used": {
-  "p001.jpg": "d20261103-r5",
-  "p002.jpg": "d20261103-r1",
-  "p003.jpg": "d20261103-r2",
-  "p004.jpg": "d20261103-r3",
-  "p005.jpg": "d20261103-r4",
-  "p006.jpg": "d20261104-f1",
-  "p007.jpg": "d20261104-f2",
-  "p008.jpg": "d20261104-s1",
-  "p009.jpg": "d20261104-s2",
-  "p010.jpg": "d20261104-r1",
-  "p011.jpg": "d20261104-r2",
-  "p012.jpg": "d20261104-r3",
-  "p013.jpg": "d20261104-r4",
-  "p014.jpg": "d20261104-r5",
-  "p015.jpg": "d20261104-r6"
- }
+  "note": "Real photos of Krishna already used (never reuse). Filled automatically by scripts/voiceover.py for Reels; the daily batch adds feed posts, carousels and Stories.",
+  "used": {
+    "p001.jpg": "d20261103-r5",
+    "p002.jpg": "d20261103-r1",
+    "p003.jpg": "d20261103-r2",
+    "p004.jpg": "d20261103-r3",
+    "p005.jpg": "d20261103-r4",
+    "p006.jpg": "d20261104-f1",
+    "p007.jpg": "d20261104-f2",
+    "p008.jpg": "d20261104-s1",
+    "p009.jpg": "d20261104-s2",
+    "p010.jpg": "d20261104-r1",
+    "p011.jpg": "d20261104-r2",
+    "p012.jpg": "d20261104-r3",
+    "p013.jpg": "d20261104-r4",
+    "p014.jpg": "d20261104-r5",
+    "p015.jpg": "d20261104-r6",
+    "p018.jpg": "d20261105-s1",
+    "p016.jpg": "d20261105-f1",
+    "p019.jpg": "d20261105-s2",
+    "p017.jpg": "d20261105-f2"
+  }
 }
