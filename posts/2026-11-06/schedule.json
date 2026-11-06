@@ -131,8 +131,8 @@
     "status": "pending",
     "publish_at": "2026-11-06T15:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Mississauga sellers: your online estimate isn't your price.\n\nOnline estimates are computer guesses and can't see your upgrades or condition. Ask for recent sold prices of similar homes nearby, and ask how the price was set and what the plan is if offers are slow. Priced too high, a home may sit; too low, you may leave money on the table.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price or result is guaranteed.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #homepricing #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2.mp4",
+    "caption": "Mississauga sellers: your online estimate isn't your price.\n\nOnline estimates are computer guesses and can't see your upgrades or condition. Ask for recent sold prices of similar homes nearby, and ask how the price was set and what the plan is if offers are slow. Priced too high, a home may sit; too low, you may leave money on the table.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price or result is guaranteed.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #homepricing #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-vo87139.mp4",
     "frames": [
       {
         "img": "posts/2026-11-06/d20261106-r2-frames/f01.png",
@@ -141,17 +141,17 @@
       },
       {
         "img": "posts/2026-11-06/d20261106-r2-frames/f02.png",
-        "say": "First, online estimates are computer guesses. They can't see your upgrades or your home's condition.",
+        "say": "First, estimates guess. online estimates are computer guesses. They can't see your upgrades or your home's condition.",
         "min": 5.0
       },
       {
         "img": "posts/2026-11-06/d20261106-r2-frames/f03.png",
-        "say": "Next, ask for recent sold prices of similar homes nearby, not just asking prices.",
+        "say": "Next, use sold prices. ask for recent sold prices of similar homes nearby, not just asking prices.",
         "min": 5.25
       },
       {
         "img": "posts/2026-11-06/d20261106-r2-frames/f04.png",
-        "say": "Then ask how your Realtor chose the price. Now the twist. Priced too high, a home may sit. Too low, you may leave money behind.",
+        "say": "Finally, ask for a plan. Then ask how your Realtor chose the price. Now the twist. Priced too high, a home may sit. Too low, you may leave money behind.",
         "min": 5.25
       },
       {
@@ -160,7 +160,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "SELLER TIPS",
@@ -201,7 +201,8 @@
           "text": "Like, comment and *share with a Mississauga seller",
           "fine": "General information only. No sale price or result is guaranteed."
         }
-      ]
+      ],
+      "photo": "p031.jpg"
     },
     "brand_corner": "logo",
     "trigger": "surprise at the real gap between estimate and price",
@@ -209,7 +210,19 @@
     "format": "myth-vs-fact",
     "hook_pattern": "10 too-honest / call-out",
     "audience": "seller",
-    "trial": true
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 26.0,
+    "vo_frame_seconds": [
+      3.46,
+      4.89,
+      5.12,
+      7.45,
+      5.07
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-tt87154.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-yt87260.mp4"
   },
   {
     "id": "d20261106-f1",
@@ -235,8 +248,8 @@
     "status": "pending",
     "publish_at": "2026-11-06T17:30:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "$700K home. How long to save the minimum down payment for a Brampton buyer?\n\nExample only, simple arithmetic:\n1) 5% of the first $500,000 = $25,000.\n2) 10% of the next $200,000 = $20,000.\n3) Minimum down payment = $25,000 + $20,000 = $45,000.\n4) Saving $1,500 a month: $45,000 / $1,500 = 30 months, before interest.\nMinimum down payment rule for homes priced $500,000 to $1,499,999: 5% of the first $500,000 plus 10% of the rest (CMHC). Closing costs are extra and lenders may ask for more.\n\nWant help planning your down payment? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #downpayment #firsttimehomebuyer #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r3.mp4",
+    "caption": "$700K home. How long to save the minimum down payment for a Brampton buyer?\n\nExample only, simple arithmetic:\n1) 5% of the first $500,000 = $25,000.\n2) 10% of the next $200,000 = $20,000.\n3) Minimum down payment = $25,000 + $20,000 = $45,000.\n4) Saving $1,500 a month: $45,000 / $1,500 = 30 months, before interest.\nMinimum down payment rule for homes priced $500,000 to $1,499,999: 5% of the first $500,000 plus 10% of the rest (CMHC). Closing costs are extra and lenders may ask for more.\n\nWant help planning your down payment? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #downpayment #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r3-vo87636.mp4",
     "frames": [
       {
         "img": "posts/2026-11-06/d20261106-r3-frames/f01.png",
@@ -255,7 +268,7 @@
       },
       {
         "img": "posts/2026-11-06/d20261106-r3-frames/f04.png",
-        "say": "Then, divide forty-five thousand dollars by fifteen hundred a month.",
+        "say": "Finally, divide forty-five thousand dollars by fifteen hundred a month.",
         "min": 4.5
       },
       {
@@ -269,7 +282,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "MONEY MATH",
@@ -323,7 +336,8 @@
           "text": "Like, comment and *share with someone saving to buy",
           "fine": "Example only. Not mortgage, tax or legal advice."
         }
-      ]
+      ],
+      "photo": "p032.jpg"
     },
     "brand_corner": "logo",
     "trigger": "surprise at the real number",
@@ -332,7 +346,20 @@
     "hook_pattern": "3 number that demands explanation / 11 interactive guess (sourced arithmetic)",
     "audience": "buyer",
     "series": "money-math",
-    "math_level": "everyday"
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 23.3,
+    "vo_frame_seconds": [
+      2.97,
+      4.22,
+      4.16,
+      3.3,
+      3.56,
+      5.07
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r3-tt87649.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r3-yt87744.mp4"
   },
   {
     "id": "d20261106-s2",
@@ -358,8 +385,8 @@
     "status": "pending",
     "publish_at": "2026-11-06T20:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Oakville buyer: your appraisal came in low. Now what?\n\n1) Ask your lender what value it will lend on, in writing. 2) Work out the gap: price minus appraised value. You may need to cover it. 3) Ask your Realtor\u00ae about renegotiating the price before your condition date. 4) Watch your financing condition date: once it passes, you may still have to close at the agreed price.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Lender rules vary. Not mortgage or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #mortgagetips #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r4.mp4",
+    "caption": "Oakville buyer: your appraisal came in low. Now what?\n\n1) Ask your lender what value it will lend on, in writing. 2) Work out the gap: price minus appraised value. You may need to cover it. 3) Ask your Realtor\u00ae about renegotiating the price before your condition date. 4) Watch your financing condition date: once it passes, you may still have to close at the agreed price.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Lender rules vary. Not mortgage or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #mortgagetips #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r4-vo88170.mp4",
     "frames": [
       {
         "img": "posts/2026-11-06/d20261106-r4-frames/f01.png",
@@ -373,17 +400,17 @@
       },
       {
         "img": "posts/2026-11-06/d20261106-r4-frames/f03.png",
-        "say": "Next, work out the gap: price minus appraised value. You may need to cover it.",
+        "say": "Next, find the gap. work out the gap: price minus appraised value. You may need to cover it.",
         "min": 5.25
       },
       {
         "img": "posts/2026-11-06/d20261106-r4-frames/f04.png",
-        "say": "Then, ask your Realtor about renegotiating before your condition date.",
+        "say": "Then, call your Realtor\u00ae. ask your Realtor about renegotiating before your condition date.",
         "min": 4.75
       },
       {
         "img": "posts/2026-11-06/d20261106-r4-frames/f05.png",
-        "say": "Finally, watch your financing condition date. Now the twist. Once it passes, you may still have to close at the agreed price.",
+        "say": "Finally, watch the date. watch your financing condition date. Now the twist. Once it passes, you may still have to close at the agreed price.",
         "min": 3.75
       },
       {
@@ -392,7 +419,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "BUYING PROCESS",
@@ -441,14 +468,28 @@
           "text": "Like, comment and *share with an Oakville buyer",
           "fine": "General information only. Lender rules vary. Not mortgage or legal advice."
         }
-      ]
+      ],
+      "photo": "p033.jpg"
     },
     "brand_corner": "logo",
     "trigger": "fear of a deal falling apart, then relief",
     "share_reason": "the friend with an offer in on an Oakville home",
     "format": "mistake-then-fix",
     "hook_pattern": "2 cost of a mistake / 6 tease (no figure)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 27.5,
+    "vo_frame_seconds": [
+      2.76,
+      4.0,
+      4.84,
+      3.99,
+      6.83,
+      5.07
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r4-tt88186.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r4-yt88300.mp4"
   },
   {
     "id": "d20261106-r5",
@@ -458,8 +499,8 @@
     "status": "pending",
     "publish_at": "2026-11-06T21:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Moving to Caledon? Nobody mentions this.\n\nSome Caledon homes run on a well and septic system instead of municipal water and sewer. Ask early, and request a water test and a septic inspection before you firm up your offer.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or inspection advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #caledonrealestate #movingtoontario #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r5.mp4",
+    "caption": "Moving to Caledon? Nobody mentions this.\n\nSome Caledon homes run on a well and septic system instead of municipal water and sewer. Ask early, and request a water test and a septic inspection before you firm up your offer.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or inspection advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #caledonrealestate #movingtoontario #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r5-vo88508.mp4",
     "frames": [
       {
         "img": "posts/2026-11-06/d20261106-r5-frames/f01.png",
@@ -477,7 +518,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "QUICK TIP",
@@ -502,14 +543,25 @@
           "text": "Like, comment and *share with someone moving to Caledon",
           "fine": "General information only. Not legal or inspection advice."
         }
-      ]
+      ],
+      "photo": "p034.jpg"
     },
     "brand_corner": "logo",
     "trigger": "surprise: a utility most city buyers never think about",
     "share_reason": "someone moving to Caledon from the city",
     "format": "quick-tip",
     "hook_pattern": "9 moving here / opener 'Nobody mentions this'",
-    "audience": "buyer"
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 13.0,
+    "vo_frame_seconds": [
+      2.4,
+      5.47,
+      5.13
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r5-tt88515.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r5-yt88569.mp4"
   },
   {
     "id": "d20261106-f2",
@@ -535,8 +587,8 @@
     "status": "pending",
     "publish_at": "2026-11-06T22:30:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Picture this: your Milton renewal letter just arrived and the rate looks high.\n\n1) Don't sign right away: the first offer may not be the best rate available. 2) Get a quote from your mortgage broker or another lender before the offer expires. 3) Ask what switching would cost. At renewal there may be no penalty, but fees can apply.\n\nRenewing in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Lender terms vary. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagerenewal #mortgagetips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6.mp4",
+    "caption": "Picture this: your Milton renewal letter just arrived and the rate looks high.\n\n1) Don't sign right away: the first offer may not be the best rate available. 2) Get a quote from your mortgage broker or another lender before the offer expires. 3) Ask what switching would cost. At renewal there may be no penalty, but fees can apply.\n\nRenewing in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Lender terms vary. Not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagerenewal #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-vo88960.mp4",
     "frames": [
       {
         "img": "posts/2026-11-06/d20261106-r6-frames/f01.png",
@@ -545,17 +597,17 @@
       },
       {
         "img": "posts/2026-11-06/d20261106-r6-frames/f02.png",
-        "say": "First, don't sign right away. The first offer may not be the best rate available.",
+        "say": "First, don't sign yet. don't sign right away. The first offer may not be the best rate available.",
         "min": 4.75
       },
       {
         "img": "posts/2026-11-06/d20261106-r6-frames/f03.png",
-        "say": "Next, get a quote from your mortgage broker or another lender before the offer expires.",
+        "say": "Next, compare lenders. get a quote from your mortgage broker or another lender before the offer expires.",
         "min": 5.0
       },
       {
         "img": "posts/2026-11-06/d20261106-r6-frames/f04.png",
-        "say": "Then, ask what switching would cost. Now the twist. Moving at renewal may avoid a penalty, but ask about any fees.",
+        "say": "Finally, ask switch costs. ask what switching would cost. Now the twist. Moving at renewal may avoid a penalty, but ask about any fees.",
         "min": 5.75
       },
       {
@@ -564,7 +616,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "MORTGAGE TIPS",
@@ -605,13 +657,26 @@
           "text": "Like, comment and *share with someone renewing soon",
           "fine": "General information only. Lender terms vary. Not mortgage advice."
         }
-      ]
+      ],
+      "photo": "p035.jpg"
     },
     "brand_corner": "logo",
     "trigger": "costly mistake avoided",
     "share_reason": "a friend whose mortgage renews next year",
     "format": "picture-this",
     "hook_pattern": "7 specific scene cold open (Picture this)",
-    "audience": "owner"
+    "audience": "owner",
+    "vo_status": "done",
+    "vo_seconds": 25.4,
+    "vo_frame_seconds": [
+      3.31,
+      4.84,
+      5.03,
+      7.25,
+      5.01
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-tt88974.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-yt89080.mp4"
   }
 ]
