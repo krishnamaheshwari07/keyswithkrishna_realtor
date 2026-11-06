@@ -128,7 +128,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-06T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Mississauga sellers: your online estimate isn't your price.\n\nOnline estimates are computer guesses and can't see your upgrades or condition. Ask for recent sold prices of similar homes nearby, and ask how the price was set and what the plan is if offers are slow. Priced too high, a home may sit; too low, you may leave money on the table.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. No sale price or result is guaranteed.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #homepricing #keyswithkrishna",
@@ -222,7 +222,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-tt87154.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-yt87260.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r2-yt87260.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18132014864494904",
+    "fb_thumb": "set",
+    "fb_id": "2071770616849810",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "0godSpk1muw",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261106-f1",
