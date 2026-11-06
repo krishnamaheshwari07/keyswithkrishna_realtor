@@ -4,7 +4,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-06T11:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Cambridge closing: skip this step and the problem may be yours.\n\nBefore you close: 1) Book the walkthrough for right before closing. 2) Test taps, toilets, windows, appliances and lights. 3) Confirm every item in your agreement is still there. 4) Tell your lawyer about any problem before you close.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #closingday #homebuyingtips #keyswithkrishna",
@@ -97,7 +97,12 @@
     "share_reason": "the co-buyer you are closing with",
     "format": "step-by-step",
     "hook_pattern": "4 direct address with a stake / cost of a mistake (no figure)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18358635814169399",
+    "fb_id": "1593384152803630",
+    "fb_status": "posted",
+    "yt_publish_id": "GESLJaquJyk",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261106-s1",
