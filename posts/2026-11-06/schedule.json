@@ -603,7 +603,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-06T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Halton first-timers: could your RRSP help with a down payment?\n\nThe federal Home Buyers' Plan lets eligible first-time buyers withdraw from an RRSP, and the FHSA is a separate first home savings account. Rules, limits and repayment terms apply, so ask a tax professional which fits you.\n\nBuying your first home in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nEligibility rules apply. Not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #firsttimehomebuyer #FHSA #keyswithkrishna",
@@ -612,7 +612,10 @@
     "photo": "p027.jpg",
     "format": "first-time-buyer",
     "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18127215544911542",
+    "fb_id": "122124654099311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261106-r6",
