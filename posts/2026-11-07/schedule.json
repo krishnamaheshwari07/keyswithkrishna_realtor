@@ -253,7 +253,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-07T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Cambridge detached homes, from $969,990.\n\nFairway Meadows by Laurelcrest Homes, Cambridge. Detached homes (35', 40' and 50' lots), from $969,990 for the corner 35' per the builder price list (confirm HST treatment with the builder). Occupancy: Oct to Dec 2027 per the price list. Illustration only. Not the actual home.\n\nRegister your interest: comment INFO to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #preconstruction #keyswithkrishna",
@@ -262,7 +262,10 @@
     "photo": "p036.jpg",
     "format": "precon-spotlight",
     "hook_pattern": "8 price anchor (sourced)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18434837518194867",
+    "fb_id": "122124751473311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261107-r3",
