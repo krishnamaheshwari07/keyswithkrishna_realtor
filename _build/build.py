@@ -69,8 +69,11 @@ def reel_page(r,sc):
     if k=='hook':
         body=f'<div class="kick" style="top:300px">{html.escape(sc["kick"])}</div><h1 style="top:420px;font-size:128px">{hl1(sc["text"])}</h1>'
     elif k=='point':
-        body=f'<div class="step" style="top:300px">STEP {sc["n"]} OF {sc["of"]} · {html.escape(sc["short"].upper())}</div><div class="txt" style="top:380px;font-size:70px;width:760px">{html.escape(sc["text"])}</div>'
+        body=f'<div class="step" style="top:300px">STEP {sc["n"]} OF {sc["of"]} · {html.escape(sc["short"].upper())}</div><div class="txt" style="top:380px;font-size:70px;width:760px">{html.escape(sc["text"])}</div>'+(f'<div class="fine" style="top:1080px;width:760px">{html.escape(sc["note"])}</div>' if sc.get("note") else '')
         if sc['of']==1: body=body.replace(f'STEP 1 OF 1 · ','')
+    elif k=='news':
+        body=f'<div class="kick" style="top:300px">{html.escape(sc["source"].upper())} · {html.escape(sc["date"].upper())}</div><div class="txt" style="top:440px;font-size:76px;width:900px">{html.escape(sc["text"])}</div>'
+        ring=''
     elif k=='calc':
         body=f'<div class="step" style="top:300px">STEP {sc["n"]} OF {sc["of"]}</div><div class="txt" style="top:380px;font-size:62px">{html.escape(sc["text"])}</div><div class="big" style="top:640px;font-size:170px">{html.escape(sc["value"])}</div><div class="sub" style="top:930px">{html.escape(sc["formula"])}</div><div class="sub" style="top:1020px;font-weight:800">Running total: {html.escape(sc["running"])}</div>'
     elif k=='total':
@@ -79,6 +82,17 @@ def reel_page(r,sc):
     elif k=='cta':
         body=f'<div class="txt" style="top:330px;font-size:84px;font-family:Playfair Display;font-weight:900">{hl1(sc["text"])}</div><div class="card" style="top:760px">&#9825; Like &nbsp;&nbsp; &#128172; Comment &nbsp;&nbsp; &#10148; Share</div><div class="sub" style="top:930px;font-weight:800;font-size:44px">Call 905-452-4298</div><div class="fine" style="top:1090px;width:620px">{html.escape(sc["fine"])}</div>'
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{css(th,H)}</style></head><body>{head(r['tag'],r['area'])}{body}{ring}{footer(H,1760,1784,1838)}</body></html>"""
+def precon_page(p):
+    t=open('templates/precon-photo-headshot-dark.html').read().replace('../posts/','../../posts/')
+    R=[('p004.jpg',p['photo']),('BOWMANVILLE (CLARINGTON)',p['area']),('<h1>Ravine Mills</h1>','<h1>Fairway Meadows</h1>'),
+       ('by Camcos Living · Freehold townhomes','by Laurelcrest Homes · Detached homes'),
+       ('posts/assets/precon/PROJECT-1.jpg','posts/assets/precon/illustration-detached.svg'),
+       ("Artist's concept. Actual product may vary.","Illustration only. Not the actual home."),
+       ('<b style="font-size:48px">$642,689</b><span>from price (HST included) · Occupancy: Summer 2027</span>','<b style="font-size:48px">$969,990</b><span>from price, corner 35\' detached · Occupancy: Oct – Dec 2027</span>'),
+       ('From price per builder price list dated Jul 28, 2026. Occupancy is an estimate.','From price per builder price list; confirm HST treatment with the builder. Occupancy is an estimate.')]
+    for a,b in R:
+        assert a in t,a; t=t.replace(a,b)
+    return t
 def words(s): return len(re.sub(r'\*','',s).split())
 def hold(n): return max(3.5,min(6.0,2+0.25*n))
 shots=[]  # (html,out,w,h)
@@ -86,6 +100,9 @@ sched=[]
 for r in REELS:
     rid=f"d{DATE.replace('-','')}-{r['id']}"; fd=OUT/f"{rid}-frames"; fd.mkdir(exist_ok=True)
     scenes=[dict(kind='hook',text=r['hook'],kick=r['kick'],prop=r['hprop'])]; frames=[dict(say=r['hsay'],min=2.0)]
+    if r.get('clip'): scenes[0]['clip']=r['clip']
+    if r.get('news'):
+        nw=r['news']; scenes.append(dict(kind='news',source=nw[0],date=nw[1],text=nw[2])); frames.append(dict(say=nw[3],min=4.5))
     if 'calc' in r:
         n=len(r['calc'])
         for i,(t,v,f,run,prop,say) in enumerate(r['calc'],1):
@@ -93,8 +110,9 @@ for r in REELS:
         t=r['total']; scenes.append(dict(kind='total',text=t[0],value=t[1],sub=t[2],note=t[3])); frames.append(dict(say=t[4],min=4.5))
     else:
         n=len(r['pts'])
-        for i,(short,prop,text,say) in enumerate(r['pts'],1):
-            scenes.append(dict(kind='point',n=i,of=n,prop=prop,text=text,short=short)); frames.append(dict(say=say,min=round(hold(words(text)),2)))
+        for i,pt in enumerate(r['pts'],1):
+            short,prop,text,say=pt[:4]
+            scenes.append(dict(kind='point',n=i,of=n,prop=prop,text=text,short=short,**({'note':pt[4]} if len(pt)>4 else {}))); frames.append(dict(say=say,min=round(hold(words(text)),2)))
     scenes.append(dict(kind='cta',text=r['cta'],fine=r['fine'])); frames.append(dict(say=r['csay'],min=4.5))
     for i,sc in enumerate(scenes,1):
         pg=B/f"{rid}-f{i:02d}.html"; pg.write_text(reel_page(r,sc)); shots.append((pg,fd/f"f{i:02d}.png",1080,1920))
@@ -102,7 +120,10 @@ for r in REELS:
     r['_scenes']=scenes; r['_frames']=[dict(img=f['img'],say=f['say'],min=f['min']) for f in frames]; r['_rid']=rid
 for grp,H in ((FEEDS,1350),(STORIES,1920)):
     for p in grp:
-        rid=f"d{DATE.replace('-','')}-{p['id']}"; pg=B/f"{rid}.html"; pg.write_text(static_page(p,H)); shots.append((pg,OUT/f"{rid}.png",1080,H)); p['_rid']=rid
+        rid=f"d{DATE.replace('-','')}-{p['id']}"; pg=B/f"{rid}.html"
+        if p.get('precon'): pg.write_text(precon_page(p))
+        else: pg.write_text(static_page(p,H))
+        shots.append((pg,OUT/f"{rid}.png",1080,H)); p['_rid']=rid
 bad=0
 with sync_playwright() as pw:
     b=pw.chromium.launch(executable_path="/opt/pw-browsers/chromium") if pathlib.Path("/opt/pw-browsers/chromium").exists() else pw.chromium.launch()

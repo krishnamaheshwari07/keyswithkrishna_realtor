@@ -18,7 +18,7 @@ for r in REELS:
     sh(["ffmpeg","-y","-v","error","-f","concat","-safe","0","-i",str(p),"-vf","scale=1080:1920,format=yuv420p","-r","30","-c:v","libx264","-pix_fmt","yuv420p",silent])
     p.unlink()
     out=OUT/f"{rid}.mp4"
-    sh(["python3","scripts/add_music.py","reel",silent,str(out),rid])
+    sh(["python3","scripts/add_music.py","reel",silent,str(out),rid]+(["--mood=tense"] if r.get('mood') else []))
     cap=f"{r['cap']}\n\n{SIGN}\n\n{r['tags']}"
     m=dict(theme=r['theme'],tag=r['tag'],area=r['area'],scenes=r['_scenes'])
     it=mk(r,type="reel",caption=cap,media_url=RAW+f"{rid}.mp4",frames=fr,vo_pending=True,motion=m,brand_corner="logo",
@@ -26,6 +26,8 @@ for r in REELS:
     if r.get('series'): it['series']=r['series']
     if r.get('math'): it['math_level']=r['math']
     if r.get('trial'): it['trial']=True
+    if r.get('mood'): it['music_mood']=r['mood']
+    if r.get('extra'): it.update(r['extra'])
     items.append(it)
 for grp,typ in ((FEEDS,'feed'),(STORIES,'story')):
     for p in grp:
