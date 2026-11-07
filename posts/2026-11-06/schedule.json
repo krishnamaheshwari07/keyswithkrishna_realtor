@@ -622,7 +622,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-06T22:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Picture this: your Milton renewal letter just arrived and the rate looks high.\n\n1) Don't sign right away: the first offer may not be the best rate available. 2) Get a quote from your mortgage broker or another lender before the offer expires. 3) Ask what switching would cost. At renewal there may be no penalty, but fees can apply.\n\nRenewing in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Lender terms vary. Not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagerenewal #mortgagetips #keyswithkrishna",
@@ -715,6 +715,13 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-tt88974.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-yt89080.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-06/d20261106-r6-yt89080.mp4",
+    "ig_media_id": "18110210654229312",
+    "fb_thumb": "set",
+    "fb_id": "2030988361621774",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "pVsDsJVtsKM",
+    "yt_status": "UPLOADED_PUBLIC"
   }
 ]
