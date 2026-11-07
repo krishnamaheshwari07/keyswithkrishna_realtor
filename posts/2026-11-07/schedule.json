@@ -144,7 +144,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-07T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Picture this: you're selling in Oakville and thinking about a big renovation before you list.\n\n1) Ask your Realtor\u00ae what buyers in your area actually pay for. 2) Consider small fixes first: paint, lighting and minor repairs. 3) Get written quotes before starting any big project, because it may cost more than it adds.\n\nSelling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not financial advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeseller #keyswithkrishna",
@@ -238,7 +238,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-tt54200.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-yt54288.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-yt54288.mp4",
+    "trial_error": "{\"error\":{\"message\":\"Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"error_subcode\":2207081,\"is_transient\":false,\"error_user_title\":\"Trial Reel Not Enough Followers\",\"error_user_msg\":\"The instagram account does not meet the trial reel follower requirement to ",
+    "ig_media_id": "18452011531125909",
+    "fb_thumb": "set",
+    "fb_id": "2321417421987787",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "hGRY14TdL9w",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261107-f1",
