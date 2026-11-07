@@ -87,11 +87,11 @@ body.light .tease{background:#eef6f3;color:var(--teal)}
 .crun span{font-size:32px;letter-spacing:.06em;text-transform:uppercase}.crun b{font-size:60px;font-variant-numeric:tabular-nums}
 .note2{position:absolute;left:80px;right:80px;top:1560px;color:#cfe3e6;font-size:26px;font-weight:500;line-height:1.35}
 body.light .note2{color:#4a6a72}
-.tlabel{position:absolute;left:80px;right:80px;top:330px;font-family:"Playfair Display";font-weight:900;font-size:96px;line-height:1.06;color:#fff}
+.tlabel{position:absolute;left:80px;right:80px;top:330px;font-family:"Playfair Display";font-weight:900;font-size:var(--tlf,96px);line-height:1.06;color:#fff}
 body.light .tlabel{color:var(--teal)}
-.tval{position:absolute;left:80px;top:640px;font-weight:900;font-size:190px;line-height:1;color:var(--gold);font-variant-numeric:tabular-nums;text-shadow:0 0 60px rgba(250,201,81,.45);transform-origin:left center}
+.tval{position:absolute;left:80px;top:var(--tvt,640px);white-space:nowrap;font-weight:900;font-size:var(--tvf,190px);line-height:1;color:var(--gold);font-variant-numeric:tabular-nums;text-shadow:0 0 60px rgba(250,201,81,.45);transform-origin:left center}
 body.light .tval{color:#00784e;text-shadow:none}
-.tsub{position:absolute;left:80px;right:80px;top:870px;color:#fff;font-weight:700;font-size:44px}
+.tsub{position:absolute;left:80px;right:80px;top:var(--tst,870px);color:#fff;font-weight:700;font-size:44px}
 body.light .tsub{color:var(--teal)}
 .newsband{position:absolute;left:80px;top:260px;background:#e2574c;color:#fff;font-weight:900;letter-spacing:.16em;font-size:34px;padding:14px 28px;border-radius:12px;display:flex;align-items:center;gap:16px}
 .newsband .dot{width:18px;height:18px;border-radius:50%;background:#fff}
@@ -254,6 +254,16 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
     const ct = v.offsetTop + v.offsetHeight + 44; inn.style.setProperty("--ct", ct + "px");
     let f = 92; while (f > 60 && ct + c.offsetHeight > 1020) { f -= 4; inn.style.setProperty("--cfs", f + "px"); }
     inn.style.setProperty("--ph", (ct + c.offsetHeight + 30) + "px"); sc.style.cssText = prev; });
+  document.querySelectorAll(".scene").forEach(sc => {   // money-math total (Krishna, Nov 6: "30 months" wrapped onto the line below): keep the big number on one line and stack label, number, sub-line and note without overlap
+    const lb = sc.querySelector(".tlabel"), tv = sc.querySelector(".tval"); if (!lb || !tv) return;
+    const ts = sc.querySelector(".tsub"), nt = sc.querySelector(".note2"), inn = sc.querySelector(".inner"), prev = sc.style.cssText; sc.style.cssText = "display:block";
+    let lf = 96; while (lf > 64 && lb.offsetHeight > 330) { lf -= 4; inn.style.setProperty("--tlf", lf + "px"); }
+    let vf = 190; inn.style.setProperty("--tvf", vf + "px");
+    while (vf > 90 && tv.offsetWidth > 920) { vf -= 6; inn.style.setProperty("--tvf", vf + "px"); }
+    const tvt = Math.max(640, lb.offsetTop + lb.offsetHeight + 30); inn.style.setProperty("--tvt", tvt + "px");
+    const tst = tvt + tv.offsetHeight + 34; inn.style.setProperty("--tst", Math.max(870, tst) + "px");
+    if (ts && nt) { const bottom = ts.offsetTop + ts.offsetHeight + 30; if (bottom > nt.offsetTop) nt.style.top = bottom + "px"; }
+    sc.style.cssText = prev; });
   const ph = document.getElementById("pinhook");   // YouTube copy: biggest pinned hook that fits between the brand bar and the shrunken step
   if (S.pin) { ph.style.display = "block"; let f = 120; ph.style.setProperty("--pfs", f + "px");
     while ((ph.offsetHeight > 420 || ph.scrollWidth > ph.clientWidth + 2) && f > 56) { f -= 4; ph.style.setProperty("--pfs", f + "px"); } }
