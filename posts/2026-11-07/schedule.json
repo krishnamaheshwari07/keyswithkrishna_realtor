@@ -272,7 +272,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-07T17:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Half-point lower rate, or $50K less borrowed? Milton buyers, here is the monthly math.\n\nExample only, computed with Canadian semi-annual compounding, 25-year amortization:\n1) $600,000 at 4.44% = about $3,301 a month.\n2) $600,000 at 3.94% (half a point lower) = about $3,137 a month, saving about $164.\n3) $550,000 at 4.44% ($50,000 less borrowed) = about $3,026 a month, saving about $275.\nThe 4.44% example is the lowest 5-year fixed rate published by Ratehub.ca on Nov 6, 2026; 3.94% is a hypothetical. Lenders also apply the stress test and debt ratios, so what you qualify for may differ.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagemath #firsttimehomebuyer #keyswithkrishna",
@@ -388,7 +388,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-tt54634.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-yt54732.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-yt54732.mp4",
+    "ig_media_id": "18118752170602408",
+    "fb_thumb": "set",
+    "fb_id": "1685149766605467",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "AzveMAaQF9I",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261107-s2",
