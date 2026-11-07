@@ -1,634 +1,714 @@
 [
- {
-  "id": "d20261107-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T11:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton offer accepted? The deal may not be done yet.\n\nYour first steps: 1) Deliver your deposit by the deadline in your agreement. 2) Get the signed agreement to your real estate lawyer. 3) Book your home inspection early, because conditions have a deadline. 4) Confirm your financing with your lender before your conditions end.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #offeraccepted #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f01.png",
-    "say": "Brampton offer accepted. Is the deal safe yet?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f02.png",
-    "say": "First, send your deposit on time. The deadline is written in your agreement.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f03.png",
-    "say": "Next, get the signed agreement to your lawyer so the review can start.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f04.png",
-    "say": "Then, book your home inspection early. Now the twist. Your conditions have a deadline, and the clock keeps running.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f05.png",
-    "say": "Finally, confirm your financing with your lender before your conditions end.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r1-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton offer accepted. *Not done yet.",
-     "kick": "CONDITIONS CLOCK",
-     "prop": "handshake"
+  {
+    "id": "d20261107-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T11:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton offer accepted? The deal may not be done yet.\n\nYour first steps: 1) Deliver your deposit by the deadline in your agreement. 2) Get the signed agreement to your real estate lawyer. 3) Book your home inspection early, because conditions have a deadline. 4) Confirm your financing with your lender before your conditions end.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #offeraccepted #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r1-vo53804.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f01.png",
+        "say": "Brampton offer accepted. Is the deal safe yet?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f02.png",
+        "say": "First, send the deposit. send your deposit on time. The deadline is written in your agreement.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f03.png",
+        "say": "Next, call your lawyer. get the signed agreement to your lawyer so the review can start.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f04.png",
+        "say": "Then, book the inspection. book your home inspection early. Now the twist. Your conditions have a deadline, and the clock keeps running.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f05.png",
+        "say": "Finally, confirm financing. confirm your financing with your lender before your conditions end.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r1-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton offer accepted. *Not done yet.",
+          "kick": "CONDITIONS CLOCK",
+          "prop": "handshake"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Deliver your deposit by the deadline written in your agreement.",
+          "short": "Send the deposit"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Get the signed agreement to your real estate lawyer right away.",
+          "short": "Call your lawyer"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Book your home inspection early. Conditions have a deadline.",
+          "short": "Book the inspection"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Confirm your financing with your lender before conditions end.",
+          "short": "Confirm financing"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p040.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Deliver your deposit by the deadline written in your agreement.",
-     "short": "Send the deposit"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Get the signed agreement to your real estate lawyer right away.",
-     "short": "Call your lawyer"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Book your home inspection early. Conditions have a deadline.",
-     "short": "Book the inspection"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Confirm your financing with your lender before conditions end.",
-     "short": "Confirm financing"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "relief mixed with fear of missing a deadline",
+    "share_reason": "the co-buyer whose offer was just accepted",
+    "format": "step-by-step",
+    "hook_pattern": "7 specific scene cold open / cost of a mistake (no figure)",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 27.4,
+    "vo_frame_seconds": [
+      2.85,
+      4.81,
+      4.2,
+      5.77,
+      4.75,
+      4.98
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r1-tt53818.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r1-yt53921.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "relief mixed with fear of missing a deadline",
-  "share_reason": "the co-buyer whose offer was just accepted",
-  "format": "step-by-step",
-  "hook_pattern": "7 specific scene cold open / cost of a mistake (no figure)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Offer accepted. Then what?\n\nDeposit, lawyer, inspection and financing all have deadlines. I broke down the first steps in my newest Reel.\n\nBuying in Ontario? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #offeraccepted #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-s1.mp4",
-  "brand_corner": "headshot",
-  "photo": "p038.jpg",
-  "format": "educational",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Picture this: you're selling in Oakville and thinking about a big renovation before you list.\n\n1) Ask your Realtor® what buyers in your area actually pay for. 2) Consider small fixes first: paint, lighting and minor repairs. 3) Get written quotes before starting any big project, because it may cost more than it adds.\n\nSelling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not financial advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeseller #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r2-frames/f01.png",
-    "say": "Picture this: Oakville seller, big renovation, small return?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r2-frames/f02.png",
-    "say": "First, ask your Realtor what buyers in your area actually pay for.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r2-frames/f03.png",
-    "say": "Next, consider small fixes first. Paint, lighting and minor repairs.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r2-frames/f04.png",
-    "say": "Finally, get written quotes. Now the twist. A big project may cost more than it adds, so ask before you spend.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r2-frames/f05.png",
-    "say": "Like, comment and share this with a neighbour thinking of selling. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Oakville sellers: *renovation could backfire.",
-     "kick": "BEFORE YOU LIST",
-     "prop": "swatches"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 3,
-     "prop": "handshake",
-     "text": "Ask your Realtor® what buyers in your area actually pay for.",
-     "short": "Ask what buyers pay for"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 3,
-     "prop": "swatches",
-     "text": "Consider small fixes first: paint, lighting and minor repairs.",
-     "short": "Small fixes first"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Get written quotes before starting any big project.",
-     "short": "Get quotes first"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a neighbour selling soon",
-     "fine": "General information only. Results vary. Not financial advice."
-    }
-   ]
+  {
+    "id": "d20261107-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Offer accepted. Then what?\n\nDeposit, lawyer, inspection and financing all have deadlines. I broke down the first steps in my newest Reel.\n\nBuying in Ontario? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #offeraccepted #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-s1.mp4",
+    "brand_corner": "headshot",
+    "photo": "p038.jpg",
+    "format": "educational",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a costly mistake avoided",
-  "share_reason": "a neighbour thinking of selling",
-  "format": "picture-this",
-  "hook_pattern": "2 cost of a mistake (no figure) / Picture this scenario",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261107-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Cambridge detached homes, from $969,990.\n\nFairway Meadows by Laurelcrest Homes, Cambridge. Detached homes (35', 40' and 50' lots), from $969,990 for the corner 35' per the builder price list (confirm HST treatment with the builder). Occupancy: Oct to Dec 2027 per the price list. Illustration only. Not the actual home.\n\nRegister your interest: comment INFO to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #preconstruction #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-f1.png",
-  "brand_corner": "headshot",
-  "photo": "p036.jpg",
-  "format": "precon-spotlight",
-  "hook_pattern": "8 price anchor (sourced)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Half-point lower rate, or $50K less borrowed? Milton buyers, here is the monthly math.\n\nExample only, computed with Canadian semi-annual compounding, 25-year amortization:\n1) $600,000 at 4.44% = about $3,301 a month.\n2) $600,000 at 3.94% (half a point lower) = about $3,137 a month, saving about $164.\n3) $550,000 at 4.44% ($50,000 less borrowed) = about $3,026 a month, saving about $275.\nThe 4.44% example is the lowest 5-year fixed rate published by Ratehub.ca on Nov 6, 2026; 3.94% is a hypothetical. Lenders also apply the stress test and debt ratios, so what you qualify for may differ.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagemath #firsttimehomebuyer #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f01.png",
-    "say": "Milton buyers: lower rate or less borrowed?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f02.png",
-    "say": "First, a six hundred thousand dollar mortgage at four point four four percent is about thirty-three hundred dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f03.png",
-    "say": "Next, a half-point lower rate brings it to about thirty-one hundred thirty-seven dollars. That saves one hundred sixty-four dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f04.png",
-    "say": "Then, borrowing fifty thousand dollars less brings it to about three thousand twenty-six dollars. That saves two hundred seventy-five dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f05.png",
-    "say": "So all in, borrowing fifty thousand dollars less saves about two hundred seventy-five dollars a month, versus one hundred sixty-four dollars from a half-point lower rate.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r3-frames/f06.png",
-    "say": "Like, comment and share this with someone chasing a lower rate. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Half-point lower rate. *Or $50K less?",
-     "kick": "WHICH SAVES MORE",
-     "prop": "calculator"
+  {
+    "id": "d20261107-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Picture this: you're selling in Oakville and thinking about a big renovation before you list.\n\n1) Ask your Realtor\u00ae what buyers in your area actually pay for. 2) Consider small fixes first: paint, lighting and minor repairs. 3) Get written quotes before starting any big project, because it may cost more than it adds.\n\nSelling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not financial advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #sellingyourhome #homeseller #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-vo54188.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r2-frames/f01.png",
+        "say": "Picture this: Oakville seller, big renovation, small return?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r2-frames/f02.png",
+        "say": "First, ask what buyers pay for. ask your Realtor what buyers in your area actually pay for.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r2-frames/f03.png",
+        "say": "Next, consider small fixes first. Paint, lighting and minor repairs.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r2-frames/f04.png",
+        "say": "Finally, get quotes first. get written quotes. Now the twist. A big project may cost more than it adds, so ask before you spend.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r2-frames/f05.png",
+        "say": "Like, comment and share this with a neighbour thinking of selling. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Oakville sellers: *renovation could backfire.",
+          "kick": "BEFORE YOU LIST",
+          "prop": "swatches"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 3,
+          "prop": "handshake",
+          "text": "Ask your Realtor\u00ae what buyers in your area actually pay for.",
+          "short": "Ask what buyers pay for"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 3,
+          "prop": "swatches",
+          "text": "Consider small fixes first: paint, lighting and minor repairs.",
+          "short": "Small fixes first"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Get written quotes before starting any big project.",
+          "short": "Get quotes first"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a neighbour selling soon",
+          "fine": "General information only. Results vary. Not financial advice."
+        }
+      ],
+      "photo": "p041.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "mortgage",
-     "text": "Monthly mortgage on $600K at 4.44%",
-     "value": "$3,301",
-     "formula": "$600K, 25 years, 4.44%",
-     "running": "$3,301 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "chart",
-     "text": "Same $600K at a half-point lower, 3.94%",
-     "value": "$3,137",
-     "formula": "$600K, 25 years, 3.94%",
-     "running": "Saves $164 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Or borrow $50K less, still at 4.44%",
-     "value": "$3,026",
-     "formula": "$550K, 25 years, 4.44%",
-     "running": "Saves $275 a month"
-    },
-    {
-     "kind": "total",
-     "text": "Monthly saving: $50K less vs a half-point lower rate",
-     "value": "$275 vs $164",
-     "sub": "per month, on the same $600K example.",
-     "note": "Example only: $600K mortgage, 25-year amortization, 5-year fixed, semi-annual compounding. 4.44% is the lowest 5-year fixed rate published by Ratehub.ca on Nov 6, 2026; 3.94% is a hypothetical. Lenders also apply the stress test. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with someone chasing a lower rate",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a costly mistake avoided",
+    "share_reason": "a neighbour thinking of selling",
+    "format": "picture-this",
+    "hook_pattern": "2 cost of a mistake (no figure) / Picture this scenario",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 23.7,
+    "vo_frame_seconds": [
+      3.4,
+      4.57,
+      4.92,
+      5.79,
+      5.01
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-tt54200.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r2-yt54288.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise",
-  "share_reason": "a friend obsessed with getting the lowest rate",
-  "format": "money-math",
-  "hook_pattern": "5 timing objection + 11 interactive guess (everyday math)",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday",
-  "idea": 3,
-  "timeless": true
- },
- {
-  "id": "d20261107-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke buyer: is the fence on the line?\n\nA survey shows the property lines and any encroachments. Ask whether the seller has one, or whether title insurance may cover it, and let your lawyer explain your options.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-s2.mp4",
-  "brand_corner": "headshot",
-  "photo": "p039.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address / tease",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown keys: who else might have one?\n\nYour first steps after closing: 1) Re-key or change the locks before you move in. 2) Find your main water shut-off and electrical panel. 3) Test every smoke and carbon monoxide alarm. 4) Update your address with your bank, employer and Canada Post.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #movingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f01.png",
-    "say": "Georgetown: just got your keys? Who else has one?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f02.png",
-    "say": "First, re-key or change the locks before you move your things in.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f03.png",
-    "say": "Next, find your main water shut-off and your electrical panel. Now the twist. If a pipe leaks, you won't want to be searching.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f04.png",
-    "say": "Then, test every smoke and carbon monoxide alarm, and replace weak batteries.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f05.png",
-    "say": "Finally, update your address with your bank, employer and Canada Post.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r4-frames/f06.png",
-    "say": "Like, comment and share this with a Georgetown buyer getting keys soon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Georgetown keys. *Who else has one?",
-     "kick": "DAY ONE",
-     "prop": "keys"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "keys",
-     "text": "Re-key or change the locks before you move your things in.",
-     "short": "Change the locks"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Find your main water shut-off and your electrical panel.",
-     "short": "Find the shut-offs"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "shield",
-     "text": "Test every smoke and carbon monoxide alarm. Replace weak batteries.",
-     "short": "Test the alarms"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "Update your address with your bank, employer and Canada Post.",
-     "short": "Update your address"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Georgetown buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261107-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Cambridge detached homes, from $969,990.\n\nFairway Meadows by Laurelcrest Homes, Cambridge. Detached homes (35', 40' and 50' lots), from $969,990 for the corner 35' per the builder price list (confirm HST treatment with the builder). Occupancy: Oct to Dec 2027 per the price list. Illustration only. Not the actual home.\n\nRegister your interest: comment INFO to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #preconstruction #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-f1.png",
+    "brand_corner": "headshot",
+    "photo": "p036.jpg",
+    "format": "precon-spotlight",
+    "hook_pattern": "8 price anchor (sourced)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "relief and a little unease",
-  "share_reason": "a friend getting keys soon",
-  "format": "step-by-step",
-  "hook_pattern": "6 tease + 9 moving here (question hook)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Jobs fell. Will the Bank of Canada hike again on Dec. 9?\n\nThe Canadian Press (via BNN Bloomberg, Nov 6, 2026) reports Canada lost 4,700 jobs in October and the unemployment rate rose two tenths to 6.7%. The Bank of Canada raised its policy rate a quarter point to 2.5% on Oct. 28. As of Nov 6, LSEG put the odds of another quarter-point hike at the Dec. 9 decision at 35%. CIBC's Andrew Grantham says that if oil and labour softness persist, CIBC forecasts the Bank will hold in December.\n\nExample only: a quarter-point change (4.44% to 4.69%, 25-year amortization, semi-annual compounding) is about $14 a month per $100,000 borrowed. Variable rates follow the Bank's rate; fixed rates follow bond yields.\n\nHike or hold on Dec. 9? Comment your guess.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice. Sources: The Canadian Press / BNN Bloomberg, Nov 6, 2026; Ratehub.ca, Nov 6, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #marketwatch #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f01.png",
-    "say": "Jobs fell. Will rates rise December ninth?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f02.png",
-    "say": "The Canadian Press reports Canada lost four thousand, seven hundred jobs in October, and unemployment rose to six point seven percent.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f03.png",
-    "say": "First, as of Friday, LSEG put the odds of another quarter-point hike on December ninth at thirty-five percent.",
-    "min": 6.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f04.png",
-    "say": "Next, CIBC's economist forecasts a hold in December. Now the twist. That's if oil and job weakness persist.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f05.png",
-    "say": "Then, a quarter-point move is about fourteen dollars a month for every hundred thousand dollars borrowed.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r5-frames/f06.png",
-    "say": "Like, comment and share this with a variable-rate owner. Hike or hold? Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MARKET WATCH",
-   "area": "CANADA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Jobs fell. *Dec. 9 rate hike?",
-     "kick": "35% ODDS",
-     "prop": "chart",
-     "clip": {
-      "source": "The Canadian Press",
-      "date": "Nov 6, 2026",
-      "headline": "Canada *lost jobs again; unemployment rose to *6.7%"
-     }
+  {
+    "id": "d20261107-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Half-point lower rate, or $50K less borrowed? Milton buyers, here is the monthly math.\n\nExample only, computed with Canadian semi-annual compounding, 25-year amortization:\n1) $600,000 at 4.44% = about $3,301 a month.\n2) $600,000 at 3.94% (half a point lower) = about $3,137 a month, saving about $164.\n3) $550,000 at 4.44% ($50,000 less borrowed) = about $3,026 a month, saving about $275.\nThe 4.44% example is the lowest 5-year fixed rate published by Ratehub.ca on Nov 6, 2026; 3.94% is a hypothetical. Lenders also apply the stress test and debt ratios, so what you qualify for may differ.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #mortgagemath #firsttimehomebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-vo54620.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f01.png",
+        "say": "Milton buyers: lower rate or less borrowed?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f02.png",
+        "say": "First, a six hundred thousand dollar mortgage at four point four four percent is about thirty-three hundred dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f03.png",
+        "say": "Next, a half-point lower rate brings it to about thirty-one hundred thirty-seven dollars. That saves one hundred sixty-four dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f04.png",
+        "say": "Finally, borrowing fifty thousand dollars less brings it to about three thousand twenty-six dollars. That saves two hundred seventy-five dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f05.png",
+        "say": "So all in, borrowing fifty thousand dollars less saves about two hundred seventy-five dollars a month, versus one hundred sixty-four dollars from a half-point lower rate.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r3-frames/f06.png",
+        "say": "Like, comment and share this with someone chasing a lower rate. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Half-point lower rate. *Or $50K less?",
+          "kick": "WHICH SAVES MORE",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "mortgage",
+          "text": "Monthly mortgage on $600K at 4.44%",
+          "value": "$3,301",
+          "formula": "$600K, 25 years, 4.44%",
+          "running": "$3,301 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "chart",
+          "text": "Same $600K at a half-point lower, 3.94%",
+          "value": "$3,137",
+          "formula": "$600K, 25 years, 3.94%",
+          "running": "Saves $164 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Or borrow $50K less, still at 4.44%",
+          "value": "$3,026",
+          "formula": "$550K, 25 years, 4.44%",
+          "running": "Saves $275 a month"
+        },
+        {
+          "kind": "total",
+          "text": "Monthly saving: $50K less vs a half-point lower rate",
+          "value": "$275 vs $164",
+          "sub": "per month, on the same $600K example.",
+          "note": "Example only: $600K mortgage, 25-year amortization, 5-year fixed, semi-annual compounding. 4.44% is the lowest 5-year fixed rate published by Ratehub.ca on Nov 6, 2026; 3.94% is a hypothetical. Lenders also apply the stress test. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with someone chasing a lower rate",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p042.jpg"
     },
-    {
-     "kind": "news",
-     "source": "The Canadian Press",
-     "date": "Nov 6, 2026",
-     "text": "Canada lost 4,700 jobs in October. Unemployment rose to 6.7%."
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 3,
-     "prop": "chart",
-     "text": "As of Nov 6, LSEG put odds of another quarter-point hike on Dec. 9 at 35%.",
-     "short": "Dec. 9 odds",
-     "note": "Source: The Canadian Press / LSEG, Nov 6, 2026."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 3,
-     "prop": "calendar",
-     "text": "CIBC's Andrew Grantham forecasts a hold in December if weakness persists.",
-     "short": "CIBC expects hold",
-     "note": "Source: The Canadian Press, Nov 6, 2026."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 3,
-     "prop": "calculator",
-     "text": "A quarter-point move is about $14 a month per $100K, felt first on variable rates.",
-     "short": "Per $100K",
-     "note": "Example: 25-year amortization, 4.44% to 4.69%, semi-annual compounding."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a variable-rate owner",
-     "fine": "Forecasts can change. Not financial or mortgage advice. Source: The Canadian Press, Nov 6, 2026."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise",
+    "share_reason": "a friend obsessed with getting the lowest rate",
+    "format": "money-math",
+    "hook_pattern": "5 timing objection + 11 interactive guess (everyday math)",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "idea": 3,
+    "timeless": true,
+    "vo_status": "done",
+    "vo_seconds": 29.4,
+    "vo_frame_seconds": [
+      2.42,
+      4.54,
+      5.09,
+      5.74,
+      6.46,
+      5.13
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-tt54634.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r3-yt54732.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "suspense about a dated decision",
-  "share_reason": "someone with a variable-rate mortgage",
-  "format": "market-watch",
-  "hook_pattern": "1 odds framing from a named source + 5 countdown to a dated event",
-  "audience": "buyer",
-  "series": "market-watch",
-  "music_mood": "tense"
- },
- {
-  "id": "d20261107-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga bidding war? Set your limit before offer night.\n\nDecide your top price ahead of time, know what your lender has approved, and ask your Realtor® how competing offers are handled, so emotion doesn't set your price.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #biddingwar #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-f2.png",
-  "brand_corner": "headshot",
-  "photo": "p037.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake / pain point",
-  "audience": "buyer"
- },
- {
-  "id": "d20261107-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-07T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Caledon home with room to breathe? Check the drive first.\n\nCountry living often means more driving. Before you make an offer, drive your real commute, school runs and grocery trips at busy times, so you know what a normal week feels like.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #caledonrealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-07/d20261107-r6-frames/f01.png",
-    "say": "Buying in Caledon? Drive it first.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r6-frames/f02.png",
-    "say": "Drive your real commute, plus school and grocery runs, at busy times. Do it before you make an offer.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-07/d20261107-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Caledon buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "CALEDON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Caledon home. *Check the commute first.",
-     "kick": "BEFORE YOU OFFER",
-     "prop": "search"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "search",
-     "text": "Drive your real commute, school and grocery runs at busy times before you offer.",
-     "short": "Test drive it"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Caledon buyer",
-     "fine": "General information only."
-    }
-   ]
+  {
+    "id": "d20261107-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke buyer: is the fence on the line?\n\nA survey shows the property lines and any encroachments. Ask whether the seller has one, or whether title insurance may cover it, and let your lawyer explain your options.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-s2.mp4",
+    "brand_corner": "headshot",
+    "photo": "p039.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address / tease",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at a hidden daily cost",
-  "share_reason": "someone dreaming of country living",
-  "format": "quick-tip",
-  "hook_pattern": "4 direct address with a stake + tease",
-  "audience": "buyer",
-  "series": "timeless",
-  "idea": 4
- }
+  {
+    "id": "d20261107-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown keys: who else might have one?\n\nYour first steps after closing: 1) Re-key or change the locks before you move in. 2) Find your main water shut-off and electrical panel. 3) Test every smoke and carbon monoxide alarm. 4) Update your address with your bank, employer and Canada Post.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #movingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r4-vo55025.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f01.png",
+        "say": "Georgetown: just got your keys? Who else has one?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f02.png",
+        "say": "First, re-key or change the locks before you move your things in.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f03.png",
+        "say": "Next, find the shut-offs. find your main water shut-off and your electrical panel. Now the twist. If a pipe leaks, you won't want to be searching.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f04.png",
+        "say": "Then, test the alarms. test every smoke and carbon monoxide alarm, and replace weak batteries.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f05.png",
+        "say": "Finally, update your address with your bank, employer and Canada Post.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r4-frames/f06.png",
+        "say": "Like, comment and share this with a Georgetown buyer getting keys soon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Georgetown keys. *Who else has one?",
+          "kick": "DAY ONE",
+          "prop": "keys"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "keys",
+          "text": "Re-key or change the locks before you move your things in.",
+          "short": "Change the locks"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Find your main water shut-off and your electrical panel.",
+          "short": "Find the shut-offs"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "shield",
+          "text": "Test every smoke and carbon monoxide alarm. Replace weak batteries.",
+          "short": "Test the alarms"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "Update your address with your bank, employer and Canada Post.",
+          "short": "Update your address"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Georgetown buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p043.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "relief and a little unease",
+    "share_reason": "a friend getting keys soon",
+    "format": "step-by-step",
+    "hook_pattern": "6 tease + 9 moving here (question hook)",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 27.0,
+    "vo_frame_seconds": [
+      2.93,
+      3.66,
+      6.25,
+      4.82,
+      3.25,
+      6.08
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r4-tt55038.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r4-yt55131.mp4"
+  },
+  {
+    "id": "d20261107-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Jobs fell. Will the Bank of Canada hike again on Dec. 9?\n\nThe Canadian Press (via BNN Bloomberg, Nov 6, 2026) reports Canada lost 4,700 jobs in October and the unemployment rate rose two tenths to 6.7%. The Bank of Canada raised its policy rate a quarter point to 2.5% on Oct. 28. As of Nov 6, LSEG put the odds of another quarter-point hike at the Dec. 9 decision at 35%. CIBC's Andrew Grantham says that if oil and labour softness persist, CIBC forecasts the Bank will hold in December.\n\nExample only: a quarter-point change (4.44% to 4.69%, 25-year amortization, semi-annual compounding) is about $14 a month per $100,000 borrowed. Variable rates follow the Bank's rate; fixed rates follow bond yields.\n\nHike or hold on Dec. 9? Comment your guess.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice. Sources: The Canadian Press / BNN Bloomberg, Nov 6, 2026; Ratehub.ca, Nov 6, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #mortgagerates #marketwatch #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r5-vo55488.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f01.png",
+        "say": "Jobs fell. Will rates rise December ninth?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f02.png",
+        "say": "The Canadian Press reports Canada lost four thousand, seven hundred jobs in October, and unemployment rose to six point seven percent.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f03.png",
+        "say": "First, dec. 9 odds. as of Friday, LSEG put the odds of another quarter-point hike on December ninth at thirty-five percent.",
+        "min": 6.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f04.png",
+        "say": "Next, CIBC expects hold. CIBC's economist forecasts a hold in December. Now the twist. That's if oil and job weakness persist.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f05.png",
+        "say": "Finally, per $100K. a quarter-point move is about fourteen dollars a month for every hundred thousand dollars borrowed.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r5-frames/f06.png",
+        "say": "Like, comment and share this with a variable-rate owner. Hike or hold? Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MARKET WATCH",
+      "area": "CANADA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Jobs fell. *Dec. 9 rate hike?",
+          "kick": "35% ODDS",
+          "prop": "chart",
+          "clip": {
+            "source": "The Canadian Press",
+            "date": "Nov 6, 2026",
+            "headline": "Canada *lost jobs again; unemployment rose to *6.7%"
+          }
+        },
+        {
+          "kind": "news",
+          "source": "The Canadian Press",
+          "date": "Nov 6, 2026",
+          "text": "Canada lost 4,700 jobs in October. Unemployment rose to 6.7%."
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 3,
+          "prop": "chart",
+          "text": "As of Nov 6, LSEG put odds of another quarter-point hike on Dec. 9 at 35%.",
+          "short": "Dec. 9 odds",
+          "note": "Source: The Canadian Press / LSEG, Nov 6, 2026."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 3,
+          "prop": "calendar",
+          "text": "CIBC's Andrew Grantham forecasts a hold in December if weakness persists.",
+          "short": "CIBC expects hold",
+          "note": "Source: The Canadian Press, Nov 6, 2026."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 3,
+          "prop": "calculator",
+          "text": "A quarter-point move is about $14 a month per $100K, felt first on variable rates.",
+          "short": "Per $100K",
+          "note": "Example: 25-year amortization, 4.44% to 4.69%, semi-annual compounding."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a variable-rate owner",
+          "fine": "Forecasts can change. Not financial or mortgage advice. Source: The Canadian Press, Nov 6, 2026."
+        }
+      ],
+      "photo": "p044.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "suspense about a dated decision",
+    "share_reason": "someone with a variable-rate mortgage",
+    "format": "market-watch",
+    "hook_pattern": "1 odds framing from a named source + 5 countdown to a dated event",
+    "audience": "buyer",
+    "series": "market-watch",
+    "music_mood": "tense",
+    "vo_status": "done",
+    "vo_seconds": 33.8,
+    "vo_frame_seconds": [
+      2.71,
+      5.97,
+      6.55,
+      7.1,
+      5.04,
+      6.47
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r5-tt55505.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r5-yt55623.mp4"
+  },
+  {
+    "id": "d20261107-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga bidding war? Set your limit before offer night.\n\nDecide your top price ahead of time, know what your lender has approved, and ask your Realtor\u00ae how competing offers are handled, so emotion doesn't set your price.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #biddingwar #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-f2.png",
+    "brand_corner": "headshot",
+    "photo": "p037.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake / pain point",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261107-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-07T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Caledon home with room to breathe? Check the drive first.\n\nCountry living often means more driving. Before you make an offer, drive your real commute, school runs and grocery trips at busy times, so you know what a normal week feels like.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #caledonrealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r6-vo55761.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-07/d20261107-r6-frames/f01.png",
+        "say": "Buying in Caledon? Drive it first.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r6-frames/f02.png",
+        "say": "Drive your real commute, plus school and grocery runs, at busy times. Do it before you make an offer.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-07/d20261107-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Caledon buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "CALEDON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Caledon home. *Check the commute first.",
+          "kick": "BEFORE YOU OFFER",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "search",
+          "text": "Drive your real commute, school and grocery runs at busy times before you offer.",
+          "short": "Test drive it"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Caledon buyer",
+          "fine": "General information only."
+        }
+      ],
+      "photo": "p045.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at a hidden daily cost",
+    "share_reason": "someone dreaming of country living",
+    "format": "quick-tip",
+    "hook_pattern": "4 direct address with a stake + tease",
+    "audience": "buyer",
+    "series": "timeless",
+    "idea": 4,
+    "vo_status": "done",
+    "vo_seconds": 12.6,
+    "vo_frame_seconds": [
+      2.21,
+      5.06,
+      5.29
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r6-tt55768.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-07/d20261107-r6-yt55812.mp4"
+  }
 ]
