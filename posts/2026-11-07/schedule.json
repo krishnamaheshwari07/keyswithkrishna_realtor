@@ -402,7 +402,7 @@
     "type": "story",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-07T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Etobicoke buyer: is the fence on the line?\n\nA survey shows the property lines and any encroachments. Ask whether the seller has one, or whether title insurance may cover it, and let your lawyer explain your options.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #closingday #keyswithkrishna",
@@ -411,7 +411,10 @@
     "photo": "p039.jpg",
     "format": "educational",
     "hook_pattern": "4 direct address / tease",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18655273978030480",
+    "fb_id": "1417335483466004",
+    "fb_status": "posted"
   },
   {
     "id": "d20261107-r4",
