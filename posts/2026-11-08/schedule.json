@@ -272,7 +272,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-08T17:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "$700K Oakville home. What if rates rise 1%? Here is the monthly mortgage math.\n\nExample only, computed with Canadian semi-annual compounding, 25-year amortization:\n1) $700,000 home with 20% down ($140,000) = $560,000 mortgage.\n2) $560,000 at 4.44% = about $3,081 a month.\n3) $560,000 at 5.44% (1 point higher) = about $3,399 a month, about $318 more.\n4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 7, 2026; 5.44% is a hypothetical. Lenders also apply the stress test and debt ratios, so what you qualify for may differ.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #mortgagemath #homebuyingtips #keyswithkrishna",
@@ -386,7 +386,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-08/d20261108-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-08/d20261108-r3-tt41661.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-08/d20261108-r3-yt41783.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-08/d20261108-r3-yt41783.mp4",
+    "ig_media_id": "18220423927345953",
+    "fb_thumb": "set",
+    "fb_id": "1080600551670128",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "p0QfdkyEAPE",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261108-s2",
