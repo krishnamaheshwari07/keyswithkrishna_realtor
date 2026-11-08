@@ -253,7 +253,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-08T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Brampton stacked towns, from $499,990.\n\nCountryside Urban Towns by Rosehaven Homes, Brampton. Stacked and urban condo towns (82 units, 4 buildings), from $499,990 excl. HST per the builder price list. Occupancy: confirm with builder. Illustration only. Not the actual home.\n\nRegister your interest: comment INFO to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #preconstruction #peelregion #keyswithkrishna",
@@ -262,7 +262,10 @@
     "photo": "p046.jpg",
     "format": "precon-spotlight",
     "hook_pattern": "8 price anchor (sourced)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17912914182558452",
+    "fb_id": "122124858093311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261108-r3",
