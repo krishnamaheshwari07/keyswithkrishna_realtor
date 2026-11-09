@@ -270,7 +270,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-09T17:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "$600 car payment. Could it shrink your Brampton mortgage? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) Lenders test you at the higher of 5.25% or your rate plus 2%. At 4.44%, that is 6.44%.\n2) A $600 monthly car payment counts as debt in your debt ratio, so it uses up $600 of monthly room.\n3) $600 a month at 6.44% over 25 years carries about $90,064 of mortgage, so about $90,000 less if your debt ratio is the limit.\nSources: Financial Consumer Agency of Canada, Mortgage Qualifier Tool (39% GDS / 44% TDS guideline and stress test rule); 4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026. Your lender decides; income, property tax, heating and other debts also count.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagemath #homebuyingtips #keyswithkrishna",
@@ -383,7 +383,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r3-tt30756.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r3-yt30884.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r3-yt30884.mp4",
+    "ig_media_id": "18103712012642304",
+    "fb_thumb": "set",
+    "fb_id": "1136391855426912",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "P9wUSK5L6HU",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261109-s2",
