@@ -1,0 +1,613 @@
+[
+ {
+  "id": "d20261109-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T11:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Oakville inspection flagged a leak. Walk away?\n\nSlow down first: 1) Read the whole report, not just the summary page. 2) Sort problems into safety, structure and cosmetic before reacting. 3) Ask a contractor to quote the big items before your condition expires. 4) Ask your Realtor® and lawyer what your options are before the condition date, because those options may end when it passes.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homeinspection #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f01.png",
+    "say": "Oakville inspection flagged a leak. Walk away?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f02.png",
+    "say": "First, read the whole inspection report, not just the summary page.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f03.png",
+    "say": "Next, sort the problems into safety, structure and cosmetic before you react.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f04.png",
+    "say": "Then, ask a contractor to quote the big items. Now the twist. Once your condition date passes, your options may be gone.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f05.png",
+    "say": "Finally, ask your Realtor and your lawyer what your options are, before the condition date.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r1-frames/f06.png",
+    "say": "Like, comment and share this with a buyer who has an inspection coming up. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Inspection flagged a leak. *Walk away?",
+     "kick": "BEFORE THE DEADLINE",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "search",
+     "text": "Read the whole report, not just the summary page.",
+     "short": "Read the full report"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Sort problems into safety, structure and cosmetic before reacting.",
+     "short": "Rank the problems"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Ask a contractor to quote the big items before your condition expires.",
+     "short": "Get repair quotes"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Ask your Realtor® and lawyer about your options before the condition date.",
+     "short": "Ask your lawyer"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a buyer inspecting soon",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend with an inspection coming up",
+  "format": "step-by-step",
+  "hook_pattern": "2 cost of a mistake (no figure) + 7 scene",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Inspection flagged a problem? Walk away?\n\nSlow down first. Your options depend on your agreement and your condition date. I explain the steps in my newest Reel.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #homeinspection #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-s1.mp4",
+  "brand_corner": "headshot",
+  "photo": "p056.jpg",
+  "format": "educational",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Georgetown: sell first or buy first? Either order has a catch.\n\n1) Sell first and you may need somewhere to live between closing dates. 2) Buy first and you could be paying for two homes if your sale hasn't closed yet. 3) Ask your lender early about bridge financing and what it would cost.\n\nSelling and buying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r2-frames/f01.png",
+    "say": "Georgetown: sell first, or buy first?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r2-frames/f02.png",
+    "say": "First, if you sell first, you may need somewhere to live between closing dates.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r2-frames/f03.png",
+    "say": "Next, if you buy first, you could be paying for two homes. Now the twist. That can happen if your own sale hasn't closed yet.",
+    "min": 5.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r2-frames/f04.png",
+    "say": "Finally, ask your lender early about bridge financing and what it would cost.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r2-frames/f05.png",
+    "say": "Like, comment and share this with a Georgetown homeowner who is moving up. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "GEORGETOWN",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Georgetown: two mortgages *or no home?",
+     "kick": "SELL OR BUY FIRST",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 3,
+     "prop": "calendar",
+     "text": "Sell first and you may need somewhere to live between closings.",
+     "short": "Selling first"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 3,
+     "prop": "mortgage",
+     "text": "Buy first and you could be paying for two homes if your sale hasn't closed.",
+     "short": "Buying first"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 3,
+     "prop": "calculator",
+     "text": "Ask your lender early about bridge financing and what it costs.",
+     "short": "Ask your lender"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Georgetown seller",
+     "fine": "General information only. Results vary. Not legal or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief from planning the right order",
+  "share_reason": "a friend who has to sell and buy",
+  "format": "mistake-then-fix",
+  "hook_pattern": "2 cost of a mistake + 5 timing objection",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261109-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Stratford urban bungalow towns, from $389,900.\n\nPoet & Perth by Reid's Heritage Homes, Stratford. Urban bungalow towns from $389,900 per the builder price list. Urban Collection occupancy: Spring 2028; move-in-ready homes in 30 to 90 days per the price list (confirm with builder). Illustration only. Not the actual home.\n\nRegister your interest: comment info to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#stratfordontario #preconstruction #bungalow #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-f1.png",
+  "brand_corner": "headshot",
+  "photo": "p057.jpg",
+  "format": "precon-spotlight",
+  "hook_pattern": "8 price anchor (sourced)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "$600 car payment. Could it shrink your Brampton mortgage? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) Lenders test you at the higher of 5.25% or your rate plus 2%. At 4.44%, that is 6.44%.\n2) A $600 monthly car payment counts as debt in your debt ratio, so it uses up $600 of monthly room.\n3) $600 a month at 6.44% over 25 years carries about $90,064 of mortgage, so about $90,000 less if your debt ratio is the limit.\nSources: Financial Consumer Agency of Canada, Mortgage Qualifier Tool (39% GDS / 44% TDS guideline and stress test rule); 4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026. Your lender decides; income, property tax, heating and other debts also count.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagemath #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f01.png",
+    "say": "Brampton: could a car payment shrink your mortgage?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f02.png",
+    "say": "First, lenders test you at your rate plus two percent. At four point four four percent, that's six point four four.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f03.png",
+    "say": "Next, a six hundred dollar car payment counts as debt. Now the twist. It uses up six hundred dollars of your monthly room.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f04.png",
+    "say": "Then, six hundred dollars a month at six point four four percent over twenty-five years carries about ninety thousand dollars of mortgage.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f05.png",
+    "say": "So all in, a new car payment could lower the mortgage you qualify for by about ninety thousand dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r3-frames/f06.png",
+    "say": "Like, comment and share this with someone about to buy a car before a home. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$600 car payment. *Mortgage shrinks?",
+     "kick": "DEBT RATIO",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "chart",
+     "text": "Qualifying rate: 4.44% + 2%",
+     "value": "6.44%",
+     "formula": "Higher than the 5.25% minimum",
+     "running": "6.44% used to qualify"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "cheque",
+     "text": "Car payment, per month",
+     "value": "$600",
+     "formula": "Counts as debt in your debt ratio",
+     "running": "$600 less monthly room"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "mortgage",
+     "text": "Mortgage that room could carry",
+     "value": "$90,000",
+     "formula": "$600/month at 6.44%, 25 years",
+     "running": "about $90,000 of mortgage"
+    },
+    {
+     "kind": "total",
+     "text": "Mortgage you may qualify for could drop by about",
+     "value": "$90,000",
+     "sub": "if your debt ratio is the limit. Your lender decides.",
+     "note": "Example only: $600 car payment, 25-year amortization, semi-annual compounding. 44% total debt guideline and 5.25% / rate + 2% stress test per the Financial Consumer Agency of Canada. 4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026. Income, property tax, heating and other debts also count. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with someone buying a car",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at what a car loan costs",
+  "share_reason": "a friend about to buy a car before a home",
+  "format": "money-math",
+  "hook_pattern": "3 number that demands explanation + 5 pain point (everyday math)",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261109-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "New car loan. Smaller mortgage?\n\nA new monthly debt can change what a lender lets you borrow. I worked out a $600 example in my newest Reel.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagemath #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-s2.mp4",
+  "brand_corner": "headshot",
+  "photo": "p058.jpg",
+  "format": "educational",
+  "hook_pattern": "5 pain point (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton closing: funds late, keys late? Late funds may delay your closing.\n\nBefore closing: 1) Ask your lawyer for the exact amount due and the deadline. 2) Ask which method they accept, like a bank draft or wire, and start early because your bank may have limits. 3) Before sending funds, call your lawyer on a number you already trust to confirm the instructions. 4) Ask what photo ID and documents you need to sign, and bring them.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #closingday #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f01.png",
+    "say": "Milton closing: funds late, keys late?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f02.png",
+    "say": "First, ask your lawyer for the exact amount due and the deadline.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f03.png",
+    "say": "Next, ask which method they accept, like a bank draft or wire. Now the twist. Your bank may have limits, so start early.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f04.png",
+    "say": "Then, before you send anything, call your lawyer on a number you already trust to confirm the instructions.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f05.png",
+    "say": "Finally, ask what photo ID and documents you need to sign, and bring them.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r4-frames/f06.png",
+    "say": "Like, comment and share this with a Milton buyer closing soon. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Funds late? Milton closing *may slip.",
+     "kick": "CLOSING WEEK",
+     "prop": "cheque"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Ask your lawyer for the exact amount due and the deadline.",
+     "short": "Ask the amount"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Ask which method they accept, like a bank draft or wire, and start early.",
+     "short": "Ask how to send"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Before sending funds, call a number you already trust to confirm the instructions.",
+     "short": "Confirm by phone"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask what ID and documents you need to sign, and bring them.",
+     "short": "Bring photo ID"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Milton buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly delay avoided",
+  "share_reason": "a friend closing in the next few weeks",
+  "format": "step-by-step",
+  "hook_pattern": "7 specific scene + 2 cost of a mistake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Older Mississauga home: money pit? Don't judge it by the year alone.\n\n1) Condition and upkeep matter, not just the year it was built. 2) Have an inspector check the roof, furnace, wiring, plumbing and foundation, because skipping the inspection is the real risk. 3) Ask your insurer early about the home's wiring and plumbing, before your conditions end.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #olderhomes #homeinspection #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r5-frames/f01.png",
+    "say": "Mississauga buyer: is an older home a money pit?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r5-frames/f02.png",
+    "say": "First, the year it was built isn't the whole story. Condition and upkeep matter too.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r5-frames/f03.png",
+    "say": "Next, have an inspector check the roof, furnace, wiring, plumbing and foundation. Now the twist. Skipping the inspection is the real risk.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r5-frames/f04.png",
+    "say": "Finally, ask your insurer early about the home's wiring and plumbing, before your conditions end.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r5-frames/f05.png",
+    "say": "Like, comment and share this with someone looking at older Mississauga homes. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYER TIPS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Older Mississauga home. *Money pit?",
+     "kick": "MYTH VS FACT",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 3,
+     "prop": "search",
+     "text": "Condition and upkeep matter, not just the year it was built.",
+     "short": "Age isn't the verdict"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 3,
+     "prop": "clipboard",
+     "text": "Have an inspector check the roof, furnace, wiring, plumbing and foundation.",
+     "short": "Inspect the big items"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 3,
+     "prop": "shield",
+     "text": "Ask your insurer early about the home's wiring and plumbing.",
+     "short": "Ask your insurer"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an older-home shopper",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief that age alone isn't the verdict",
+  "share_reason": "a friend who loves an older home",
+  "format": "myth-vs-fact",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "buyer",
+  "series": "timeless",
+  "idea": 6
+ },
+ {
+  "id": "d20261109-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Buying for schools? Zones can change.\n\nSchool boundaries and assignments can change, so confirm the school for an address directly with the school board before you make an offer, rather than relying on a listing's wording alone.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #schoolzone #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-f2.png",
+  "brand_corner": "headshot",
+  "photo": "p059.jpg",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261109-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-09T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Kitchener dream home: will it still work for you in twenty years?\n\nQuick tip: look for a bedroom and a full bathroom on the main floor. Stairs are fine today, but a home that works on one level may be easier to live in for years to come.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-09/d20261109-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-09/d20261109-r6-frames/f01.png",
+    "say": "Kitchener dream home. Still liveable in twenty years?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r6-frames/f02.png",
+    "say": "Quick tip: look for a bedroom and a full bathroom on the main floor. It keeps a home easier to live in for years to come.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-09/d20261109-r6-frames/f03.png",
+    "say": "Like, comment and share this with a Kitchener buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "KITCHENER",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Kitchener dream home. *Stairs later?",
+     "kick": "20 YEARS FROM NOW",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "house",
+     "text": "Look for a bedroom and full bathroom on the main floor.",
+     "short": "Main-floor living"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Kitchener buyer",
+     "fine": "General information only."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "that's-so-us foresight",
+  "share_reason": "a buyer choosing between two homes",
+  "format": "quick-tip",
+  "hook_pattern": "4 direct address with a stake + 7 scene",
+  "audience": "buyer",
+  "series": "timeless",
+  "idea": 5
+ }
+]

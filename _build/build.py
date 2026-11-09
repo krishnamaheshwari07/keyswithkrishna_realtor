@@ -84,12 +84,12 @@ def reel_page(r,sc):
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{css(th,H)}</style></head><body>{head(r['tag'],r['area'])}{body}{ring}{footer(H,1760,1784,1838)}</body></html>"""
 def precon_page(p):
     t=open('templates/precon-photo-headshot-dark.html').read().replace('../posts/','../../posts/')
-    R=[('p004.jpg',p['photo']),('BOWMANVILLE (CLARINGTON)',p['area']),('<h1>Ravine Mills</h1>','<h1 style="font-size:70px">Countryside Urban Towns</h1>'),
-       ('by Camcos Living · Freehold townhomes','by Rosehaven Homes · Stacked / urban condo towns'),
-       ('posts/assets/precon/PROJECT-1.jpg','posts/assets/precon/illustration-townhome.svg'),
+    R=[('p004.jpg',p['photo']),('BOWMANVILLE (CLARINGTON)',p['area']),('<h1>Ravine Mills</h1>','<h1 style="font-size:76px">Poet &amp; Perth</h1>'),
+       ('by Camcos Living · Freehold townhomes','by Reid\'s Heritage Homes · Urban bungalow towns'),
+       ('posts/assets/precon/PROJECT-1.jpg','posts/assets/precon/illustration-bungalow.svg'),
        ("Artist's concept. Actual product may vary.","Illustration only. Not the actual home."),
-       ('<b style="font-size:48px">$642,689</b><span>from price (HST included) · Occupancy: Summer 2027</span>','<b style="font-size:48px">$499,990</b><span>from price, excl. HST · Occupancy: confirm with builder</span>'),
-       ('From price per builder price list dated Jul 28, 2026. Occupancy is an estimate.','From price per builder price list, excl. HST. Occupancy not yet set: confirm with builder.')]
+       ('<b style="font-size:48px">$642,689</b><span>from price (HST included) · Occupancy: Summer 2027</span>','<b style="font-size:48px">$389,900</b><span>from price · Occupancy: Spring 2028 (confirm with builder)</span>'),
+       ('From price per builder price list dated Jul 28, 2026. Occupancy is an estimate.','From price per builder price lists dated Aug 31 and Sep 8, 2026. Occupancy per price list: confirm with builder.')]
     for a_,b_ in R:
         assert a_ in t,a_; t=t.replace(a_,b_)
     return t
