@@ -124,7 +124,7 @@
     "type": "story",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-09T12:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Inspection flagged a problem? Walk away?\n\nSlow down first. Your options depend on your agreement and your condition date. I explain the steps in my newest Reel.\n\nBuying a home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only, not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #homeinspection #homebuyingtips #keyswithkrishna",
@@ -133,7 +133,10 @@
     "photo": "p056.jpg",
     "format": "educational",
     "hook_pattern": "6 tease + reveal (teases today's Reel)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17988587613085826",
+    "fb_id": "1783129096319386",
+    "fb_status": "posted"
   },
   {
     "id": "d20261109-r2",
