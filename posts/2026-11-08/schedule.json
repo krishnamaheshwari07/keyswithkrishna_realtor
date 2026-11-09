@@ -649,7 +649,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-08T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Georgetown offer: is the fridge included?\n\nFixtures that are permanently attached usually stay, but movable items such as appliances should be listed in your agreement. Check that it names each appliance and window covering, and ask your Realtor\u00ae and lawyer to confirm what's included.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
@@ -658,7 +658,10 @@
     "photo": "p047.jpg",
     "format": "educational",
     "hook_pattern": "4 direct address with a stake / tease",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18099409256113166",
+    "fb_id": "122124883245311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261108-r6",
