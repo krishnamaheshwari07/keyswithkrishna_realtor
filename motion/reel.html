@@ -30,14 +30,14 @@ footer .r1 span{margin-left:26px}
 /* Big hook (Krishna, Oct 30): the hook screen is the grid/cover image, so it skips the 0.8 shrink and the headline auto-fits as large as the safe zone allows */
 .big .inner{transform:none}
 .big .area{top:446px;left:70px;font-size:34px}
-.big .hookstack{top:500px;gap:24px}
-.big .hook2{align-self:stretch;font-size:var(--hfs,200px);line-height:.95;letter-spacing:-.01em}
-.big .kick{font-size:84px;padding:12px 38px}
+.big .hookstack{top:500px;gap:24px;z-index:3}
+.big .hook2{align-self:stretch;font-size:var(--hfs,200px);line-height:.95;letter-spacing:-.01em;font-variant-numeric:lining-nums}
+.big .kick{font-size:var(--kfs,64px);padding:10px 32px;white-space:nowrap}   /* Nov 8: sticker smaller than the hook again; the hook is the star */
 .big .tease{font-size:44px;padding:16px 32px}
 .big .hookprop{display:none}
 /* Krishna's real photo on the hook/cover (Nov 3, 2026): an unedited frame from his own videos (background kept, never cut out),
    full width at the bottom, fading into the theme behind the hook text; each photo is used once (data/photo-usage.json) */
-.kph{position:absolute;left:0;bottom:0;width:1080px;height:960px;-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 22%);mask-image:linear-gradient(180deg,transparent 0,#000 22%)}
+.kph{position:absolute;left:0;bottom:0;width:1080px;height:var(--kph,960px);-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 22%);mask-image:linear-gradient(180deg,transparent 0,#000 22%)}
 .kph img{width:100%;height:100%;object-fit:cover;object-position:50% 25%}
 .headcard{position:absolute;right:60px;bottom:250px;width:500px;height:620px;border-radius:28px;overflow:hidden;border:8px solid var(--gold);box-shadow:0 26px 50px rgba(0,0,0,.4)}
 .headcard img{width:100%;height:100%;object-fit:cover;object-position:50% 25%}
@@ -233,9 +233,15 @@ const fitHooks = () => {   // shrink the big hook headline until the whole stack
   document.querySelectorAll(".big").forEach(sc => {
     const hk = sc.querySelector(".hook2"), st = sc.querySelector(".hookstack"), inner = sc.querySelector(".inner"); if (!hk || !st) return;
     const prev = sc.style.cssText; sc.style.cssText = "display:block";
-    let fs = 200;
-    const tooBig = () => st.offsetTop + st.offsetHeight > (sc.querySelector('.kph') ? 1010 : 1450) || hk.scrollWidth > hk.clientWidth + 2;
-    while (fs > 96 && tooBig()) { fs -= 4; inner.style.setProperty("--hfs", fs + "px"); }
+    // BIG HOOKS (Krishna, Nov 8, 2026: Reels did better when the hook filled the screen, like the Oct 30-31 covers; the Nov 3 photo layout had shrunk it to ~100px):
+    // the hook headline gets the space first (as big as 210px), the sticker stays on one line under it, and Krishna's photo takes whatever is left at the bottom (never less than 560px tall)
+    const kp = sc.querySelector('.kph'), kk = sc.querySelector('.kick');
+    let fs = 210; inner.style.setProperty("--hfs", fs + "px");
+    const limit = kp ? 1300 : 1450;
+    const tooBig = () => st.offsetTop + st.offsetHeight > limit || hk.scrollWidth > hk.clientWidth + 2;
+    while (fs > 110 && tooBig()) { fs -= 4; inner.style.setProperty("--hfs", fs + "px"); }
+    if (kk) { let kf = 64; while (kf > 40 && kk.offsetWidth > 940) { kf -= 2; inner.style.setProperty("--kfs", kf + "px"); } }
+    if (kp) { const free = 1920 - (st.offsetTop + st.offsetHeight) + 40; inner.style.setProperty("--kph", Math.max(560, Math.min(960, free)) + "px"); }
     sc.style.cssText = prev;
   });
   document.querySelectorAll(".scene").forEach(sc => {   // source line always sits under the step text, never on top of a long one
