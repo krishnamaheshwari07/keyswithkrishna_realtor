@@ -251,7 +251,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-09T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Stratford urban bungalow towns, from $389,900.\n\nPoet & Perth by Reid's Heritage Homes, Stratford. Urban bungalow towns from $389,900 per the builder price list. Urban Collection occupancy: Spring 2028; move-in-ready homes in 30 to 90 days per the price list (confirm with builder). Illustration only. Not the actual home.\n\nRegister your interest: comment INFO to get full details, or call 905-452-4298.\n\nPricing, availability and incentives are subject to change without notice. E.&O.E.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#stratfordontario #preconstruction #bungalow #keyswithkrishna",
@@ -260,7 +260,10 @@
     "photo": "p057.jpg",
     "format": "precon-spotlight",
     "hook_pattern": "8 price anchor (sourced)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17990061548885399",
+    "fb_id": "122124977913311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261109-r3",
