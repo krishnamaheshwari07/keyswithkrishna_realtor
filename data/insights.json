@@ -437,17 +437,17 @@
     "page_daily_follows_unique": 0,
     "page_daily_unfollows_unique": 0,
     "page_follows": 21,
-    "page_media_view": 528,
+    "page_media_view": 733,
     "page_post_engagements": 4,
-    "page_total_media_view_unique": 426
+    "page_total_media_view_unique": 595
    },
    "2026-11-10": {
     "page_daily_follows_unique": 0,
     "page_daily_unfollows_unique": 0,
     "page_follows": 21,
-    "page_media_view": 0,
+    "page_media_view": 22,
     "page_post_engagements": 0,
-    "page_total_media_view_unique": 0
+    "page_total_media_view_unique": 6
    }
   },
   "followers_by_day": {
@@ -631,13 +631,13 @@
     "kind": "reel",
     "length": 28.48,
     "metrics": {
-     "blue_reels_play_count": 192,
-     "fb_reels_replay_count": 14,
-     "fb_reels_total_plays": 206,
-     "post_video_avg_time_watched": 2074,
-     "post_video_view_time": 398236
+     "blue_reels_play_count": 202,
+     "fb_reels_replay_count": 15,
+     "fb_reels_total_plays": 217,
+     "post_video_avg_time_watched": 2139,
+     "post_video_view_time": 432192
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1080600551670128/",
     "schedule_id": "d20261108-r3",
     "scheduled_for": "2026-11-08T17:30:00-05:00",
@@ -673,7 +673,7 @@
      "post_video_avg_time_watched": 2038,
      "post_video_view_time": 71341
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1094569800109856/",
     "schedule_id": "d20261102-r3",
     "scheduled_for": "2026-11-02T17:30:00-05:00",
@@ -691,7 +691,7 @@
      "post_video_avg_time_watched": 3149,
      "post_video_view_time": 157479
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1096284006538548/",
     "schedule_id": "d20261106-r3",
     "scheduled_for": "2026-11-06T17:30:00-05:00",
@@ -703,13 +703,13 @@
     "kind": "reel",
     "length": 31.41,
     "metrics": {
-     "blue_reels_play_count": 117,
+     "blue_reels_play_count": 119,
      "fb_reels_replay_count": 9,
-     "fb_reels_total_plays": 126,
-     "post_video_avg_time_watched": 2960,
-     "post_video_view_time": 346325
+     "fb_reels_total_plays": 128,
+     "post_video_avg_time_watched": 2963,
+     "post_video_view_time": 352665
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1100750046167058/",
     "schedule_id": "d20261108-r1",
     "scheduled_for": "2026-11-08T11:30:00-05:00",
@@ -727,7 +727,7 @@
      "post_video_avg_time_watched": 2376,
      "post_video_view_time": 23766
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1105149285455849/",
     "schedule_id": "d20261102-r2",
     "scheduled_for": "2026-11-02T15:00:00-05:00",
@@ -781,7 +781,7 @@
      "post_video_avg_time_watched": 6973,
      "post_video_view_time": 397483
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1113637451462454/",
     "schedule_id": "d20261107-r1",
     "scheduled_for": "2026-11-07T11:30:00-05:00",
@@ -799,7 +799,7 @@
      "post_video_avg_time_watched": 2860,
      "post_video_view_time": 597936
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1113870804595482/",
     "schedule_id": "d20261105-r3",
     "scheduled_for": "2026-11-05T17:30:00-05:00",
@@ -2975,7 +2975,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2745201622560949/",
     "reactions": 0,
     "shares": 40,
@@ -2995,7 +2995,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123559945311840",
     "reactions": 0,
     "shares": 0,
@@ -3017,7 +3017,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/40192929640291176/",
     "reactions": 1,
     "shares": 0,
@@ -3037,7 +3037,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1131664786173952/",
     "reactions": 0,
     "shares": 0,
@@ -3059,7 +3059,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1361248953746194/",
     "reactions": 1,
     "shares": 0,
@@ -3079,7 +3079,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123584971311840",
     "reactions": 0,
     "shares": 0,
@@ -3099,7 +3099,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123585013311840",
     "reactions": 0,
     "shares": 0,
@@ -3119,7 +3119,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123585997311840",
     "reactions": 0,
     "shares": 0,
@@ -3139,7 +3139,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1605727137968357/",
     "reactions": 0,
     "shares": 0,
@@ -3159,7 +3159,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1466029958794627/",
     "reactions": 0,
     "shares": 0,
@@ -3179,7 +3179,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1925463735503642/",
     "reactions": 0,
     "shares": 0,
@@ -3199,7 +3199,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123663997311840",
     "reactions": 0,
     "shares": 0,
@@ -3219,7 +3219,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1165693532697870/",
     "reactions": 0,
     "shares": 0,
@@ -3239,7 +3239,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1460454016012101/",
     "reactions": 0,
     "shares": 0,
@@ -3259,7 +3259,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/879231571884264/",
     "reactions": 0,
     "shares": 0,
@@ -3279,7 +3279,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123688003311840",
     "reactions": 0,
     "shares": 0,
@@ -3299,7 +3299,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1061120513619733/",
     "reactions": 0,
     "shares": 0,
@@ -3319,7 +3319,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1827480138587282/",
     "reactions": 0,
     "shares": 0,
@@ -3339,7 +3339,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1948329269476495/",
     "reactions": 0,
     "shares": 0,
@@ -3359,7 +3359,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/4209070816061942/",
     "reactions": 0,
     "shares": 0,
@@ -3379,7 +3379,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123773071311840",
     "reactions": 0,
     "shares": 0,
@@ -3401,7 +3401,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2156869964924648/",
     "reactions": 1,
     "shares": 0,
@@ -3421,7 +3421,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1689304246049422/",
     "reactions": 0,
     "shares": 0,
@@ -3441,7 +3441,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/4552288218373893/",
     "reactions": 0,
     "shares": 0,
@@ -3461,7 +3461,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123797377311840",
     "reactions": 0,
     "shares": 0,
@@ -3481,7 +3481,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2999369080397085/",
     "reactions": 0,
     "shares": 0,
@@ -3494,14 +3494,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 153,
+     "post_media_view": 156,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1631755925326346/",
     "reactions": 0,
     "shares": 40,
@@ -3521,7 +3521,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/4012062305756249/",
     "reactions": 0,
     "shares": 0,
@@ -3543,7 +3543,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/3007427876261819/",
     "reactions": 2,
     "shares": 0,
@@ -3563,7 +3563,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2190664078467006/",
     "reactions": 0,
     "shares": 0,
@@ -3583,7 +3583,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123895237311840",
     "reactions": 0,
     "shares": 0,
@@ -3603,7 +3603,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1837710980900495/",
     "reactions": 0,
     "shares": 0,
@@ -3623,7 +3623,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1106430168763695/",
     "reactions": 0,
     "shares": 0,
@@ -3643,7 +3643,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2162804635114515/",
     "reactions": 0,
     "shares": 0,
@@ -3663,7 +3663,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122123917479311840",
     "reactions": 0,
     "shares": 0,
@@ -3683,7 +3683,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1759143045374158/",
     "reactions": 0,
     "shares": 0,
@@ -3703,7 +3703,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1688245202820695/",
     "reactions": 0,
     "shares": 0,
@@ -3723,7 +3723,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1801430531117597/",
     "reactions": 0,
     "shares": 0,
@@ -3743,7 +3743,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124011793311840",
     "reactions": 0,
     "shares": 0,
@@ -3763,7 +3763,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2184983916230280/",
     "reactions": 0,
     "shares": 0,
@@ -3783,7 +3783,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1691355229067819/",
     "reactions": 0,
     "shares": 0,
@@ -3803,7 +3803,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1863835524613365/",
     "reactions": 0,
     "shares": 0,
@@ -3823,7 +3823,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124038883311840",
     "reactions": 0,
     "shares": 0,
@@ -3843,7 +3843,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1456432249760135/",
     "reactions": 0,
     "shares": 0,
@@ -3863,7 +3863,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1774222410470383/",
     "reactions": 0,
     "shares": 0,
@@ -3883,7 +3883,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1105149285455849/",
     "reactions": 0,
     "shares": 0,
@@ -3903,7 +3903,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124135555311840",
     "reactions": 0,
     "shares": 0,
@@ -3923,7 +3923,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1094569800109856/",
     "reactions": 0,
     "shares": 0,
@@ -3943,7 +3943,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/4996876580583766/",
     "reactions": 0,
     "shares": 0,
@@ -3963,7 +3963,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1837695214318782/",
     "reactions": 0,
     "shares": 0,
@@ -3983,7 +3983,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124163125311840",
     "reactions": 0,
     "shares": 0,
@@ -4003,7 +4003,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1784612442773501/",
     "reactions": 0,
     "shares": 0,
@@ -4023,7 +4023,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/28533946212946204/",
     "reactions": 0,
     "shares": 0,
@@ -4043,7 +4043,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124261351311840",
     "reactions": 0,
     "shares": 0,
@@ -4063,7 +4063,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/28777170968644778/",
     "reactions": 0,
     "shares": 0,
@@ -4083,7 +4083,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/954547227451807/",
     "reactions": 0,
     "shares": 0,
@@ -4103,7 +4103,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1638896837703628/",
     "reactions": 0,
     "shares": 0,
@@ -4123,7 +4123,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124286683311840",
     "reactions": 0,
     "shares": 0,
@@ -4143,7 +4143,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1136161025838137/",
     "reactions": 0,
     "shares": 0,
@@ -4163,7 +4163,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1424041786028552/",
     "reactions": 0,
     "shares": 0,
@@ -4185,7 +4185,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1147328684579843/",
     "reactions": 1,
     "shares": 0,
@@ -4205,7 +4205,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124392037311840",
     "reactions": 0,
     "shares": 0,
@@ -4225,7 +4225,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2162747331340567/",
     "reactions": 0,
     "shares": 0,
@@ -4245,7 +4245,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1126842136706260/",
     "reactions": 0,
     "shares": 0,
@@ -4265,7 +4265,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124414909311840",
     "reactions": 0,
     "shares": 0,
@@ -4285,7 +4285,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1435516321479889/",
     "reactions": 0,
     "shares": 0,
@@ -4305,7 +4305,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2180685079153132/",
     "reactions": 0,
     "shares": 0,
@@ -4325,7 +4325,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/952832174286706/",
     "reactions": 0,
     "shares": 0,
@@ -4345,7 +4345,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124514707311840",
     "reactions": 0,
     "shares": 0,
@@ -4367,7 +4367,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1113870804595482/",
     "reactions": 1,
     "shares": 0,
@@ -4387,7 +4387,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1799503894658727/",
     "reactions": 0,
     "shares": 0,
@@ -4407,7 +4407,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1479034860956811/",
     "reactions": 0,
     "shares": 0,
@@ -4427,7 +4427,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124540567311840",
     "reactions": 0,
     "shares": 0,
@@ -4447,7 +4447,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1488137626709877/",
     "reactions": 0,
     "shares": 0,
@@ -4467,7 +4467,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1593384152803630/",
     "reactions": 0,
     "shares": 0,
@@ -4487,7 +4487,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2071770616849810/",
     "reactions": 0,
     "shares": 0,
@@ -4507,7 +4507,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124621087311840",
     "reactions": 0,
     "shares": 0,
@@ -4527,7 +4527,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1096284006538548/",
     "reactions": 0,
     "shares": 0,
@@ -4549,7 +4549,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/4514431165497364/",
     "reactions": 1,
     "shares": 0,
@@ -4569,7 +4569,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1126231666657305/",
     "reactions": 0,
     "shares": 0,
@@ -4589,7 +4589,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124654129311840",
     "reactions": 0,
     "shares": 0,
@@ -4609,7 +4609,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2030988361621774/",
     "reactions": 0,
     "shares": 0,
@@ -4629,7 +4629,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1497097825594640/",
     "reactions": 0,
     "shares": 0,
@@ -4649,7 +4649,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1113637451462454/",
     "reactions": 0,
     "shares": 0,
@@ -4669,7 +4669,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2321417421987787/",
     "reactions": 0,
     "shares": 0,
@@ -4689,7 +4689,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124751491311840",
     "reactions": 0,
     "shares": 0,
@@ -4709,7 +4709,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1685149766605467/",
     "reactions": 0,
     "shares": 0,
@@ -4729,7 +4729,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/28998062039863633/",
     "reactions": 0,
     "shares": 0,
@@ -4749,7 +4749,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1465575155678816/",
     "reactions": 0,
     "shares": 0,
@@ -4769,7 +4769,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124771597311840",
     "reactions": 0,
     "shares": 0,
@@ -4789,7 +4789,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2102856317056533/",
     "reactions": 0,
     "shares": 0,
@@ -4802,7 +4802,7 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 70,
+     "post_media_view": 71,
      "post_reactions_by_type_total": {
       "anger": 1,
       "like": 1
@@ -4812,7 +4812,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2229247887621359/",
     "reactions": 2,
     "shares": 0,
@@ -4825,14 +4825,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 126,
+     "post_media_view": 128,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1100750046167058/",
     "reactions": 0,
     "shares": 0,
@@ -4845,14 +4845,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 25,
+     "post_media_view": 27,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1878078313536300/",
     "reactions": 0,
     "shares": 0,
@@ -4872,7 +4872,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124858111311840",
     "reactions": 0,
     "shares": 0,
@@ -4885,7 +4885,7 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 206,
+     "post_media_view": 217,
      "post_reactions_by_type_total": {
       "like": 1
      },
@@ -4894,7 +4894,7 @@
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1080600551670128/",
     "reactions": 0,
     "shares": 0,
@@ -4907,14 +4907,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 1,
-     "post_media_view": 16,
+     "post_media_view": 44,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/2604542319972815/",
     "reactions": 0,
     "shares": 0,
@@ -4927,14 +4927,14 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 66,
+     "post_media_view": 205,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/reel/1131459563004697/",
     "reactions": 0,
     "shares": 0,
@@ -4947,18 +4947,38 @@
     "kind": "post",
     "metrics": {
      "post_clicks": 0,
-     "post_media_view": 0,
+     "post_media_view": 1,
      "post_reactions_by_type_total": {},
      "post_total_media_view_unique": [
       0,
       0
      ]
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.facebook.com/122122117875311840/posts/122124883263311840",
     "reactions": 0,
     "shares": 0,
     "status_type": "added_photos"
+   },
+   "1124472237410333_122124886443311840": {
+    "caption_start": "Waterloo first-time buyers: unused FHSA room may not all carry forward.\n\nThe Canada Revenue Agency says the most unused FHSA participation r",
+    "comments": 0,
+    "created_time": "2026-11-09T03:35:58+0000",
+    "kind": "post",
+    "metrics": {
+     "post_clicks": 0,
+     "post_media_view": 2,
+     "post_reactions_by_type_total": {},
+     "post_total_media_view_unique": [
+      0,
+      0
+     ]
+    },
+    "metrics_at": "2026-11-09T14:08:03+00:00",
+    "permalink": "https://www.facebook.com/reel/1704007357907579/",
+    "reactions": 0,
+    "shares": 0,
+    "status_type": "added_video"
    },
    "1126231666657305": {
     "caption_start": "Moving to Caledon? Nobody mentions this.\n\nSome Caledon homes run on a well and septic system instead of municipal water and sewer. Ask early",
@@ -4972,7 +4992,7 @@
      "post_video_avg_time_watched": 2182,
      "post_video_view_time": 427846
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1126231666657305/",
     "schedule_id": "d20261106-r5",
     "scheduled_for": "2026-11-06T21:00:00-05:00",
@@ -4990,7 +5010,7 @@
      "post_video_avg_time_watched": 3654,
      "post_video_view_time": 54824
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1126842136706260/",
     "schedule_id": "d20261104-r5",
     "scheduled_for": "2026-11-04T21:00:00-05:00",
@@ -5002,13 +5022,13 @@
     "kind": "reel",
     "length": 27.3,
     "metrics": {
-     "blue_reels_play_count": 59,
-     "fb_reels_replay_count": 7,
-     "fb_reels_total_plays": 66,
-     "post_video_avg_time_watched": 1810,
-     "post_video_view_time": 34402
+     "blue_reels_play_count": 189,
+     "fb_reels_replay_count": 16,
+     "fb_reels_total_plays": 205,
+     "post_video_avg_time_watched": 1851,
+     "post_video_view_time": 350014
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1131459563004697/",
     "schedule_id": "d20261108-r5",
     "scheduled_for": "2026-11-08T21:00:00-05:00",
@@ -5099,7 +5119,7 @@
      "post_video_avg_time_watched": 3076,
      "post_video_view_time": 326143
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1136161025838137/",
     "schedule_id": "d20261103-r5",
     "scheduled_for": "2026-11-03T22:30:00-05:00",
@@ -5135,7 +5155,7 @@
      "post_video_avg_time_watched": 1357,
      "post_video_view_time": 17653
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1147328684579843/",
     "schedule_id": "d20261104-r2",
     "scheduled_for": "2026-11-04T15:00:00-05:00",
@@ -5262,7 +5282,7 @@
      "post_video_avg_time_watched": 5058,
      "post_video_view_time": 85989
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1424041786028552/",
     "schedule_id": "d20261104-r1",
     "scheduled_for": "2026-11-04T11:30:00-05:00",
@@ -5353,7 +5373,7 @@
      "post_video_avg_time_watched": 2389,
      "post_video_view_time": 100362
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1435516321479889/",
     "schedule_id": "d20261104-r6",
     "scheduled_for": "2026-11-04T22:30:00-05:00",
@@ -5447,7 +5467,7 @@
      "post_video_avg_time_watched": 5353,
      "post_video_view_time": 42829
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1456432249760135/",
     "schedule_id": "d20261101-r6",
     "scheduled_for": "2026-11-01T22:30:00-05:00",
@@ -5501,7 +5521,7 @@
      "post_video_avg_time_watched": 2065,
      "post_video_view_time": 408896
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1465575155678816/",
     "schedule_id": "d20261107-r5",
     "scheduled_for": "2026-11-07T21:00:00-05:00",
@@ -5555,7 +5575,7 @@
      "post_video_avg_time_watched": 2823,
      "post_video_view_time": 62113
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1479034860956811/",
     "schedule_id": "d20261105-r5",
     "scheduled_for": "2026-11-05T21:00:00-05:00",
@@ -5573,7 +5593,7 @@
      "post_video_avg_time_watched": 2646,
      "post_video_view_time": 15880
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1488137626709877/",
     "schedule_id": "d20261105-r6",
     "scheduled_for": "2026-11-05T22:30:00-05:00",
@@ -5591,7 +5611,7 @@
      "post_video_avg_time_watched": 4658,
      "post_video_view_time": 293484
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1497097825594640/"
    },
    "1531117398810841": {
@@ -5661,7 +5681,7 @@
      "post_video_avg_time_watched": 1648,
      "post_video_view_time": 62626
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1593384152803630/",
     "schedule_id": "d20261106-r1",
     "scheduled_for": "2026-11-06T11:30:00-05:00",
@@ -5784,7 +5804,7 @@
      "post_video_avg_time_watched": 4963,
      "post_video_view_time": 79417
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1638896837703628/",
     "schedule_id": "d20261103-r4",
     "scheduled_for": "2026-11-03T21:00:00-05:00",
@@ -5820,7 +5840,7 @@
      "post_video_avg_time_watched": 2493,
      "post_video_view_time": 521244
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1685149766605467/",
     "schedule_id": "d20261107-r3",
     "scheduled_for": "2026-11-07T17:30:00-05:00",
@@ -5838,7 +5858,7 @@
      "post_video_avg_time_watched": 1522,
      "post_video_view_time": 130943
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1688245202820695/",
     "schedule_id": "d20261101-r1",
     "scheduled_for": "2026-11-01T11:30:00-05:00",
@@ -5874,10 +5894,28 @@
      "post_video_avg_time_watched": 2098,
      "post_video_view_time": 71336
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1691355229067819/",
     "schedule_id": "d20261101-r4",
     "scheduled_for": "2026-11-01T20:00:00-05:00",
+    "scheduled_type": "reel"
+   },
+   "1704007357907579": {
+    "caption_start": "Waterloo first-time buyers: unused FHSA room may not all carry forward.\n\nThe Canada Revenue Agency says the most unused FHSA participation r",
+    "created_time": "2026-11-09T03:35:34+0000",
+    "kind": "reel",
+    "length": 12.98,
+    "metrics": {
+     "blue_reels_play_count": 2,
+     "fb_reels_replay_count": 0,
+     "fb_reels_total_plays": 2,
+     "post_video_avg_time_watched": 6483,
+     "post_video_view_time": 12966
+    },
+    "metrics_at": "2026-11-09T14:08:03+00:00",
+    "permalink": "/reel/1704007357907579/",
+    "schedule_id": "d20261108-r6",
+    "scheduled_for": "2026-11-08T22:30:00-05:00",
     "scheduled_type": "reel"
    },
    "1742511050138883": {
@@ -5907,7 +5945,7 @@
      "post_video_avg_time_watched": 6277,
      "post_video_view_time": 37665
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1759143045374158/",
     "schedule_id": "d20261031-r6",
     "scheduled_for": "2026-10-31T22:30:00-04:00",
@@ -5925,7 +5963,7 @@
      "post_video_avg_time_watched": 3526,
      "post_video_view_time": 28210
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1774222410470383/",
     "schedule_id": "d20261102-r1",
     "scheduled_for": "2026-11-02T11:30:00-05:00",
@@ -5961,7 +5999,7 @@
      "post_video_avg_time_watched": 1376,
      "post_video_view_time": 261460
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1784612442773501/",
     "schedule_id": "d20261102-r6",
     "scheduled_for": "2026-11-02T22:30:00-05:00",
@@ -5979,7 +6017,7 @@
      "post_video_avg_time_watched": 2815,
      "post_video_view_time": 81636
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1799503894658727/",
     "schedule_id": "d20261105-r4",
     "scheduled_for": "2026-11-05T20:00:00-05:00",
@@ -5997,7 +6035,7 @@
      "post_video_avg_time_watched": 1180,
      "post_video_view_time": 97966
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1801430531117597/",
     "schedule_id": "d20261101-r2",
     "scheduled_for": "2026-11-01T15:00:00-05:00",
@@ -6051,7 +6089,7 @@
      "post_video_avg_time_watched": 1459,
      "post_video_view_time": 287513
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1837695214318782/",
     "schedule_id": "d20261102-r5",
     "scheduled_for": "2026-11-02T21:00:00-05:00",
@@ -6105,7 +6143,7 @@
      "post_video_avg_time_watched": 1303,
      "post_video_view_time": 259358
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1863835524613365/",
     "schedule_id": "d20261101-r5",
     "scheduled_for": "2026-11-01T21:00:00-05:00",
@@ -6135,13 +6173,13 @@
     "kind": "reel",
     "length": 25.433,
     "metrics": {
-     "blue_reels_play_count": 25,
+     "blue_reels_play_count": 27,
      "fb_reels_replay_count": 0,
-     "fb_reels_total_plays": 25,
-     "post_video_avg_time_watched": 1849,
-     "post_video_view_time": 46234
+     "fb_reels_total_plays": 27,
+     "post_video_avg_time_watched": 1810,
+     "post_video_view_time": 48870
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/1878078313536300/",
     "schedule_id": "d20261108-r2",
     "scheduled_for": "2026-11-08T15:00:00-05:00",
@@ -6213,7 +6251,7 @@
      "post_video_avg_time_watched": 2174,
      "post_video_view_time": 428298
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2030988361621774/",
     "schedule_id": "d20261106-r6",
     "scheduled_for": "2026-11-06T22:30:00-05:00",
@@ -6231,7 +6269,7 @@
      "post_video_avg_time_watched": 1544,
      "post_video_view_time": 103480
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2071770616849810/",
     "schedule_id": "d20261106-r2",
     "scheduled_for": "2026-11-06T15:00:00-05:00",
@@ -6267,7 +6305,7 @@
      "post_video_avg_time_watched": 0,
      "post_video_view_time": 0
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2102856317056533/",
     "schedule_id": "d20261107-r6",
     "scheduled_for": "2026-11-07T22:30:00-05:00",
@@ -6376,7 +6414,7 @@
      "post_video_avg_time_watched": 2241,
      "post_video_view_time": 183843
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2162747331340567/",
     "schedule_id": "d20261104-r4",
     "scheduled_for": "2026-11-04T20:00:00-05:00",
@@ -6394,7 +6432,7 @@
      "post_video_avg_time_watched": 2757,
      "post_video_view_time": 562480
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2162804635114515/",
     "schedule_id": "d20261031-r5",
     "scheduled_for": "2026-10-31T21:00:00-04:00",
@@ -6430,7 +6468,7 @@
      "post_video_avg_time_watched": 4128,
      "post_video_view_time": 82560
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2180685079153132/",
     "schedule_id": "d20261105-r1",
     "scheduled_for": "2026-11-05T11:30:00-05:00",
@@ -6448,7 +6486,7 @@
      "post_video_avg_time_watched": 2685,
      "post_video_view_time": 281976
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2184983916230280/",
     "schedule_id": "d20261101-r3",
     "scheduled_for": "2026-11-01T17:30:00-05:00",
@@ -6478,13 +6516,13 @@
     "kind": "reel",
     "length": 28.953,
     "metrics": {
-     "blue_reels_play_count": 60,
+     "blue_reels_play_count": 61,
      "fb_reels_replay_count": 10,
-     "fb_reels_total_plays": 70,
-     "post_video_avg_time_watched": 5204,
-     "post_video_view_time": 312264
+     "fb_reels_total_plays": 71,
+     "post_video_avg_time_watched": 5130,
+     "post_video_view_time": 312988
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2229247887621359/"
    },
    "2279181146262805": {
@@ -6535,7 +6573,7 @@
      "post_video_avg_time_watched": 2417,
      "post_video_view_time": 29012
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2321417421987787/",
     "schedule_id": "d20261107-r2",
     "scheduled_for": "2026-11-07T15:00:00-05:00",
@@ -6565,13 +6603,13 @@
     "kind": "reel",
     "length": 29.78,
     "metrics": {
-     "blue_reels_play_count": 15,
-     "fb_reels_replay_count": 1,
-     "fb_reels_total_plays": 16,
-     "post_video_avg_time_watched": 2110,
-     "post_video_view_time": 25326
+     "blue_reels_play_count": 42,
+     "fb_reels_replay_count": 2,
+     "fb_reels_total_plays": 44,
+     "post_video_avg_time_watched": 1935,
+     "post_video_view_time": 81294
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/2604542319972815/",
     "schedule_id": "d20261108-r4",
     "scheduled_for": "2026-11-08T20:00:00-05:00",
@@ -6643,7 +6681,7 @@
      "post_video_avg_time_watched": 2736,
      "post_video_view_time": 497959
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/28533946212946204/",
     "schedule_id": "d20261103-r1",
     "scheduled_for": "2026-11-03T15:00:00-05:00",
@@ -6661,7 +6699,7 @@
      "post_video_avg_time_watched": 3997,
      "post_video_view_time": 103946
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/28777170968644778/",
     "schedule_id": "d20261103-r2",
     "scheduled_for": "2026-11-03T17:30:00-05:00",
@@ -6697,7 +6735,7 @@
      "post_video_avg_time_watched": 1486,
      "post_video_view_time": 47559
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/28998062039863633/",
     "schedule_id": "d20261107-r4",
     "scheduled_for": "2026-11-07T20:00:00-05:00",
@@ -6882,7 +6920,7 @@
      "post_video_avg_time_watched": 2785,
      "post_video_view_time": 211681
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/4514431165497364/",
     "schedule_id": "d20261106-r4",
     "scheduled_for": "2026-11-06T20:00:00-05:00",
@@ -6954,7 +6992,7 @@
      "post_video_avg_time_watched": 1686,
      "post_video_view_time": 96115
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/4996876580583766/",
     "schedule_id": "d20261102-r4",
     "scheduled_for": "2026-11-02T20:00:00-05:00",
@@ -7027,7 +7065,7 @@
      "post_video_avg_time_watched": 3864,
      "post_video_view_time": 57969
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/952832174286706/",
     "schedule_id": "d20261105-r2",
     "scheduled_for": "2026-11-05T15:00:00-05:00",
@@ -7045,7 +7083,7 @@
      "post_video_avg_time_watched": 2404,
      "post_video_view_time": 40882
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "/reel/954547227451807/",
     "schedule_id": "d20261103-r3",
     "scheduled_for": "2026-11-03T20:00:00-05:00",
@@ -7093,7 +7131,7 @@
  "instagram": {
   "account": {
    "followers_count": 75,
-   "media_count": 207,
+   "media_count": 208,
    "publishing_quota": {
     "config": {
      "quota_duration": 86400,
@@ -7331,21 +7369,24 @@
     "reach": 178
    },
    "2026-11-08": {
-    "accounts_engaged": 1,
+    "accounts_engaged": 2,
     "comments": 0,
     "likes": 4,
     "profile_views": 0,
-    "reach": 82,
+    "reach": 119,
     "reach_by_follow_type": {
-     "FOLLOWER": 15,
-     "NON_FOLLOWER": 67
+     "FOLLOWER": 16,
+     "NON_FOLLOWER": 103
     },
     "replies": 0,
     "saves": 0,
     "shares": 0,
     "total_interactions": 4,
-    "views": 133,
+    "views": 194,
     "website_clicks": 0
+   },
+   "2026-11-09": {
+    "reach": 15
    }
   },
   "followers_by_day": {
@@ -7372,7 +7413,7 @@
      "total_interactions": 1,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DekgVnkgQs3/",
     "schedule_id": "d20261016-car1",
     "scheduled_for": "2026-10-16T17:30:00-04:00",
@@ -7415,7 +7456,7 @@
      "total_interactions": 2,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfD3jK5jhR_/",
     "timestamp": "2026-10-29T01:51:07+0000"
    },
@@ -7475,7 +7516,7 @@
      "total_interactions": 2,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dej6cR-kugr/",
     "schedule_id": "d20261016-r1",
     "scheduled_for": "2026-10-16T12:00:00-04:00",
@@ -7517,7 +7558,7 @@
      "total_interactions": 1,
      "views": 34
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfdpDToFPxP/",
     "schedule_id": "d20261107-r5",
     "scheduled_for": "2026-11-07T21:00:00-05:00",
@@ -7539,7 +7580,7 @@
      "total_interactions": 2,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfJFzTCALdx/",
     "schedule_id": "d20261030-r6",
     "scheduled_for": "2026-10-30T22:30:00-04:00",
@@ -7561,7 +7602,7 @@
      "total_interactions": 1,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfAj1wEDLi5/",
     "schedule_id": "d20261027-r1",
     "scheduled_for": "2026-10-27T15:00:00-04:00",
@@ -7583,7 +7624,7 @@
      "total_interactions": 1,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DeushPPm7LY/",
     "schedule_id": "d20261020-f1",
     "scheduled_for": "2026-10-20T16:30:00-04:00",
@@ -7605,7 +7646,7 @@
      "total_interactions": 0,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfLIWZ7lZ4P/",
     "schedule_id": "d20261031-r3",
     "scheduled_for": "2026-10-31T17:30:00-04:00",
@@ -7627,7 +7668,7 @@
      "total_interactions": 0,
      "views": 45
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfISVxwD9Ip/",
     "schedule_id": "d20261030-r2",
     "scheduled_for": "2026-10-30T15:00:00-04:00",
@@ -7668,16 +7709,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 1531,
-     "ig_reels_video_view_total_time": 16843,
+     "ig_reels_avg_watch_time": 1677,
+     "ig_reels_video_view_total_time": 20129,
      "likes": 0,
-     "reach": 11,
+     "reach": 12,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dfcn0Fqjd4b/",
     "schedule_id": "d20261107-r1",
     "scheduled_for": "2026-11-07T11:30:00-05:00",
@@ -7699,7 +7740,7 @@
      "total_interactions": 2,
      "views": 32
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De9t2ieF5qq/",
     "schedule_id": "d20261026-r2",
     "scheduled_for": "2026-10-26T12:30:00-04:00",
@@ -7721,7 +7762,7 @@
      "total_interactions": 0,
      "views": 130
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De41adPiJVh/",
     "schedule_id": "d20261024-r1",
     "scheduled_for": "2026-10-24T15:00:00-04:00",
@@ -7743,7 +7784,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfH6RpiiONC/",
     "schedule_id": "d20261030-r1",
     "scheduled_for": "2026-10-30T11:30:00-04:00",
@@ -7764,16 +7805,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 4365,
-     "ig_reels_video_view_total_time": 65487,
+     "ig_reels_avg_watch_time": 4018,
+     "ig_reels_video_view_total_time": 68313,
      "likes": 0,
-     "reach": 15,
+     "reach": 17,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 18
+     "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfdzVpjgMPF/",
     "schedule_id": "d20261107-r6",
     "scheduled_for": "2026-11-07T22:30:00-05:00",
@@ -7795,7 +7836,7 @@
      "total_interactions": 5,
      "views": 27
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De8Dbd1gkS5/",
     "schedule_id": "d20261025-r2",
     "scheduled_for": "2026-10-25T21:00:00-04:00",
@@ -7817,7 +7858,7 @@
      "total_interactions": 0,
      "views": 6
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfIja3pAi-G/",
     "schedule_id": "d20261030-r3",
     "scheduled_for": "2026-10-30T17:30:00-04:00",
@@ -7839,7 +7880,7 @@
      "total_interactions": 2,
      "views": 17
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DeiMlPAEpdT/",
     "schedule_id": "d20261015-r3",
     "scheduled_for": "2026-10-15T20:00:00-04:00",
@@ -7883,7 +7924,7 @@
      "total_interactions": 1,
      "views": 20
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Dez2HczAcv4/",
     "schedule_id": "d20261022-f1",
     "scheduled_for": "2026-10-22T16:30:00-04:00",
@@ -7899,13 +7940,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 1,
+     "reach": 2,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 1
+     "views": 2
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Dffu_eVFKaQ/",
     "schedule_id": "d20261108-f1",
     "scheduled_for": "2026-11-08T16:30:00-05:00",
@@ -7927,7 +7968,7 @@
      "total_interactions": 0,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfDIqtnD2N6/",
     "timestamp": "2026-10-28T19:01:45+0000"
    },
@@ -7947,7 +7988,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfOFOZuDxdU/",
     "schedule_id": "d20261101-r4",
     "scheduled_for": "2026-11-01T20:00:00-05:00",
@@ -7960,16 +8001,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 1319,
-     "ig_reels_video_view_total_time": 1319,
+     "ig_reels_avg_watch_time": 2396,
+     "ig_reels_video_view_total_time": 7190,
      "likes": 0,
-     "reach": 1,
+     "reach": 3,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 2
+     "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfgOAkHklqu/",
     "schedule_id": "d20261108-r5",
     "scheduled_for": "2026-11-08T21:00:00-05:00",
@@ -7991,7 +8032,7 @@
      "total_interactions": 1,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfVzq65gKFo/",
     "schedule_id": "d20261104-r4",
     "scheduled_for": "2026-11-04T20:00:00-05:00",
@@ -8013,7 +8054,7 @@
      "total_interactions": 0,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfGP1TSDdBn/",
     "schedule_id": "d20261029-r4",
     "scheduled_for": "2026-10-29T20:00:00-04:00",
@@ -8035,7 +8076,7 @@
      "total_interactions": 3,
      "views": 26
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Depp5ZLGgzk/",
     "schedule_id": "d20261018-car1",
     "scheduled_for": "2026-10-18T17:30:00-04:00",
@@ -8048,15 +8089,15 @@
     "like_count": 0,
     "metrics": {
      "follows": 0,
-     "navigation": 8,
+     "navigation": 9,
      "profile_visits": 0,
-     "reach": 7,
+     "reach": 8,
      "replies": 0,
      "shares": 0,
      "total_interactions": 1,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4025980125362849284",
     "timestamp": "2026-11-08T16:10:51+0000"
    },
@@ -8098,7 +8139,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfQ7Rr4iu0r/",
     "schedule_id": "d20261102-r6",
     "scheduled_for": "2026-11-02T22:30:00-05:00",
@@ -8142,7 +8183,7 @@
      "total_interactions": 0,
      "views": 22
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dezr0wZkfBh/",
     "schedule_id": "d20261022-r1",
     "scheduled_for": "2026-10-22T15:00:00-04:00",
@@ -8184,7 +8225,7 @@
      "total_interactions": 2,
      "views": 62
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DeuiOnHCXol/",
     "schedule_id": "d20261020-r1",
     "scheduled_for": "2026-10-20T15:00:00-04:00",
@@ -8206,7 +8247,7 @@
      "total_interactions": 0,
      "views": 35
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfBNAXMguIg/",
     "schedule_id": "d20261027-r2",
     "scheduled_for": "2026-10-27T21:00:00-04:00",
@@ -8228,7 +8269,7 @@
      "total_interactions": 0,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfVRbPQDZpi/",
     "schedule_id": "d20261104-r2",
     "scheduled_for": "2026-11-04T15:00:00-05:00",
@@ -8271,7 +8312,7 @@
      "total_interactions": 1,
      "views": 30
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DenE_ObAe2X/",
     "schedule_id": "d20261017-f1",
     "scheduled_for": "2026-10-17T17:30:00-04:00",
@@ -8293,7 +8334,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfCwu0dFEdr/",
     "schedule_id": "d20261028-r3",
     "scheduled_for": "2026-10-28T11:30:00-04:00",
@@ -8315,7 +8356,7 @@
      "total_interactions": 0,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DexwOOOAQOs/",
     "schedule_id": "d20261021-r2",
     "scheduled_for": "2026-10-21T21:00:00-04:00",
@@ -8337,7 +8378,7 @@
      "total_interactions": 4,
      "views": 29
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dero52gChww/",
     "schedule_id": "d20261019-r1",
     "scheduled_for": "2026-10-19T12:00:00-04:00",
@@ -8381,7 +8422,7 @@
      "total_interactions": 1,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DexHH67jwEj/",
     "schedule_id": "d20261021-r1",
     "scheduled_for": "2026-10-21T15:00:00-04:00",
@@ -8403,7 +8444,7 @@
      "total_interactions": 0,
      "views": 3
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfGkc3rn45W/",
     "schedule_id": "d20261029-x1",
     "scheduled_for": "2026-10-29T23:00:00-04:00",
@@ -8425,7 +8466,7 @@
      "total_interactions": 2,
      "views": 20
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/De2a56oAUcS/",
     "schedule_id": "d20261023-f1",
     "scheduled_for": "2026-10-23T16:30:00-04:00",
@@ -8488,7 +8529,7 @@
      "total_interactions": 2,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DemfO0ViaCR/",
     "schedule_id": "d20261017-r1",
     "scheduled_for": "2026-10-17T12:00:00-04:00",
@@ -8521,15 +8562,15 @@
     "like_count": 0,
     "metrics": {
      "follows": 0,
-     "navigation": 5,
+     "navigation": 8,
      "profile_visits": 0,
-     "reach": 6,
+     "reach": 9,
      "replies": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 8
+     "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4026022561569687170",
     "schedule_id": "d20261108-s1",
     "scheduled_for": "2026-11-08T12:30:00-05:00",
@@ -8551,7 +8592,7 @@
      "total_interactions": 2,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DesHuQ0Dzuo/",
     "schedule_id": "d20261019-f1",
     "scheduled_for": "2026-10-19T16:30:00-04:00",
@@ -8638,7 +8679,7 @@
      "total_interactions": 1,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfDS8vmgQpE/",
     "schedule_id": "d20261028-f1",
     "scheduled_for": "2026-10-28T16:30:00-04:00",
@@ -8680,7 +8721,7 @@
      "total_interactions": 1,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DerwAXLjLmU/",
     "timestamp": "2026-10-19T17:07:54+0000"
    },
@@ -8691,16 +8732,16 @@
     "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 9373,
-     "ig_reels_video_view_total_time": 28121,
+     "ig_reels_avg_watch_time": 7195,
+     "ig_reels_video_view_total_time": 35975,
      "likes": 1,
-     "reach": 3,
+     "reach": 5,
      "saved": 0,
      "shares": 0,
      "total_interactions": 1,
-     "views": 6
+     "views": 8
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DffMtIZAbqT/",
     "schedule_id": "d20261108-r1",
     "scheduled_for": "2026-11-08T11:30:00-05:00",
@@ -8713,16 +8754,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 2855,
-     "ig_reels_video_view_total_time": 108504,
+     "ig_reels_avg_watch_time": 2970,
+     "ig_reels_video_view_total_time": 115832,
      "likes": 0,
-     "reach": 35,
+     "reach": 36,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 42
+     "views": 44
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfasUejic6o/",
     "schedule_id": "d20261106-r3",
     "scheduled_for": "2026-11-06T17:30:00-05:00",
@@ -8765,7 +8806,7 @@
      "total_interactions": 2,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfTf74Sjhz2/",
     "schedule_id": "d20261103-r5",
     "scheduled_for": "2026-11-03T22:30:00-05:00",
@@ -8809,7 +8850,7 @@
      "total_interactions": 2,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DeiW2-_FcFd/",
     "schedule_id": "d20261015-r4",
     "scheduled_for": "2026-10-15T21:30:00-04:00",
@@ -8831,7 +8872,7 @@
      "total_interactions": 13,
      "views": 99
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfKzwAyJ7IL/",
     "timestamp": "2026-10-31T18:35:22+0000"
    },
@@ -8895,7 +8936,7 @@
      "total_interactions": 0,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfFtgR3E5R0/",
     "schedule_id": "d20261029-r2",
     "scheduled_for": "2026-10-29T15:00:00-04:00",
@@ -8971,15 +9012,15 @@
     "like_count": 0,
     "metrics": {
      "follows": 0,
-     "navigation": 0,
+     "navigation": 6,
      "profile_visits": 0,
-     "reach": 0,
+     "reach": 6,
      "replies": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 3
+     "views": 6
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/stories/keyswithkrishna_realtor/4026219325320775782",
     "schedule_id": "d20261108-s2",
     "scheduled_for": "2026-11-08T19:00:00-05:00",
@@ -9023,11 +9064,33 @@
      "total_interactions": 1,
      "views": 35
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfXeRhTjojo/",
     "schedule_id": "d20261105-r1",
     "scheduled_for": "2026-11-05T11:30:00-05:00",
     "timestamp": "2026-11-05T16:35:23+0000"
+   },
+   "18026490995869518": {
+    "caption_start": "Waterloo first-time buyers: unused FHSA room may not all carry forward.\n\nThe Canada Revenue Agency says the most unused FHSA participation r",
+    "comments_count": 0,
+    "kind": "reel",
+    "like_count": 0,
+    "metrics": {
+     "comments": 0,
+     "ig_reels_avg_watch_time": 4513,
+     "ig_reels_video_view_total_time": 4513,
+     "likes": 0,
+     "reach": 1,
+     "saved": 0,
+     "shares": 0,
+     "total_interactions": 0,
+     "views": 1
+    },
+    "metrics_at": "2026-11-09T14:08:03+00:00",
+    "permalink": "https://www.instagram.com/reel/DfgYNK5mT1R/",
+    "schedule_id": "d20261108-r6",
+    "scheduled_for": "2026-11-08T22:30:00-05:00",
+    "timestamp": "2026-11-09T03:35:24+0000"
    },
    "18027661985864073": {
     "caption_start": "Waiting on rates? Do this math first.\n\n1) Variable rate: your monthly mortgage could rise about $13 per $100,000 owed if your rate rises the",
@@ -9045,7 +9108,7 @@
      "total_interactions": 1,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfGcZJhlZqa/",
     "schedule_id": "d20261029-f2",
     "scheduled_for": "2026-10-29T21:45:00-04:00",
@@ -9087,7 +9150,7 @@
      "total_interactions": 1,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfTOz-sjipA/",
     "schedule_id": "d20261103-r3",
     "scheduled_for": "2026-11-03T20:00:00-05:00",
@@ -9109,7 +9172,7 @@
      "total_interactions": 2,
      "views": 34
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfI7efXCdDi/",
     "schedule_id": "d20261030-r5",
     "scheduled_for": "2026-10-30T21:00:00-04:00",
@@ -9131,7 +9194,7 @@
      "total_interactions": 1,
      "views": 28
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DehVvqBFPb4/",
     "schedule_id": "d20261015-car1",
     "scheduled_for": "2026-10-15T12:00:00-04:00",
@@ -9195,7 +9258,7 @@
      "total_interactions": 2,
      "views": 24
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De_-Bb8Dwqd/",
     "schedule_id": "x20261027-ratehike3",
     "scheduled_for": "2026-10-27T09:30:00-04:00",
@@ -9208,16 +9271,16 @@
     "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 10758,
-     "ig_reels_video_view_total_time": 21516,
+     "ig_reels_avg_watch_time": 3621,
+     "ig_reels_video_view_total_time": 101393,
      "likes": 1,
-     "reach": 2,
+     "reach": 28,
      "saved": 0,
      "shares": 0,
      "total_interactions": 1,
-     "views": 2
+     "views": 30
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfgHDEgk8DI/",
     "schedule_id": "d20261108-r4",
     "scheduled_for": "2026-11-08T20:00:00-05:00",
@@ -9239,7 +9302,7 @@
      "total_interactions": 1,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DenWLFajks8/",
     "schedule_id": "d20261017-r2",
     "scheduled_for": "2026-10-17T20:00:00-04:00",
@@ -9261,7 +9324,7 @@
      "total_interactions": 1,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DekxX5XEwAk/",
     "schedule_id": "d20261016-r2",
     "scheduled_for": "2026-10-16T20:00:00-04:00",
@@ -9283,7 +9346,7 @@
      "total_interactions": 0,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Deh-7z-jCGG/",
     "timestamp": "2026-10-15T22:08:25+0000"
    },
@@ -9303,7 +9366,7 @@
      "total_interactions": 0,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfTVqbrkm-I/",
     "schedule_id": "d20261103-r4",
     "scheduled_for": "2026-11-03T21:00:00-05:00",
@@ -9325,7 +9388,7 @@
      "total_interactions": 1,
      "views": 20
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfORzCXGiti/",
     "schedule_id": "d20261101-f2",
     "scheduled_for": "2026-11-01T21:45:00-05:00",
@@ -9347,7 +9410,7 @@
      "total_interactions": 1,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfQxAHxFQgW/",
     "schedule_id": "d20261102-r5",
     "scheduled_for": "2026-11-02T21:00:00-05:00",
@@ -9369,7 +9432,7 @@
      "total_interactions": 0,
      "views": 3
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfLqpkdD6JS/",
     "schedule_id": "d20261031-r6",
     "scheduled_for": "2026-10-31T22:30:00-04:00",
@@ -9421,7 +9484,7 @@
      "total_interactions": 1,
      "views": 6
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfQHzaeFcHx/",
     "schedule_id": "d20261102-r2",
     "scheduled_for": "2026-11-02T15:00:00-05:00",
@@ -9443,7 +9506,7 @@
      "total_interactions": 0,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfYlGtUDZkH/",
     "schedule_id": "d20261105-f2",
     "scheduled_for": "2026-11-05T21:45:00-05:00",
@@ -9465,7 +9528,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfSzj17gG1-/",
     "schedule_id": "d20261103-r1",
     "scheduled_for": "2026-11-03T15:00:00-05:00",
@@ -9509,7 +9572,7 @@
      "total_interactions": 1,
      "views": 17
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DevLcyPjhxN/",
     "schedule_id": "d20261020-r2",
     "scheduled_for": "2026-10-20T21:00:00-04:00",
@@ -9531,7 +9594,7 @@
      "total_interactions": 0,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfS2qDdD-h8/",
     "schedule_id": "d20261103-f1",
     "scheduled_for": "2026-11-03T16:30:00-05:00",
@@ -9641,7 +9704,7 @@
      "total_interactions": 0,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfI0lPzDCS7/",
     "schedule_id": "d20261030-r4",
     "scheduled_for": "2026-10-30T20:00:00-04:00",
@@ -9679,7 +9742,7 @@
      "total_interactions": 1,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De9_EwniqJ7/",
     "schedule_id": "d20261026-r1",
     "scheduled_for": "2026-10-26T15:00:00-04:00",
@@ -9701,7 +9764,7 @@
      "total_interactions": 9,
      "views": 189
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De7aN00iZHI/",
     "schedule_id": "d20261025-r1",
     "scheduled_for": "2026-10-25T15:00:00-04:00",
@@ -9743,7 +9806,7 @@
      "total_interactions": 2,
      "views": 21
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/De-ZTrdke8F/",
     "schedule_id": "d20261026-f1b",
     "scheduled_for": "2026-10-26T18:50:00-04:00",
@@ -9789,13 +9852,13 @@
      "follows": 0,
      "likes": 0,
      "profile_visits": 0,
-     "reach": 0,
+     "reach": 1,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
      "views": 1
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfgSjIsFqSt/",
     "schedule_id": "d20261108-f2",
     "scheduled_for": "2026-11-08T21:45:00-05:00",
@@ -9817,7 +9880,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfGWs9fEzA_/",
     "schedule_id": "d20261029-r5",
     "scheduled_for": "2026-10-29T21:00:00-04:00",
@@ -9839,7 +9902,7 @@
      "total_interactions": 10,
      "views": 186
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DeuKYi2p2Hq/",
     "timestamp": "2026-10-20T15:33:31+0000"
    },
@@ -9859,7 +9922,7 @@
      "total_interactions": 1,
      "views": 141
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfS9osxDcOC/",
     "schedule_id": "d20261103-r2",
     "scheduled_for": "2026-11-03T17:30:00-05:00",
@@ -9881,7 +9944,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfKfIWVFTEl/",
     "schedule_id": "d20261031-r1",
     "scheduled_for": "2026-10-31T11:30:00-04:00",
@@ -9903,7 +9966,7 @@
      "total_interactions": 0,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfduwEFkaDX/",
     "schedule_id": "d20261107-f2",
     "scheduled_for": "2026-11-07T21:45:00-05:00",
@@ -9945,7 +10008,7 @@
      "total_interactions": 2,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DexRT8zCWYN/",
     "schedule_id": "d20261021-f1",
     "scheduled_for": "2026-10-21T16:30:00-04:00",
@@ -9975,7 +10038,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfNi-uyjTx2/",
     "schedule_id": "d20261101-r2",
     "scheduled_for": "2026-11-01T15:00:00-05:00",
@@ -10027,19 +10090,19 @@
     "caption_start": "Check your new councillor before you buy\n\nOntario voted on October 26. Your new councillor could change your street. \ud83d\uddf3\ufe0f\ud83c\udfe0\n\nBefore you buy, lo",
     "comments_count": 0,
     "kind": "reel",
-    "like_count": 0,
+    "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 3961,
-     "ig_reels_video_view_total_time": 158461,
-     "likes": 0,
-     "reach": 38,
+     "ig_reels_avg_watch_time": 3747,
+     "ig_reels_video_view_total_time": 202339,
+     "likes": 1,
+     "reach": 52,
      "saved": 0,
      "shares": 0,
-     "total_interactions": 0,
-     "views": 45
+     "total_interactions": 1,
+     "views": 59
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DffJXdBpf3k/",
     "timestamp": "2026-11-08T16:10:49+0000"
    },
@@ -10059,7 +10122,7 @@
      "total_interactions": 1,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfbOg0hnatG/",
     "schedule_id": "d20261106-r6",
     "scheduled_for": "2026-11-06T22:30:00-05:00",
@@ -10081,7 +10144,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfK3Lotjceo/",
     "schedule_id": "d20261031-r2",
     "scheduled_for": "2026-10-31T15:00:00-04:00",
@@ -10103,7 +10166,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DehH7BUFeGS/",
     "schedule_id": "d20261015-r1",
     "scheduled_for": "2026-10-15T10:00:00-04:00",
@@ -10125,7 +10188,7 @@
      "total_interactions": 2,
      "views": 26
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dep6-grACVM/",
     "schedule_id": "d20261018-r2",
     "scheduled_for": "2026-10-18T20:00:00-04:00",
@@ -10147,7 +10210,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfLgYC2kkP6/",
     "schedule_id": "d20261031-r5",
     "scheduled_for": "2026-10-31T21:00:00-04:00",
@@ -10169,7 +10232,7 @@
      "total_interactions": 0,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfDx2-PDVyW/",
     "schedule_id": "d20261028-r2",
     "scheduled_for": "2026-10-28T21:00:00-04:00",
@@ -10191,7 +10254,7 @@
      "total_interactions": 2,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DesmoQ4D09N/",
     "schedule_id": "d20261019-r2",
     "scheduled_for": "2026-10-19T21:00:00-04:00",
@@ -10207,13 +10270,13 @@
      "ig_reels_avg_watch_time": 2321,
      "ig_reels_video_view_total_time": 39461,
      "likes": 0,
-     "reach": 14,
+     "reach": 15,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
      "views": 20
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfdRFNXj00W/",
     "schedule_id": "d20261107-r3",
     "scheduled_for": "2026-11-07T17:30:00-05:00",
@@ -10235,7 +10298,7 @@
      "total_interactions": 0,
      "views": 4
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfX2b3aihkn/",
     "schedule_id": "d20261105-r2",
     "scheduled_for": "2026-11-05T15:00:00-05:00",
@@ -10257,7 +10320,7 @@
      "total_interactions": 0,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfAuHG_D27l/",
     "schedule_id": "d20261027-f1",
     "scheduled_for": "2026-10-27T16:30:00-04:00",
@@ -10279,7 +10342,7 @@
      "total_interactions": 1,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De2Qmx_lJH6/",
     "schedule_id": "d20261023-r1",
     "scheduled_for": "2026-10-23T15:00:00-04:00",
@@ -10301,7 +10364,7 @@
      "total_interactions": 9,
      "views": 144
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DenAF8hJogi/",
     "timestamp": "2026-10-17T20:49:22+0000"
    },
@@ -10321,7 +10384,7 @@
      "total_interactions": 0,
      "views": 2
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfYAfyoCahX/",
     "schedule_id": "d20261105-f1",
     "scheduled_for": "2026-11-05T16:30:00-05:00",
@@ -10343,7 +10406,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfWAQkdm2L-/",
     "schedule_id": "d20261104-f2",
     "scheduled_for": "2026-11-04T21:45:00-05:00",
@@ -10385,7 +10448,7 @@
      "total_interactions": 0,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfYfZyiDAMm/",
     "schedule_id": "d20261105-r5",
     "scheduled_for": "2026-11-05T21:00:00-05:00",
@@ -10429,7 +10492,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfLbxJ0lBGK/",
     "schedule_id": "d20261031-r4",
     "scheduled_for": "2026-10-31T20:00:00-04:00",
@@ -10471,7 +10534,7 @@
      "total_interactions": 2,
      "views": 55
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DefyEf_igai/",
     "schedule_id": "d20261014-r4",
     "scheduled_for": "2026-10-14T21:30:00-04:00",
@@ -10493,7 +10556,7 @@
      "total_interactions": 0,
      "views": 23
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De0VCtnjURf/",
     "schedule_id": "d20261022-r2",
     "scheduled_for": "2026-10-22T21:00:00-04:00",
@@ -10576,7 +10639,7 @@
      "total_interactions": 0,
      "views": 3
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfbJ6Lllgt7/",
     "schedule_id": "d20261106-f2",
     "scheduled_for": "2026-11-06T21:45:00-05:00",
@@ -10598,7 +10661,7 @@
      "total_interactions": 0,
      "views": 6
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfVbySUCWRA/",
     "schedule_id": "d20261104-f1",
     "scheduled_for": "2026-11-04T16:30:00-05:00",
@@ -10620,7 +10683,7 @@
      "total_interactions": 1,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfIciazFJA4/",
     "schedule_id": "d20261030-f1",
     "scheduled_for": "2026-10-30T16:30:00-04:00",
@@ -10633,16 +10696,16 @@
     "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 3751,
-     "ig_reels_video_view_total_time": 45015,
+     "ig_reels_avg_watch_time": 3584,
+     "ig_reels_video_view_total_time": 46592,
      "likes": 1,
-     "reach": 11,
+     "reach": 12,
      "saved": 0,
      "shares": 0,
      "total_interactions": 1,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfQqGmTDFzz/",
     "schedule_id": "d20261102-r4",
     "scheduled_for": "2026-11-02T20:00:00-05:00",
@@ -10672,7 +10735,7 @@
      "total_interactions": 0,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfF-sSBASW2/",
     "schedule_id": "d20261029-r3",
     "scheduled_for": "2026-10-29T17:30:00-04:00",
@@ -10716,7 +10779,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfabK13k_d4/",
     "schedule_id": "d20261106-r2",
     "scheduled_for": "2026-11-06T15:00:00-05:00",
@@ -10738,7 +10801,7 @@
      "total_interactions": 0,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfN0GcgjfHI/",
     "schedule_id": "d20261101-r3",
     "scheduled_for": "2026-11-01T17:30:00-05:00",
@@ -10748,19 +10811,19 @@
     "caption_start": "Ontario voted on October 26. Your new councillor could change your street. \ud83d\uddf3\ufe0f\ud83c\udfe0\n\nBefore you buy, look up the ward councillor who just won and",
     "comments_count": 1,
     "kind": "reel",
-    "like_count": 3,
+    "like_count": 4,
     "metrics": {
      "comments": 1,
-     "ig_reels_avg_watch_time": 3519,
-     "ig_reels_video_view_total_time": 439898,
-     "likes": 3,
-     "reach": 118,
+     "ig_reels_avg_watch_time": 3710,
+     "ig_reels_video_view_total_time": 471252,
+     "likes": 4,
+     "reach": 121,
      "saved": 0,
      "shares": 1,
-     "total_interactions": 5,
-     "views": 134
+     "total_interactions": 6,
+     "views": 137
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dfcibt7p4Ln/",
     "timestamp": "2026-11-07T15:50:55+0000"
    },
@@ -10780,7 +10843,7 @@
      "total_interactions": 1,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dfa-W2TgRV5/",
     "schedule_id": "d20261106-r4",
     "scheduled_for": "2026-11-06T20:00:00-05:00",
@@ -10802,7 +10865,7 @@
      "total_interactions": 0,
      "views": 2
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfWE3mBDXVi/",
     "schedule_id": "d20261104-r6",
     "scheduled_for": "2026-11-04T22:30:00-05:00",
@@ -10824,7 +10887,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfQ2lxllMo0/",
     "schedule_id": "d20261102-f2",
     "scheduled_for": "2026-11-02T21:45:00-05:00",
@@ -10846,7 +10909,7 @@
      "total_interactions": 17,
      "views": 175
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfJJiBmp0mN/",
     "timestamp": "2026-10-31T03:07:54+0000"
    },
@@ -10866,7 +10929,7 @@
      "total_interactions": 2,
      "views": 15
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/De4_tEjDzWg/",
     "schedule_id": "d20261024-f1",
     "scheduled_for": "2026-10-24T16:30:00-04:00",
@@ -10888,7 +10951,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfTbWnGEd7X/",
     "schedule_id": "d20261103-f2",
     "scheduled_for": "2026-11-03T21:45:00-05:00",
@@ -10954,7 +11017,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfYYiqeAkD0/",
     "schedule_id": "d20261105-r4",
     "scheduled_for": "2026-11-05T20:00:00-05:00",
@@ -10976,7 +11039,7 @@
      "total_interactions": 1,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/De7kgE0iXyO/",
     "schedule_id": "d20261025-f1",
     "scheduled_for": "2026-10-25T16:30:00-04:00",
@@ -10998,7 +11061,7 @@
      "total_interactions": 4,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De-yi9fEe70/",
     "schedule_id": "x20261026-ratehike2",
     "scheduled_for": "2026-10-26T22:30:00-04:00",
@@ -11011,16 +11074,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 1084,
-     "ig_reels_video_view_total_time": 3252,
+     "ig_reels_avg_watch_time": 1264,
+     "ig_reels_video_view_total_time": 5057,
      "likes": 0,
-     "reach": 3,
+     "reach": 4,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
-     "views": 3
+     "views": 4
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dffk1ZxEeKF/",
     "schedule_id": "d20261108-r2",
     "scheduled_for": "2026-11-08T15:00:00-05:00",
@@ -11042,7 +11105,7 @@
      "total_interactions": 2,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfQSFNFD4iy/",
     "schedule_id": "d20261102-f1",
     "scheduled_for": "2026-11-02T16:30:00-05:00",
@@ -11072,7 +11135,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfLBTEPGm0R/",
     "schedule_id": "d20261031-f1",
     "scheduled_for": "2026-10-31T16:30:00-04:00",
@@ -11094,7 +11157,7 @@
      "total_interactions": 1,
      "views": 11
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfYHg8YGpS7/",
     "schedule_id": "d20261105-r3",
     "scheduled_for": "2026-11-05T17:30:00-05:00",
@@ -11116,7 +11179,7 @@
      "total_interactions": 1,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Deh7ZWKnJFg/",
     "schedule_id": "d20261015-f2",
     "scheduled_for": "2026-10-15T17:30:00-04:00",
@@ -11138,7 +11201,7 @@
      "total_interactions": 0,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfJBL9FjZzS/",
     "schedule_id": "d20261030-f2",
     "scheduled_for": "2026-10-30T21:45:00-04:00",
@@ -11160,7 +11223,7 @@
      "total_interactions": 1,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/Deg9mU_m2FN/",
     "schedule_id": "d20261015-f1",
     "scheduled_for": "2026-10-15T08:30:00-04:00",
@@ -11173,16 +11236,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 4503,
-     "ig_reels_video_view_total_time": 18014,
+     "ig_reels_avg_watch_time": 3935,
+     "ig_reels_video_view_total_time": 19676,
      "likes": 0,
-     "reach": 5,
+     "reach": 6,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfdiRQ2GIHl/",
     "schedule_id": "d20261107-r4",
     "scheduled_for": "2026-11-07T20:00:00-05:00",
@@ -11204,7 +11267,7 @@
      "total_interactions": 1,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfQY-rACCR8/",
     "schedule_id": "d20261102-r3",
     "scheduled_for": "2026-11-02T17:30:00-05:00",
@@ -11217,16 +11280,16 @@
     "like_count": 1,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 1710,
-     "ig_reels_video_view_total_time": 18817,
+     "ig_reels_avg_watch_time": 1538,
+     "ig_reels_video_view_total_time": 26156,
      "likes": 1,
-     "reach": 9,
+     "reach": 15,
      "saved": 0,
      "shares": 0,
      "total_interactions": 1,
-     "views": 14
+     "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dff19EqiRV9/",
     "schedule_id": "d20261108-r3",
     "scheduled_for": "2026-11-08T17:30:00-05:00",
@@ -11269,7 +11332,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfGg--XANF_/",
     "schedule_id": "d20261029-r6",
     "scheduled_for": "2026-10-29T22:30:00-04:00",
@@ -11291,7 +11354,7 @@
      "total_interactions": 1,
      "views": 6
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfV6iXOnFdz/",
     "schedule_id": "d20261104-r5",
     "scheduled_for": "2026-11-04T21:00:00-05:00",
@@ -11313,7 +11376,7 @@
      "total_interactions": 2,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfNKkWhAK8R/",
     "schedule_id": "d20261101-r1",
     "scheduled_for": "2026-11-01T11:30:00-05:00",
@@ -11335,7 +11398,7 @@
      "total_interactions": 0,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DehmzhxlZHc/",
     "schedule_id": "d20261015-r2",
     "scheduled_for": "2026-10-15T14:30:00-04:00",
@@ -11378,7 +11441,7 @@
      "total_interactions": 1,
      "views": 9
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfOWZ9-iRwa/",
     "schedule_id": "d20261101-r6",
     "scheduled_for": "2026-11-01T22:30:00-05:00",
@@ -11400,7 +11463,7 @@
      "total_interactions": 0,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfU5ZT-jtKO/",
     "schedule_id": "d20261104-r1",
     "scheduled_for": "2026-11-04T11:30:00-05:00",
@@ -11422,7 +11485,7 @@
      "total_interactions": 3,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DepECR-D5qa/",
     "schedule_id": "d20261018-r1",
     "scheduled_for": "2026-10-18T12:00:00-04:00",
@@ -11444,7 +11507,7 @@
      "total_interactions": 0,
      "views": 18
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfaNVSTjktk/",
     "schedule_id": "d20261106-r1",
     "scheduled_for": "2026-11-06T11:30:00-05:00",
@@ -11466,7 +11529,7 @@
      "total_interactions": 0,
      "views": 4
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfOMJL1jx2E/",
     "schedule_id": "d20261101-r5",
     "scheduled_for": "2026-11-01T21:00:00-05:00",
@@ -11508,7 +11571,7 @@
      "total_interactions": 2,
      "views": 31
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De5fvOxk2gu/",
     "schedule_id": "d20261024-r2",
     "scheduled_for": "2026-10-24T21:00:00-04:00",
@@ -11550,7 +11613,7 @@
      "total_interactions": 2,
      "views": 19
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfLmDRLF4R7/",
     "schedule_id": "d20261031-f2",
     "scheduled_for": "2026-10-31T21:45:00-04:00",
@@ -11572,7 +11635,7 @@
      "total_interactions": 1,
      "views": 13
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DefnyNBispg/",
     "schedule_id": "d20261014-r3",
     "scheduled_for": "2026-10-14T20:00:00-04:00",
@@ -11594,7 +11657,7 @@
      "total_interactions": 1,
      "views": 12
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfD8PIZFK-2/",
     "schedule_id": "d20261028-r6",
     "scheduled_for": "2026-10-28T22:30:00-04:00",
@@ -11616,7 +11679,7 @@
      "total_interactions": 1,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfF32sdIGRz/",
     "schedule_id": "d20261029-f1",
     "scheduled_for": "2026-10-29T16:30:00-04:00",
@@ -11638,7 +11701,7 @@
      "total_interactions": 0,
      "views": 1
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfNtZZXnQjW/",
     "schedule_id": "d20261101-f1",
     "scheduled_for": "2026-11-01T16:30:00-05:00",
@@ -11660,7 +11723,7 @@
      "total_interactions": 0,
      "views": 4
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfdKM5cARwA/",
     "schedule_id": "d20261107-f1",
     "scheduled_for": "2026-11-07T16:30:00-05:00",
@@ -11673,16 +11736,16 @@
     "like_count": 0,
     "metrics": {
      "comments": 0,
-     "ig_reels_avg_watch_time": 1081,
-     "ig_reels_video_view_total_time": 6487,
+     "ig_reels_avg_watch_time": 1386,
+     "ig_reels_video_view_total_time": 9702,
      "likes": 0,
-     "reach": 6,
+     "reach": 7,
      "saved": 0,
      "shares": 0,
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/Dfc_4zimVHt/",
     "schedule_id": "d20261107-r2",
     "scheduled_for": "2026-11-07T15:00:00-05:00",
@@ -11704,7 +11767,7 @@
      "total_interactions": 0,
      "views": 8
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfDZzq6ibvr/",
     "schedule_id": "d20261028-r4",
     "scheduled_for": "2026-10-28T17:30:00-04:00",
@@ -11746,7 +11809,7 @@
      "total_interactions": 0,
      "views": 7
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfFVk4SHG9K/",
     "schedule_id": "d20261029-r1",
     "scheduled_for": "2026-10-29T11:30:00-04:00",
@@ -11768,7 +11831,7 @@
      "total_interactions": 0,
      "views": 2
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/p/DfalXJpGe4g/",
     "schedule_id": "d20261106-f1",
     "scheduled_for": "2026-11-06T16:30:00-05:00",
@@ -11790,7 +11853,7 @@
      "total_interactions": 4,
      "views": 16
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfbERk2DtVA/",
     "schedule_id": "d20261106-r5",
     "scheduled_for": "2026-11-06T21:00:00-05:00",
@@ -11812,7 +11875,7 @@
      "total_interactions": 2,
      "views": 14
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfYpsfzE7KH/",
     "schedule_id": "d20261105-r6",
     "scheduled_for": "2026-11-05T22:30:00-05:00",
@@ -11854,7 +11917,7 @@
      "total_interactions": 1,
      "views": 10
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/De256AoghQ3/",
     "schedule_id": "d20261023-r2",
     "scheduled_for": "2026-10-23T21:00:00-04:00",
@@ -11942,7 +12005,7 @@
      "total_interactions": 0,
      "views": 5
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfDq_VWgXQY/",
     "schedule_id": "d20261028-r5",
     "scheduled_for": "2026-10-28T20:00:00-04:00",
@@ -11964,7 +12027,7 @@
      "total_interactions": 1,
      "views": 8
     },
-    "metrics_at": "2026-11-09T03:09:19+00:00",
+    "metrics_at": "2026-11-09T14:08:03+00:00",
     "permalink": "https://www.instagram.com/reel/DfPvqRRE9x-/",
     "schedule_id": "d20261102-r1",
     "scheduled_for": "2026-11-02T11:30:00-05:00",
@@ -11972,5 +12035,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T03:09:19+00:00"
+ "updated_at": "2026-11-09T14:08:03+00:00"
 }
