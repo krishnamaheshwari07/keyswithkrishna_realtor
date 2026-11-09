@@ -118,9 +118,10 @@ def fix_frames(it):
     return changed
 
 def say_labels(it):
-    """Krishna, Nov 3-4: on step Reels the voice says the step's short tracker label first, then the full step,
-    introduced with natural transitions instead of "Step one/two" (Nov 4): "First, ...", "Next, ...", "Then, ...",
-    "After that, ...", "Finally, ...". Money-math calc lines get the same transitions. Idempotent."""
+    """Step Reels: each point/calc line opens with a natural transition, "First, ...", "Next, ...", "Then, ...",
+    "After that, ...", "Finally, ..." (Krishna, Nov 4: never "Step one/two"). The step's short tracker label still shows
+    on screen, but the voice no longer says it (Krishna, Nov 9; it was spoken first from Nov 3): a label at the start of
+    a line is removed. Idempotent."""
     import re
     norm = lambda x: re.sub(r"[^a-z0-9 ]", "", (x or "").lower()).split()
     lead = re.compile(r"^(?:(?:step\s+\w+|last step|final step)[.,:!]?|(?:firstly|first|next|then|after that|finally|lastly)[.,:!])\s*", re.I)
@@ -136,17 +137,20 @@ def say_labels(it):
         if kind not in ("point", "calc") or (int(s_.get("of", 1) or 1)) < 2: continue
         n, of = int(s_.get("n", 0) or 0), int(s_.get("of", 0) or 0)
         say = (f.get("say") or "").strip()
-        h = head(n, of)
         rest = lead.sub("", say)
         lab = (s_.get("short") or "").strip().rstrip(".") if kind == "point" else ""
-        if lab and " ".join(norm(lab)) in " ".join(norm(rest)[:8]): lab = ""   # label already spoken
-        if lab:
-            lab = lab if lab[:3].isupper() else lab[0].lower() + lab[1:]
-            new = f"{h}, {lab}. {rest}".strip()
-        else:
-            new = f"{h}, {rest[:1].lower() + rest[1:] if rest[:2] != rest[:2].upper() else rest}".strip()
+        if lab:   # drop a spoken label sentence such as "builder walk-through." at the start
+            m = re.match(r"^([^.:!?]{1,40})[.:!]\s+(.+)$", rest)
+            if m and norm(m.group(1)) == norm(lab): rest = m.group(2)
+        rest = lead.sub("", rest)
+        if not rest: continue
+        reset = ""   # a verbal reset ("Now the twist.") goes before the transition: "Now the twist. Next, when you sign..."
+        m = re.match(r"^((?:now the twist|plot twist|here's the catch|but here's the (?:part|thing)[^.!?]{0,40}|but wait)[.!?])\s+(.+)$", rest, re.I)
+        if m: reset, rest = m.group(1)[:1].upper() + m.group(1)[1:] + " ", lead.sub("", m.group(2))
+        body = rest[:1].lower() + rest[1:] if rest[:2] != rest[:2].upper() else rest
+        new = f"{reset}{head(n, of)}, {body}".strip()
         if new != say: f["say"] = new; changed = True
-    if changed: print(it["id"], "voice now opens each step with First / Next / Finally and its label")
+    if changed: print(it["id"], "voice opens each step with First / Next / Finally (tracker label shown on screen only)")
     return changed
 
 def build(m, prompt, it):
