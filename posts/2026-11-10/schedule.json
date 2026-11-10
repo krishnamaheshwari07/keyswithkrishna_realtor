@@ -1,618 +1,692 @@
 [
- {
-  "id": "d20261110-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T11:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga: mortgage approved, then a job change before closing? Check first.\n\n1) Keep your job and income steady until you have the keys. 2) Ask your lender whether they recheck your file before closing day. 3) If a new job is coming, ask whether a probation period could affect your approval. 4) Call your lender before any big change and get the answer in writing.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #closingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f01.png",
-    "say": "Mississauga: mortgage approved, then a job change?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f02.png",
-    "say": "First, keep your job and income steady until you have the keys.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f03.png",
-    "say": "Next, ask your lender whether they recheck your file before closing day.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f04.png",
-    "say": "Now the twist. Then, if a new job is coming, ask whether a probation period could affect your approval.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f05.png",
-    "say": "Finally, call your lender before any big change, and get their answer in writing.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r1-frames/f06.png",
-    "say": "Like, comment and share this with someone closing this year. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Approved. Closing soon. *Job change?",
-     "kick": "LENDER MAY RECHECK",
-     "prop": "mortgage"
+  {
+    "id": "d20261110-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T11:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga: mortgage approved, then a job change before closing? Check first.\n\n1) Keep your job and income steady until you have the keys. 2) Ask your lender whether they recheck your file before closing day. 3) If a new job is coming, ask whether a probation period could affect your approval. 4) Call your lender before any big change and get the answer in writing.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #closingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r1-vo13448.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f01.png",
+        "say": "Mississauga: mortgage approved, then a job change?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f02.png",
+        "say": "First, keep your job and income steady until you have the keys.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f03.png",
+        "say": "Next, ask your lender whether they recheck your file before closing day.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f04.png",
+        "say": "Now the twist. Then, if a new job is coming, ask whether a probation period could affect your approval.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f05.png",
+        "say": "Finally, call your lender before any big change, and get their answer in writing.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r1-frames/f06.png",
+        "say": "Like, comment and share this with someone closing this year. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Approved. Closing soon. *Job change?",
+          "kick": "LENDER MAY RECHECK",
+          "prop": "mortgage"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Keep your job and income steady until you have the keys.",
+          "short": "Keep income steady"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask your lender if they recheck your file before closing.",
+          "short": "Ask about rechecks"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calendar",
+          "text": "New job coming? Ask if a probation period affects your approval.",
+          "short": "Probation question"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Call your lender before any big change and get the answer in writing.",
+          "short": "Call before changes"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with someone closing soon",
+          "fine": "General information only. Not legal or mortgage advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Keep your job and income steady until you have the keys.",
-     "short": "Keep income steady"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask your lender if they recheck your file before closing.",
-     "short": "Ask about rechecks"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calendar",
-     "text": "New job coming? Ask if a probation period affects your approval.",
-     "short": "Probation question"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Call your lender before any big change and get the answer in writing.",
-     "short": "Call before changes"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with someone closing soon",
-     "fine": "General information only. Not legal or mortgage advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a costly mistake avoided",
+    "share_reason": "a friend closing this year",
+    "format": "step-by-step",
+    "hook_pattern": "4 direct address with a stake + 7 scene",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.3,
+    "vo_frame_seconds": [
+      2.59,
+      3.12,
+      3.22,
+      5.05,
+      4.27,
+      5.01
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r1-tt13457.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r1-yt13529.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a costly mistake avoided",
-  "share_reason": "a friend closing this year",
-  "format": "step-by-step",
-  "hook_pattern": "4 direct address with a stake + 7 scene",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Approved, then a new job? Check first.\n\nLenders may recheck your file before closing, so ask before you change anything. I explain what to ask in my newest Reel.\n\nBuying a home? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagetips #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-s1.mp4",
-  "brand_corner": "logo",
-  "format": "educational",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Overpriced Etobicoke home? Buyers may just scroll past.\n\n1) Price from recent sales of similar homes, not neighbours' asking prices. 2) Ask your Realtor® to show sold and active homes side by side. 3) Decide your lowest acceptable price before any offer arrives.\n\nThinking of selling in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homepricing #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r2-frames/f01.png",
-    "say": "Etobicoke sellers: is your price scaring buyers off?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r2-frames/f02.png",
-    "say": "First, price from what similar homes actually sold for, not what the neighbours are asking.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r2-frames/f03.png",
-    "say": "Next, ask your Realtor to show you sold and active homes side by side, so you see your real competition.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r2-frames/f04.png",
-    "say": "Now the twist. Offer night can be emotional. Then, decide your lowest acceptable price before the first offer arrives.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r2-frames/f05.png",
-    "say": "Like, comment and share this with an Etobicoke homeowner thinking of selling. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Overpriced Etobicoke home? *Buyers scroll.",
-     "kick": "PRICE IT RIGHT",
-     "prop": "chart"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 3,
-     "prop": "chart",
-     "text": "Price from recent sales of similar homes, not neighbours' asking prices.",
-     "short": "Use sold prices"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 3,
-     "prop": "search",
-     "text": "Ask your Realtor® to show sold and active homes side by side.",
-     "short": "Compare side by side"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Decide your lowest acceptable price before any offer arrives.",
-     "short": "Set your floor"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Etobicoke seller",
-     "fine": "General information only. Results vary. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261110-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Approved, then a new job? Check first.\n\nLenders may recheck your file before closing, so ask before you change anything. I explain what to ask in my newest Reel.\n\nBuying a home? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagetips #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-s1.mp4",
+    "brand_corner": "logo",
+    "format": "educational",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "relief from pricing with a plan",
-  "share_reason": "a neighbour thinking of selling",
-  "format": "mistake-then-fix",
-  "hook_pattern": "2 cost of a mistake (no figure)",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261110-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Rural Halton Hills home? Septic inspected?\n\nIf the home has a septic system, ask for pump-out and repair records, ask for a septic inspection as a condition of your offer, and ask your lawyer about permits.\n\nBuying in Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonhills #georgetownontario #septic #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-f1.png",
-  "brand_corner": "logo",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$700K Brampton home with 20% down. What is the monthly mortgage? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) 20% down on $700,000 is $140,000.\n2) $700,000 minus $140,000 leaves a $560,000 mortgage.\n3) At 4.44% over 25 years, the monthly mortgage is about $3,081 (principal and interest only).\nSource for the example rate: the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026. Your rate depends on your down payment, lender and term. Property tax, heat and insurance are extra.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagemath #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f01.png",
-    "say": "Brampton, seven hundred thousand dollars. Monthly mortgage?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f02.png",
-    "say": "First, twenty percent down on seven hundred thousand dollars is one hundred forty thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f03.png",
-    "say": "Next, that leaves five hundred sixty thousand dollars to borrow.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f04.png",
-    "say": "Now the twist. The rate changes everything. Then, we use four point four four percent over twenty-five years.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f05.png",
-    "say": "So all in, about three thousand eighty-one dollars a month, before property tax, heat and insurance.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r3-frames/f06.png",
-    "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "$700K home. *Monthly mortgage?",
-     "kick": "20% DOWN EXAMPLE",
-     "prop": "calculator"
+  {
+    "id": "d20261110-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Overpriced Etobicoke home? Buyers may just scroll past.\n\n1) Price from recent sales of similar homes, not neighbours' asking prices. 2) Ask your Realtor\u00ae to show sold and active homes side by side. 3) Decide your lowest acceptable price before any offer arrives.\n\nThinking of selling in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #sellingyourhome #homepricing #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r2-vo13873.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r2-frames/f01.png",
+        "say": "Etobicoke sellers: is your price scaring buyers off?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r2-frames/f02.png",
+        "say": "First, price from what similar homes actually sold for, not what the neighbours are asking.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r2-frames/f03.png",
+        "say": "Next, ask your Realtor to show you sold and active homes side by side, so you see your real competition.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r2-frames/f04.png",
+        "say": "Now the twist. Finally, offer night can be emotional. Then, decide your lowest acceptable price before the first offer arrives.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r2-frames/f05.png",
+        "say": "Like, comment and share this with an Etobicoke homeowner thinking of selling. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Overpriced Etobicoke home? *Buyers scroll.",
+          "kick": "PRICE IT RIGHT",
+          "prop": "chart"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 3,
+          "prop": "chart",
+          "text": "Price from recent sales of similar homes, not neighbours' asking prices.",
+          "short": "Use sold prices"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 3,
+          "prop": "search",
+          "text": "Ask your Realtor\u00ae to show sold and active homes side by side.",
+          "short": "Compare side by side"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Decide your lowest acceptable price before any offer arrives.",
+          "short": "Set your floor"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Etobicoke seller",
+          "fine": "General information only. Results vary. Not legal advice."
+        }
+      ]
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Down payment, 20%",
-     "value": "$140,000",
-     "formula": "20% of $700,000",
-     "running": "$140,000 paid upfront"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "mortgage",
-     "text": "Mortgage amount",
-     "value": "$560,000",
-     "formula": "$700,000 - $140,000",
-     "running": "$560,000 to borrow"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "chart",
-     "text": "Example rate, 25 years",
-     "value": "4.44%",
-     "formula": "5-year fixed, 25-year amortization",
-     "running": "4.44% over 25 years"
-    },
-    {
-     "kind": "total",
-     "text": "Monthly mortgage, about",
-     "value": "$3,081",
-     "sub": "principal and interest only. Property tax, heat and insurance are extra.",
-     "note": "Example only: $700,000 home, 20% down, 25-year amortization, semi-annual compounding. 4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026; your rate depends on your down payment, lender and term. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with your co-buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "relief from pricing with a plan",
+    "share_reason": "a neighbour thinking of selling",
+    "format": "mistake-then-fix",
+    "hook_pattern": "2 cost of a mistake (no figure)",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 24.2,
+    "vo_frame_seconds": [
+      2.66,
+      4.29,
+      5.26,
+      5.68,
+      6.34
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r2-tt13882.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r2-yt13950.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at the real monthly number",
-  "share_reason": "the partner I'm buying with",
-  "format": "money-math",
-  "hook_pattern": "3 number that demands explanation + 5 pain point (everyday math)",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261110-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Your monthly mortgage on a $700K home? Do the math.\n\nThe answer changes with your down payment and rate. I worked out an example in my newest Reel.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagemath #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-s2.mp4",
-  "brand_corner": "logo",
-  "format": "educational",
-  "hook_pattern": "5 timing objection (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Kitchener new build delayed? Read this before you agree to a new date.\n\n1) Find the occupancy and closing dates in your agreement. 2) Read the delay clause with your lawyer before agreeing to a new date. 3) Ask the builder to confirm any new date in writing. 4) Tell your lender, because a rate hold can run out before closing.\n\nBuying a new build? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #newbuild #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f01.png",
-    "say": "Kitchener builder delayed your closing? Read this first.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f02.png",
-    "say": "First, find the occupancy and closing dates written in your agreement.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f03.png",
-    "say": "Next, read the delay clause with your lawyer before you agree to any new date.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f04.png",
-    "say": "Now the twist. A verbal date may not count for much. Then, ask the builder to confirm any new date in writing.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f05.png",
-    "say": "Finally, tell your lender about the delay, because your rate hold may run out before closing.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone waiting on a new build. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "KITCHENER",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Kitchener new build delayed? *Read this.",
-     "kick": "CHECK THE CLAUSE",
-     "prop": "calendar"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Find the occupancy and closing dates in your agreement.",
-     "short": "Find your dates"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Read the delay clause with your lawyer before agreeing to a new date.",
-     "short": "Read the delay clause"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask the builder to confirm any new date in writing.",
-     "short": "Get it in writing"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Tell your lender, because a rate hold can run out before closing.",
-     "short": "Tell your lender"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a new-build buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261110-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Rural Halton Hills home? Septic inspected?\n\nIf the home has a septic system, ask for pump-out and repair records, ask for a septic inspection as a condition of your offer, and ask your lawyer about permits.\n\nBuying in Halton Hills? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonhills #georgetownontario #septic #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-f1.png",
+    "brand_corner": "logo",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "relief from knowing the next step",
-  "share_reason": "a friend waiting on a new build",
-  "format": "step-by-step",
-  "hook_pattern": "4 direct address with a stake + 2 cost of a mistake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Oakville closing tomorrow. Is your power on?\n\n1) Book power, gas and water in your name for closing day. 2) Have home insurance active before closing day, since your lender may want proof. 3) Update your address with your bank, employer and the CRA. 4) Book internet and plan to change the locks the day you get the keys.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #movingday #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f01.png",
-    "say": "Oakville closing tomorrow. Is your power on?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f02.png",
-    "say": "First, book power, gas and water in your name for closing day.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f03.png",
-    "say": "Next, have home insurance active before closing day, since your lender may want proof.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f04.png",
-    "say": "Now the twist. Missed mail can be costly. Then, update your address with your bank, your employer and the CRA.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f05.png",
-    "say": "Finally, book your internet and plan to change the locks the day you get the keys.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r5-frames/f06.png",
-    "say": "Like, comment and share this with someone getting keys soon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Keys tomorrow. *Is the power on?",
-     "kick": "BEFORE CLOSING DAY",
-     "prop": "movingbox"
+  {
+    "id": "d20261110-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$700K Brampton home with 20% down. What is the monthly mortgage? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) 20% down on $700,000 is $140,000.\n2) $700,000 minus $140,000 leaves a $560,000 mortgage.\n3) At 4.44% over 25 years, the monthly mortgage is about $3,081 (principal and interest only).\nSource for the example rate: the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026. Your rate depends on your down payment, lender and term. Property tax, heat and insurance are extra.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagemath #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r3-vo14317.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f01.png",
+        "say": "Brampton, seven hundred thousand dollars. Monthly mortgage?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f02.png",
+        "say": "First, twenty percent down on seven hundred thousand dollars is one hundred forty thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f03.png",
+        "say": "Next, that leaves five hundred sixty thousand dollars to borrow.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f04.png",
+        "say": "Now the twist. Finally, the rate changes everything. Then, we use four point four four percent over twenty-five years.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f05.png",
+        "say": "So all in, about three thousand eighty-one dollars a month, before property tax, heat and insurance.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r3-frames/f06.png",
+        "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "$700K home. *Monthly mortgage?",
+          "kick": "20% DOWN EXAMPLE",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Down payment, 20%",
+          "value": "$140,000",
+          "formula": "20% of $700,000",
+          "running": "$140,000 paid upfront"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "mortgage",
+          "text": "Mortgage amount",
+          "value": "$560,000",
+          "formula": "$700,000 - $140,000",
+          "running": "$560,000 to borrow"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "chart",
+          "text": "Example rate, 25 years",
+          "value": "4.44%",
+          "formula": "5-year fixed, 25-year amortization",
+          "running": "4.44% over 25 years"
+        },
+        {
+          "kind": "total",
+          "text": "Monthly mortgage, about",
+          "value": "$3,081",
+          "sub": "principal and interest only. Property tax, heat and insurance are extra.",
+          "note": "Example only: $700,000 home, 20% down, 25-year amortization, semi-annual compounding. 4.44% is the lowest 5-year fixed rate shown on Ratehub.ca on Nov 8, 2026; your rate depends on your down payment, lender and term. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with your co-buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ]
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "Book power, gas and water in your name for closing day.",
-     "short": "Utilities in your name"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "shield",
-     "text": "Have home insurance active before closing day. Lenders may want proof.",
-     "short": "Home insurance"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Update your address with your bank, employer and the CRA.",
-     "short": "Change of address"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "keys",
-     "text": "Book internet and plan to change the locks the day you get keys.",
-     "short": "Internet and locks"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with someone moving soon",
-     "fine": "General information only."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at the real monthly number",
+    "share_reason": "the partner I'm buying with",
+    "format": "money-math",
+    "hook_pattern": "3 number that demands explanation + 5 pain point (everyday math)",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 26.2,
+    "vo_frame_seconds": [
+      3.35,
+      4.05,
+      3.44,
+      5.44,
+      4.82,
+      5.06
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r3-tt14327.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r3-yt14405.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "relief from a ready checklist",
-  "share_reason": "a friend getting keys soon",
-  "format": "step-by-step",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton basement unit? Legal or not?\n\nBefore you count on rent from a basement unit, ask the City whether the second unit is registered, ask to see permits for any basement work, and confirm with your insurer.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #secondunit #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-f2.png",
-  "brand_corner": "logo",
-  "format": "educational",
-  "hook_pattern": "10 call-out + 4 direct address",
-  "audience": "buyer"
- },
- {
-  "id": "d20261110-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-10T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton condo. Hidden fees inside?\n\nQuick tip: make your offer conditional on your lawyer reviewing the condo's status certificate. It covers the fees, the reserve fund and any special assessments.\n\nBuying a condo in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #condoliving #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-10/d20261110-r6-frames/f01.png",
-    "say": "Milton condo buyer: where do hidden fees show up?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r6-frames/f02.png",
-    "say": "Quick tip: make your offer conditional on your lawyer reviewing the condo's status certificate. It covers the fees, the reserve fund and any special assessments.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-10/d20261110-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Milton condo buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Milton condo. *Hidden fees inside?",
-     "kick": "ASK FOR THIS PAPER",
-     "prop": "clipboard"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "clipboard",
-     "text": "Condition your offer on your lawyer reviewing the status certificate: fees, reserve fund, special assessments.",
-     "short": "Status certificate"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Milton condo buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261110-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Your monthly mortgage on a $700K home? Do the math.\n\nThe answer changes with your down payment and rate. I worked out an example in my newest Reel.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagemath #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-s2.mp4",
+    "brand_corner": "logo",
+    "format": "educational",
+    "hook_pattern": "5 timing objection (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at a document most buyers skip",
-  "share_reason": "a friend buying a condo",
-  "format": "quick-tip",
-  "hook_pattern": "4 direct address with a stake + 6 tease",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261110-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Kitchener new build delayed? Read this before you agree to a new date.\n\n1) Find the occupancy and closing dates in your agreement. 2) Read the delay clause with your lawyer before agreeing to a new date. 3) Ask the builder to confirm any new date in writing. 4) Tell your lender, because a rate hold can run out before closing.\n\nBuying a new build? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #newbuild #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r4-vo14765.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f01.png",
+        "say": "Kitchener builder delayed your closing? Read this first.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f02.png",
+        "say": "First, find the occupancy and closing dates written in your agreement.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f03.png",
+        "say": "Next, read the delay clause with your lawyer before you agree to any new date.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f04.png",
+        "say": "Now the twist. Then, A verbal date may not count for much. Then, ask the builder to confirm any new date in writing.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f05.png",
+        "say": "Finally, tell your lender about the delay, because your rate hold may run out before closing.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone waiting on a new build. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "KITCHENER",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Kitchener new build delayed? *Read this.",
+          "kick": "CHECK THE CLAUSE",
+          "prop": "calendar"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Find the occupancy and closing dates in your agreement.",
+          "short": "Find your dates"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Read the delay clause with your lawyer before agreeing to a new date.",
+          "short": "Read the delay clause"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask the builder to confirm any new date in writing.",
+          "short": "Get it in writing"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Tell your lender, because a rate hold can run out before closing.",
+          "short": "Tell your lender"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a new-build buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ]
+    },
+    "brand_corner": "logo",
+    "trigger": "relief from knowing the next step",
+    "share_reason": "a friend waiting on a new build",
+    "format": "step-by-step",
+    "hook_pattern": "4 direct address with a stake + 2 cost of a mistake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.1,
+    "vo_frame_seconds": [
+      2.54,
+      3.25,
+      3.67,
+      5.72,
+      4.7,
+      5.2
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r4-tt14774.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r4-yt14848.mp4"
+  },
+  {
+    "id": "d20261110-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Oakville closing tomorrow. Is your power on?\n\n1) Book power, gas and water in your name for closing day. 2) Have home insurance active before closing day, since your lender may want proof. 3) Update your address with your bank, employer and the CRA. 4) Book internet and plan to change the locks the day you get the keys.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #movingday #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r5-vo15204.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f01.png",
+        "say": "Oakville closing tomorrow. Is your power on?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f02.png",
+        "say": "First, book power, gas and water in your name for closing day.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f03.png",
+        "say": "Next, have home insurance active before closing day, since your lender may want proof.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f04.png",
+        "say": "Now the twist. Then, missed mail can be costly. Then, update your address with your bank, your employer and the CRA.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f05.png",
+        "say": "Finally, book your internet and plan to change the locks the day you get the keys.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r5-frames/f06.png",
+        "say": "Like, comment and share this with someone getting keys soon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Keys tomorrow. *Is the power on?",
+          "kick": "BEFORE CLOSING DAY",
+          "prop": "movingbox"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "Book power, gas and water in your name for closing day.",
+          "short": "Utilities in your name"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "shield",
+          "text": "Have home insurance active before closing day. Lenders may want proof.",
+          "short": "Home insurance"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Update your address with your bank, employer and the CRA.",
+          "short": "Change of address"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "keys",
+          "text": "Book internet and plan to change the locks the day you get keys.",
+          "short": "Internet and locks"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with someone moving soon",
+          "fine": "General information only."
+        }
+      ]
+    },
+    "brand_corner": "logo",
+    "trigger": "relief from a ready checklist",
+    "share_reason": "a friend getting keys soon",
+    "format": "step-by-step",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.8,
+    "vo_frame_seconds": [
+      2.42,
+      3.23,
+      4.78,
+      6.47,
+      3.81,
+      5.11
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r5-tt15213.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r5-yt15288.mp4"
+  },
+  {
+    "id": "d20261110-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton basement unit? Legal or not?\n\nBefore you count on rent from a basement unit, ask the City whether the second unit is registered, ask to see permits for any basement work, and confirm with your insurer.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #secondunit #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-f2.png",
+    "brand_corner": "logo",
+    "format": "educational",
+    "hook_pattern": "10 call-out + 4 direct address",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261110-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-10T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton condo. Hidden fees inside?\n\nQuick tip: make your offer conditional on your lawyer reviewing the condo's status certificate. It covers the fees, the reserve fund and any special assessments.\n\nBuying a condo in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #condoliving #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r6-vo15513.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-10/d20261110-r6-frames/f01.png",
+        "say": "Milton condo buyer: where do hidden fees show up?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r6-frames/f02.png",
+        "say": "Quick tip: make your offer conditional on your lawyer reviewing the condo's status certificate. It covers the fees, the reserve fund and any special assessments.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-10/d20261110-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Milton condo buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Milton condo. *Hidden fees inside?",
+          "kick": "ASK FOR THIS PAPER",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "clipboard",
+          "text": "Condition your offer on your lawyer reviewing the status certificate: fees, reserve fund, special assessments.",
+          "short": "Status certificate"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Milton condo buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ]
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at a document most buyers skip",
+    "share_reason": "a friend buying a condo",
+    "format": "quick-tip",
+    "hook_pattern": "4 direct address with a stake + 6 tease",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 16.9,
+    "vo_frame_seconds": [
+      2.93,
+      7.9,
+      6.09
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r6-tt15518.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-10/d20261110-r6-yt15567.mp4"
+  }
 ]
