@@ -124,7 +124,7 @@
     "type": "story",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-10T12:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Approved, then a new job? Check first.\n\nLenders may recheck your file before closing, so ask before you change anything. I explain what to ask in my newest Reel.\n\nBuying a home? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only, not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagetips #homebuyingtips #keyswithkrishna",
@@ -132,7 +132,10 @@
     "brand_corner": "logo",
     "format": "educational",
     "hook_pattern": "6 tease + reveal (teases today's Reel)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17919315753263808",
+    "fb_id": "1500390471972400",
+    "fb_status": "posted"
   },
   {
     "id": "d20261110-r2",
