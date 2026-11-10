@@ -644,7 +644,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-09T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Buying for schools? Zones can change.\n\nSchool boundaries and assignments can change, so confirm the school for an address directly with the school board before you make an offer, rather than relying on a listing's wording alone.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #schoolzone #keyswithkrishna",
@@ -653,7 +653,10 @@
     "photo": "p059.jpg",
     "format": "educational",
     "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17973017220191420",
+    "fb_id": "122124998109311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261109-r6",
