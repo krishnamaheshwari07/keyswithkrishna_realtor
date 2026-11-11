@@ -1,0 +1,642 @@
+[
+ {
+  "id": "d20261111-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T11:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Pre-approved Georgetown buyer? You may not be approved yet.\n\n1) Ask whether your pre-approval rate hold lasts 90 or 120 days. 2) Ask what the lender still checks after your offer, such as the home and your documents. 3) Hold off on new loans and big purchases until closing. 4) Ask for your final approval in writing before your financing condition comes off.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #mortgagepreapproval #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f01.png",
+    "say": "Georgetown: pre-approved doesn't mean approved.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f02.png",
+    "say": "First, ask your lender whether your rate hold lasts ninety days or one hundred twenty.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f03.png",
+    "say": "Next, ask what the lender still checks after your offer, like the home itself and your documents.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f04.png",
+    "say": "Now the twist. Then, hold off on new loans or big purchases until your mortgage is funded.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f05.png",
+    "say": "Finally, ask for your final approval in writing before your financing condition comes off.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Pre-approved Georgetown buyer? *Not approved yet.",
+     "kick": "RATE HOLD LENGTH",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Ask if your rate hold lasts 90 or 120 days.",
+     "short": "Ask your hold length"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Ask what the lender still checks after your offer: the home and your documents.",
+     "short": "What is still checked"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Hold off on new loans and big purchases until closing.",
+     "short": "Keep finances still"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Ask for your final approval in writing before your financing condition comes off.",
+     "short": "Get it in writing"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Georgetown buyer",
+     "fine": "General information only. Not legal or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend about to make an offer",
+  "format": "step-by-step",
+  "hook_pattern": "4 direct address with a stake + 6 tease",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261111-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Etobicoke: waive the inspection? Think twice.\n\nProblems found after closing may be yours to fix. Ask your Realtor® about an inspection condition, and ask your lawyer about the risks of waiving it.\n\nBuying a home? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homeinspection #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-s1.mp4",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "2 cost of a mistake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261111-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Mississauga sellers: your listing photos may cost you showings.\n\n1) Clear counters, closets and the front entrance before photos. 2) Fix small things: dripping taps, burnt bulbs, scuffed walls. 3) Open blinds and turn on every light on photo day. 4) Ask your Realtor® what to stage, fix or skip before listing.\n\nThinking of selling in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #sellingyourhome #homestaging #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f01.png",
+    "say": "Mississauga sellers: could your photos cost showings?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f02.png",
+    "say": "First, clear the counters, closets and front entrance before the photographer arrives.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f03.png",
+    "say": "Next, fix the small stuff buyers notice, like dripping taps, burnt bulbs and scuffed walls.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f04.png",
+    "say": "Now the twist. Photos are often a buyer's first look. Then, open the blinds and turn on every light on photo day.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f05.png",
+    "say": "Finally, ask your Realtor what to stage, fix or skip, so you don't overspend.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r2-frames/f06.png",
+    "say": "Like, comment and share this with a Mississauga homeowner thinking of selling. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Mississauga sellers: photos may *cost showings.",
+     "kick": "FIRST LOOK COUNTS",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "house",
+     "text": "Clear counters, closets and the front entrance before photos.",
+     "short": "Clear the counters"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Fix small things: dripping taps, burnt bulbs, scuffed walls.",
+     "short": "Fix small things"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "swatches",
+     "text": "Open blinds and turn on every light on photo day.",
+     "short": "Light it up"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "Ask your Realtor® what to stage, fix or skip before listing.",
+     "short": "Ask your Realtor®"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Mississauga seller",
+     "fine": "General information only. Results vary. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief from a simple prep plan",
+  "share_reason": "a neighbour about to list",
+  "format": "mistake-then-fix",
+  "hook_pattern": "2 cost of a mistake (no figure)",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261111-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "First home in Brampton? You may be able to claim up to $4,000 back.\n\nOntario's land transfer tax refund for eligible first-time buyers is up to $4,000. You must be at least 18, a Canadian citizen or permanent resident, and never have owned a home anywhere in the world, and you must move in within nine months of closing. Ask your lawyer how to claim it.\nSource: Ontario.ca (Land Transfer Tax Refunds for First-Time Homebuyers, updated Feb 10, 2026). Eligibility rules apply.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #firsttimehomebuyer #landtransfertax #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-f1.png",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261111-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Cambridge buyer: pay your mortgage every two weeks instead of monthly? Years off? Here is the math.\n\nExample only, Canadian semi-annual compounding, $700,000 home, 20% down, 25-year amortization, 4.44% for the whole term:\n1) A $560,000 mortgage costs about $3,081 a month.\n2) Accelerated biweekly is half of that, about $1,540 every two weeks.\n3) 26 payments a year equals one extra monthly mortgage payment, about $3,081 a year.\n4) Result: about 3.3 years sooner and about $54,800 less interest, if the rate stayed the same. Rates usually change at renewal.\nSource for the example rate: lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 10, 2026. Ask your lender whether accelerated biweekly is offered.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #mortgagemath #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f01.png",
+    "say": "Cambridge buyer: pay every two weeks, years off?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f02.png",
+    "say": "First, a five hundred sixty thousand dollar mortgage at four point four four percent costs about three thousand eighty-one dollars a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f03.png",
+    "say": "Next, accelerated biweekly splits that in half: about fifteen hundred forty dollars every two weeks.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f04.png",
+    "say": "Now the twist. Then, twenty-six biweekly payments add up to one extra monthly mortgage every year.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f05.png",
+    "say": "Example only: $700,000 home, 20% down, 4.44% for the full 25 years (lowest 5-year fixed shown on Ratehub.ca, Nov 10, 2026), semi-annual compounding. Rates change at renewal. Ask your lender if accelerated biweekly is offered. Not mortgage, tax or legal advice.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r3-frames/f06.png",
+    "say": "Like, comment and share this with someone buying in Cambridge. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "CAMBRIDGE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Pay every two weeks. *Years off?",
+     "kick": "$700K HOME EXAMPLE",
+     "prop": "calendar"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "calculator",
+     "text": "Monthly mortgage on $560,000",
+     "value": "$3,081",
+     "formula": "$560,000 at 4.44%, 25 years",
+     "running": "$3,081 a month"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "calendar",
+     "text": "Pay half, every two weeks",
+     "value": "$1,540",
+     "formula": "$3,081 ÷ 2, every two weeks",
+     "running": "$1,540 every 2 weeks"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Extra paid each year",
+     "value": "$3,081",
+     "formula": "26 payments = 1 extra monthly mortgage",
+     "running": "Same as 1 extra month a year"
+    },
+    {
+     "kind": "total",
+     "text": "Interest saved, about",
+     "value": "$54,800",
+     "sub": "and about 3.3 years sooner, if the rate never changed",
+     "note": ""
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Cambridge buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a small habit with a big result",
+  "share_reason": "the partner I'm buying with",
+  "format": "money-math",
+  "hook_pattern": "3 number that demands explanation + 5 timing objection (everyday math)",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261111-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Every two weeks instead of monthly. Years off your mortgage?\n\nI worked out an example in my newest Reel. Ask your lender whether accelerated biweekly is offered.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagemath #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-s2.mp4",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261111-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Budget 2026 changed its homebuilding goal. What could it mean for buyers?\n\nThe Canadian Press reports (Nov 10, 2026) that Budget 2026 dropped the 2025 platform goal of doubling home construction, while the Housing Minister's office says the government is still working toward doubling homebuilding over the next decade. CMHC's baseline forecast, as cited by The Canadian Press, is about 231,000 homes built a year, which could leave a shortfall of up to 238,000 homes by 2036.\n\nMy take: supply is only one factor. Rates, prices and your own area's inventory matter too, so look at local sold prices and listings before you decide.\n\nDoes this change your plans? Tell me below.\n\nWant help planning your next step? Comment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#realestatenews #canadahousing #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f01.png",
+    "say": "Budget 2026 just changed the homebuilding goal.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f02.png",
+    "say": "The Canadian Press reports Budget 2026 dropped the double homebuilding wording, but the Housing Minister's office says it is still working toward that over the next decade.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f03.png",
+    "say": "First, CMHC's baseline forecast is about two hundred thirty-one thousand homes built a year, if nothing changes.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f04.png",
+    "say": "Now the twist. Then, CMHC says that could leave a shortfall of up to two hundred thirty-eight thousand homes by twenty thirty-six.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f05.png",
+    "say": "Finally, my take: supply is only one factor, so look at sold prices and listings in your own area.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r4-frames/f06.png",
+    "say": "Like, comment and share this with a first-time buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "REAL ESTATE NEWS",
+   "area": "CANADA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Budget 2026 changed the *homebuilding goal.",
+     "kick": "NOV 10 REPORT",
+     "prop": "chart",
+     "clip": {
+      "source": "The Canadian Press",
+      "date": "Nov 10, 2026",
+      "headline": "Budget wording on *doubling *homebuilding shifts"
+     }
+    },
+    {
+     "kind": "news",
+     "source": "The Canadian Press",
+     "date": "Nov 10, 2026",
+     "text": "Budget 2026 drops 'doubling' goal; ministry says it is still working toward it."
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 3,
+     "prop": "chart",
+     "text": "CMHC projects about 231,000 homes built a year if nothing changes.",
+     "short": "CMHC baseline",
+     "note": "Source: The Canadian Press, Nov 10, 2026, citing CMHC"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 3,
+     "prop": "calendar",
+     "text": "That could leave a shortfall of up to 238,000 homes by 2036.",
+     "short": "The gap",
+     "note": "Source: The Canadian Press, Nov 10, 2026, citing CMHC"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 3,
+     "prop": "search",
+     "text": "My take: supply is one factor. Check your own area's sold prices.",
+     "short": "My take"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a first-time buyer",
+     "fine": "Forecasts can change. Not financial or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a changed promise",
+  "share_reason": "a first-time buyer in my group chat",
+  "format": "market-watch",
+  "hook_pattern": "3 number that demands explanation + attributed news",
+  "audience": "buyer",
+  "series": "market-watch",
+  "music_mood": "tense"
+ },
+ {
+  "id": "d20261111-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton buyers: you may not need 20% down.\n\nThe minimum down payment in Canada is 5% of the first $500,000 of the price plus 10% of the part from $500,000 up to $1.5 million (20% at $1.5 million or more). On a $700,000 home that is $25,000 + $20,000 = $45,000, compared with $140,000 for 20%. With less than 20% down you will typically need mortgage loan insurance, which adds a cost, and your lender still checks your income, credit and the home.\nSource: Financial Consumer Agency of Canada (canada.ca). Confirm with your lender.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #downpayment #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f01.png",
+    "say": "Milton: you may not need twenty percent.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f02.png",
+    "say": "First, the minimum is five percent of the first five hundred thousand dollars of the price.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f03.png",
+    "say": "Next, add ten percent of whatever part falls between five hundred thousand and one point five million.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f04.png",
+    "say": "Now the twist. Then, on a seven hundred thousand dollar home, that works out to forty-five thousand dollars, not one hundred forty thousand.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f05.png",
+    "say": "Finally, with less than twenty percent down you'll typically need mortgage loan insurance, and your lender still checks your income and credit.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r5-frames/f06.png",
+    "say": "Like, comment and share this with a first-time buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MYTH VS FACT",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Milton: you don't need *20% down.",
+     "kick": "MINIMUM IS LOWRE",
+     "prop": "piggy"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "piggy",
+     "text": "Pay 5% of the first $500,000 of the price.",
+     "short": "The 5% part",
+     "note": "Source: Financial Consumer Agency of Canada"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Add 10% of the part from $500,000 up to $1.5M.",
+     "short": "The 10% part",
+     "note": "Source: Financial Consumer Agency of Canada"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "chart",
+     "text": "$700K home: $25,000 + $20,000 = $45,000 minimum.",
+     "short": "$700K example"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "shield",
+     "text": "Under 20% down typically needs mortgage loan insurance, an added cost.",
+     "short": "Insurance applies"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a first-time buyer",
+     "fine": "General information only. Lenders set final approval. Not mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief and surprise",
+  "share_reason": "a friend who thinks they need 20% down",
+  "format": "myth-vs-fact",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "buyer",
+  "series": "honest-mistake",
+  "mistake": "Gold sticker on the hook reads 'MINIMUM IS LOWRE' (letters swapped in LOWER); everything else is correct."
+ },
+ {
+  "id": "d20261111-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Caledon well water? Test it first.\n\nIf the home is on a well, ask for recent water test results, ask for a water test as a condition of your offer, and ask about the well's age and pump records.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #wellwater #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-f2.png",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261111-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-11T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Oakville home. Hidden heating bill?\n\nQuick tip: before you make an offer, ask for 12 months of heat, hydro and water bills, so you know the real running costs of the home.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homebuyingtips #homeownership #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-11/d20261111-r6-frames/f01.png",
+    "say": "Oakville buyer: what does it cost to heat?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r6-frames/f02.png",
+    "say": "Quick tip: before you make an offer, ask for twelve months of heat, hydro and water bills, so you know the real running costs.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-11/d20261111-r6-frames/f03.png",
+    "say": "Like, comment and share this with an Oakville buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Oakville home. *Hidden heating bill?",
+     "kick": "ASK BEFORE OFFERING",
+     "prop": "calculator"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "calculator",
+     "text": "Ask for 12 months of heat, hydro and water bills before you offer.",
+     "short": "Ask for the bills"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an Oakville buyer",
+     "fine": "General information only."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a cost buyers skip",
+  "share_reason": "a friend house hunting",
+  "format": "quick-tip",
+  "hook_pattern": "4 direct address with a stake + 6 tease",
+  "audience": "buyer"
+ }
+]
