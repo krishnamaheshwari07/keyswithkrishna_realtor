@@ -124,7 +124,7 @@
     "type": "story",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-11T12:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Etobicoke: waive the inspection? Think twice.\n\nProblems found after closing may be yours to fix. Ask your Realtor\u00ae about an inspection condition, and ask your lawyer about the risks of waiving it.\n\nBuying a home? Want the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homeinspection #homebuyingtips #keyswithkrishna",
@@ -132,7 +132,10 @@
     "brand_corner": "logo",
     "format": "educational",
     "hook_pattern": "2 cost of a mistake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17914437906591505",
+    "fb_id": "1490077713024243",
+    "fb_status": "posted"
   },
   {
     "id": "d20261111-r2",
