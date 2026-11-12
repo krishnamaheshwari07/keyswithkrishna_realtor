@@ -1,0 +1,632 @@
+[
+ {
+  "id": "d20261112-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T11:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "New build in Brampton. Miss a deadline?\n\n1) Ask your builder for every finish selection deadline in writing. 2) Ask exactly what happens if you miss one, and where the agreement says so. 3) Ask which finishes are included and which cost extra. 4) Have your lawyer review the whole agreement before you sign.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #newbuildhome #peelregion #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f01.png",
+    "say": "Brampton new build. Miss a deadline?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f02.png",
+    "say": "First, ask your builder for every finish selection deadline in writing.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f03.png",
+    "say": "Now the twist. Next, ask exactly what happens if you miss one, and where the agreement says so.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f04.png",
+    "say": "Then, ask which finishes are already included and which ones cost extra.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f05.png",
+    "say": "Finally, have your lawyer review the whole agreement before you sign.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone buying a new build in Brampton. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "New build, Brampton. *Miss a deadline?",
+     "kick": "ASK BEFORE SIGNING",
+     "prop": "calendar"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Ask for every finish selection deadline in writing.",
+     "short": "Deadlines in writing"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Ask exactly what happens if you miss a deadline.",
+     "short": "If you miss one"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "swatches",
+     "text": "Ask which finishes are included and which cost extra.",
+     "short": "Included vs upgrade"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Have your lawyer review the agreement before you sign.",
+     "short": "Lawyer reviews it"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Brampton buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend about to sign a new-build agreement",
+  "format": "step-by-step (buying process, new build)",
+  "hook_pattern": "4 direct address with a stake + 6 tease",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Builder deadline missed? Ask first.\n\nNew Reel on my page: four questions to ask before you sign a new-build agreement.\n\nBuying new? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #newbuildhome #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-s1.mp4",
+  "brand_corner": "logo",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton sellers: the highest offer may still collapse.\n\n1) Compare conditions, not just price: financing, inspection, a buyer whose home must sell first. 2) Check the deposit amount and when it is due. 3) Check the closing date works with your own move. 4) Ask your Realtor® to compare every offer side by side.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #sellingyourhome #homeselling #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f01.png",
+    "say": "Milton sellers: the highest offer could still collapse.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f02.png",
+    "say": "First, compare the conditions, not only the price, like financing, an inspection or a home that must sell first.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f03.png",
+    "say": "Now the twist. Next, look at the deposit: how big it is and when it is due.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f04.png",
+    "say": "Then, check that the closing date actually works with your own move.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f05.png",
+    "say": "Finally, ask your Realtor to lay every offer out side by side.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r2-frames/f06.png",
+    "say": "Like, comment and share this with a Milton homeowner thinking of selling. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Milton sellers: highest offer may *collapse.",
+     "kick": "PRICE ISN'T EVERYTHING",
+     "prop": "handshake"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Compare conditions, not just price: financing, inspection, a home that must sell.",
+     "short": "Compare conditions"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Check the deposit amount and when it is due.",
+     "short": "Check the deposit"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Check the closing date works with your own move.",
+     "short": "Closing date fit"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "Ask your Realtor® to compare every offer side by side.",
+     "short": "Side by side"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Milton seller",
+     "fine": "General information only. Results vary. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise that price isn't everything",
+  "share_reason": "a neighbour about to list",
+  "format": "mistake-then-fix",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261112-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Kitchener condo: is parking included?\n\nAsk if the parking spot and locker are owned or exclusive-use, ask that they are named in your offer, and ask your lawyer to confirm in the condo documents.\n\nBuying a condo in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #condobuyers #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-f1.png",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Oakville: $900K vs $700K. What is the monthly gap?\n\nExample only, Canadian semi-annual compounding, 20% down, 25-year amortization, 4.44% for the whole term:\n1) $700,000 home: $560,000 mortgage, about $3,081 a month.\n2) $900,000 home: $720,000 mortgage, about $3,961 a month.\n3) The gap: about $880 a month.\n4) Over a 5-year term of payments that is about $52,800 more ($880 x 60), before the extra $40,000 down payment, property tax and closing costs.\nSource for the example rate: lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 11, 2026. Rates usually change at renewal, and lenders apply their own qualifying rules.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #mortgagemath #homebudget #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f01.png",
+    "say": "Oakville: nine hundred or seven hundred thousand?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f02.png",
+    "say": "First, a seven hundred thousand dollar home with twenty percent down means a five hundred sixty thousand dollar mortgage: about three thousand eighty-one dollars a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f03.png",
+    "say": "Next, a nine hundred thousand dollar home means a seven hundred twenty thousand dollar mortgage: about three thousand nine hundred sixty-one dollars a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f04.png",
+    "say": "Now the twist. Then, the gap between the two is eight hundred eighty dollars, every month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f05.png",
+    "say": "So all in, that is about fifty-two thousand, eight hundred dollars more over five years.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r3-frames/f06.png",
+    "say": "Like, comment and share this with someone shopping in Oakville. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Oakville: $900K vs $700K. *Monthly gap?",
+     "kick": "SAME 20% DOWN",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "calculator",
+     "text": "Monthly mortgage, $700K home",
+     "value": "$3,081",
+     "formula": "$560,000 at 4.44%, 25 years",
+     "running": "$3,081 a month"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "calculator",
+     "text": "Monthly mortgage, $900K home",
+     "value": "$3,961",
+     "formula": "$720,000 at 4.44%, 25 years",
+     "running": "$3,961 a month"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "chart",
+     "text": "The monthly gap",
+     "value": "$880",
+     "formula": "$3,961 - $3,081",
+     "running": "$880 more every month"
+    },
+    {
+     "kind": "total",
+     "text": "Extra over 5 years, about",
+     "value": "$52,800",
+     "sub": "$880 x 60 months. Not counted: $40,000 more down, property tax, closing costs",
+     "note": "Example only: $700,000 and $900,000 homes, 20% down, 4.44% for the full 25 years (lowest 5-year fixed shown on Ratehub.ca, Nov 11, 2026), semi-annual compounding. Rates change at renewal. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an Oakville buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at what a bigger price tag costs monthly",
+  "share_reason": "the partner I'm buying with",
+  "format": "money-math",
+  "hook_pattern": "11 interactive guess + 3 number that demands explanation",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday",
+  "idea": 2
+ },
+ {
+  "id": "d20261112-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Bigger home. Bigger monthly mortgage?\n\nI worked out an example in my newest Reel: a $700K home and a $900K home, same 20% down.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagemath #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-s2.mp4",
+  "brand_corner": "logo",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Mississauga: what if you break your mortgage early?\n\nBefore you sign, ask your lender: 1) How is the early-exit penalty calculated? 2) Can I take the mortgage with me if I move? 3) How much extra can I pay down each year without a charge? 4) When does my term end, and what are my options at renewal?\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #mortgagetips #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f01.png",
+    "say": "Mississauga: break your mortgage early, then what?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f02.png",
+    "say": "First, ask your lender exactly how the penalty is calculated if you break the mortgage early.",
+    "min": 3.75
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f03.png",
+    "say": "Now the twist. Next, ask whether you can take the mortgage with you if you move.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f04.png",
+    "say": "Then, ask how much extra you can pay down each year without a charge.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f05.png",
+    "say": "Finally, ask when your term ends, and what your options are at renewal.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r4-frames/f06.png",
+    "say": "Like, comment and share this with someone buying in Mississauga. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Mississauga: break your *mortgage early?",
+     "kick": "PENALTY QUESTION",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Ask how your early-exit penalty is calculated.",
+     "short": "Penalty formula"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "movingbox",
+     "text": "Ask if you can take the mortgage with you if you move.",
+     "short": "Portable or not"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "piggy",
+     "text": "Ask how much extra you can pay each year.",
+     "short": "Extra payments"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Ask when your term ends and what your options are then.",
+     "short": "Term end date"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Mississauga buyer",
+     "fine": "General information only. Not mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly mistake avoided",
+  "share_reason": "a friend about to sign a mortgage",
+  "format": "step-by-step (before you sign your mortgage)",
+  "hook_pattern": "2 cost of a mistake (no figure) + 6 tease",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Georgetown: is your deposit extra money?\n\nMyth: the deposit is on top of your down payment. Fact: it usually counts toward your purchase price when you close, but check your agreement. Ask where the deposit will be held until closing, and have your lawyer confirm how it is credited to you.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f01.png",
+    "say": "Georgetown buyers: is the deposit extra money?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f02.png",
+    "say": "First, the myth: many buyers think the deposit is extra, on top of the down payment.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f03.png",
+    "say": "Now the twist. Next, the deposit usually counts toward the purchase price when you close.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f04.png",
+    "say": "Then, ask where the deposit will be held until closing day.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f05.png",
+    "say": "Finally, have your lawyer confirm how the deposit is credited to you at closing.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r5-frames/f06.png",
+    "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MYTH VS FACT",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Georgetown: is your deposit *extra?",
+     "kick": "MYTH OR FACT",
+     "prop": "cheque"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "piggy",
+     "text": "Myth: the deposit is on top of your down payment.",
+     "short": "The myth"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Usually it counts toward your purchase price at closing.",
+     "short": "The usual fact"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Ask where your deposit will be held until closing.",
+     "short": "Where it is held"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Have your lawyer confirm how it is credited to you.",
+     "short": "Lawyer confirms"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Georgetown buyer",
+     "fine": "General information only. Check your agreement. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief and surprise",
+  "share_reason": "a friend saving for a deposit",
+  "format": "myth-vs-fact",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Caledon: dreaming of a pool? Check first.\n\nAsk if the lot is near a conservation authority regulated area, ask the town which permits a pool or addition needs, and ask before you make an offer, not after.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-f2.png",
+  "brand_corner": "logo",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261112-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-12T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Etobicoke home: have you seen the street at 5 p.m.?\n\nQuick tip: visit the street at rush hour and again at night, so you can hear the traffic and see the parking for yourself.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #househunting #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-12/d20261112-r6-frames/f01.png",
+    "say": "Etobicoke buyer: have you seen this street at five?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r6-frames/f02.png",
+    "say": "Quick tip: visit the street at rush hour and again at night, so you hear the traffic and see the parking for yourself.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-12/d20261112-r6-frames/f03.png",
+    "say": "Like, comment and share this with an Etobicoke buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "ETOBICOKE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Etobicoke home: *5 p.m. test?",
+     "kick": "VISIT TWICE",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "search",
+     "text": "Visit the street at rush hour and again at night.",
+     "short": "Rush hour visit"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an Etobicoke buyer",
+     "fine": "General information only."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a check buyers skip",
+  "share_reason": "a friend house hunting",
+  "format": "quick-tip",
+  "hook_pattern": "4 direct address with a stake + 6 tease",
+  "audience": "buyer"
+ }
+]
