@@ -282,7 +282,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-12T17:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Oakville: $900K vs $700K. What is the monthly gap?\n\nExample only, Canadian semi-annual compounding, 20% down, 25-year amortization, 4.44% for the whole term:\n1) $700,000 home: $560,000 mortgage, about $3,081 a month.\n2) $900,000 home: $720,000 mortgage, about $3,961 a month.\n3) The gap: about $880 a month.\n4) Over a 5-year term of payments that is about $52,800 more ($880 x 60), before the extra $40,000 down payment, property tax and closing costs.\nSource for the example rate: lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 11, 2026. Rates usually change at renewal, and lenders apply their own qualifying rules.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #mortgagemath #homebudget #keyswithkrishna",
@@ -396,7 +396,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r3-tt88422.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r3-yt88559.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r3-yt88559.mp4",
+    "ig_media_id": "18351142099267958",
+    "fb_thumb": "set",
+    "fb_id": "2450705255460687",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "os6B6hd2-mQ",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261112-s2",
