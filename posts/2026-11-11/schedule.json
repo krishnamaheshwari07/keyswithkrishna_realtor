@@ -409,7 +409,7 @@
     "type": "story",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-11T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Every two weeks instead of monthly. Years off your mortgage?\n\nI worked out an example in my newest Reel. Ask your lender whether accelerated biweekly is offered.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagemath #homebuyingtips #keyswithkrishna",
@@ -417,7 +417,10 @@
     "brand_corner": "logo",
     "format": "educational",
     "hook_pattern": "6 tease + reveal (teases today's Reel)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18142455382620712",
+    "fb_id": "1095515590150781",
+    "fb_status": "posted"
   },
   {
     "id": "d20261111-r4",
