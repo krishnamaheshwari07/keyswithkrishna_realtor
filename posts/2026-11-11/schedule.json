@@ -554,7 +554,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-11T21:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Milton buyers: you may not need 20% down.\n\nThe minimum down payment in Canada is 5% of the first $500,000 of the price plus 10% of the part from $500,000 up to $1.5 million (20% at $1.5 million or more). On a $700,000 home that is $25,000 + $20,000 = $45,000, compared with $140,000 for 20%. With less than 20% down you will typically need mortgage loan insurance, which adds a cost, and your lender still checks your income, credit and the home.\nSource: Financial Consumer Agency of Canada (canada.ca). Confirm with your lender.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #firsttimehomebuyer #downpayment #keyswithkrishna",
@@ -664,7 +664,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r5-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r5-tt3191.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r5-yt3311.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-11/d20261111-r5-yt3311.mp4",
+    "ig_media_id": "18134897992742397",
+    "fb_thumb": "set",
+    "fb_id": "993697516508558",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "gY_x6g-dNso",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261111-f2",
