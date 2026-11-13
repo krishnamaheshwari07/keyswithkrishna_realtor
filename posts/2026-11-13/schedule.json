@@ -1,635 +1,716 @@
 [
- {
-  "id": "d20261113-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Inspection day in Georgetown. One missed question?\n\nBefore the inspector leaves, ask: 1) Where are the main water shutoff and electrical panel? 2) Which problems are urgent and which are routine upkeep? 3) Roughly how old do the roof, furnace and water heater look? 4) When does the written report arrive? Then read every page before your conditions end.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f01.png",
-    "say": "Georgetown inspection day. One missed question?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f02.png",
-    "say": "First, ask the inspector to show you where the main water shutoff and electrical panel are.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f03.png",
-    "say": "Now the twist. Next, ask which problems are urgent and which are just routine upkeep.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f04.png",
-    "say": "Then, ask roughly how old the roof, furnace and water heater look, and how long they may last.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f05.png",
-    "say": "Finally, ask when the written report arrives, and read every page before your conditions end.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r1-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Inspection day, Georgetown. *Ask before leaving.",
-     "kick": "BEFORE THEY LEAVE",
-     "prop": "clipboard"
+  {
+    "id": "d20261113-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Inspection day in Georgetown. One missed question?\n\nBefore the inspector leaves, ask: 1) Where are the main water shutoff and electrical panel? 2) Which problems are urgent and which are routine upkeep? 3) Roughly how old do the roof, furnace and water heater look? 4) When does the written report arrive? Then read every page before your conditions end.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-vo72505.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f01.png",
+        "say": "Georgetown inspection day. One missed question?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f02.png",
+        "say": "First, ask the inspector to show you where the main water shutoff and electrical panel are.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f03.png",
+        "say": "Now the twist. Next, ask which problems are urgent and which are just routine upkeep.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f04.png",
+        "say": "Then, ask roughly how old the roof, furnace and water heater look, and how long they may last.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f05.png",
+        "say": "Finally, ask when the written report arrives, and read every page before your conditions end.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r1-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Inspection day, Georgetown. *Ask before leaving.",
+          "kick": "BEFORE THEY LEAVE",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask the inspector to show you the main water shutoff and electrical panel.",
+          "short": "Main shutoffs"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "search",
+          "text": "Ask which problems are urgent and which are routine upkeep.",
+          "short": "Urgent vs routine"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Ask roughly how old the roof, furnace and water heater look.",
+          "short": "Age of big items"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask when the written report arrives, and read every page.",
+          "short": "Written report"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Georgetown buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p064.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask the inspector to show you the main water shutoff and electrical panel.",
-     "short": "Main shutoffs"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "search",
-     "text": "Ask which problems are urgent and which are routine upkeep.",
-     "short": "Urgent vs routine"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Ask roughly how old the roof, furnace and water heater look.",
-     "short": "Age of big items"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask when the written report arrives, and read every page.",
-     "short": "Written report"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Georgetown buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a missed question that costs money later",
+    "share_reason": "a friend with an inspection coming up",
+    "format": "step-by-step (buying process, inspection day)",
+    "hook_pattern": "6 tease + 4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.7,
+    "vo_frame_seconds": [
+      2.73,
+      4.46,
+      4.5,
+      4.99,
+      4.08,
+      4.99
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-tt72521.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-yt72642.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a missed question that costs money later",
-  "share_reason": "a friend with an inspection coming up",
-  "format": "step-by-step (buying process, inspection day)",
-  "hook_pattern": "6 tease + 4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Inspector packing up? Wait.\n\nNew Reel on my page: four questions to ask on inspection day.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #homeinspection #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p062.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton listing stuck? It may not be the price.\n\nBefore you change anything, check: 1) Many showings but no offers can point to price or condition. 2) Few showings? Look at your photos, listing description and price. 3) Ask your Realtor® for feedback from every showing. 4) Compare recent sold prices nearby, not other homes' asking prices.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #sellingyourhome #homeselling #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f01.png",
-    "say": "Brampton listing stuck? It may not be the price.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f02.png",
-    "say": "First, count the showings. Plenty of showings but no offers can point to price or condition.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f03.png",
-    "say": "Now the twist. Next, if showings are few, check your photos, listing description and price.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f04.png",
-    "say": "Then, ask your Realtor to share the feedback from each showing.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f05.png",
-    "say": "Finally, compare with recent sold prices nearby, not other homes' asking prices.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r2-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton homeowner whose listing is sitting. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton listing stuck? *Not always price.",
-     "kick": "CHECK THESE FIRST",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "search",
-     "text": "Many showings but no offers? Look at price and condition.",
-     "short": "Count showings"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "house",
-     "text": "Few showings? Check your photos, description and price.",
-     "short": "Few showings"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask your Realtor® for feedback from every showing.",
-     "short": "Showing feedback"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "chart",
-     "text": "Compare recent sold prices nearby, not other asking prices.",
-     "short": "Recent solds"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton seller",
-     "fine": "General information only. Results vary. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261113-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Inspector packing up? Wait.\n\nNew Reel on my page: four questions to ask on inspection day.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #homeinspection #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p062.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise that price isn't the only reason",
-  "share_reason": "a neighbour whose home is sitting on the market",
-  "format": "mistake-then-fix",
-  "hook_pattern": "1 contrarian / myth",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261113-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke home near the airport? Visit twice.\n\nVisit on different days and at different times, including early morning and evening, stand inside with the windows closed and then step outside, and ask neighbours what a normal week sounds like.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #househunting #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-f1.png",
-  "brand_corner": "photo",
-  "photo": "p060.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Home not selling? Check these first.\n\nNew Reel on my page for Brampton sellers: four checks before you change anything.\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #sellingyourhome #homeselling #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p063.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Waterloo Region, $100K income. What mortgage could you qualify for?\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) $100,000 a year is about $8,333 a month before tax ($100,000 / 12).\n2) A common guideline lets housing take about 39%: $3,250 a month.\n3) Less about $500 a month for property tax and heat (an estimate): $2,750 a month.\n4) Lenders test at the greater of 5.25% or your contract rate plus 2%. With an example contract rate of 4.44%, that is 6.44%, and $2,750 a month supports a mortgage of about $413,000. Add your down payment to get the price range.\nSources: OSFI minimum qualifying rate for uninsured mortgages (greater of 5.25% or contract rate + 2%); lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 12, 2026. Debts, credit and each lender's own rules change the result, and lenders decide.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #mortgagemath #homebudget #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f01.png",
-    "say": "Waterloo Region: one hundred thousand income. What mortgage?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f02.png",
-    "say": "First, a hundred thousand dollars a year is about eight thousand, three hundred thirty-three dollars a month before tax.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f03.png",
-    "say": "Next, a common guideline lets housing take about thirty-nine percent: three thousand, two hundred fifty dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f04.png",
-    "say": "Then, take off about five hundred dollars for property tax and heat, which leaves two thousand, seven hundred fifty dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f05.png",
-    "say": "Now the twist. Finally, lenders test that monthly mortgage at six point four four percent, so you may qualify for about four hundred thirteen thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r3-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Waterloo Region. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "WATERLOO REGION",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Waterloo Region, $100K income. *What mortgage?",
-     "kick": "STRESS TEST",
-     "prop": "calculator"
+  {
+    "id": "d20261113-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton listing stuck? It may not be the price.\n\nBefore you change anything, check: 1) Many showings but no offers can point to price or condition. 2) Few showings? Look at your photos, listing description and price. 3) Ask your Realtor\u00ae for feedback from every showing. 4) Compare recent sold prices nearby, not other homes' asking prices.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #sellingyourhome #homeselling #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r2-vo73120.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f01.png",
+        "say": "Brampton listing stuck? It may not be the price.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f02.png",
+        "say": "First, count the showings. Plenty of showings but no offers can point to price or condition.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f03.png",
+        "say": "Now the twist. Next, if showings are few, check your photos, listing description and price.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f04.png",
+        "say": "Then, ask your Realtor to share the feedback from each showing.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f05.png",
+        "say": "Finally, compare with recent sold prices nearby, not other homes' asking prices.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r2-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton homeowner whose listing is sitting. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton listing stuck? *Not always price.",
+          "kick": "CHECK THESE FIRST",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "search",
+          "text": "Many showings but no offers? Look at price and condition.",
+          "short": "Count showings"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "house",
+          "text": "Few showings? Check your photos, description and price.",
+          "short": "Few showings"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask your Realtor\u00ae for feedback from every showing.",
+          "short": "Showing feedback"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "chart",
+          "text": "Compare recent sold prices nearby, not other asking prices.",
+          "short": "Recent solds"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton seller",
+          "fine": "General information only. Results vary. Not legal advice."
+        }
+      ],
+      "photo": "p065.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Monthly income before tax",
-     "value": "$8,333",
-     "formula": "$100,000 ÷ 12 months",
-     "running": "$8,333 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "chart",
-     "text": "Housing share, about 39%",
-     "value": "$3,250",
-     "formula": "$8,333 x 39%",
-     "running": "$3,250 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Less tax and heat, estimate",
-     "value": "$2,750",
-     "formula": "$3,250 - $500 estimate",
-     "running": "$2,750 a month"
-    },
-    {
-     "kind": "total",
-     "text": "Mortgage you may qualify for, about",
-     "value": "$413,000",
-     "sub": "At the 6.44% qualifying rate, 25 years. Add your down payment to get the price.",
-     "note": "Example only: $100,000 household income, 39% housing guideline, $500 estimated tax and heat. Qualifying rate = greater of 5.25% or contract rate + 2% (OSFI); example contract rate 4.44% (lowest 5-year fixed, Ratehub.ca, Nov 12, 2026). Lenders decide. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Waterloo Region buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise that price isn't the only reason",
+    "share_reason": "a neighbour whose home is sitting on the market",
+    "format": "mistake-then-fix",
+    "hook_pattern": "1 contrarian / myth",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 25.5,
+    "vo_frame_seconds": [
+      2.64,
+      4.32,
+      4.9,
+      3.86,
+      4.25,
+      5.52
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r2-tt73136.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r2-yt73250.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at the real borrowing limit",
-  "share_reason": "the partner I'm buying with",
-  "format": "money-math",
-  "hook_pattern": "3 number that demands explanation + 4 direct address",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261113-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga home with a tenant? Ask this first.\n\nBefore you make an offer: 1) Ask for a copy of the lease. 2) Decide if you need the home empty by your closing date. 3) Put clearly in your offer whether the tenant stays or leaves. 4) Ask your lawyer how tenant rights could affect your plans.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Tenant rules are set by Ontario law. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #peelregion #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f01.png",
-    "say": "Mississauga home with a tenant? Ask this first.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f02.png",
-    "say": "First, ask for a copy of the lease before you make an offer.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f03.png",
-    "say": "Now the twist. Next, decide whether you need the home empty by your closing date.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f04.png",
-    "say": "Then, make sure your written offer says clearly whether the tenant stays or leaves.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f05.png",
-    "say": "Finally, ask your lawyer how the tenant's rights could affect your plans.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Mississauga. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Mississauga tenant inside? *Ask first.",
-     "kick": "BEFORE YOU OFFER",
-     "prop": "search"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask for a copy of the lease before you make an offer.",
-     "short": "Ask for the lease"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Decide if you need the home empty by your closing date.",
-     "short": "Your move-in date"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Put clearly in your offer if the tenant stays or leaves.",
-     "short": "Write it in the offer"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer how tenant rights affect your plans.",
-     "short": "Lawyer on tenant rights"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Mississauga buyer",
-     "fine": "General information only. Tenant rules are set by Ontario law. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261113-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke home near the airport? Visit twice.\n\nVisit on different days and at different times, including early morning and evening, stand inside with the windows closed and then step outside, and ask neighbours what a normal week sounds like.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #househunting #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-f1.png",
+    "brand_corner": "photo",
+    "photo": "p060.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a costly surprise avoided",
-  "share_reason": "a friend looking at a home with a tenant",
-  "format": "step-by-step (buying a home with a tenant)",
-  "hook_pattern": "2 cost of a mistake (no figure) + 6 tease",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "As-is Oakville home. Skip the inspection?\n\nMyth: as-is means there is nothing to check. Fact: as-is usually means the seller will not fix problems. Ask your Realtor® if you can inspect before your offer goes firm, and ask your lawyer what as-is means for hidden problems the seller knew about.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homeinspection #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f01.png",
-    "say": "Oakville listing says as-is. Skip the inspection?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f02.png",
-    "say": "First, the myth: as-is does not mean there is nothing to check.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f03.png",
-    "say": "Now the twist. Next, the fact: as-is usually means the seller will not fix problems for you.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f04.png",
-    "say": "Then, ask your Realtor whether you can inspect before your offer goes firm.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f05.png",
-    "say": "Finally, ask your lawyer what as-is means for hidden problems the seller knew about.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r5-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Oakville. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MYTH VS FACT",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "As-is Oakville home. *Skip inspection?",
-     "kick": "MYTH OR FACT",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Myth: as-is means there is nothing to check.",
-     "short": "The myth"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Fact: as-is usually means the seller will not fix problems.",
-     "short": "The usual fact"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "search",
-     "text": "Ask your Realtor® if you can inspect before your offer goes firm.",
-     "short": "Ask about inspecting"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer what as-is means for hidden problems.",
-     "short": "Lawyer reviews it"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Oakville buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261113-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Home not selling? Check these first.\n\nNew Reel on my page for Brampton sellers: four checks before you change anything.\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #sellingyourhome #homeselling #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p063.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at what as-is really means",
-  "share_reason": "a friend eyeing an as-is listing",
-  "format": "myth-vs-fact",
-  "hook_pattern": "1 contrarian / myth",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton basement: is the sump pump working?\n\nAsk where the sump pump is and have the inspector test it, ask if the home has a backwater valve, and ask if the basement has ever had water, with the answer in writing.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-f2.png",
-  "brand_corner": "photo",
-  "photo": "p061.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261113-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-13T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Caledon home. Cell signal inside?\n\nQuick tip: stand inside the house and test the cell signal, then ask which internet providers serve that address, especially in rural areas.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-13/d20261113-r6-frames/f01.png",
-    "say": "Caledon buyer: one bar inside the house?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r6-frames/f02.png",
-    "say": "Quick tip: stand inside the house and test the cell signal, then ask which internet providers serve that address.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-13/d20261113-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Caledon buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "CALEDON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Caledon home. *Cell signal inside?",
-     "kick": "TEST IT",
-     "prop": "search"
+  {
+    "id": "d20261113-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Waterloo Region, $100K income. What mortgage could you qualify for?\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) $100,000 a year is about $8,333 a month before tax ($100,000 / 12).\n2) A common guideline lets housing take about 39%: $3,250 a month.\n3) Less about $500 a month for property tax and heat (an estimate): $2,750 a month.\n4) Lenders test at the greater of 5.25% or your contract rate plus 2%. With an example contract rate of 4.44%, that is 6.44%, and $2,750 a month supports a mortgage of about $413,000. Add your down payment to get the price range.\nSources: OSFI minimum qualifying rate for uninsured mortgages (greater of 5.25% or contract rate + 2%); lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 12, 2026. Debts, credit and each lender's own rules change the result, and lenders decide.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #mortgagemath #homebudget #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-vo73809.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f01.png",
+        "say": "Waterloo Region: one hundred thousand income. What mortgage?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f02.png",
+        "say": "First, a hundred thousand dollars a year is about eight thousand, three hundred thirty-three dollars a month before tax.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f03.png",
+        "say": "Next, a common guideline lets housing take about thirty-nine percent: three thousand, two hundred fifty dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f04.png",
+        "say": "Finally, take off about five hundred dollars for property tax and heat, which leaves two thousand, seven hundred fifty dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f05.png",
+        "say": "Now the twist. Finally, lenders test that monthly mortgage at six point four four percent, so you may qualify for about four hundred thirteen thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r3-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Waterloo Region. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "WATERLOO REGION",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Waterloo Region, $100K income. *What mortgage?",
+          "kick": "STRESS TEST",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Monthly income before tax",
+          "value": "$8,333",
+          "formula": "$100,000 \u00f7 12 months",
+          "running": "$8,333 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "chart",
+          "text": "Housing share, about 39%",
+          "value": "$3,250",
+          "formula": "$8,333 x 39%",
+          "running": "$3,250 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Less tax and heat, estimate",
+          "value": "$2,750",
+          "formula": "$3,250 - $500 estimate",
+          "running": "$2,750 a month"
+        },
+        {
+          "kind": "total",
+          "text": "Mortgage you may qualify for, about",
+          "value": "$413,000",
+          "sub": "At the 6.44% qualifying rate, 25 years. Add your down payment to get the price.",
+          "note": "Example only: $100,000 household income, 39% housing guideline, $500 estimated tax and heat. Qualifying rate = greater of 5.25% or contract rate + 2% (OSFI); example contract rate 4.44% (lowest 5-year fixed, Ratehub.ca, Nov 12, 2026). Lenders decide. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Waterloo Region buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p066.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "search",
-     "text": "Stand inside and test cell signal and internet options.",
-     "short": "Signal test"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Caledon buyer",
-     "fine": "General information only."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at the real borrowing limit",
+    "share_reason": "the partner I'm buying with",
+    "format": "money-math",
+    "hook_pattern": "3 number that demands explanation + 4 direct address",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 31.9,
+    "vo_frame_seconds": [
+      3.66,
+      4.93,
+      5.21,
+      5.62,
+      7.13,
+      5.36
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-tt73828.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-yt73969.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at a check buyers skip",
-  "share_reason": "a friend looking at rural homes",
-  "format": "quick-tip",
-  "hook_pattern": "4 direct address with a stake + 6 tease",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261113-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga home with a tenant? Ask this first.\n\nBefore you make an offer: 1) Ask for a copy of the lease. 2) Decide if you need the home empty by your closing date. 3) Put clearly in your offer whether the tenant stays or leaves. 4) Ask your lawyer how tenant rights could affect your plans.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Tenant rules are set by Ontario law. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #homebuyingtips #peelregion #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r4-vo74397.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f01.png",
+        "say": "Mississauga home with a tenant? Ask this first.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f02.png",
+        "say": "First, ask for a copy of the lease before you make an offer.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f03.png",
+        "say": "Now the twist. Next, decide whether you need the home empty by your closing date.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f04.png",
+        "say": "Then, make sure your written offer says clearly whether the tenant stays or leaves.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f05.png",
+        "say": "Finally, ask your lawyer how the tenant's rights could affect your plans.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Mississauga. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Mississauga tenant inside? *Ask first.",
+          "kick": "BEFORE YOU OFFER",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask for a copy of the lease before you make an offer.",
+          "short": "Ask for the lease"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Decide if you need the home empty by your closing date.",
+          "short": "Your move-in date"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Put clearly in your offer if the tenant stays or leaves.",
+          "short": "Write it in the offer"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer how tenant rights affect your plans.",
+          "short": "Lawyer on tenant rights"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Mississauga buyer",
+          "fine": "General information only. Tenant rules are set by Ontario law. Not legal advice."
+        }
+      ],
+      "photo": "p067.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "fear of a costly surprise avoided",
+    "share_reason": "a friend looking at a home with a tenant",
+    "format": "step-by-step (buying a home with a tenant)",
+    "hook_pattern": "2 cost of a mistake (no figure) + 6 tease",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.2,
+    "vo_frame_seconds": [
+      2.26,
+      3.25,
+      3.93,
+      4.83,
+      3.62,
+      5.33
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r4-tt74412.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r4-yt74520.mp4"
+  },
+  {
+    "id": "d20261113-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "As-is Oakville home. Skip the inspection?\n\nMyth: as-is means there is nothing to check. Fact: as-is usually means the seller will not fix problems. Ask your Realtor\u00ae if you can inspect before your offer goes firm, and ask your lawyer what as-is means for hidden problems the seller knew about.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #homeinspection #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r5-vo74957.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f01.png",
+        "say": "Oakville listing says as-is. Skip the inspection?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f02.png",
+        "say": "First, as-is does not mean there is nothing to check.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f03.png",
+        "say": "Now the twist. Next, the fact: as-is usually means the seller will not fix problems for you.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f04.png",
+        "say": "Then, ask your Realtor whether you can inspect before your offer goes firm.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f05.png",
+        "say": "Finally, ask your lawyer what as-is means for hidden problems the seller knew about.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r5-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Oakville. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MYTH VS FACT",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "As-is Oakville home. *Skip inspection?",
+          "kick": "MYTH OR FACT",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Myth: as-is means there is nothing to check.",
+          "short": "The myth"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Fact: as-is usually means the seller will not fix problems.",
+          "short": "The usual fact"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "search",
+          "text": "Ask your Realtor\u00ae if you can inspect before your offer goes firm.",
+          "short": "Ask about inspecting"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer what as-is means for hidden problems.",
+          "short": "Lawyer reviews it"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Oakville buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p068.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at what as-is really means",
+    "share_reason": "a friend eyeing an as-is listing",
+    "format": "myth-vs-fact",
+    "hook_pattern": "1 contrarian / myth",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.1,
+    "vo_frame_seconds": [
+      2.85,
+      2.88,
+      4.9,
+      3.44,
+      4.13,
+      4.86
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r5-tt74972.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r5-yt75081.mp4"
+  },
+  {
+    "id": "d20261113-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton basement: is the sump pump working?\n\nAsk where the sump pump is and have the inspector test it, ask if the home has a backwater valve, and ask if the basement has ever had water, with the answer in writing.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-f2.png",
+    "brand_corner": "photo",
+    "photo": "p061.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261113-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-13T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Caledon home. Cell signal inside?\n\nQuick tip: stand inside the house and test the cell signal, then ask which internet providers serve that address, especially in rural areas.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-vo75301.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-13/d20261113-r6-frames/f01.png",
+        "say": "Caledon buyer: one bar inside the house?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r6-frames/f02.png",
+        "say": "Quick tip: stand inside the house and test the cell signal, then ask which internet providers serve that address.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-13/d20261113-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Caledon buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "CALEDON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Caledon home. *Cell signal inside?",
+          "kick": "TEST IT",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "search",
+          "text": "Stand inside and test cell signal and internet options.",
+          "short": "Signal test"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Caledon buyer",
+          "fine": "General information only."
+        }
+      ],
+      "photo": "p069.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at a check buyers skip",
+    "share_reason": "a friend looking at rural homes",
+    "format": "quick-tip",
+    "hook_pattern": "4 direct address with a stake + 6 tease",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 12.3,
+    "vo_frame_seconds": [
+      2.42,
+      4.93,
+      4.99
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-tt75308.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-yt75363.mp4"
+  }
 ]
