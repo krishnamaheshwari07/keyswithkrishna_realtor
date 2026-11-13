@@ -61,7 +61,7 @@ def static_page(piece,H):  # feed(1350) / story(1920) with photo card
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{css(piece['theme'],H)}
 h1{{top:{h1top}px;font-size:{fs}px}}.wedge{{top:{wt}px;width:{ 600 if story else 500}px;height:{wh}px}}
 .brand{{right:36px;top:{bt}px;height:{bh}px;width:{bw}px}}.fine{{top:{finetop}px;width:{430 if story else 440}px}}
-</style></head><body><div class="wedge"></div><div class="ring" style="top:{1215 if story else 735}px"></div><img class="logo" style="top:{1227 if story else 747}px" src="../../posts/assets/logo-640.png">
+</style></head><body><div class="wedge"></div><img class="brand" src="../../posts/assets/krishna/photos/{piece['photo']}">
 {head(piece['pill'],piece['area'])}<h1>{hl1(piece['h1'])}</h1>{bul}<div class="fine">{html.escape(piece['fine'])}</div>{footer(H,rule,f1,f2)}</body></html>"""
 def reel_page(r,sc):
     H=1920; k=sc['kind']; th=r['theme']; body=""
