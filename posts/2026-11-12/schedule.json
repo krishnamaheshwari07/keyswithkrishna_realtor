@@ -686,7 +686,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-12T22:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Etobicoke home: have you seen the street at 5 p.m.?\n\nQuick tip: visit the street at rush hour and again at night, so you can hear the traffic and see the parking for yourself.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #househunting #keyswithkrishna",
@@ -750,6 +750,13 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r6-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r6-tt89963.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r6-yt90020.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-12/d20261112-r6-yt90020.mp4",
+    "ig_media_id": "18091722743256335",
+    "fb_thumb": "set",
+    "fb_id": "1445346444476325",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "evz2SJqS2zA",
+    "yt_status": "UPLOADED_PUBLIC"
   }
 ]
