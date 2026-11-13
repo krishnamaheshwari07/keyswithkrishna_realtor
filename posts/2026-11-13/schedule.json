@@ -4,7 +4,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "failed",
     "publish_at": "2026-11-13T11:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Inspection day in Georgetown. One missed question?\n\nBefore the inspector leaves, ask: 1) Where are the main water shutoff and electrical panel? 2) Which problems are urgent and which are routine upkeep? 3) Roughly how old do the roof, furnace and water heater look? 4) When does the written report arrive? Then read every page before your conditions end.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
@@ -111,7 +111,8 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-tt72521.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-yt72642.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r1-yt72642.mp4",
+    "error": "container error"
   },
   {
     "id": "d20261113-s1",
