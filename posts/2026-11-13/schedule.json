@@ -688,7 +688,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-13T22:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Caledon home. Cell signal inside?\n\nQuick tip: stand inside the house and test the cell signal, then ask which internet providers serve that address, especially in rural areas.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
@@ -753,6 +753,13 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-tt75308.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-yt75363.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r6-yt75363.mp4",
+    "ig_media_id": "18224923090340367",
+    "fb_thumb": "set",
+    "fb_id": "2021085361899340",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "LBIPJbQHToM",
+    "yt_status": "UPLOADED_PUBLIC"
   }
 ]
