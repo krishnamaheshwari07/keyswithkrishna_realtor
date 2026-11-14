@@ -1,0 +1,636 @@
+[
+ {
+  "id": "d20261114-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T11:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Brampton: skim your mortgage commitment and risk your closing?\n\nBefore you sign it: 1) Check that the rate and term match what you were quoted. 2) Find the list of conditions your lender still needs met. 3) Check your closing date and when your rate hold ends. 4) Send it to your lawyer before you sign anything.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #mortgagetips #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f01.png",
+    "say": "Brampton buyer: this paper could derail closing.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f02.png",
+    "say": "First, check that the rate and term on the commitment match what you were quoted.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f03.png",
+    "say": "Now the twist. Next, find the list of conditions your lender still needs you to meet.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f04.png",
+    "say": "Then, check your closing date, and when your rate hold ends.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f05.png",
+    "say": "Finally, send it to your lawyer before you sign anything.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone buying in Brampton. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Brampton: skim this and *risk closing?",
+     "kick": "ONE WRONG DATE",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Check the rate and term match what you were quoted.",
+     "short": "Rate and term"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Find the list of conditions your lender still needs met.",
+     "short": "Lender conditions"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Check your closing date and when your rate hold ends.",
+     "short": "Key dates"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Send it to your lawyer before you sign anything.",
+     "short": "Lawyer review"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Brampton buyer",
+     "fine": "General information only. Not legal or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a missed date or condition",
+  "share_reason": "the partner I'm buying with",
+  "format": "step-by-step (buying process, mortgage commitment)",
+  "hook_pattern": "4 direct address with a stake + 7 scene",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Brampton: skim this and risk closing?\n\nNew Reel on my page: four checks on your mortgage commitment before you sign.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #mortgagetips #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-s1.mp4",
+  "brand_corner": "photo",
+  "photo": "p072.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Georgetown showing in ten minutes? Buyers notice more than you think.\n\nBefore they walk in: 1) Turn on the lights and open the blinds in every room. 2) Air the home out and deal with pet and cooking smells. 3) Clear counters and put away papers and valuables. 4) Plan for pets and family to be out during the showing.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f01.png",
+    "say": "Georgetown showing soon. What do buyers notice?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f02.png",
+    "say": "First, turn on every light and open the blinds so each room feels bright.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f03.png",
+    "say": "Now the twist. Next, air the home out and deal with pet and cooking smells.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f04.png",
+    "say": "Then, clear the counters and put away personal papers and valuables.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f05.png",
+    "say": "Finally, plan for pets and family to be out of the home during the showing.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r2-frames/f06.png",
+    "say": "Like, comment and share this with a Georgetown homeowner getting ready to sell. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Georgetown showing soon? *Buyers notice.",
+     "kick": "FIRST TEN SECONDS",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "house",
+     "text": "Turn on the lights and open the blinds in every room.",
+     "short": "Lights and blinds"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "search",
+     "text": "Air the home out and deal with pet and cooking smells.",
+     "short": "Smells"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Clear counters and put away papers and valuables.",
+     "short": "Clear surfaces"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Plan for pets and family to be out during the showing.",
+     "short": "Out of the way"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Georgetown seller",
+     "fine": "General information only. Results vary. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at what buyers notice",
+  "share_reason": "a neighbour about to list",
+  "format": "checklist (showing prep)",
+  "hook_pattern": "7 specific scene cold open",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261114-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Etobicoke home: is the water heater rented?\n\nAsk if the water heater or furnace is rented rather than owned, ask for the rental contract and the monthly cost, and ask your lawyer whether the contract transfers to you.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homebuyingtips #househunting #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-f1.png",
+  "brand_corner": "photo",
+  "photo": "p070.jpg",
+  "format": "educational",
+  "hook_pattern": "2 cost of a mistake (no figure)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Showing in ten minutes? Buyers notice.\n\nNew Reel on my page for Georgetown sellers: four quick checks before buyers arrive.\n\nThinking of selling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Results vary.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #sellingyourhome #homeselling #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-s2.mp4",
+  "brand_corner": "photo",
+  "photo": "p073.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Mississauga: a $6 coffee every day. How much toward a down payment?\n\nExample only, simple arithmetic:\n1) One year: $6 x 365 days = $2,190.\n2) Years two and three: $2,190 x 2 = $4,380 more, $6,570 so far.\n3) Years four and five: another $4,380, so $10,950 in 5 years.\n$10,950 is about 1.6% of a $700,000 home price ($10,950 / $700,000). This does not count interest or growth, and your own habits and savings will differ.\n\nWant help building your own savings plan? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #downpayment #savingmoney #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f01.png",
+    "say": "Mississauga: six dollar coffee daily. How much?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f02.png",
+    "say": "First, one year of a six dollar coffee every day is two thousand, one hundred ninety dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f03.png",
+    "say": "Now the twist. Next, the following two years add another four thousand, three hundred eighty dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f04.png",
+    "say": "Then, the last two years add four thousand, three hundred eighty more.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f05.png",
+    "say": "Finally, that adds up to ten thousand, nine hundred fifty dollars over five years, if you saved it instead.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r3-frames/f06.png",
+    "say": "Like, comment and share this with someone saving for a home in Mississauga. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Mississauga: $6 coffee daily. *Down payment?",
+     "kick": "5 YEARS",
+     "prop": "piggy"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "calculator",
+     "text": "A year of coffee",
+     "value": "$2,190",
+     "formula": "$6 x 365 days",
+     "running": "$2,190"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "calculator",
+     "text": "Years two and three",
+     "value": "$4,380",
+     "formula": "$2,190 x 2 years",
+     "running": "$6,570"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Years four and five",
+     "value": "$4,380",
+     "formula": "$2,190 x 2 years",
+     "running": "$10,950"
+    },
+    {
+     "kind": "total",
+     "text": "Spent on coffee in 5 years",
+     "value": "$10,950",
+     "sub": "About 1.6% of a $700,000 home price. Interest and growth not counted.",
+     "note": "Example only: $6 a day x 365 days x 5 years = $10,950; $10,950 / $700,000 = 1.6%. Arithmetic only, no rates used. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Mississauga buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at how small habits add up",
+  "share_reason": "the friend saving for a first home",
+  "format": "money-math (everyday)",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261114-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Oakville: buying before selling? Watch the gap.\n\nBefore you commit: 1) Ask your lender if a bridge loan is possible and what it costs. 2) Compare your sale closing date with your purchase closing date. 3) Ask your Realtor® how a condition to sell may affect your offer. 4) Plan where you will live if the dates do not match.\n\nSelling and buying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #movingup #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f01.png",
+    "say": "Oakville: buying before selling? Watch the gap.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f02.png",
+    "say": "First, ask your lender whether a bridge loan is possible, and what it would cost.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f03.png",
+    "say": "Now the twist. Next, compare your sale closing date with your purchase closing date.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f04.png",
+    "say": "Then, ask your Realtor how a condition to sell may affect your offer.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f05.png",
+    "say": "Finally, plan where you will live and store your things if the dates do not match.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r4-frames/f06.png",
+    "say": "Like, comment and share this with someone selling and buying in Oakville. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Oakville: buying before selling? *Gap risk.",
+     "kick": "TWO CLOSING DATES",
+     "prop": "calendar"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Ask your lender if a bridge loan is possible and what it costs.",
+     "short": "Ask about bridging"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Compare your sale closing date with your purchase date.",
+     "short": "Compare dates"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "handshake",
+     "text": "Ask your Realtor® how a condition to sell may affect your offer.",
+     "short": "Condition to sell"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "movingbox",
+     "text": "Plan where you will live if the dates do not match.",
+     "short": "Plan B"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an Oakville move-up buyer",
+     "fine": "General information only. Not legal or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of being stuck between two closings",
+  "share_reason": "a friend selling to move up",
+  "format": "step-by-step (buying before selling)",
+  "hook_pattern": "2 cost of a mistake (no figure) + 4 direct address",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton: ugly kitchen? Maybe buy it.\n\nThe mistake: walking away over paint, carpet or an old kitchen. The fix: 1) Remember cosmetic things can be changed later. 2) Weigh location, lot and layout, which are much harder to change. 3) Ask your inspector about the roof, foundation, wiring and plumbing. 4) Get repair quotes before you decide.\n\nHouse hunting in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #househunting #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f01.png",
+    "say": "Milton: the ugly kitchen may be fine.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f02.png",
+    "say": "First, paint, carpet and an old kitchen can all be changed later.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f03.png",
+    "say": "Now the twist. Next, location, lot and layout are much harder to change.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f04.png",
+    "say": "Then, ask your inspector about the roof, foundation, wiring and plumbing.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f05.png",
+    "say": "Finally, get quotes for the repairs before you decide, not after.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r5-frames/f06.png",
+    "say": "Like, comment and share this with someone house hunting in Milton. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MISTAKE AND FIX",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Milton: ugly kitchen? *Maybe buy it.",
+     "kick": "ROOF IS WORSE",
+     "prop": "swatches"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "swatches",
+     "text": "Paint, carpet and an old kitchen can all be changed later.",
+     "short": "Looks can change"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "house",
+     "text": "Location, lot and layout are much harder to change.",
+     "short": "Hard to change"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "search",
+     "text": "Ask your inspector about the roof, foundation, wiring and plumbing.",
+     "short": "Big-ticket check"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Get repair quotes before you decide, not after.",
+     "short": "Get quotes"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Milton house hunter",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise that cosmetics matter less than structure",
+  "share_reason": "a friend who keeps rejecting homes over looks",
+  "format": "mistake-then-fix",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "buyer",
+  "series": "timeless"
+ },
+ {
+  "id": "d20261114-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Kitchener: what is really included in the sale?\n\nList every appliance, light fixture and window covering you expect to stay, ask your Realtor® to put them clearly in the offer, and check them again at your final walkthrough.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #homebuyingtips #househunting #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-f2.png",
+  "brand_corner": "photo",
+  "photo": "p071.jpg",
+  "format": "educational",
+  "hook_pattern": "10 too-honest / call-out",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261114-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-14T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Caledon home. Who plows the road?\n\nQuick tip: ask who plows the road in winter and who is responsible for clearing your driveway, especially on rural and private roads, before you buy.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-14/d20261114-r6-frames/f01.png",
+    "say": "Caledon buyer: who plows your road in winter?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r6-frames/f02.png",
+    "say": "Quick tip: ask who plows the road in winter, and who clears your driveway, before you buy.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-14/d20261114-r6-frames/f03.png",
+    "say": "Like, comment and share this with a Caledon buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "CALEDON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Caledon home. *Who plows the road?",
+     "kick": "ASK FIRST",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "search",
+     "text": "Ask who plows the road, and who clears your driveway.",
+     "short": "Winter access"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Caledon buyer",
+     "fine": "General information only."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a winter cost buyers skip",
+  "share_reason": "a friend looking at rural homes",
+  "format": "quick-tip",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ }
+]
