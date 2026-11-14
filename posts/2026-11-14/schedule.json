@@ -144,7 +144,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-14T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Georgetown showing in ten minutes? Buyers notice more than you think.\n\nBefore they walk in: 1) Turn on the lights and open the blinds in every room. 2) Air the home out and deal with pet and cooking smells. 3) Clear counters and put away papers and valuables. 4) Plan for pets and family to be out during the showing.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
@@ -252,7 +252,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r2-tt58780.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r2-yt58852.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-14/d20261114-r2-yt58852.mp4",
+    "trial_status": "trial",
+    "ig_media_id": "18099942716422704",
+    "fb_thumb": "set",
+    "fb_id": "2512081515947380",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "XZiSkC267QM",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261114-f1",
