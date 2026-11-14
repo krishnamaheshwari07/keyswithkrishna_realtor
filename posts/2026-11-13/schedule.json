@@ -299,7 +299,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-13T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Waterloo Region, $100K income. What mortgage could you qualify for?\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) $100,000 a year is about $8,333 a month before tax ($100,000 / 12).\n2) A common guideline lets housing take about 39%: $3,250 a month.\n3) Less about $500 a month for property tax and heat (an estimate): $2,750 a month.\n4) Lenders test at the greater of 5.25% or your contract rate plus 2%. With an example contract rate of 4.44%, that is 6.44%, and $2,750 a month supports a mortgage of about $413,000. Add your down payment to get the price range.\nSources: OSFI minimum qualifying rate for uninsured mortgages (greater of 5.25% or contract rate + 2%); lowest 5-year fixed rate shown on Ratehub.ca, updated Nov 12, 2026. Debts, credit and each lender's own rules change the result, and lenders decide.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #mortgagemath #homebudget #keyswithkrishna",
@@ -413,7 +413,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-tt73828.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-yt73969.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-13/d20261113-r3-yt73969.mp4",
+    "ig_media_id": "17950264143357350",
+    "fb_thumb": "set",
+    "fb_id": "1685665236557182",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "6SLBfR7e84A",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261113-r4",
