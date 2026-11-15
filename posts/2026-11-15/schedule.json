@@ -1,635 +1,716 @@
 [
- {
-  "id": "d20261115-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton closing: no home insurance yet? It could cause delays.\n\nLenders may require proof of home insurance before closing. 1) Ask your lender what proof they need. 2) Get quotes early, not the week you close. 3) Tell the insurer your closing date so coverage starts when you get the keys. 4) Send your lawyer the policy details before closing day.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f01.png",
-    "say": "Milton closing: one missing paper could cause delays.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f02.png",
-    "say": "First, ask your lender whether they need proof of home insurance before closing day.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f03.png",
-    "say": "Now the twist. Next, get insurance quotes now, not during the week you close.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f04.png",
-    "say": "Then, tell the insurer your closing date, so coverage starts when you get the keys.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f05.png",
-    "say": "Finally, send your lawyer the policy details ahead of time, so nothing is left to the last minute.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r1-frames/f06.png",
-    "say": "Like, comment and share this with someone closing in Milton. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "No insurance? Milton closing *could stall.",
-     "kick": "LENDER MAY ASK",
-     "prop": "shield"
+  {
+    "id": "d20261115-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton closing: no home insurance yet? It could cause delays.\n\nLenders may require proof of home insurance before closing. 1) Ask your lender what proof they need. 2) Get quotes early, not the week you close. 3) Tell the insurer your closing date so coverage starts when you get the keys. 4) Send your lawyer the policy details before closing day.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r1-vo44686.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f01.png",
+        "say": "Milton closing: one missing paper could cause delays.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f02.png",
+        "say": "First, ask your lender whether they need proof of home insurance before closing day.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f03.png",
+        "say": "Now the twist. Next, get insurance quotes now, not during the week you close.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f04.png",
+        "say": "Then, tell the insurer your closing date, so coverage starts when you get the keys.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f05.png",
+        "say": "Finally, send your lawyer the policy details ahead of time, so nothing is left to the last minute.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r1-frames/f06.png",
+        "say": "Like, comment and share this with someone closing in Milton. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "No insurance? Milton closing *could stall.",
+          "kick": "LENDER MAY ASK",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Ask your lender if they need proof of home insurance before closing.",
+          "short": "Ask your lender"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Get insurance quotes now, not the week you close.",
+          "short": "Get quotes early"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Tell the insurer your closing date so cover starts when you get the keys.",
+          "short": "Match your date"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Send your lawyer the policy details before closing day.",
+          "short": "Send to lawyer"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Milton buyer",
+          "fine": "General information only. Not legal or mortgage advice."
+        }
+      ],
+      "photo": "p084.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Ask your lender if they need proof of home insurance before closing.",
-     "short": "Ask your lender"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Get insurance quotes now, not the week you close.",
-     "short": "Get quotes early"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Tell the insurer your closing date so cover starts when you get the keys.",
-     "short": "Match your date"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Send your lawyer the policy details before closing day.",
-     "short": "Send to lawyer"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Milton buyer",
-     "fine": "General information only. Not legal or mortgage advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a last-minute closing delay",
+    "share_reason": "the partner I'm buying with",
+    "format": "step-by-step (buying process, home insurance before closing)",
+    "hook_pattern": "4 direct address with a stake + 7 scene",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.6,
+    "vo_frame_seconds": [
+      3.03,
+      4.37,
+      4.25,
+      3.65,
+      4.48,
+      5.81
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r1-tt44701.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r1-yt44815.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a last-minute closing delay",
-  "share_reason": "the partner I'm buying with",
-  "format": "step-by-step (buying process, home insurance before closing)",
-  "hook_pattern": "4 direct address with a stake + 7 scene",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Closing soon? Insurance question.\n\nNew Reel on my page: four checks about home insurance before closing day.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #homebuyingtips #closingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p082.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton sellers: offer accepted. Time to pack yet?\n\nNot quite. 1) Write down every condition date on your accepted offer. 2) Ask your Realtor® how to handle the buyer's inspection requests. 3) Wait to book movers until the conditions are removed. 4) Confirm your closing date and paperwork with your lawyer.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f01.png",
-    "say": "Brampton seller: your offer is accepted. Now what?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f02.png",
-    "say": "First, write down every condition date on your accepted offer.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f03.png",
-    "say": "Now the twist. Next, ask your Realtor how to handle the buyer's requests after their inspection.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f04.png",
-    "say": "Then, hold off booking movers until the conditions are removed.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f05.png",
-    "say": "Finally, confirm your closing date and paperwork with your lawyer.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r2-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton homeowner about to sell. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton sellers: offer accepted. *Pack yet?",
-     "kick": "NOT DONE YET",
-     "prop": "handshake"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Write down every condition date on your accepted offer.",
-     "short": "Know your dates"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Ask your Realtor® how to handle the buyer's inspection requests.",
-     "short": "Buyer requests"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "Wait to book movers until the conditions are removed.",
-     "short": "Hold the movers"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Confirm your closing date and paperwork with your lawyer.",
-     "short": "Confirm closing"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton seller",
-     "fine": "General information only. Results vary. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261115-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Closing soon? Insurance question.\n\nNew Reel on my page: four checks about home insurance before closing day.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #homebuyingtips #closingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p082.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise that accepted is not the finish line",
-  "share_reason": "a neighbour about to sell",
-  "format": "step-by-step (seller, after accepting an offer)",
-  "hook_pattern": "4 direct address with a stake + question",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261115-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown ravine lot? Check before building.\n\nAsk if the lot is in a regulated area near a creek or ravine, contact your local conservation authority before planning a deck, pool or addition, and ask your lawyer and Realtor® what to confirm before you buy.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-f1.png",
-  "brand_corner": "photo",
-  "photo": "p080.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Two FHSAs. One home. How fast?\n\nNew Reel on my page tonight: simple FHSA arithmetic for a couple saving a down payment.\n\nSaving for a home in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Eligibility rules apply. Not tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #fhsa #downpayment #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p083.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga couple, $700K home: could two FHSAs get you to the down payment?\n\nExample only, simple arithmetic:\n1) Two partners x $8,000 annual FHSA limit = $16,000 in year one.\n2) Year two: another $16,000, so $32,000.\n3) Year three: another $16,000, so $48,000.\nThe minimum down payment on a $700,000 home is $45,000 (5% of the first $500,000 + 10% of the remaining $200,000). Closing costs are extra.\nAssumes both partners are eligible first-time buyers who each contribute the $8,000 annual limit, with no investment growth or tax refunds counted. FHSA lifetime limit is $40,000 per person. Sources: CRA FHSA pages (last updated Feb 2026); Department of Finance Canada. Check current rules.\n\nWant help building your own savings plan? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Eligibility rules apply. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #fhsa #downpayment #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f01.png",
-    "say": "Mississauga couple: could two FHSAs buy a home?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f02.png",
-    "say": "First, in year one, two FHSAs at eight thousand dollars each add up to sixteen thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f03.png",
-    "say": "Now the twist. Next, year two adds another sixteen thousand, so thirty-two thousand so far.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f04.png",
-    "say": "Then, year three adds another sixteen thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f05.png",
-    "say": "Finally, that's forty-eight thousand dollars, compared with about forty-five thousand dollars in minimum down payment on a seven hundred thousand dollar home.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r3-frames/f06.png",
-    "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Mississauga couple. $700K home. *Two FHSAs?",
-     "kick": "SAVE TOGETHER",
-     "prop": "piggy"
+  {
+    "id": "d20261115-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton sellers: offer accepted. Time to pack yet?\n\nNot quite. 1) Write down every condition date on your accepted offer. 2) Ask your Realtor\u00ae how to handle the buyer's inspection requests. 3) Wait to book movers until the conditions are removed. 4) Confirm your closing date and paperwork with your lawyer.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r2-vo45228.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f01.png",
+        "say": "Brampton seller: your offer is accepted. Now what?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f02.png",
+        "say": "First, write down every condition date on your accepted offer.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f03.png",
+        "say": "Now the twist. Next, ask your Realtor how to handle the buyer's requests after their inspection.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f04.png",
+        "say": "Then, hold off booking movers until the conditions are removed.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f05.png",
+        "say": "Finally, confirm your closing date and paperwork with your lawyer.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r2-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton homeowner about to sell. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton sellers: offer accepted. *Pack yet?",
+          "kick": "NOT DONE YET",
+          "prop": "handshake"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Write down every condition date on your accepted offer.",
+          "short": "Know your dates"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Ask your Realtor\u00ae how to handle the buyer's inspection requests.",
+          "short": "Buyer requests"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "Wait to book movers until the conditions are removed.",
+          "short": "Hold the movers"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Confirm your closing date and paperwork with your lawyer.",
+          "short": "Confirm closing"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton seller",
+          "fine": "General information only. Results vary. Not legal advice."
+        }
+      ],
+      "photo": "p085.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Both partners max the FHSA, year one",
-     "value": "$16,000",
-     "formula": "2 x $8,000 annual limit",
-     "running": "$16,000"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Year two, same again",
-     "value": "$16,000",
-     "formula": "2 x $8,000 annual limit",
-     "running": "$32,000"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Year three, same again",
-     "value": "$16,000",
-     "formula": "2 x $8,000 annual limit",
-     "running": "$48,000"
-    },
-    {
-     "kind": "total",
-     "text": "Saved in 3 years, about",
-     "value": "$48,000",
-     "sub": "Minimum down payment on a $700,000 home is $45,000: 5% of the first $500,000 plus 10% of the rest. Closing costs are extra.",
-     "note": "Example only: both partners eligible first-time buyers, each contributing the $8,000 annual limit to an FHSA, no investment growth or tax refunds counted. Minimum down payment: 5% x $500,000 + 10% x $200,000 = $45,000. Sources: CRA FHSA pages (2026); Dept. of Finance Canada. Eligibility rules apply. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with your co-buyer",
-     "fine": "Example only. Eligibility rules apply. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise that accepted is not the finish line",
+    "share_reason": "a neighbour about to sell",
+    "format": "step-by-step (seller, after accepting an offer)",
+    "hook_pattern": "4 direct address with a stake + question",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 22.7,
+    "vo_frame_seconds": [
+      3.18,
+      3.18,
+      4.71,
+      3.33,
+      3.04,
+      5.24
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r2-tt45241.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r2-yt45342.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "hope that a goal is closer than it looks",
-  "share_reason": "the partner I'm buying with",
-  "format": "money-math (everyday, two FHSAs)",
-  "hook_pattern": "8 price anchor + 11 interactive guess",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261115-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Oakville builder contract: can the price change?\n\nBefore you sign a new-build agreement: 1) Ask when the builder can change your price before closing. 2) Check how it handles a delayed closing or occupancy date. 3) List every deposit amount and its due date. 4) Have your lawyer review it before you sign.\n\nBuying a new build in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #newbuild #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f01.png",
-    "say": "Oakville new build: could the price change?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f02.png",
-    "say": "First, ask the builder in what situations the price can change before closing.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f03.png",
-    "say": "Now the twist. Next, check how the agreement handles a delayed closing or occupancy date.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f04.png",
-    "say": "Then, list every deposit amount and its due date, so none are missed.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f05.png",
-    "say": "Finally, have your lawyer read the whole agreement before you sign.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone buying a new build in Oakville. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Oakville builder contract: *can price change?",
-     "kick": "CHECK THE CLAUSES",
-     "prop": "lawyer"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Ask when the builder can change your price before closing.",
-     "short": "Price changes"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Check how it handles a delayed closing or occupancy date.",
-     "short": "Closing date terms"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "List every deposit amount and its due date.",
-     "short": "Deposit schedule"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Have your lawyer review it before you sign.",
-     "short": "Lawyer review"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Oakville new-build buyer",
-     "fine": "General information only. Not legal or mortgage advice."
-    }
-   ]
+  {
+    "id": "d20261115-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown ravine lot? Check before building.\n\nAsk if the lot is in a regulated area near a creek or ravine, contact your local conservation authority before planning a deck, pool or addition, and ask your lawyer and Realtor\u00ae what to confirm before you buy.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-f1.png",
+    "brand_corner": "photo",
+    "photo": "p080.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a surprise in the fine print",
-  "share_reason": "a friend buying a new build",
-  "format": "step-by-step (pre-construction purchase agreement)",
-  "hook_pattern": "4 direct address with a stake + 2 cost of a mistake (no figure)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke renewal offer: it may cost you if you just sign.\n\nThe mistake: signing the first renewal offer without comparing. The fix: 1) Ask your lender for your renewal offer well before your term ends. 2) Get at least one quote from another lender or a broker. 3) Compare fees and penalties, not only the rate. 4) Ask what switching lenders at renewal would involve for you.\n\nRenewing in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #mortgagerenewal #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f01.png",
-    "say": "Etobicoke: that renewal letter deserves a second look.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f02.png",
-    "say": "First, ask your lender for your renewal offer well before your term ends.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f03.png",
-    "say": "Now the twist. Next, get at least one quote from another lender or a mortgage broker.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f04.png",
-    "say": "Then, compare fees and penalties, not just the interest rate.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f05.png",
-    "say": "Finally, ask what switching lenders at renewal would involve in your case.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r5-frames/f06.png",
-    "say": "Like, comment and share this with someone renewing their mortgage in Etobicoke. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MISTAKE AND FIX",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke renewal offer *may cost you.",
-     "kick": "SHOP IT FIRST",
-     "prop": "mortgage"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Ask your lender for your renewal offer well before your term ends.",
-     "short": "Ask for the offer"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "search",
-     "text": "Get at least one quote from another lender or a broker.",
-     "short": "Get a second quote"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Compare fees and penalties, not only the rate.",
-     "short": "Compare total cost"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Ask what switching lenders at renewal would involve for you.",
-     "short": "Ask about switching"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Etobicoke homeowner",
-     "fine": "General information only. Not mortgage advice."
-    }
-   ]
+  {
+    "id": "d20261115-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Two FHSAs. One home. How fast?\n\nNew Reel on my page tonight: simple FHSA arithmetic for a couple saving a down payment.\n\nSaving for a home in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Eligibility rules apply. Not tax or mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #fhsa #downpayment #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p083.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "frustration at a renewal rate that feels too high",
-  "share_reason": "a friend renewing next year",
-  "format": "mistake-then-fix (mortgage renewal)",
-  "hook_pattern": "2 cost of a mistake (no figure)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Waterloo: using your RRSP for a down payment? Tax surprise?\n\nAsk about the Home Buyers' Plan for RRSP withdrawals, ask how repayment works (missed repayments can be added to your income), and check the eligibility rules and dates on canada.ca.\n\nBuying in Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nEligibility rules apply. Not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#waterlooregion #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-f2.png",
-  "brand_corner": "photo",
-  "photo": "p081.jpg",
-  "format": "educational",
-  "hook_pattern": "3/2 cost of a mistake (no figure)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261115-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-15T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Cambridge: could unpaid property taxes follow the home?\n\nQuick tip: ask your lawyer to check for unpaid property taxes before you close.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-15/d20261115-r6-frames/f01.png",
-    "say": "Cambridge: could the seller's tax bill become yours?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r6-frames/f02.png",
-    "say": "Quick tip: ask your lawyer to check for unpaid property taxes before you close.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-15/d20261115-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Cambridge buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "CAMBRIDGE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Cambridge: unpaid taxes *follow the home?",
-     "kick": "ASK YOUR LAWYER",
-     "prop": "lawyer"
+  {
+    "id": "d20261115-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga couple, $700K home: could two FHSAs get you to the down payment?\n\nExample only, simple arithmetic:\n1) Two partners x $8,000 annual FHSA limit = $16,000 in year one.\n2) Year two: another $16,000, so $32,000.\n3) Year three: another $16,000, so $48,000.\nThe minimum down payment on a $700,000 home is $45,000 (5% of the first $500,000 + 10% of the remaining $200,000). Closing costs are extra.\nAssumes both partners are eligible first-time buyers who each contribute the $8,000 annual limit, with no investment growth or tax refunds counted. FHSA lifetime limit is $40,000 per person. Sources: CRA FHSA pages (last updated Feb 2026); Department of Finance Canada. Check current rules.\n\nWant help building your own savings plan? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Eligibility rules apply. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #fhsa #downpayment #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-vo45806.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f01.png",
+        "say": "Mississauga couple: could two FHSAs buy a home?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f02.png",
+        "say": "First, in year one, two FHSAs at eight thousand dollars each add up to sixteen thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f03.png",
+        "say": "Now the twist. Next, year two adds another sixteen thousand, so thirty-two thousand so far.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f04.png",
+        "say": "Finally, year three adds another sixteen thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f05.png",
+        "say": "Finally, that's forty-eight thousand dollars, compared with about forty-five thousand dollars in minimum down payment on a seven hundred thousand dollar home.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r3-frames/f06.png",
+        "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Mississauga couple. $700K home. *Two FHSAs?",
+          "kick": "SAVE TOGETHER",
+          "prop": "piggy"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Both partners max the FHSA, year one",
+          "value": "$16,000",
+          "formula": "2 x $8,000 annual limit",
+          "running": "$16,000"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Year two, same again",
+          "value": "$16,000",
+          "formula": "2 x $8,000 annual limit",
+          "running": "$32,000"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Year three, same again",
+          "value": "$16,000",
+          "formula": "2 x $8,000 annual limit",
+          "running": "$48,000"
+        },
+        {
+          "kind": "total",
+          "text": "Saved in 3 years, about",
+          "value": "$48,000",
+          "sub": "Minimum down payment on a $700,000 home is $45,000: 5% of the first $500,000 plus 10% of the rest. Closing costs are extra.",
+          "note": "Example only: both partners eligible first-time buyers, each contributing the $8,000 annual limit to an FHSA, no investment growth or tax refunds counted. Minimum down payment: 5% x $500,000 + 10% x $200,000 = $45,000. Sources: CRA FHSA pages (2026); Dept. of Finance Canada. Eligibility rules apply. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with your co-buyer",
+          "fine": "Example only. Eligibility rules apply. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p086.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "calculator",
-     "text": "Ask your lawyer to check for unpaid property taxes before closing.",
-     "short": "Property taxes"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Cambridge buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "hope that a goal is closer than it looks",
+    "share_reason": "the partner I'm buying with",
+    "format": "money-math (everyday, two FHSAs)",
+    "hook_pattern": "8 price anchor + 11 interactive guess",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 27.1,
+    "vo_frame_seconds": [
+      2.72,
+      5.36,
+      4.89,
+      3.26,
+      5.74,
+      5.13
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-tt45822.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-yt45938.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at a hidden cost",
-  "share_reason": "a friend about to buy",
-  "format": "quick-tip",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261115-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Oakville builder contract: can the price change?\n\nBefore you sign a new-build agreement: 1) Ask when the builder can change your price before closing. 2) Check how it handles a delayed closing or occupancy date. 3) List every deposit amount and its due date. 4) Have your lawyer review it before you sign.\n\nBuying a new build in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #newbuild #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r4-vo46356.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f01.png",
+        "say": "Oakville new build: could the price change?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f02.png",
+        "say": "First, ask the builder in what situations the price can change before closing.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f03.png",
+        "say": "Now the twist. Next, check how the agreement handles a delayed closing or occupancy date.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f04.png",
+        "say": "Then, list every deposit amount and its due date, so none are missed.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f05.png",
+        "say": "Finally, have your lawyer read the whole agreement before you sign.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone buying a new build in Oakville. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Oakville builder contract: *can price change?",
+          "kick": "CHECK THE CLAUSES",
+          "prop": "lawyer"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Ask when the builder can change your price before closing.",
+          "short": "Price changes"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Check how it handles a delayed closing or occupancy date.",
+          "short": "Closing date terms"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "List every deposit amount and its due date.",
+          "short": "Deposit schedule"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Have your lawyer review it before you sign.",
+          "short": "Lawyer review"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Oakville new-build buyer",
+          "fine": "General information only. Not legal or mortgage advice."
+        }
+      ],
+      "photo": "p087.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "fear of a surprise in the fine print",
+    "share_reason": "a friend buying a new build",
+    "format": "step-by-step (pre-construction purchase agreement)",
+    "hook_pattern": "4 direct address with a stake + 2 cost of a mistake (no figure)",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.7,
+    "vo_frame_seconds": [
+      2.23,
+      3.44,
+      4.5,
+      4.13,
+      2.98,
+      6.41
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r4-tt46370.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r4-yt46474.mp4"
+  },
+  {
+    "id": "d20261115-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke renewal offer: it may cost you if you just sign.\n\nThe mistake: signing the first renewal offer without comparing. The fix: 1) Ask your lender for your renewal offer well before your term ends. 2) Get at least one quote from another lender or a broker. 3) Compare fees and penalties, not only the rate. 4) Ask what switching lenders at renewal would involve for you.\n\nRenewing in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #mortgagerenewal #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r5-vo46900.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f01.png",
+        "say": "Etobicoke: that renewal letter deserves a second look.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f02.png",
+        "say": "First, ask your lender for your renewal offer well before your term ends.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f03.png",
+        "say": "Now the twist. Next, get at least one quote from another lender or a mortgage broker.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f04.png",
+        "say": "Then, compare fees and penalties, not just the interest rate.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f05.png",
+        "say": "Finally, ask what switching lenders at renewal would involve in your case.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r5-frames/f06.png",
+        "say": "Like, comment and share this with someone renewing their mortgage in Etobicoke. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MISTAKE AND FIX",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke renewal offer *may cost you.",
+          "kick": "SHOP IT FIRST",
+          "prop": "mortgage"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Ask your lender for your renewal offer well before your term ends.",
+          "short": "Ask for the offer"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "search",
+          "text": "Get at least one quote from another lender or a broker.",
+          "short": "Get a second quote"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Compare fees and penalties, not only the rate.",
+          "short": "Compare total cost"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Ask what switching lenders at renewal would involve for you.",
+          "short": "Ask about switching"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Etobicoke homeowner",
+          "fine": "General information only. Not mortgage advice."
+        }
+      ],
+      "photo": "p088.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "frustration at a renewal rate that feels too high",
+    "share_reason": "a friend renewing next year",
+    "format": "mistake-then-fix (mortgage renewal)",
+    "hook_pattern": "2 cost of a mistake (no figure)",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.7,
+    "vo_frame_seconds": [
+      3.34,
+      3.69,
+      4.49,
+      2.92,
+      3.7,
+      5.58
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r5-tt46914.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r5-yt47020.mp4"
+  },
+  {
+    "id": "d20261115-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Waterloo: using your RRSP for a down payment? Tax surprise?\n\nAsk about the Home Buyers' Plan for RRSP withdrawals, ask how repayment works (missed repayments can be added to your income), and check the eligibility rules and dates on canada.ca.\n\nBuying in Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nEligibility rules apply. Not tax, mortgage or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#waterlooregion #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-f2.png",
+    "brand_corner": "photo",
+    "photo": "p081.jpg",
+    "format": "educational",
+    "hook_pattern": "3/2 cost of a mistake (no figure)",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261115-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-15T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Cambridge: could unpaid property taxes follow the home?\n\nQuick tip: ask your lawyer to check for unpaid property taxes before you close.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r6-vo47226.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-15/d20261115-r6-frames/f01.png",
+        "say": "Cambridge: could the seller's tax bill become yours?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r6-frames/f02.png",
+        "say": "Quick tip: ask your lawyer to check for unpaid property taxes before you close.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-15/d20261115-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Cambridge buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "CAMBRIDGE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Cambridge: unpaid taxes *follow the home?",
+          "kick": "ASK YOUR LAWYER",
+          "prop": "lawyer"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "calculator",
+          "text": "Ask your lawyer to check for unpaid property taxes before closing.",
+          "short": "Property taxes"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Cambridge buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p089.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at a hidden cost",
+    "share_reason": "a friend about to buy",
+    "format": "quick-tip",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 11.9,
+    "vo_frame_seconds": [
+      2.51,
+      4.31,
+      5.05
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r6-tt47233.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r6-yt47284.mp4"
+  }
 ]
