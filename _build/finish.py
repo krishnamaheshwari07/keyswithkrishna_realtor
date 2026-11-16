@@ -39,5 +39,7 @@ for grp,typ in ((FEEDS,'feed'),(STORIES,'story')):
 items.sort(key=lambda i:i['publish_at'])
 json.dump(items,open(OUT/'schedule.json','w'),indent=1,ensure_ascii=False)
 u=json.load(open('data/photo-usage.json'))
+for grp in (FEEDS,STORIES):
+    for p in grp: u['used'][p['photo']]=p['_rid']
 json.dump(u,open('data/photo-usage.json','w'),indent=1)
 print(len(items))
