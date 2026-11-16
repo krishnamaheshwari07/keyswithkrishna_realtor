@@ -143,7 +143,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-16T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Brampton: online estimate could cost you.\n\nA home is worth what a buyer will actually pay. 1) Remember online estimates are computer guesses, not offers. 2) Ask your Realtor\u00ae for recent sales of similar homes near you. 3) Compare their condition, size and lot with your home. 4) Price from what buyers have actually paid, not what you hope for.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #sellingyourhome #keyswithkrishna",
@@ -253,7 +253,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r2-tt31999.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r2-yt32090.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r2-yt32090.mp4",
+    "trial_status": "trial",
+    "ig_media_id": "18002075148047552",
+    "fb_thumb": "set",
+    "fb_id": "999424889873635",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "uhHXeIDImGQ",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261116-f1",
