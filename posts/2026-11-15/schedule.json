@@ -305,7 +305,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-15T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Mississauga couple, $700K home: could two FHSAs get you to the down payment?\n\nExample only, simple arithmetic:\n1) Two partners x $8,000 annual FHSA limit = $16,000 in year one.\n2) Year two: another $16,000, so $32,000.\n3) Year three: another $16,000, so $48,000.\nThe minimum down payment on a $700,000 home is $45,000 (5% of the first $500,000 + 10% of the remaining $200,000). Closing costs are extra.\nAssumes both partners are eligible first-time buyers who each contribute the $8,000 annual limit, with no investment growth or tax refunds counted. FHSA lifetime limit is $40,000 per person. Sources: CRA FHSA pages (last updated Feb 2026); Department of Finance Canada. Check current rules.\n\nWant help building your own savings plan? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Eligibility rules apply. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #fhsa #downpayment #keyswithkrishna",
@@ -419,7 +419,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-tt45822.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-yt45938.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-15/d20261115-r3-yt45938.mp4",
+    "ig_media_id": "18102496682413259",
+    "fb_thumb": "set",
+    "fb_id": "1789758045575306",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "_k1q0EaSS1Q",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261115-r4",
