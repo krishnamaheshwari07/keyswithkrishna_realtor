@@ -267,7 +267,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-17T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Oakville mortgage meeting: missing paperwork?\n\nAsk your lender exactly which documents they need, and gather them early. Common items include ID, proof of income such as recent pay stubs, bank statements showing your down payment, and tax notices of assessment. Requirements vary by lender.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #mortgagetips #keyswithkrishna",
@@ -276,7 +276,10 @@
     "photo": "p101.jpg",
     "format": "educational",
     "hook_pattern": "7 specific scene / direct address",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18102407204406052",
+    "fb_id": "122125721253311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261117-s2",
