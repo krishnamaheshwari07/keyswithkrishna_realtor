@@ -306,7 +306,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-16T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Oakville: $18 lunch, 5 years. Guess?\n\nExample only, simple arithmetic:\n1) 3 lunches a week x $18 = $54 a week.\n2) $54 x 52 weeks = $2,808 a year.\n3) $2,808 x 5 years = $14,040.\nAssumes no interest and no price changes. It is your money and your choice; the point is to see what small habits add up to when you plan a down payment.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not financial, mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #downpayment #budgeting #keyswithkrishna",
@@ -420,7 +420,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r3-tt32529.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r3-yt32620.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r3-yt32620.mp4",
+    "ig_media_id": "18109621295248895",
+    "fb_thumb": "set",
+    "fb_id": "1114725238128706",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "tKio3OOOsSk",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261116-r4",
