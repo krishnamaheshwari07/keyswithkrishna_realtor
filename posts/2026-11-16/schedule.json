@@ -697,7 +697,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-16T22:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Mississauga home. How old is the roof?\n\nQuick tip: ask when the roof was last replaced, and have your home inspector check its condition before you decide.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #homeinspection #keyswithkrishna",
@@ -762,6 +762,13 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r6-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r6-tt33839.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r6-yt33883.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-16/d20261116-r6-yt33883.mp4",
+    "ig_media_id": "18136727812776082",
+    "fb_thumb": "set",
+    "fb_id": "1143041958604597",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "KCLrcuFrOMo",
+    "yt_status": "UPLOADED_PUBLIC"
   }
 ]
