@@ -1,635 +1,716 @@
 [
- {
-  "id": "d20261117-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton offer accepted. The clock starts.\n\nAn accepted offer is not the finish line. 1) Have your lawyer review the signed agreement and every condition date. 2) Confirm when your deposit is due and exactly how it should be paid. 3) Book your home inspection early so the results arrive before your conditions end. 4) Tell your lender the offer is accepted and ask which documents they still need.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f01.png",
-    "say": "Offer accepted in Brampton? The clock starts.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f02.png",
-    "say": "First, have your lawyer review the signed agreement and every condition date.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f03.png",
-    "say": "Now the twist. Next, confirm when your deposit is due and exactly how it should be paid.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f04.png",
-    "say": "Then, book your home inspection early, so the results arrive before your conditions end.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f05.png",
-    "say": "Finally, tell your lender the offer was accepted and ask which documents they still need.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r1-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton offer accepted. *Clock starts.",
-     "kick": "CONDITION DATES",
-     "prop": "handshake"
+  {
+    "id": "d20261117-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton offer accepted. The clock starts.\n\nAn accepted offer is not the finish line. 1) Have your lawyer review the signed agreement and every condition date. 2) Confirm when your deposit is due and exactly how it should be paid. 3) Book your home inspection early so the results arrive before your conditions end. 4) Tell your lender the offer is accepted and ask which documents they still need.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r1-vo17983.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f01.png",
+        "say": "Offer accepted in Brampton? The clock starts.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f02.png",
+        "say": "First, have your lawyer review the signed agreement and every condition date.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f03.png",
+        "say": "Now the twist. Next, confirm when your deposit is due and exactly how it should be paid.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f04.png",
+        "say": "Then, book your home inspection early, so the results arrive before your conditions end.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f05.png",
+        "say": "Finally, tell your lender the offer was accepted and ask which documents they still need.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r1-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton offer accepted. *Clock starts.",
+          "kick": "CONDITION DATES",
+          "prop": "handshake"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Have your lawyer review the signed agreement and every condition date.",
+          "short": "Review conditions"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Confirm when your deposit is due and exactly how it should be paid.",
+          "short": "Deposit deadline"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Book your home inspection early so results arrive before conditions end.",
+          "short": "Book inspection"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Tell your lender the offer is accepted and ask which documents they still need.",
+          "short": "Call your lender"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton buyer",
+          "fine": "General information only. Not legal or mortgage advice."
+        }
+      ],
+      "photo": "p104.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Have your lawyer review the signed agreement and every condition date.",
-     "short": "Review conditions"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Confirm when your deposit is due and exactly how it should be paid.",
-     "short": "Deposit deadline"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Book your home inspection early so results arrive before conditions end.",
-     "short": "Book inspection"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Tell your lender the offer is accepted and ask which documents they still need.",
-     "short": "Call your lender"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton buyer",
-     "fine": "General information only. Not legal or mortgage advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "worry about missing a deadline after winning an offer",
+    "share_reason": "the partner I'm buying with",
+    "format": "step-by-step (buying process, offer accepted)",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 24.7,
+    "vo_frame_seconds": [
+      2.86,
+      3.63,
+      4.73,
+      3.76,
+      4.78,
+      4.95
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r1-tt17994.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r1-yt18073.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about missing a deadline after winning an offer",
-  "share_reason": "the partner I'm buying with",
-  "format": "step-by-step (buying process, offer accepted)",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Offer accepted. Now what?\n\nNew Reel on my page: four steps to take once your offer is accepted.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #offeraccepted #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p100.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga sellers: that renovation may backfire.\n\nA big project does not always pay back what it costs. 1) Ask your Realtor® which fixes buyers in your area notice most. 2) Compare any renovation quote with what updated homes nearby sold for. 3) Repair leaks, broken fixtures and safety items before listing. 4) Skip big taste-based projects; fresh, neutral paint is often the safer choice.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f01.png",
-    "say": "Mississauga sellers: that renovation may backfire.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f02.png",
-    "say": "First, ask your Realtor which fixes buyers in your area notice the most.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f03.png",
-    "say": "Now the twist. Next, compare any renovation quote with what updated homes nearby actually sold for.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f04.png",
-    "say": "Then, repair the leaks, broken fixtures and safety items before you list.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f05.png",
-    "say": "Finally, skip projects based on taste, because neutral paint is often the safer choice.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r2-frames/f06.png",
-    "say": "Like, comment and share this with someone selling in Mississauga. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Mississauga sellers: reno may *backfire.",
-     "kick": "BEFORE YOU SPEND",
-     "prop": "calculator"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Ask your Realtor® which fixes buyers in your area notice most.",
-     "short": "Ask first"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "search",
-     "text": "Compare any renovation quote with what updated homes nearby sold for.",
-     "short": "Compare to sales"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Repair leaks, broken fixtures and safety items before listing.",
-     "short": "Fix the basics"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "swatches",
-     "text": "Skip taste-based projects. Neutral paint is often safer.",
-     "short": "Skip taste projects"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Mississauga seller",
-     "fine": "General information only. Results vary. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261117-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Offer accepted. Now what?\n\nNew Reel on my page: four steps to take once your offer is accepted.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #homebuyingtips #offeraccepted #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p100.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of wasting renovation money",
-  "share_reason": "a neighbour about to renovate before selling",
-  "format": "mistake-then-fix (seller, renovating before selling)",
-  "hook_pattern": "2 cost of a mistake (no figure)",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261117-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Oakville mortgage meeting: missing paperwork?\n\nAsk your lender exactly which documents they need, and gather them early. Common items include ID, proof of income such as recent pay stubs, bank statements showing your down payment, and tax notices of assessment. Requirements vary by lender.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-f1.png",
-  "brand_corner": "photo",
-  "photo": "p101.jpg",
-  "format": "educational",
-  "hook_pattern": "7 specific scene / direct address",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "1% higher rate. Monthly mortgage?\n\nNew Reel on my page tonight: simple arithmetic on what one percent more does to a monthly mortgage.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage or financial advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagemath #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p102.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton: what does a 1% higher rate do to the monthly mortgage on a $700K home? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) $700,000 minus 20% down ($140,000) leaves a $560,000 mortgage.\n2) At 4.95%, the monthly mortgage is about $3,241 (principal and interest only).\n3) At 5.95%, it is about $3,566.\n4) The difference is about $325 every month.\nSource for the example rate: the uninsured 5-year fixed rate shown on nesto.ca on Nov 16, 2026; 5.95% is that rate plus one percentage point. Your rate depends on your down payment, lender and term. Property tax, heat and insurance are extra.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #mortgagemath #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f01.png",
-    "say": "Milton: one percent higher rate. Monthly mortgage?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f02.png",
-    "say": "First, with twenty percent down, you'd borrow five hundred sixty thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f03.png",
-    "say": "Now the twist. Next, at four point nine five percent, the monthly mortgage is three thousand, two hundred forty-one dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f04.png",
-    "say": "Then, at five point nine five percent, it's three thousand, five hundred sixty-six dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f05.png",
-    "say": "Finally, one percent more adds about three hundred twenty-five dollars every single month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r3-frames/f06.png",
-    "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Milton: 1% higher rate. *Monthly mortgage?",
-     "kick": "1% MORE",
-     "prop": "chart"
+  {
+    "id": "d20261117-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga sellers: that renovation may backfire.\n\nA big project does not always pay back what it costs. 1) Ask your Realtor\u00ae which fixes buyers in your area notice most. 2) Compare any renovation quote with what updated homes nearby sold for. 3) Repair leaks, broken fixtures and safety items before listing. 4) Skip big taste-based projects; fresh, neutral paint is often the safer choice.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Results vary. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r2-vo18336.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f01.png",
+        "say": "Mississauga sellers: that renovation may backfire.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f02.png",
+        "say": "First, ask your Realtor which fixes buyers in your area notice the most.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f03.png",
+        "say": "Now the twist. Next, compare any renovation quote with what updated homes nearby actually sold for.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f04.png",
+        "say": "Then, repair the leaks, broken fixtures and safety items before you list.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f05.png",
+        "say": "Finally, skip projects based on taste, because neutral paint is often the safer choice.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r2-frames/f06.png",
+        "say": "Like, comment and share this with someone selling in Mississauga. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Mississauga sellers: reno may *backfire.",
+          "kick": "BEFORE YOU SPEND",
+          "prop": "calculator"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Ask your Realtor\u00ae which fixes buyers in your area notice most.",
+          "short": "Ask first"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "search",
+          "text": "Compare any renovation quote with what updated homes nearby sold for.",
+          "short": "Compare to sales"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Repair leaks, broken fixtures and safety items before listing.",
+          "short": "Fix the basics"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "swatches",
+          "text": "Skip taste-based projects. Neutral paint is often safer.",
+          "short": "Skip taste projects"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Mississauga seller",
+          "fine": "General information only. Results vary. Not legal advice."
+        }
+      ],
+      "photo": "p105.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "mortgage",
-     "text": "Mortgage amount",
-     "value": "$560,000",
-     "formula": "$700,000 home - 20% down ($140,000)",
-     "running": "$560,000 to borrow"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Monthly mortgage at 4.95%",
-     "value": "$3,241",
-     "formula": "25 years, semi-annual compounding",
-     "running": "$3,241 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "chart",
-     "text": "Monthly mortgage at 5.95%",
-     "value": "$3,566",
-     "formula": "same loan, rate 1% higher",
-     "running": "$3,566 a month"
-    },
-    {
-     "kind": "total",
-     "text": "Extra every month, about",
-     "value": "$325",
-     "sub": "$3,566 - $3,241. Principal and interest only; property tax, heat and insurance are extra.",
-     "note": "Example only: $700,000 home, 20% down, 25-year amortization, semi-annual compounding. 4.95% is the uninsured 5-year fixed rate shown by nesto.ca on Nov 16, 2026; 5.95% is that rate plus 1%. Your rate depends on your lender and term. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with your co-buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of wasting renovation money",
+    "share_reason": "a neighbour about to renovate before selling",
+    "format": "mistake-then-fix (seller, renovating before selling)",
+    "hook_pattern": "2 cost of a mistake (no figure)",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 25.0,
+    "vo_frame_seconds": [
+      3.01,
+      3.54,
+      5.41,
+      3.52,
+      4.46,
+      5.07
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r2-tt18347.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r2-yt18424.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at what one percent really costs",
-  "share_reason": "the partner I'm buying with",
-  "format": "money-math (everyday, 1% rate change on a $700K home)",
-  "hook_pattern": "11 interactive guess + 3 number that demands explanation",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261117-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke condo: unseen fees could hit.\n\nBefore you sign, look past the unit itself. 1) Ask your lawyer to review the condo's status certificate before your conditions end. 2) Check what it says about the reserve fund and any special assessments. 3) Ask what the monthly condo fees cover and how they have changed. 4) Ask whether the condo corporation is involved in any legal proceedings.\n\nBuying a condo in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #condobuyers #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f01.png",
-    "say": "Etobicoke condo buyer? Read this before signing.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f02.png",
-    "say": "First, ask your lawyer to review the condo's status certificate before your conditions end.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f03.png",
-    "say": "Now the twist. Next, check what it says about the reserve fund and any special assessments.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f04.png",
-    "say": "Then, ask what the monthly condo fees cover and how they've changed.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f05.png",
-    "say": "Finally, ask whether the condo corporation is involved in any legal proceedings.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone buying a condo in Etobicoke. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke condo: unseen fees *could hit.",
-     "kick": "READ BEFORE SIGNING",
-     "prop": "lawyer"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer to review the condo's status certificate before conditions end.",
-     "short": "Status certificate"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "chart",
-     "text": "Check what it says about the reserve fund and any special assessments.",
-     "short": "Reserve fund"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Ask what the monthly condo fees cover and how they have changed.",
-     "short": "Monthly fees"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask whether the condo corporation is involved in any legal proceedings.",
-     "short": "Legal issues"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Etobicoke condo buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261117-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Oakville mortgage meeting: missing paperwork?\n\nAsk your lender exactly which documents they need, and gather them early. Common items include ID, proof of income such as recent pay stubs, bank statements showing your down payment, and tax notices of assessment. Requirements vary by lender.\n\nBuying in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-f1.png",
+    "brand_corner": "photo",
+    "photo": "p101.jpg",
+    "format": "educational",
+    "hook_pattern": "7 specific scene / direct address",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a surprise bill after moving in",
-  "share_reason": "a friend buying a condo",
-  "format": "step-by-step (before you sign, condo status certificate)",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown: passed inspection. Still risky?\n\nA clean inspection report is useful, but it is a snapshot, not a guarantee. 1) Remember it covers what the inspector could see that day. 2) Ask which areas could not be checked or reached. 3) Ask how old the roof, furnace and windows are. 4) Set aside a repair fund for your first year in the home.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f01.png",
-    "say": "Georgetown buyers: a clean inspection isn't a guarantee.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f02.png",
-    "say": "First, an inspection is a snapshot of what the inspector could see on that day.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f03.png",
-    "say": "Now the twist. Next, ask your inspector which areas couldn't be checked or reached.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f04.png",
-    "say": "Then, ask how old the roof, furnace and windows are.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f05.png",
-    "say": "Finally, set aside a repair fund for your first year in the home.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r5-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MYTH VS FACT",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Georgetown: passed inspection. *Still risky?",
-     "kick": "NOT A GUARANTEE",
-     "prop": "clipboard"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "search",
-     "text": "An inspection is a snapshot of what the inspector could see that day.",
-     "short": "A snapshot"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask your inspector which areas could not be checked or reached.",
-     "short": "What was missed"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "house",
-     "text": "Ask how old the roof, furnace and windows are.",
-     "short": "Big systems"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "piggy",
-     "text": "Set aside a repair fund for your first year in the home.",
-     "short": "Repair fund"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Georgetown buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261117-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "1% higher rate. Monthly mortgage?\n\nNew Reel on my page tonight: simple arithmetic on what one percent more does to a monthly mortgage.\n\nBuying in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage or financial advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #mortgagemath #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p102.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise that a clean report is not a guarantee",
-  "share_reason": "a friend about to book an inspection",
-  "format": "myth vs fact (clean inspection)",
-  "hook_pattern": "1 contrarian / myth",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Caledon acreage: where is the boundary?\n\nOn a larger property, fences and sheds do not always sit on the line. Ask your lawyer whether a survey or reference plan is available, walk the property with it, and ask how title insurance and a survey differ.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-f2.png",
-  "brand_corner": "photo",
-  "photo": "p103.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261117-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-17T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Kitchener home. Real monthly costs?\n\nQuick tip: ask for twelve months of utility bills, so you can see the real heating and hydro costs before you decide.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-17/d20261117-r6-frames/f01.png",
-    "say": "Kitchener buyer: what does it really cost monthly?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r6-frames/f02.png",
-    "say": "Quick tip: ask for twelve months of utility bills, so you see the real heating and hydro costs.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-17/d20261117-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Kitchener buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "KITCHENER",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Kitchener home. *Real monthly costs?",
-     "kick": "ASK THE SELLER",
-     "prop": "calculator"
+  {
+    "id": "d20261117-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton: what does a 1% higher rate do to the monthly mortgage on a $700K home? Here is the math.\n\nExample only, Canadian semi-annual compounding, 25-year amortization:\n1) $700,000 minus 20% down ($140,000) leaves a $560,000 mortgage.\n2) At 4.95%, the monthly mortgage is about $3,241 (principal and interest only).\n3) At 5.95%, it is about $3,566.\n4) The difference is about $325 every month.\nSource for the example rate: the uninsured 5-year fixed rate shown on nesto.ca on Nov 16, 2026; 5.95% is that rate plus one percentage point. Your rate depends on your down payment, lender and term. Property tax, heat and insurance are extra.\n\nWant help working out your own budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #mortgagemath #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r3-vo18686.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f01.png",
+        "say": "Milton: one percent higher rate. Monthly mortgage?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f02.png",
+        "say": "First, with twenty percent down, you'd borrow five hundred sixty thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f03.png",
+        "say": "Now the twist. Next, at four point nine five percent, the monthly mortgage is three thousand, two hundred forty-one dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f04.png",
+        "say": "Finally, at five point nine five percent, it's three thousand, five hundred sixty-six dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f05.png",
+        "say": "Finally, one percent more adds about three hundred twenty-five dollars every single month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r3-frames/f06.png",
+        "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Milton: 1% higher rate. *Monthly mortgage?",
+          "kick": "1% MORE",
+          "prop": "chart"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "mortgage",
+          "text": "Mortgage amount",
+          "value": "$560,000",
+          "formula": "$700,000 home - 20% down ($140,000)",
+          "running": "$560,000 to borrow"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Monthly mortgage at 4.95%",
+          "value": "$3,241",
+          "formula": "25 years, semi-annual compounding",
+          "running": "$3,241 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "chart",
+          "text": "Monthly mortgage at 5.95%",
+          "value": "$3,566",
+          "formula": "same loan, rate 1% higher",
+          "running": "$3,566 a month"
+        },
+        {
+          "kind": "total",
+          "text": "Extra every month, about",
+          "value": "$325",
+          "sub": "$3,566 - $3,241. Principal and interest only; property tax, heat and insurance are extra.",
+          "note": "Example only: $700,000 home, 20% down, 25-year amortization, semi-annual compounding. 4.95% is the uninsured 5-year fixed rate shown by nesto.ca on Nov 16, 2026; 5.95% is that rate plus 1%. Your rate depends on your lender and term. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with your co-buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p106.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "calculator",
-     "text": "Ask for twelve months of utility bills to see real heating and hydro costs.",
-     "short": "Utility bills"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Kitchener buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at what one percent really costs",
+    "share_reason": "the partner I'm buying with",
+    "format": "money-math (everyday, 1% rate change on a $700K home)",
+    "hook_pattern": "11 interactive guess + 3 number that demands explanation",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 24.9,
+    "vo_frame_seconds": [
+      2.72,
+      3.41,
+      5.04,
+      4.22,
+      4.49,
+      5.02
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r3-tt18696.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r3-yt18772.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at costs that are not on the listing",
-  "share_reason": "a friend about to buy",
-  "format": "quick-tip",
-  "hook_pattern": "6 tease + reveal",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261117-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke condo: unseen fees could hit.\n\nBefore you sign, look past the unit itself. 1) Ask your lawyer to review the condo's status certificate before your conditions end. 2) Check what it says about the reserve fund and any special assessments. 3) Ask what the monthly condo fees cover and how they have changed. 4) Ask whether the condo corporation is involved in any legal proceedings.\n\nBuying a condo in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #condobuyers #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r4-vo19037.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f01.png",
+        "say": "Etobicoke condo buyer? Read this before signing.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f02.png",
+        "say": "First, ask your lawyer to review the condo's status certificate before your conditions end.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f03.png",
+        "say": "Now the twist. Next, check what it says about the reserve fund and any special assessments.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f04.png",
+        "say": "Then, ask what the monthly condo fees cover and how they've changed.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f05.png",
+        "say": "Finally, ask whether the condo corporation is involved in any legal proceedings.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone buying a condo in Etobicoke. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke condo: unseen fees *could hit.",
+          "kick": "READ BEFORE SIGNING",
+          "prop": "lawyer"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer to review the condo's status certificate before conditions end.",
+          "short": "Status certificate"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "chart",
+          "text": "Check what it says about the reserve fund and any special assessments.",
+          "short": "Reserve fund"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Ask what the monthly condo fees cover and how they have changed.",
+          "short": "Monthly fees"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask whether the condo corporation is involved in any legal proceedings.",
+          "short": "Legal issues"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Etobicoke condo buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p107.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "fear of a surprise bill after moving in",
+    "share_reason": "a friend buying a condo",
+    "format": "step-by-step (before you sign, condo status certificate)",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 24.6,
+    "vo_frame_seconds": [
+      2.94,
+      4.2,
+      4.56,
+      3.58,
+      4.03,
+      5.28
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r4-tt19047.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r4-yt19123.mp4"
+  },
+  {
+    "id": "d20261117-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown: passed inspection. Still risky?\n\nA clean inspection report is useful, but it is a snapshot, not a guarantee. 1) Remember it covers what the inspector could see that day. 2) Ask which areas could not be checked or reached. 3) Ask how old the roof, furnace and windows are. 4) Set aside a repair fund for your first year in the home.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-vo19372.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f01.png",
+        "say": "Georgetown buyers: a clean inspection isn't a guarantee.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f02.png",
+        "say": "First, an inspection is a snapshot of what the inspector could see on that day.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f03.png",
+        "say": "Now the twist. Next, ask your inspector which areas couldn't be checked or reached.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f04.png",
+        "say": "Then, ask how old the roof, furnace and windows are.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f05.png",
+        "say": "Finally, set aside a repair fund for your first year in the home.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r5-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MYTH VS FACT",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Georgetown: passed inspection. *Still risky?",
+          "kick": "NOT A GUARANTEE",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "search",
+          "text": "An inspection is a snapshot of what the inspector could see that day.",
+          "short": "A snapshot"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask your inspector which areas could not be checked or reached.",
+          "short": "What was missed"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "house",
+          "text": "Ask how old the roof, furnace and windows are.",
+          "short": "Big systems"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "piggy",
+          "text": "Set aside a repair fund for your first year in the home.",
+          "short": "Repair fund"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Georgetown buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p108.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise that a clean report is not a guarantee",
+    "share_reason": "a friend about to book an inspection",
+    "format": "myth vs fact (clean inspection)",
+    "hook_pattern": "1 contrarian / myth",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 22.3,
+    "vo_frame_seconds": [
+      2.72,
+      3.41,
+      4.21,
+      2.94,
+      3.25,
+      5.78
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-tt19381.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-yt19452.mp4"
+  },
+  {
+    "id": "d20261117-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Caledon acreage: where is the boundary?\n\nOn a larger property, fences and sheds do not always sit on the line. Ask your lawyer whether a survey or reference plan is available, walk the property with it, and ask how title insurance and a survey differ.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-f2.png",
+    "brand_corner": "photo",
+    "photo": "p103.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261117-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-17T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Kitchener home. Real monthly costs?\n\nQuick tip: ask for twelve months of utility bills, so you can see the real heating and hydro costs before you decide.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r6-vo19587.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-17/d20261117-r6-frames/f01.png",
+        "say": "Kitchener buyer: what does it really cost monthly?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r6-frames/f02.png",
+        "say": "Quick tip: ask for twelve months of utility bills, so you see the real heating and hydro costs.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-17/d20261117-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Kitchener buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "KITCHENER",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Kitchener home. *Real monthly costs?",
+          "kick": "ASK THE SELLER",
+          "prop": "calculator"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "calculator",
+          "text": "Ask for twelve months of utility bills to see real heating and hydro costs.",
+          "short": "Utility bills"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Kitchener buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p109.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at costs that are not on the listing",
+    "share_reason": "a friend about to buy",
+    "format": "quick-tip",
+    "hook_pattern": "6 tease + reveal",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 12.6,
+    "vo_frame_seconds": [
+      2.35,
+      4.64,
+      5.58
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r6-tt19592.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r6-yt19632.mp4"
+  }
 ]
