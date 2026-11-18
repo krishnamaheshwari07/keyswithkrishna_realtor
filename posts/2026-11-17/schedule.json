@@ -554,7 +554,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-17T21:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Georgetown: passed inspection. Still risky?\n\nA clean inspection report is useful, but it is a snapshot, not a guarantee. 1) Remember it covers what the inspector could see that day. 2) Ask which areas could not be checked or reached. 3) Ask how old the roof, furnace and windows are. 4) Set aside a repair fund for your first year in the home.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
@@ -661,7 +661,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-tt19381.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-yt19452.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-17/d20261117-r5-yt19452.mp4",
+    "ig_media_id": "17879307621651036",
+    "fb_thumb": "set",
+    "fb_id": "2242536949638737",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "jqyJAOr_KcE",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261117-f2",
