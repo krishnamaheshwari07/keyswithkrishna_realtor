@@ -1,636 +1,717 @@
 [
- {
-  "id": "d20261118-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Mississauga closing. Surprise number?\n\nYour lawyer prepares a closing figure that shows what is due on closing day. 1) Ask your lawyer for it well before closing day. 2) Ask what each line is, such as property tax, utilities and legal fees, where they apply. 3) Ask exactly when and how to send your closing funds. 4) Call your lawyer's office to confirm any payment instructions you receive before sending money.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #closingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f01.png",
-    "say": "Mississauga closing soon? Check your lawyer's number first.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f02.png",
-    "say": "First, ask your lawyer for your closing figure well before closing day.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f03.png",
-    "say": "Now the twist. Next, ask what every line is, like property tax, utilities and legal fees.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f04.png",
-    "say": "Then, ask exactly when and how your closing funds need to be sent.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f05.png",
-    "say": "Finally, phone your lawyer's office to confirm any payment instructions before you send money.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r1-frames/f06.png",
-    "say": "Like, comment and share this with a Mississauga buyer closing soon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Mississauga closing. *Surprise number?",
-     "kick": "READ THE FIGURES",
-     "prop": "calculator"
+  {
+    "id": "d20261118-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Mississauga closing. Surprise number?\n\nYour lawyer prepares a closing figure that shows what is due on closing day. 1) Ask your lawyer for it well before closing day. 2) Ask what each line is, such as property tax, utilities and legal fees, where they apply. 3) Ask exactly when and how to send your closing funds. 4) Call your lawyer's office to confirm any payment instructions you receive before sending money.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #closingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r1-vo4434.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f01.png",
+        "say": "Mississauga closing soon? Check your lawyer's number first.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f02.png",
+        "say": "First, ask your lawyer for your closing figure well before closing day.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f03.png",
+        "say": "Now the twist. Next, ask what every line is, like property tax, utilities and legal fees.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f04.png",
+        "say": "Then, ask exactly when and how your closing funds need to be sent.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f05.png",
+        "say": "Finally, phone your lawyer's office to confirm any payment instructions before you send money.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r1-frames/f06.png",
+        "say": "Like, comment and share this with a Mississauga buyer closing soon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Mississauga closing. *Surprise number?",
+          "kick": "READ THE FIGURES",
+          "prop": "calculator"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer for your closing figure before closing day.",
+          "short": "Ask for the figure"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask what each line is, such as property tax, utilities and legal fees.",
+          "short": "Read each line"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Ask exactly when and how to send your closing funds.",
+          "short": "Funds: how and when"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "shield",
+          "text": "Call your lawyer's office to confirm any payment instructions you receive.",
+          "short": "Call to confirm"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Mississauga buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p114.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer for your closing figure before closing day.",
-     "short": "Ask for the figure"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask what each line is, such as property tax, utilities and legal fees.",
-     "short": "Read each line"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Ask exactly when and how to send your closing funds.",
-     "short": "Funds: how and when"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "shield",
-     "text": "Call your lawyer's office to confirm any payment instructions you receive.",
-     "short": "Call to confirm"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Mississauga buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a last-minute surprise on closing day",
+    "share_reason": "the partner I'm buying with",
+    "format": "step-by-step (buying process, closing figure / statement of adjustments)",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 24.4,
+    "vo_frame_seconds": [
+      2.71,
+      3.68,
+      4.87,
+      3.71,
+      3.82,
+      5.63
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r1-tt4445.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r1-yt4538.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a last-minute surprise on closing day",
-  "share_reason": "the partner I'm buying with",
-  "format": "step-by-step (buying process, closing figure / statement of adjustments)",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Hidden leak. Big risk?\n\nNew Reel on my page this afternoon: four steps for sellers before you list.\n\nSelling in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #sellingyourhome #oakvillerealestate #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p110.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Oakville seller: hidden leak could follow.\n\nA known problem you do not mention can come back to you after the sale. 1) Tell your Realtor® about any known issues, including past leaks. 2) Repair known problems, or be ready to disclose them clearly. 3) Answer any seller forms accurately; do not guess or leave things out. 4) Ask your lawyer what you must disclose before you list.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f01.png",
-    "say": "Oakville sellers: a hidden leak could follow you.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f02.png",
-    "say": "First, tell your Realtor about any known issues, including past leaks.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f03.png",
-    "say": "Now the twist. Next, either repair a known problem or be ready to disclose it clearly.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f04.png",
-    "say": "Then, answer any seller forms accurately, without guessing or leaving things out.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f05.png",
-    "say": "Finally, ask your lawyer what you're required to disclose before you list.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r2-frames/f06.png",
-    "say": "Like, comment and share this with someone selling in Oakville. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Oakville seller: hidden leak *could follow.",
-     "kick": "BEFORE YOU LIST",
-     "prop": "shield"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Tell your Realtor® about any known issues, including past leaks.",
-     "short": "Tell your Realtor"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Repair known problems, or be ready to disclose them clearly.",
-     "short": "Fix or disclose"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Answer any seller forms accurately. Never guess or leave things out.",
-     "short": "Answer forms honestly"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer what you must disclose before you list.",
-     "short": "Ask your lawyer"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Oakville seller",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261118-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Hidden leak. Big risk?\n\nNew Reel on my page this afternoon: four steps for sellers before you list.\n\nSelling in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #sellingyourhome #oakvillerealestate #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p110.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear that a past problem comes back after the sale",
-  "share_reason": "a neighbour planning to sell",
-  "format": "mistake-then-fix (seller, known defects and disclosure)",
-  "hook_pattern": "2 cost of a mistake (no figure)",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261118-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke basement: where does the rain go?\n\nBefore you buy, check whether the ground slopes away from the house, whether the downspouts drain away from the walls, and whether the basement shows stains or a musty smell. Ask the seller about any past water issues, and ask your inspector to look closely.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homeinspection #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-f1.png",
-  "brand_corner": "photo",
-  "photo": "p111.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Two people. Four years. Total saved?\n\nNew Reel on my page tonight: simple arithmetic on what a couple saving every week could add up to.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage or financial advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#peelregion #downpayment #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p112.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton: $150 a week each for four years. What could a couple save toward a down payment?\n\nExample only, simple arithmetic (no interest, no FHSA growth):\n1) $150 x 52 weeks = $7,800 a year.\n2) $7,800 x 4 years = $31,200 for one person.\n3) A co-buyer saving the same amount: $31,200 + $31,200 = $62,400 together.\nThis is saving only; closing costs are extra and lenders may require more. Your numbers will differ.\n\nWant help planning your own savings goal? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #downpayment #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f01.png",
-    "say": "A hundred fifty a week each. Four years?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f02.png",
-    "say": "First, a hundred fifty dollars a week adds up to seven thousand, eight hundred dollars a year.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f03.png",
-    "say": "Now the twist. Next, over four years, that's thirty-one thousand, two hundred dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f04.png",
-    "say": "Then, add a co-buyer saving the same amount, and the total doubles.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f05.png",
-    "say": "Finally, together that's sixty-two thousand, four hundred dollars in four years.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r3-frames/f06.png",
-    "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "$150 a week each. *Four years?",
-     "kick": "GUESS THE TOTAL",
-     "prop": "piggy"
+  {
+    "id": "d20261118-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Oakville seller: hidden leak could follow.\n\nA known problem you do not mention can come back to you after the sale. 1) Tell your Realtor\u00ae about any known issues, including past leaks. 2) Repair known problems, or be ready to disclose them clearly. 3) Answer any seller forms accurately; do not guess or leave things out. 4) Ask your lawyer what you must disclose before you list.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r2-vo4949.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f01.png",
+        "say": "Oakville sellers: a hidden leak could follow you.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f02.png",
+        "say": "First, tell your Realtor about any known issues, including past leaks.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f03.png",
+        "say": "Now the twist. Next, either repair a known problem or be ready to disclose it clearly.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f04.png",
+        "say": "Then, answer any seller forms accurately, without guessing or leaving things out.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f05.png",
+        "say": "Finally, ask your lawyer what you're required to disclose before you list.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r2-frames/f06.png",
+        "say": "Like, comment and share this with someone selling in Oakville. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Oakville seller: hidden leak *could follow.",
+          "kick": "BEFORE YOU LIST",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Tell your Realtor\u00ae about any known issues, including past leaks.",
+          "short": "Tell your Realtor"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Repair known problems, or be ready to disclose them clearly.",
+          "short": "Fix or disclose"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Answer any seller forms accurately. Never guess or leave things out.",
+          "short": "Answer forms honestly"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer what you must disclose before you list.",
+          "short": "Ask your lawyer"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Oakville seller",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p115.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Saved in one year, one person",
-     "value": "$7,800",
-     "formula": "$150 x 52 weeks",
-     "running": "$7,800 a year"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "calendar",
-     "text": "Saved in four years, one person",
-     "value": "$31,200",
-     "formula": "$7,800 x 4 years",
-     "running": "$31,200 so far"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "handshake",
-     "text": "Add a co-buyer saving the same",
-     "value": "$31,200",
-     "formula": "second person, same $150 a week",
-     "running": "$62,400 together"
-    },
-    {
-     "kind": "total",
-     "text": "Saved together in four years",
-     "value": "$62,400",
-     "sub": "Before interest, and not counting closing costs or what lenders may require.",
-     "note": "Example only: $150 a week each, 52 weeks a year, 4 years, simple arithmetic with no interest or FHSA growth. Actual saving depends on your budget. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with your co-buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear that a past problem comes back after the sale",
+    "share_reason": "a neighbour planning to sell",
+    "format": "mistake-then-fix (seller, known defects and disclosure)",
+    "hook_pattern": "2 cost of a mistake (no figure)",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 24.2,
+    "vo_frame_seconds": [
+      2.42,
+      4.13,
+      4.88,
+      4.2,
+      3.55,
+      5.02
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r2-tt4960.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r2-yt5050.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at how fast small weekly savings add up",
-  "share_reason": "the partner I'm buying with",
-  "format": "money-math (everyday, weekly saving toward a down payment, two co-buyers)",
-  "hook_pattern": "3 number that demands explanation + 11 interactive guess",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261118-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Waterloo move-in day. Utilities in your name?\n\nMoving in is more than carrying boxes. 1) Ask each utility provider to start service in your name from your closing date. 2) Set up mail forwarding so bills and letters follow you. 3) Update the address on your driver's licence and health card. 4) Find your main water shut-off and electrical panel on day one.\n\nMoving to Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #movingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f01.png",
-    "say": "Waterloo move-in day. Utilities in your name?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f02.png",
-    "say": "First, ask each utility provider to start service in your name from your closing date.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f03.png",
-    "say": "Now the twist. Next, set up mail forwarding, so bills and letters actually follow you.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f04.png",
-    "say": "Then, update the address on your driver's licence and health card.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f05.png",
-    "say": "Finally, find your main water shut-off and electrical panel on day one.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r4-frames/f06.png",
-    "say": "Like, comment and share this with a Waterloo buyer who's moving soon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "WATERLOO",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Moving day. *Utilities in your name?",
-     "kick": "BEFORE THE KEYS",
-     "prop": "movingbox"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "Ask each utility to start service in your name from your closing date.",
-     "short": "Set up utilities"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "movingbox",
-     "text": "Set up mail forwarding so bills and letters follow you.",
-     "short": "Forward your mail"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Update the address on your driver's licence and health card.",
-     "short": "Update your ID"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "house",
-     "text": "Find your main water shut-off and electrical panel on day one.",
-     "short": "Find the shut-offs"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Waterloo buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261118-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke basement: where does the rain go?\n\nBefore you buy, check whether the ground slopes away from the house, whether the downspouts drain away from the walls, and whether the basement shows stains or a musty smell. Ask the seller about any past water issues, and ask your inspector to look closely.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homeinspection #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-f1.png",
+    "brand_corner": "photo",
+    "photo": "p111.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about forgetting a key move-in task",
-  "share_reason": "a friend closing this year",
-  "format": "step-by-step (buying process, moving in)",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown: title insurance. Waste of money?\n\nTitle insurance is a one-time cost that can protect against some title problems, but it has limits. 1) It can cover issues such as title fraud, liens and some survey or public-record errors. 2) It does not cover defects you already know about. 3) A lender's policy protects the lender; an owner's policy protects you. 4) Ask your lawyer which policy you are getting and what it covers. Coverage depends on the policy.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or insurance advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #titleinsurance #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f01.png",
-    "say": "Georgetown buyers: is title insurance a waste?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f02.png",
-    "say": "First, it can cover title problems, like fraud, liens and some survey errors.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f03.png",
-    "say": "Now the twist. Next, it won't cover a problem you already knew about.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f04.png",
-    "say": "Then, a lender's policy protects the bank, while an owner's policy protects you.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f05.png",
-    "say": "Finally, ask your lawyer which policy you're getting and exactly what it covers.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r5-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MYTH VS FACT",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Georgetown: title insurance. *Waste of money?",
-     "kick": "WHAT'S COVERD",
-     "prop": "shield"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "shield",
-     "text": "It can cover title problems such as fraud, liens and some survey errors.",
-     "short": "What it covers"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "It does not cover problems you already know about.",
-     "short": "What it won't"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "A lender's policy protects the lender. An owner's policy protects you.",
-     "short": "Owner vs lender"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask your lawyer which policy you are getting and what it covers.",
-     "short": "Ask your lawyer"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Georgetown buyer",
-     "fine": "General information only. Not legal or insurance advice."
-    }
-   ]
+  {
+    "id": "d20261118-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Two people. Four years. Total saved?\n\nNew Reel on my page tonight: simple arithmetic on what a couple saving every week could add up to.\n\nBuying in Peel? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage or financial advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#peelregion #downpayment #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p112.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at what title insurance does and does not cover",
-  "share_reason": "a friend about to close",
-  "format": "myth vs fact (title insurance)",
-  "hook_pattern": "1 contrarian / myth",
-  "audience": "buyer",
-  "series": "honest-mistake"
- },
- {
-  "id": "d20261118-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Cambridge: lease ends before closing?\n\nIf you rent today, line up your lease end date with your closing date. Check your lease and notice terms, ask your Realtor® about a closing date that fits, and ask a lawyer about Ontario's tenant notice rules.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-f2.png",
-  "brand_corner": "photo",
-  "photo": "p113.jpg",
-  "format": "educational",
-  "hook_pattern": "7 specific scene / timing objection",
-  "audience": "buyer"
- },
- {
-  "id": "d20261118-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-18T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton deck or addition. Permitted?\n\nQuick tip: ask the seller for the building permits on any deck, addition or finished basement, and ask your lawyer to check what the municipality has on file.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-18/d20261118-r6-frames/f01.png",
-    "say": "Milton buyer: was that deck permitted?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r6-frames/f02.png",
-    "say": "Quick tip: ask the seller for the building permits on any deck, addition or finished basement.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-18/d20261118-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Milton buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Milton deck or addition. *Permitted?",
-     "kick": "ASK FOR PERMITS",
-     "prop": "clipboard"
+  {
+    "id": "d20261118-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton: $150 a week each for four years. What could a couple save toward a down payment?\n\nExample only, simple arithmetic (no interest, no FHSA growth):\n1) $150 x 52 weeks = $7,800 a year.\n2) $7,800 x 4 years = $31,200 for one person.\n3) A co-buyer saving the same amount: $31,200 + $31,200 = $62,400 together.\nThis is saving only; closing costs are extra and lenders may require more. Your numbers will differ.\n\nWant help planning your own savings goal? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #downpayment #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r3-vo5457.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f01.png",
+        "say": "A hundred fifty a week each. Four years?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f02.png",
+        "say": "First, a hundred fifty dollars a week adds up to seven thousand, eight hundred dollars a year.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f03.png",
+        "say": "Now the twist. Next, over four years, that's thirty-one thousand, two hundred dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f04.png",
+        "say": "Finally, add a co-buyer saving the same amount, and the total doubles.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f05.png",
+        "say": "Finally, together that's sixty-two thousand, four hundred dollars in four years.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r3-frames/f06.png",
+        "say": "Like, comment and share this with the person you're buying with. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "$150 a week each. *Four years?",
+          "kick": "GUESS THE TOTAL",
+          "prop": "piggy"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Saved in one year, one person",
+          "value": "$7,800",
+          "formula": "$150 x 52 weeks",
+          "running": "$7,800 a year"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "calendar",
+          "text": "Saved in four years, one person",
+          "value": "$31,200",
+          "formula": "$7,800 x 4 years",
+          "running": "$31,200 so far"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "handshake",
+          "text": "Add a co-buyer saving the same",
+          "value": "$31,200",
+          "formula": "second person, same $150 a week",
+          "running": "$62,400 together"
+        },
+        {
+          "kind": "total",
+          "text": "Saved together in four years",
+          "value": "$62,400",
+          "sub": "Before interest, and not counting closing costs or what lenders may require.",
+          "note": "Example only: $150 a week each, 52 weeks a year, 4 years, simple arithmetic with no interest or FHSA growth. Actual saving depends on your budget. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with your co-buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p116.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "clipboard",
-     "text": "Ask the seller for building permits for any deck, addition or finished basement.",
-     "short": "Ask for permits"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Milton buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at how fast small weekly savings add up",
+    "share_reason": "the partner I'm buying with",
+    "format": "money-math (everyday, weekly saving toward a down payment, two co-buyers)",
+    "hook_pattern": "3 number that demands explanation + 11 interactive guess",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 23.7,
+    "vo_frame_seconds": [
+      2.45,
+      4.33,
+      4.19,
+      3.82,
+      3.91,
+      5.03
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r3-tt5468.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r3-yt5554.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "worry that past renovations were never approved",
-  "share_reason": "a friend about to make an offer",
-  "format": "quick-tip",
-  "hook_pattern": "6 tease + reveal",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261118-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Waterloo move-in day. Utilities in your name?\n\nMoving in is more than carrying boxes. 1) Ask each utility provider to start service in your name from your closing date. 2) Set up mail forwarding so bills and letters follow you. 3) Update the address on your driver's licence and health card. 4) Find your main water shut-off and electrical panel on day one.\n\nMoving to Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #movingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-vo5963.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f01.png",
+        "say": "Waterloo move-in day. Utilities in your name?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f02.png",
+        "say": "First, ask each utility provider to start service in your name from your closing date.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f03.png",
+        "say": "Now the twist. Next, set up mail forwarding, so bills and letters actually follow you.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f04.png",
+        "say": "Then, update the address on your driver's licence and health card.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f05.png",
+        "say": "Finally, find your main water shut-off and electrical panel on day one.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r4-frames/f06.png",
+        "say": "Like, comment and share this with a Waterloo buyer who's moving soon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "WATERLOO",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Moving day. *Utilities in your name?",
+          "kick": "BEFORE THE KEYS",
+          "prop": "movingbox"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "Ask each utility to start service in your name from your closing date.",
+          "short": "Set up utilities"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "movingbox",
+          "text": "Set up mail forwarding so bills and letters follow you.",
+          "short": "Forward your mail"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Update the address on your driver's licence and health card.",
+          "short": "Update your ID"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "house",
+          "text": "Find your main water shut-off and electrical panel on day one.",
+          "short": "Find the shut-offs"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Waterloo buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p117.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "worry about forgetting a key move-in task",
+    "share_reason": "a friend closing this year",
+    "format": "step-by-step (buying process, moving in)",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 23.9,
+    "vo_frame_seconds": [
+      2.8,
+      3.99,
+      4.71,
+      3.07,
+      3.65,
+      5.71
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-tt5974.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-yt6060.mp4"
+  },
+  {
+    "id": "d20261118-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown: title insurance. Waste of money?\n\nTitle insurance is a one-time cost that can protect against some title problems, but it has limits. 1) It can cover issues such as title fraud, liens and some survey or public-record errors. 2) It does not cover defects you already know about. 3) A lender's policy protects the lender; an owner's policy protects you. 4) Ask your lawyer which policy you are getting and what it covers. Coverage depends on the policy.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal or insurance advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #titleinsurance #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r5-vo6472.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f01.png",
+        "say": "Georgetown buyers: is title insurance a waste?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f02.png",
+        "say": "First, it can cover title problems, like fraud, liens and some survey errors.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f03.png",
+        "say": "Now the twist. Next, it won't cover a problem you already knew about.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f04.png",
+        "say": "Then, a lender's policy protects the bank, while an owner's policy protects you.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f05.png",
+        "say": "Finally, ask your lawyer which policy you're getting and exactly what it covers.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r5-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Georgetown. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MYTH VS FACT",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Georgetown: title insurance. *Waste of money?",
+          "kick": "WHAT'S COVERD",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "shield",
+          "text": "It can cover title problems such as fraud, liens and some survey errors.",
+          "short": "What it covers"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "It does not cover problems you already know about.",
+          "short": "What it won't"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "A lender's policy protects the lender. An owner's policy protects you.",
+          "short": "Owner vs lender"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask your lawyer which policy you are getting and what it covers.",
+          "short": "Ask your lawyer"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Georgetown buyer",
+          "fine": "General information only. Not legal or insurance advice."
+        }
+      ],
+      "photo": "p118.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise at what title insurance does and does not cover",
+    "share_reason": "a friend about to close",
+    "format": "myth vs fact (title insurance)",
+    "hook_pattern": "1 contrarian / myth",
+    "audience": "buyer",
+    "series": "honest-mistake",
+    "vo_status": "done",
+    "vo_seconds": 24.0,
+    "vo_frame_seconds": [
+      2.46,
+      3.87,
+      3.57,
+      4.77,
+      3.95,
+      5.4
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r5-tt6484.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r5-yt6574.mp4"
+  },
+  {
+    "id": "d20261118-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Cambridge: lease ends before closing?\n\nIf you rent today, line up your lease end date with your closing date. Check your lease and notice terms, ask your Realtor\u00ae about a closing date that fits, and ask a lawyer about Ontario's tenant notice rules.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-f2.png",
+    "brand_corner": "photo",
+    "photo": "p113.jpg",
+    "format": "educational",
+    "hook_pattern": "7 specific scene / timing objection",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261118-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-18T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton deck or addition. Permitted?\n\nQuick tip: ask the seller for the building permits on any deck, addition or finished basement, and ask your lawyer to check what the municipality has on file.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r6-vo6780.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-18/d20261118-r6-frames/f01.png",
+        "say": "Milton buyer: was that deck permitted?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r6-frames/f02.png",
+        "say": "Quick tip: ask the seller for the building permits on any deck, addition or finished basement.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-18/d20261118-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Milton buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Milton deck or addition. *Permitted?",
+          "kick": "ASK FOR PERMITS",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "clipboard",
+          "text": "Ask the seller for building permits for any deck, addition or finished basement.",
+          "short": "Ask for permits"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Milton buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p119.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "worry that past renovations were never approved",
+    "share_reason": "a friend about to make an offer",
+    "format": "quick-tip",
+    "hook_pattern": "6 tease + reveal",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 11.8,
+    "vo_frame_seconds": [
+      2.31,
+      4.62,
+      4.83
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r6-tt6785.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r6-yt6828.mp4"
+  }
 ]
