@@ -675,7 +675,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-17T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Caledon acreage: where is the boundary?\n\nOn a larger property, fences and sheds do not always sit on the line. Ask your lawyer whether a survey or reference plan is available, walk the property with it, and ask how title insurance and a survey differ.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
@@ -684,7 +684,10 @@
     "photo": "p103.jpg",
     "format": "educational",
     "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18129727669861727",
+    "fb_id": "122125738047311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261117-r6",
