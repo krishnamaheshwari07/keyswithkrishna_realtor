@@ -433,7 +433,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-18T20:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Waterloo move-in day. Utilities in your name?\n\nMoving in is more than carrying boxes. 1) Ask each utility provider to start service in your name from your closing date. 2) Set up mail forwarding so bills and letters follow you. 3) Update the address on your driver's licence and health card. 4) Find your main water shut-off and electrical panel on day one.\n\nMoving to Waterloo Region? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #waterlooregion #movingday #keyswithkrishna",
@@ -540,7 +540,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-tt5974.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-yt6060.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-18/d20261118-r4-yt6060.mp4",
+    "ig_media_id": "17973203085000418",
+    "fb_thumb": "set",
+    "fb_id": "1151691697373267",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "AQo8OdciiBI",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261118-r5",
