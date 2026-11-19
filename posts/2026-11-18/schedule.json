@@ -676,7 +676,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-18T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Cambridge: lease ends before closing?\n\nIf you rent today, line up your lease end date with your closing date. Check your lease and notice terms, ask your Realtor\u00ae about a closing date that fits, and ask a lawyer about Ontario's tenant notice rules.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
@@ -685,7 +685,10 @@
     "photo": "p113.jpg",
     "format": "educational",
     "hook_pattern": "7 specific scene / timing objection",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17920180284263573",
+    "fb_id": "122125835967311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261118-r6",
