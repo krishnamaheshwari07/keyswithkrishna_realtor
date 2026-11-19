@@ -131,8 +131,8 @@
     "status": "pending",
     "publish_at": "2026-11-19T15:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Caledon seller: taking the chandelier?\n\nWhat stays with a home is set by your agreement, so check before you list. 1) Check what your agreement lists as included in the sale. 2) Tell your Realtor\u00ae about anything you plan to keep, before you list. 3) Leave the keys, garage remotes and manuals for the new owners. 4) Leave the home empty of your belongings and as clean as your agreement requires. Ask your lawyer if you are unsure.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #sellingyourhome #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r2.mp4",
+    "caption": "Caledon seller: taking the chandelier?\n\nWhat stays with a home is set by your agreement, so check before you list. 1) Check what your agreement lists as included in the sale. 2) Tell your Realtor\u00ae about anything you plan to keep, before you list. 3) Leave the keys, garage remotes and manuals for the new owners. 4) Leave the home empty of your belongings and as clean as your agreement requires. Ask your lawyer if you are unsure.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r2-vo12838.mp4",
     "frames": [
       {
         "img": "posts/2026-11-19/d20261119-r2-frames/f01.png",
@@ -165,7 +165,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "SELLER TIPS",
@@ -214,7 +214,8 @@
           "text": "Like, comment and *share with a Caledon seller",
           "fine": "General information only. Not legal advice."
         }
-      ]
+      ],
+      "photo": "p124.jpg"
     },
     "brand_corner": "logo",
     "trigger": "worry about a handover dispute with the buyer",
@@ -222,7 +223,20 @@
     "format": "step-by-step (seller, what stays and what goes at handover)",
     "hook_pattern": "7 specific scene cold open",
     "audience": "seller",
-    "trial": true
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 23.5,
+    "vo_frame_seconds": [
+      2.6,
+      2.93,
+      4.43,
+      4.17,
+      4.05,
+      5.28
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r2-tt12853.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r2-yt12965.mp4"
   },
   {
     "id": "d20261119-f1",
@@ -264,8 +278,8 @@
     "status": "pending",
     "publish_at": "2026-11-19T19:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Mississauga: $2,500 rent for five years. What does it add up to?\n\nExample only, simple arithmetic (same rent every month, no increases):\n1) Year one: $2,500 x 12 = $30,000.\n2) Years two and three: $30,000 x 2 = $60,000, so $90,000 so far.\n3) Years four and five: $30,000 x 2 = $60,000, for $150,000 in total.\nThis is not a rent-vs-buy comparison: owning has its own costs, and real rents change.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #firsttimebuyer #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3.mp4",
+    "caption": "Mississauga: $2,500 rent for five years. What does it add up to?\n\nExample only, simple arithmetic (same rent every month, no increases):\n1) Year one: $2,500 x 12 = $30,000.\n2) Years two and three: $30,000 x 2 = $60,000, so $90,000 so far.\n3) Years four and five: $30,000 x 2 = $60,000, for $150,000 in total.\nThis is not a rent-vs-buy comparison: owning has its own costs, and real rents change.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #firsttimebuyer #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-vo13451.mp4",
     "frames": [
       {
         "img": "posts/2026-11-19/d20261119-r3-frames/f01.png",
@@ -284,7 +298,7 @@
       },
       {
         "img": "posts/2026-11-19/d20261119-r3-frames/f04.png",
-        "say": "Then, years four and five add sixty thousand more.",
+        "say": "Finally, years four and five add sixty thousand more.",
         "min": 4.5
       },
       {
@@ -298,7 +312,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "MONEY MATH",
@@ -352,7 +366,8 @@
           "text": "Like, comment and *share with your co-buyer",
           "fine": "Example only. Not mortgage, tax or legal advice."
         }
-      ]
+      ],
+      "photo": "p125.jpg"
     },
     "brand_corner": "logo",
     "trigger": "surprise at how big monthly rent adds up",
@@ -361,7 +376,20 @@
     "hook_pattern": "3 number that demands explanation + 11 interactive guess",
     "audience": "buyer",
     "series": "money-math",
-    "math_level": "everyday"
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 24.2,
+    "vo_frame_seconds": [
+      2.75,
+      3.83,
+      3.98,
+      3.28,
+      4.87,
+      5.49
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-tt13467.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-yt13581.mp4"
   },
   {
     "id": "d20261119-r4",
@@ -371,8 +399,8 @@
     "status": "pending",
     "publish_at": "2026-11-19T20:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Kitchener: buying with a friend? Plan the exit.\n\nBuying with a friend or family member can work, but agree on the details first. 1) Agree who pays what, and how much, before you make an offer. 2) Decide what happens if one person wants out. 3) Ask a lawyer about a co-ownership agreement to put it in writing. 4) Ask your lender how several buyers are assessed together.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r4.mp4",
+    "caption": "Kitchener: buying with a friend? Plan the exit.\n\nBuying with a friend or family member can work, but agree on the details first. 1) Agree who pays what, and how much, before you make an offer. 2) Decide what happens if one person wants out. 3) Ask a lawyer about a co-ownership agreement to put it in writing. 4) Ask your lender how several buyers are assessed together.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r4-vo14018.mp4",
     "frames": [
       {
         "img": "posts/2026-11-19/d20261119-r4-frames/f01.png",
@@ -405,7 +433,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "BUYING PROCESS",
@@ -454,14 +482,28 @@
           "text": "Like, comment and *share with a Kitchener buyer",
           "fine": "General information only. Not legal advice."
         }
-      ]
+      ],
+      "photo": "p126.jpg"
     },
     "brand_corner": "logo",
     "trigger": "worry that a shared purchase could end a friendship",
     "share_reason": "the friend I'm buying with",
     "format": "step-by-step (buying process, buying with a friend or family member)",
     "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 20.6,
+    "vo_frame_seconds": [
+      2.34,
+      3.57,
+      3.39,
+      3.3,
+      2.97,
+      5.0
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r4-tt14031.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r4-yt14129.mp4"
   },
   {
     "id": "d20261119-r5",
@@ -471,8 +513,8 @@
     "status": "pending",
     "publish_at": "2026-11-19T21:00:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Georgetown: lowest rate. Hidden catch?\n\nThe lowest rate is not the whole story. 1) The lowest rate is not always the best overall mortgage. 2) Early-exit penalties can differ from one lender to another. 3) Check how much extra you are allowed to pay down each year. 4) Get the full terms in writing before you decide.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #mortgagetips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r5.mp4",
+    "caption": "Georgetown: lowest rate. Hidden catch?\n\nThe lowest rate is not the whole story. 1) The lowest rate is not always the best overall mortgage. 2) Early-exit penalties can differ from one lender to another. 3) Check how much extra you are allowed to pay down each year. 4) Get the full terms in writing before you decide.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r5-vo14569.mp4",
     "frames": [
       {
         "img": "posts/2026-11-19/d20261119-r5-frames/f01.png",
@@ -505,7 +547,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "dark",
       "tag": "MYTH VS FACT",
@@ -554,14 +596,28 @@
           "text": "Like, comment and *share with a Georgetown buyer",
           "fine": "General information only. Not mortgage advice."
         }
-      ]
+      ],
+      "photo": "p127.jpg"
     },
     "brand_corner": "logo",
     "trigger": "surprise that a low rate can hide costly terms",
     "share_reason": "a friend comparing mortgage offers",
     "format": "myth vs fact (the lowest mortgage rate)",
     "hook_pattern": "6 tease + reveal",
-    "audience": "buyer"
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 21.6,
+    "vo_frame_seconds": [
+      2.72,
+      3.15,
+      4.08,
+      3.66,
+      2.76,
+      5.24
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r5-tt14582.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r5-yt14686.mp4"
   },
   {
     "id": "d20261119-f2",
@@ -587,8 +643,8 @@
     "status": "pending",
     "publish_at": "2026-11-19T22:30:00-05:00",
     "hook_rule": "tension-v3",
-    "caption": "Milton closing done. Keep these papers?\n\nQuick tip: keep your closing documents, warranties and renovation receipts together in one safe place, and ask your lawyer how long to keep each one.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homeownertips #keyswithkrishna",
-    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r6.mp4",
+    "caption": "Milton closing done. Keep these papers?\n\nQuick tip: keep your closing documents, warranties and renovation receipts together in one safe place, and ask your lawyer how long to keep each one.\n\nBuying in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homeownertips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r6-vo14941.mp4",
     "frames": [
       {
         "img": "posts/2026-11-19/d20261119-r6-frames/f01.png",
@@ -606,7 +662,7 @@
         "min": 4.5
       }
     ],
-    "vo_pending": true,
+    "vo_pending": false,
     "motion": {
       "theme": "cream",
       "tag": "QUICK TIP",
@@ -631,13 +687,24 @@
           "text": "Like, comment and *share with a Milton buyer",
           "fine": "General information only. Not legal advice."
         }
-      ]
+      ],
+      "photo": "p128.jpg"
     },
     "brand_corner": "logo",
     "trigger": "worry about losing an important document later",
     "share_reason": "a friend closing this year",
     "format": "quick-tip",
     "hook_pattern": "6 tease + reveal",
-    "audience": "buyer"
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 13.6,
+    "vo_frame_seconds": [
+      2.95,
+      5.61,
+      5.04
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r6-tt14949.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r6-yt15012.mp4"
   }
 ]
