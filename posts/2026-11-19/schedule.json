@@ -251,7 +251,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-19T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Old Etobicoke home: buried oil tank?\n\nOlder homes may once have been heated with oil. Ask if the home ever had an oil tank, ask for any removal or testing paperwork, and ask your inspector and lawyer what to check before you buy.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #homeinspection #homebuyingtips #keyswithkrishna",
@@ -260,7 +260,10 @@
     "photo": "p120.jpg",
     "format": "educational",
     "hook_pattern": "2 cost of a mistake (no figure)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "17965701201259372",
+    "fb_id": "122125912155311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261119-s2",
