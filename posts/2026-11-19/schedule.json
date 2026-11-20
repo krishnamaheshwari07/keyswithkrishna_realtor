@@ -289,7 +289,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-19T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Mississauga: $2,500 rent for five years. What does it add up to?\n\nExample only, simple arithmetic (same rent every month, no increases):\n1) Year one: $2,500 x 12 = $30,000.\n2) Years two and three: $30,000 x 2 = $60,000, so $90,000 so far.\n3) Years four and five: $30,000 x 2 = $60,000, for $150,000 in total.\nThis is not a rent-vs-buy comparison: owning has its own costs, and real rents change.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #firsttimebuyer #keyswithkrishna",
@@ -403,7 +403,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-tt13467.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-yt13581.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-19/d20261119-r3-yt13581.mp4",
+    "ig_media_id": "17899961847654828",
+    "fb_thumb": "set",
+    "fb_id": "1010320908778296",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "B7n1kG0k7Ec",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261119-r4",
