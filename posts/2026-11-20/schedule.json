@@ -144,7 +144,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-20T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Georgetown: buyers may spot it first.\n\nWhat a buyer's inspector finds can change the conversation at offer time. 1) Ask your Realtor\u00ae if a pre-listing inspection suits your home. 2) Repair the small issues buyers would notice at a showing. 3) Gather receipts and permits for past work. 4) Tell your Realtor\u00ae about known problems and ask your lawyer about disclosure.\n\nSelling in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
@@ -252,7 +252,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r2-tt77644.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r2-yt77749.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r2-yt77749.mp4",
+    "trial_status": "trial",
+    "ig_media_id": "18397080646161078",
+    "fb_thumb": "set",
+    "fb_id": "1411359364123573",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "EIWmXcXF-JE",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261120-f1",
