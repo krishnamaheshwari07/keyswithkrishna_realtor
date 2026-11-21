@@ -554,7 +554,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-20T21:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Dec 9 could raise your mortgage. Economists are split.\n\nThe Bank of Canada's next rate decision is Dec 9, 2026. CIBC Economics expects a hold, while RBC Economics' base case is a 0.25% hike (Canadian Mortgage Professional, Nov 16, 2026). In a note dated Nov 17, 2026, RBC also expects 0.75% more in Bank of Canada hikes by the end of Q2 2027. Variable-rate mortgages move with the Bank of Canada, while fixed rates follow bond yields. RBC says national supply is five months, the highest since April (CREA data).\n\nExample only, per $1,000,000 borrowed (25-year amortization, Canadian semi-annual compounding): at 4.44% the monthly mortgage is about $5,501; at 4.69% (0.25% higher) about $5,641, roughly $139 more a month. 4.44% is nesto.ca's insured 5-year fixed rate as of Nov 19, 2026; your rate depends on your lender, term and down payment, and fixed rates follow bond yields rather than the Bank of Canada directly.\n\nHike or hold on Dec 9? Tell me below.\n\nRenewing soon? Comment INFO to get full details, or call 905-452-4298.\n\nForecasts can change. Not financial or mortgage advice.\nSources: RBC Economics, Focus on Canadian housing, Nov 17, 2026; Canadian Mortgage Professional, Nov 16, 2026; nesto.ca mortgage rates page, rate as of Nov 19, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bankofcanada #GTArealestate #mortgagerates #keyswithkrishna",
@@ -697,7 +697,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r5-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r5-tt81076.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r5-yt81190.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-20/d20261120-r5-yt81190.mp4",
+    "ig_media_id": "18082081061725888",
+    "fb_thumb": "set",
+    "fb_id": "971842615682516",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "yq_uZkbDxfE",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261120-f2",
