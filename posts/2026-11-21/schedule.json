@@ -1,635 +1,716 @@
 [
- {
-  "id": "d20261121-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Sign before touring? Read this first.\n\nIn Ontario, a buyer representation agreement should be in writing and presented to you as soon as possible, and it should explain your services, what you will pay, how long it lasts and whether you can cancel it. 1) Find the expiry date, which must appear prominently on the first page. 2) Make sure every service you expect is written in. 3) Ask how your Realtor® is paid and what changes if a seller covers some of it. 4) Ask how the agreement can end and what a holdover clause means for you. If anything is unclear, ask before you sign.\nSource: RECO, \"Signing a contract with a real estate brokerage\" (reco.on.ca) and RECO Bulletin 2.3, checked Nov 21, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f01.png",
-    "say": "Mississauga buyers: sign before touring? Read this first.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f02.png",
-    "say": "First, find the expiry date on the first page, so you know exactly when the agreement ends.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f03.png",
-    "say": "Now the twist. Next, make sure every service you expect is actually written into the agreement.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f04.png",
-    "say": "Then, ask how your Realtor is paid, and what changes if the seller covers part of it.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f05.png",
-    "say": "Finally, ask how the agreement can end, and what a holdover clause would mean for you.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r1-frames/f06.png",
-    "say": "Like, comment and share this with a first-time buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Sign before touring? *Read first.",
-     "kick": "FINE PRINT",
-     "prop": "clipboard"
+  {
+    "id": "d20261121-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Sign before touring? Read this first.\n\nIn Ontario, a buyer representation agreement should be in writing and presented to you as soon as possible, and it should explain your services, what you will pay, how long it lasts and whether you can cancel it. 1) Find the expiry date, which must appear prominently on the first page. 2) Make sure every service you expect is written in. 3) Ask how your Realtor\u00ae is paid and what changes if a seller covers some of it. 4) Ask how the agreement can end and what a holdover clause means for you. If anything is unclear, ask before you sign.\nSource: RECO, \"Signing a contract with a real estate brokerage\" (reco.on.ca) and RECO Bulletin 2.3, checked Nov 21, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r1-vo63918.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f01.png",
+        "say": "Mississauga buyers: sign before touring? Read this first.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f02.png",
+        "say": "First, find the expiry date on the first page, so you know exactly when the agreement ends.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f03.png",
+        "say": "Now the twist. Next, make sure every service you expect is actually written into the agreement.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f04.png",
+        "say": "Then, ask how your Realtor is paid, and what changes if the seller covers part of it.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f05.png",
+        "say": "Finally, ask how the agreement can end, and what a holdover clause would mean for you.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r1-frames/f06.png",
+        "say": "Like, comment and share this with a first-time buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Sign before touring? *Read first.",
+          "kick": "FINE PRINT",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Find the expiry date on page one, so you know when it ends.",
+          "short": "Expiry date"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Make sure every service you expect is written into the agreement.",
+          "short": "Services in writing"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Ask how your Realtor\u00ae is paid and what changes if the seller covers part.",
+          "short": "How it's paid"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Ask how it can end, and what a holdover clause means for you.",
+          "short": "How it can end"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a first-time buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p143.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Find the expiry date on page one, so you know when it ends.",
-     "short": "Expiry date"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Make sure every service you expect is written into the agreement.",
-     "short": "Services in writing"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Ask how your Realtor® is paid and what changes if the seller covers part.",
-     "short": "How it's paid"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Ask how it can end, and what a holdover clause means for you.",
-     "short": "How it can end"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a first-time buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "worry about signing something you do not understand",
+    "share_reason": "a friend about to start touring homes",
+    "format": "step-by-step (buying process, buyer representation agreement)",
+    "hook_pattern": "4 direct address with a stake + 6 tease",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 26.0,
+    "vo_frame_seconds": [
+      3.29,
+      4.43,
+      4.73,
+      3.9,
+      4.21,
+      5.39
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r1-tt63933.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r1-yt64054.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about signing something you do not understand",
-  "share_reason": "a friend about to start touring homes",
-  "format": "step-by-step (buying process, buyer representation agreement)",
-  "hook_pattern": "4 direct address with a stake + 6 tease",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Sold your home? The CRA may want details.\n\nNew Reel on my page this afternoon: four steps for sellers about reporting a home sale.\n\nSelling in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#haltonregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p139.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "seller"
- },
- {
-  "id": "d20261121-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Sold in Oakville? Report it, even if no tax is owing.\n\nThe Canada Revenue Agency says the sale of a principal residence must be reported on your tax return, even when the principal residence exemption means no tax is owing. 1) Keep your purchase and sale documents and records of major improvements. 2) Report the sale on your tax return for the year you sold. 3) Designate the home as your principal residence on Schedule 3, plus Form T2091 where the CRA asks for it. 4) If you forgot or are not sure, ask an accountant: the CRA may deny the exemption if the sale is not reported, and a late-designation penalty may apply.\nSource: Canada Revenue Agency, \"Reporting the sale of your principal residence for individuals\" (canada.ca), checked Nov 21, 2026.\n\nSelling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f01.png",
-    "say": "Sold in Oakville? The CRA wants to know.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f02.png",
-    "say": "First, keep your purchase and sale documents, plus records of major improvements.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f03.png",
-    "say": "Now the twist. Next, report the sale on that year's tax return, even if you owe no tax.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f04.png",
-    "say": "Then, on Schedule 3, designate the home as your principal residence.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f05.png",
-    "say": "Finally, if you forgot or aren't sure, ask an accountant, because late reporting may bring a penalty.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r2-frames/f06.png",
-    "say": "Like, comment and share this with someone selling in Oakville. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Sold in Oakville? *Report it.",
-     "kick": "EVEN IF EXEMPT",
-     "prop": "calculator"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Keep your purchase and sale documents and records of major improvements.",
-     "short": "Keep your records"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Report the sale on that year's return, even if no tax is owing.",
-     "short": "Report the sale"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "shield",
-     "text": "Designate it as your principal residence on Schedule 3.",
-     "short": "Designate the home"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Forgot or unsure? Ask an accountant. Late reporting may bring a penalty.",
-     "short": "Ask an accountant"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Oakville seller",
-     "fine": "General information only. Not tax or legal advice."
-    }
-   ]
+  {
+    "id": "d20261121-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Sold your home? The CRA may want details.\n\nNew Reel on my page this afternoon: four steps for sellers about reporting a home sale.\n\nSelling in Halton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#haltonregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p139.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "seller"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a tax-form surprise after the sale",
-  "share_reason": "a neighbour planning to sell",
-  "format": "step-by-step (seller, reporting the sale of a home on your tax return)",
-  "hook_pattern": "3 stake + surprise",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261121-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Buying together in Kitchener? How you hold title matters.\n\nCo-buyers can hold title as joint tenants or as tenants in common, and the two work differently, including what happens when one owner dies or wants out. Ask your lawyer to explain the options and put your choice in writing before closing.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-f1.png",
-  "brand_corner": "photo",
-  "photo": "p140.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$200 extra a month. Years off?\n\nNew Reel on my page tonight: what an extra $200 a month could do to a $500K mortgage.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p141.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Brampton: $500K mortgage. What does an extra $200 a month do?\n\nExample only, computed with Canadian semi-annual compounding:\n1) $500,000 mortgage at 4.44%, 25-year amortization: about $2,751 a month.\n2) Add $200 a month: $2,951 a month.\n3) The mortgage is paid off in 266 months (22 years 2 months) instead of 300, almost 3 years sooner.\n4) Total interest falls from about $325,214 to about $282,820, roughly $42,394 less (about $42,400).\n4.44% is nesto.ca's lowest 5-year fixed insured rate as of Nov 21, 2026. Your rate depends on your lender and down payment, and rates change at renewal. Many lenders limit prepayments, so check your prepayment privileges first.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: nesto.ca 5-year fixed mortgage rates page, Nov 21, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f01.png",
-    "say": "Brampton: an extra two hundred dollars a month?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f02.png",
-    "say": "First, a five hundred thousand dollar mortgage at four point four four percent over twenty-five years is about two thousand, seven hundred fifty-one dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f03.png",
-    "say": "Now the twist. Next, add an extra two hundred dollars, and you're paying two thousand, nine hundred fifty-one dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f04.png",
-    "say": "Then, that pays the mortgage off in twenty-two years and two months, almost three years sooner.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f05.png",
-    "say": "Finally, that's about forty-two thousand, four hundred dollars less interest, for two hundred dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r3-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton homeowner. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Brampton: $500K mortgage. *Extra $200?",
-     "kick": "YEARS OFF?",
-     "prop": "calculator"
+  {
+    "id": "d20261121-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Sold in Oakville? Report it, even if no tax is owing.\n\nThe Canada Revenue Agency says the sale of a principal residence must be reported on your tax return, even when the principal residence exemption means no tax is owing. 1) Keep your purchase and sale documents and records of major improvements. 2) Report the sale on your tax return for the year you sold. 3) Designate the home as your principal residence on Schedule 3, plus Form T2091 where the CRA asks for it. 4) If you forgot or are not sure, ask an accountant: the CRA may deny the exemption if the sale is not reported, and a late-designation penalty may apply.\nSource: Canada Revenue Agency, \"Reporting the sale of your principal residence for individuals\" (canada.ca), checked Nov 21, 2026.\n\nSelling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not tax or legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r2-vo64518.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f01.png",
+        "say": "Sold in Oakville? The CRA wants to know.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f02.png",
+        "say": "First, keep your purchase and sale documents, plus records of major improvements.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f03.png",
+        "say": "Now the twist. Next, report the sale on that year's tax return, even if you owe no tax.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f04.png",
+        "say": "Then, on Schedule 3, designate the home as your principal residence.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f05.png",
+        "say": "Finally, if you forgot or aren't sure, ask an accountant, because late reporting may bring a penalty.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r2-frames/f06.png",
+        "say": "Like, comment and share this with someone selling in Oakville. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Sold in Oakville? *Report it.",
+          "kick": "EVEN IF EXEMPT",
+          "prop": "calculator"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Keep your purchase and sale documents and records of major improvements.",
+          "short": "Keep your records"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Report the sale on that year's return, even if no tax is owing.",
+          "short": "Report the sale"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "shield",
+          "text": "Designate it as your principal residence on Schedule 3.",
+          "short": "Designate the home"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Forgot or unsure? Ask an accountant. Late reporting may bring a penalty.",
+          "short": "Ask an accountant"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Oakville seller",
+          "fine": "General information only. Not tax or legal advice."
+        }
+      ],
+      "photo": "p144.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Monthly mortgage on $500,000",
-     "value": "$2,751",
-     "formula": "$500,000 at 4.44%, 25 years",
-     "running": "$2,751 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Add an extra $200 a month",
-     "value": "$2,951",
-     "formula": "$2,751 + $200",
-     "running": "$2,951 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "calendar",
-     "text": "Time to pay it off",
-     "value": "22y 2m",
-     "formula": "266 months instead of 300",
-     "running": "2 yrs 10 mo sooner"
-    },
-    {
-     "kind": "total",
-     "text": "Interest saved, about",
-     "value": "$42,400",
-     "sub": "Interest falls from about $325,200 to about $282,800.",
-     "note": "Example only: $500,000 mortgage, 4.44% fixed (nesto.ca lowest 5-year insured rate, Nov 21, 2026), 25-year amortization, Canadian semi-annual compounding, rate held for the whole term. Your rate will change at renewal, and prepayment limits vary by lender. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton owner",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of a tax-form surprise after the sale",
+    "share_reason": "a neighbour planning to sell",
+    "format": "step-by-step (seller, reporting the sale of a home on your tax return)",
+    "hook_pattern": "3 stake + surprise",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 25.5,
+    "vo_frame_seconds": [
+      2.44,
+      4.12,
+      4.85,
+      4.19,
+      5.0,
+      4.93
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r2-tt64534.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r2-yt64647.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at how much a small extra amount saves",
-  "share_reason": "a friend with a mortgage",
-  "format": "money-math (everyday, extra $200 a month on a $500K mortgage)",
-  "hook_pattern": "11 number that demands explanation + 5 timing",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261121-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Closing week. Milton lawyer needs this.\n\nBefore closing, you usually meet your real estate lawyer to sign documents. 1) Book your signing appointment as early as you can. 2) Bring valid government photo ID so your lawyer can verify your identity. 3) Ask exactly how much money to send, how to send it, and by when. 4) Read every page and ask about anything you do not understand. Your lawyer's instructions come first.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f01.png",
-    "say": "Closing week in Milton? Your lawyer needs this.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f02.png",
-    "say": "First, book your signing appointment with your lawyer as early as you can.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f03.png",
-    "say": "Now the twist. Next, bring valid government photo ID, because your lawyer has to verify who you are.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f04.png",
-    "say": "Then, ask your lawyer exactly how much to send, how to send it, and by when.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f05.png",
-    "say": "Finally, read every page before you sign, and ask about anything that isn't clear.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone closing in Milton. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Closing week. Milton lawyer *needs this.",
-     "kick": "BRING THIS",
-     "prop": "lawyer"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Book your signing appointment with your lawyer as early as you can.",
-     "short": "Book signing early"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Bring valid government photo ID so your lawyer can verify who you are.",
-     "short": "Bring photo ID"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Ask exactly how much to send, how to send it, and by when.",
-     "short": "Confirm the funds"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Read every page. Ask about anything you don't understand.",
-     "short": "Read before signing"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Milton buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261121-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Buying together in Kitchener? How you hold title matters.\n\nCo-buyers can hold title as joint tenants or as tenants in common, and the two work differently, including what happens when one owner dies or wants out. Ask your lawyer to explain the options and put your choice in writing before closing.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-f1.png",
+    "brand_corner": "photo",
+    "photo": "p140.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of a last-minute closing hiccup",
-  "share_reason": "a friend closing this year",
-  "format": "step-by-step (buying process, signing with your lawyer before closing)",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke: offered asking. Still lost?\n\nThe asking price is where a home starts, not always where it ends. Homes can sell above or below it. 1) Ask your Realtor® for recent sold prices of similar homes nearby, not just list prices. 2) Decide your top price with your lender before offer night. 3) Remember an offer is more than price: the deposit, closing date and conditions count too. 4) Get advice before waiving any protection.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #torontorealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f01.png",
-    "say": "Etobicoke: you offered asking, and still lost?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f02.png",
-    "say": "First, the myth: the asking price is the price. In reality, a home can sell above or below it.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f03.png",
-    "say": "Now the twist. Next, ask your Realtor for recent sold prices of similar homes nearby, not just list prices.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f04.png",
-    "say": "Then, decide your top price with your lender before offer night, not during it.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f05.png",
-    "say": "Finally, remember an offer is more than price: deposit, closing date and conditions count too, so get advice before waiving any.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r5-frames/f06.png",
-    "say": "Like, comment and share this with a friend house hunting in Etobicoke. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MYTH VS FACT",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke: offered asking. *Still lost?",
-     "kick": "ASKING ISN'T FINAL",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Myth: asking price is the price. Homes can sell above or below it.",
-     "short": "The asking myth"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "search",
-     "text": "Ask your Realtor® for recent sold prices of similar homes nearby.",
-     "short": "Check sold prices"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Decide your top price with your lender before offer night.",
-     "short": "Set your limit"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Deposit, closing date and conditions count too. Get advice before waiving any.",
-     "short": "More than price"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a house hunter",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261121-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$200 extra a month. Years off?\n\nNew Reel on my page tonight: what an extra $200 a month could do to a $500K mortgage.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p141.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "frustration at losing offers",
-  "share_reason": "a friend who keeps losing bidding wars",
-  "format": "myth vs fact (asking price vs sold price)",
-  "hook_pattern": "1 contrarian/myth + pain-point (lost bidding wars)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown: removing a big tree? Check first.\n\nSome Ontario municipalities require a permit to remove large trees on private property. If a tree is in the way of your plans, ask the Town of Halton Hills about its rules before you buy, not after.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-f2.png",
-  "brand_corner": "photo",
-  "photo": "p142.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261121-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-21T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Older Cambridge home. Sewer scoped?\n\nQuick tip: ask your home inspector whether a camera inspection of the sewer line makes sense, especially for an older home or one with mature trees. A standard inspection may not include it, so ask before your conditions end.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-21/d20261121-r6-frames/f01.png",
-    "say": "Older Cambridge home: sewer line checked?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r6-frames/f02.png",
-    "say": "Quick tip: ask your inspector whether a camera inspection of the sewer line makes sense, especially for an older home.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-21/d20261121-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Cambridge buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "CAMBRIDGE (KWC)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Older Cambridge home. *Sewer scoped?",
-     "kick": "ASK YOUR INSPECTOR",
-     "prop": "search"
+  {
+    "id": "d20261121-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Brampton: $500K mortgage. What does an extra $200 a month do?\n\nExample only, computed with Canadian semi-annual compounding:\n1) $500,000 mortgage at 4.44%, 25-year amortization: about $2,751 a month.\n2) Add $200 a month: $2,951 a month.\n3) The mortgage is paid off in 266 months (22 years 2 months) instead of 300, almost 3 years sooner.\n4) Total interest falls from about $325,214 to about $282,820, roughly $42,394 less (about $42,400).\n4.44% is nesto.ca's lowest 5-year fixed insured rate as of Nov 21, 2026. Your rate depends on your lender and down payment, and rates change at renewal. Many lenders limit prepayments, so check your prepayment privileges first.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: nesto.ca 5-year fixed mortgage rates page, Nov 21, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r3-vo65122.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f01.png",
+        "say": "Brampton: an extra two hundred dollars a month?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f02.png",
+        "say": "First, a five hundred thousand dollar mortgage at four point four four percent over twenty-five years is about two thousand, seven hundred fifty-one dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f03.png",
+        "say": "Now the twist. Next, add an extra two hundred dollars, and you're paying two thousand, nine hundred fifty-one dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f04.png",
+        "say": "Finally, that pays the mortgage off in twenty-two years and two months, almost three years sooner.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f05.png",
+        "say": "Finally, that's about forty-two thousand, four hundred dollars less interest, for two hundred dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r3-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton homeowner. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Brampton: $500K mortgage. *Extra $200?",
+          "kick": "YEARS OFF?",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Monthly mortgage on $500,000",
+          "value": "$2,751",
+          "formula": "$500,000 at 4.44%, 25 years",
+          "running": "$2,751 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Add an extra $200 a month",
+          "value": "$2,951",
+          "formula": "$2,751 + $200",
+          "running": "$2,951 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "calendar",
+          "text": "Time to pay it off",
+          "value": "22y 2m",
+          "formula": "266 months instead of 300",
+          "running": "2 yrs 10 mo sooner"
+        },
+        {
+          "kind": "total",
+          "text": "Interest saved, about",
+          "value": "$42,400",
+          "sub": "Interest falls from about $325,200 to about $282,800.",
+          "note": "Example only: $500,000 mortgage, 4.44% fixed (nesto.ca lowest 5-year insured rate, Nov 21, 2026), 25-year amortization, Canadian semi-annual compounding, rate held for the whole term. Your rate will change at renewal, and prepayment limits vary by lender. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton owner",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p145.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "search",
-     "text": "Ask your inspector about a camera inspection of the sewer line.",
-     "short": "Sewer camera check"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Cambridge buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at how much a small extra amount saves",
+    "share_reason": "a friend with a mortgage",
+    "format": "money-math (everyday, extra $200 a month on a $500K mortgage)",
+    "hook_pattern": "11 number that demands explanation + 5 timing",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 26.6,
+    "vo_frame_seconds": [
+      2.2,
+      6.41,
+      4.75,
+      4.01,
+      4.27,
+      4.92
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r3-tt65139.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r3-yt65258.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about an expensive hidden repair",
-  "share_reason": "a friend buying an older home",
-  "format": "quick-tip",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261121-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Closing week. Milton lawyer needs this.\n\nBefore closing, you usually meet your real estate lawyer to sign documents. 1) Book your signing appointment as early as you can. 2) Bring valid government photo ID so your lawyer can verify your identity. 3) Ask exactly how much money to send, how to send it, and by when. 4) Read every page and ask about anything you do not understand. Your lawyer's instructions come first.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r4-vo65741.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f01.png",
+        "say": "Closing week in Milton? Your lawyer needs this.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f02.png",
+        "say": "First, book your signing appointment with your lawyer as early as you can.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f03.png",
+        "say": "Now the twist. Next, bring valid government photo ID, because your lawyer has to verify who you are.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f04.png",
+        "say": "Then, ask your lawyer exactly how much to send, how to send it, and by when.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f05.png",
+        "say": "Finally, read every page before you sign, and ask about anything that isn't clear.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone closing in Milton. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Closing week. Milton lawyer *needs this.",
+          "kick": "BRING THIS",
+          "prop": "lawyer"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Book your signing appointment with your lawyer as early as you can.",
+          "short": "Book signing early"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Bring valid government photo ID so your lawyer can verify who you are.",
+          "short": "Bring photo ID"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Ask exactly how much to send, how to send it, and by when.",
+          "short": "Confirm the funds"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Read every page. Ask about anything you don't understand.",
+          "short": "Read before signing"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Milton buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p146.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "fear of a last-minute closing hiccup",
+    "share_reason": "a friend closing this year",
+    "format": "step-by-step (buying process, signing with your lawyer before closing)",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 26.4,
+    "vo_frame_seconds": [
+      2.87,
+      3.25,
+      5.03,
+      4.98,
+      4.64,
+      5.67
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r4-tt65757.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r4-yt65877.mp4"
+  },
+  {
+    "id": "d20261121-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke: offered asking. Still lost?\n\nThe asking price is where a home starts, not always where it ends. Homes can sell above or below it. 1) Ask your Realtor\u00ae for recent sold prices of similar homes nearby, not just list prices. 2) Decide your top price with your lender before offer night. 3) Remember an offer is more than price: the deposit, closing date and conditions count too. 4) Get advice before waiving any protection.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #torontorealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-vo66395.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f01.png",
+        "say": "Etobicoke: you offered asking, and still lost?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f02.png",
+        "say": "First, the myth: the asking price is the price. In reality, a home can sell above or below it.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f03.png",
+        "say": "Now the twist. Next, ask your Realtor for recent sold prices of similar homes nearby, not just list prices.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f04.png",
+        "say": "Then, decide your top price with your lender before offer night, not during it.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f05.png",
+        "say": "Finally, remember an offer is more than price: deposit, closing date and conditions count too, so get advice before waiving any.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r5-frames/f06.png",
+        "say": "Like, comment and share this with a friend house hunting in Etobicoke. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MYTH VS FACT",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke: offered asking. *Still lost?",
+          "kick": "ASKING ISN'T FINAL",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Myth: asking price is the price. Homes can sell above or below it.",
+          "short": "The asking myth"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "search",
+          "text": "Ask your Realtor\u00ae for recent sold prices of similar homes nearby.",
+          "short": "Check sold prices"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Decide your top price with your lender before offer night.",
+          "short": "Set your limit"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Deposit, closing date and conditions count too. Get advice before waiving any.",
+          "short": "More than price"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a house hunter",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p147.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "frustration at losing offers",
+    "share_reason": "a friend who keeps losing bidding wars",
+    "format": "myth vs fact (asking price vs sold price)",
+    "hook_pattern": "1 contrarian/myth + pain-point (lost bidding wars)",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 29.2,
+    "vo_frame_seconds": [
+      2.56,
+      5.07,
+      5.71,
+      3.95,
+      6.84,
+      5.11
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-tt66412.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-yt66545.mp4"
+  },
+  {
+    "id": "d20261121-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown: removing a big tree? Check first.\n\nSome Ontario municipalities require a permit to remove large trees on private property. If a tree is in the way of your plans, ask the Town of Halton Hills about its rules before you buy, not after.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-f2.png",
+    "brand_corner": "photo",
+    "photo": "p142.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261121-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-21T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Older Cambridge home. Sewer scoped?\n\nQuick tip: ask your home inspector whether a camera inspection of the sewer line makes sense, especially for an older home or one with mature trees. A standard inspection may not include it, so ask before your conditions end.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r6-vo66772.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-21/d20261121-r6-frames/f01.png",
+        "say": "Older Cambridge home: sewer line checked?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r6-frames/f02.png",
+        "say": "Quick tip: ask your inspector whether a camera inspection of the sewer line makes sense, especially for an older home.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-21/d20261121-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Cambridge buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "CAMBRIDGE (KWC)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Older Cambridge home. *Sewer scoped?",
+          "kick": "ASK YOUR INSPECTOR",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "search",
+          "text": "Ask your inspector about a camera inspection of the sewer line.",
+          "short": "Sewer camera check"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Cambridge buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p148.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "worry about an expensive hidden repair",
+    "share_reason": "a friend buying an older home",
+    "format": "quick-tip",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 12.4,
+    "vo_frame_seconds": [
+      2.66,
+      4.77,
+      5.01
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r6-tt66779.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r6-yt66835.mp4"
+  }
 ]
