@@ -554,7 +554,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "failed",
     "publish_at": "2026-11-21T21:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Etobicoke: offered asking. Still lost?\n\nThe asking price is where a home starts, not always where it ends. Homes can sell above or below it. 1) Ask your Realtor\u00ae for recent sold prices of similar homes nearby, not just list prices. 2) Decide your top price with your lender before offer night. 3) Remember an offer is more than price: the deposit, closing date and conditions count too. 4) Get advice before waiving any protection.\n\nBuying in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #torontorealestate #homebuyingtips #keyswithkrishna",
@@ -661,7 +661,8 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-tt69348.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-yt69446.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-21/d20261121-r5-yt69446.mp4",
+    "error": "container error"
   },
   {
     "id": "d20261121-f2",
