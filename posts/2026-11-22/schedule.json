@@ -1,0 +1,635 @@
+[
+ {
+  "id": "d20261122-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T11:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Caledon new build. Miss this form?\n\nTarion says buyers of a new home in Ontario can use two key warranty forms. 1) Send the 30-Day Form during the first 30 days of possession. 2) Only one 30-Day Form is accepted, so list every unresolved item you have found. 3) Send the Year-End Form during the last 30 days of the first year of possession; Tarion calls it your final opportunity to report items covered by the one-year warranty. 4) Filing either form starts a 120-day builder repair period, so keep dated photos and copies. Your exact deadlines depend on your possession date.\nSource: Tarion, \"How to make a warranty claim and what to expect\" (tarion.com), checked Nov 22, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #newhomebuyer #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f01.png",
+    "say": "Caledon new build: miss this form, risk coverage?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f02.png",
+    "say": "First, in your first thirty days of possession, send Tarion your thirty-day form.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f03.png",
+    "say": "Now the twist. Next, only one is accepted, so list every unresolved item you have found.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f04.png",
+    "say": "Then, in the last thirty days of your first year, send the year-end form.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f05.png",
+    "say": "Finally, filing starts a one hundred twenty day repair period, so keep dated photos and copies.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone buying a new build. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "CALEDON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Caledon new build. Miss *this form?",
+     "kick": "COVERAGE AT RISK",
+     "prop": "clipboard"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "In your first 30 days of possession, send Tarion your 30-Day Form.",
+     "short": "30-Day Form"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Only one is accepted, so list every unresolved item you have found.",
+     "short": "List everything"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "In the last 30 days of year one, send the Year-End Form.",
+     "short": "Year-End Form"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "search",
+     "text": "Filing starts a 120-day repair period. Keep dated photos and copies.",
+     "short": "Keep your proof"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a new-build buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of losing warranty coverage by missing a deadline",
+  "share_reason": "a friend buying a new build",
+  "format": "step-by-step (buying process, new-build warranty forms)",
+  "hook_pattern": "6 tease + cost of a mistake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Lowball offer? Don't hit delete.\n\nNew Reel on my page this afternoon: four steps for sellers to think through before replying to a low offer.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-s1.mp4",
+  "brand_corner": "photo",
+  "photo": "p151.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "seller"
+ },
+ {
+  "id": "d20261122-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton lowball offer. Ignore it?\n\nA low offer is not the end of the conversation. 1) Look past the price: the deposit, closing date and conditions count too. 2) Ask your Realtor® to compare it with recent sold prices of similar homes nearby. 3) A counter-offer lets you change the price, dates and terms. 4) Check how long the offer stays open before you reply. Talk it through with your Realtor® before you decide.\n\nSelling in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #sellingyourhome #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f01.png",
+    "say": "Milton seller: lowball offer, ignore it?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f02.png",
+    "say": "First, look past the price. The deposit, closing date and conditions count too.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f03.png",
+    "say": "Now the twist. Next, ask your Realtor to compare it with recent sold prices of similar homes nearby.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f04.png",
+    "say": "Then, remember a counter-offer lets you change the price, the dates and the terms.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f05.png",
+    "say": "Finally, check how long the offer stays open, so you reply before it expires.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r2-frames/f06.png",
+    "say": "Like, comment and share this with someone selling in Milton. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Milton lowball offer. *Ignore it?",
+     "kick": "WAIT BEFORE REPLYING",
+     "prop": "handshake"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Look past price: deposit, closing date and conditions count too.",
+     "short": "Read the whole offer"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "search",
+     "text": "Ask your Realtor® to compare it to recent sold prices nearby.",
+     "short": "Compare sold prices"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "handshake",
+     "text": "A counter-offer lets you change price, dates and terms.",
+     "short": "Consider a counter"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Check how long the offer stays open before you reply.",
+     "short": "Watch the deadline"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Milton seller",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "worry about mishandling a low offer",
+  "share_reason": "a neighbour planning to sell",
+  "format": "step-by-step (seller, lowball offer)",
+  "hook_pattern": "7 specific scene cold open + pain-point",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261122-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Kitchener inspection day. Skip it?\n\nIf you can, attend your home inspection. You can see what the inspector sees, ask questions on the spot and understand which items matter most, rather than reading it all later in a report. Ask what to repair, replace or monitor first.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-f1.png",
+  "brand_corner": "photo",
+  "photo": "p149.jpg",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "$1M home. 20% down. Monthly mortgage?\n\nNew Reel on my page tonight: the monthly mortgage on a $1M home with 20% down. Take a guess first.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-s2.mp4",
+  "brand_corner": "photo",
+  "photo": "p152.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "11 interactive guess (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "$1M Brampton home. What is the monthly mortgage?\n\nExample only, computed with Canadian semi-annual compounding:\n1) 20% down on $1,000,000 = $200,000.\n2) Mortgage = $1,000,000 - $200,000 = $800,000.\n3) At 4.64% over a 25-year amortization, the monthly mortgage is about $4,490.\nThat is the mortgage only: property tax, home insurance, utilities and maintenance are extra. 4.64% is nesto.ca's lowest 5-year fixed rate for 75-80% loan-to-value as of Nov 20, 2026; your rate depends on your lender and profile, and rates change at renewal. Lenders also apply the stress test, so what you can afford is not the same as what you qualify for.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: nesto.ca 5-year fixed mortgage rates page, Nov 20, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f01.png",
+    "say": "A million dollar Brampton home. Monthly mortgage?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f02.png",
+    "say": "First, twenty percent down on a million dollar home is two hundred thousand dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f03.png",
+    "say": "Now the twist. Next, that leaves a mortgage of eight hundred thousand dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f04.png",
+    "say": "Then, at four point six four percent over twenty-five years, that's about four thousand, four hundred ninety dollars a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f05.png",
+    "say": "Finally, that's the mortgage alone, so budget for property tax, insurance and utilities on top.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r3-frames/f06.png",
+    "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$1M Brampton home. Monthly mortgage?",
+     "kick": "20% DOWN",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Down payment, 20% of $1,000,000",
+     "value": "$200,000",
+     "formula": "$1,000,000 x 20%",
+     "running": "$200,000 down"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "house",
+     "text": "Mortgage amount",
+     "value": "$800,000",
+     "formula": "$1,000,000 - $200,000",
+     "running": "$800,000 mortgage"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "calendar",
+     "text": "Monthly mortgage at 4.64%, 25 years",
+     "value": "$4,490",
+     "formula": "$800,000 at 4.64%, 25 years",
+     "running": "$4,490 a month"
+    },
+    {
+     "kind": "total",
+     "text": "Monthly mortgage, about",
+     "value": "$4,490",
+     "sub": "Not included: property tax, insurance, utilities or maintenance.",
+     "note": "Example only: $1M home, 20% down, $800,000 mortgage, 4.64% fixed (nesto.ca lowest 5-year fixed rate for 75-80% loan-to-value, as of Nov 20, 2026), 25-year amortization, Canadian semi-annual compounding, rate held for all 25 years. Rates change at renewal. Lenders also apply the stress test. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Brampton buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "curiosity about the real monthly number",
+  "share_reason": "a friend dreaming of a bigger home",
+  "format": "money-math (everyday, monthly mortgage on a $1M home with 20% down)",
+  "hook_pattern": "11 number that demands explanation + 8 price anchor",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261122-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Moved to Oakville? Six-day clock.\n\nThe Government of Ontario says you must update your driver's licence and vehicle permit within 6 days of your address changing, and your health card within 30 days. 1) Update your driver's licence and vehicle permit address within 6 days; it is free online through a ServiceOntario account. 2) Update your health card address within 30 days. 3) Your new vehicle permit is picked up at a ServiceOntario centre, so bring the old one. 4) Then tell your bank, insurer and employer.\nSource: Government of Ontario, \"Change my address: Ontario services\" (ontario.ca), checked Nov 22, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #movingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f01.png",
+    "say": "Moved to Oakville? A six-day clock is running.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f02.png",
+    "say": "First, update the address on your driver's licence and vehicle permit within six days.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f03.png",
+    "say": "Now the twist. Next, your health card has a longer window: thirty days.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f04.png",
+    "say": "Then, collect your new vehicle permit at a ServiceOntario centre, and bring the old one.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f05.png",
+    "say": "Finally, tell your bank, your insurer and your employer where you live now.",
+    "min": 3.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r4-frames/f06.png",
+    "say": "Like, comment and share this with someone who just moved. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Moved to Oakville? Six-day *clock.",
+     "kick": "BY LAW",
+     "prop": "movingbox"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Update your driver's licence and vehicle permit address within 6 days.",
+     "short": "6-day deadline"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "shield",
+     "text": "Update your health card address within 30 days.",
+     "short": "Health card"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Pick up your new permit at ServiceOntario. Bring the old one.",
+     "short": "Permit pick-up"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Then tell your bank, insurer and employer.",
+     "short": "Tell everyone else"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a new homeowner",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a short legal deadline",
+  "share_reason": "a friend who just moved",
+  "format": "step-by-step (moving in, Ontario address changes)",
+  "hook_pattern": "7 specific scene cold open + 3 number",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "5-year mortgage. Paid off in five?\n\nNot quite. The Financial Consumer Agency of Canada says the mortgage term is the time your mortgage contract is in effect, while the amortization period is the time it takes to pay off the mortgage. 1) A 5-year term does not mean a 5-year payoff. 2) At the end of each term you renew. 3) Amortization is often 25 years; with less than 20% down the maximum is 30 years for first-time buyers or new builds, and 25 years in other cases. 4) Your rate can change at renewal, so compare options before your term ends.\nSource: Financial Consumer Agency of Canada, \"Mortgage terms and amortization\" (canada.ca), checked Nov 22, 2026.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f01.png",
+    "say": "Mississauga: five-year mortgage, paid off in five?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f02.png",
+    "say": "First, the myth: a five-year mortgage does not mean you're mortgage-free in five years.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f03.png",
+    "say": "Now the twist. Next, the term is only how long your contract and rate last, and then you renew.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f04.png",
+    "say": "Then, amortization is the time it takes to pay off the whole mortgage, often twenty-five years.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f05.png",
+    "say": "Finally, your rate can change at renewal, so start comparing before your term ends.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r5-frames/f06.png",
+    "say": "Like, comment and share this with a Mississauga first-time buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MYTH VS FACT",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "5-year mortgage. *Paid off in five?",
+     "kick": "TERM VS AMORTIZATION",
+     "prop": "mortgage"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Myth: a 5-year mortgage gets paid off in 5 years.",
+     "short": "The myth"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calendar",
+     "text": "The term is how long your contract and rate last. Then you renew.",
+     "short": "What the term is"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calculator",
+     "text": "Amortization is the time to pay it all off, often 25 years.",
+     "short": "What amortization is"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "chart",
+     "text": "Your rate can change at renewal. Start comparing before it ends.",
+     "short": "Plan for renewal"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a first-time buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at what a mortgage term really means",
+  "share_reason": "a friend shopping for a mortgage",
+  "format": "myth vs fact (mortgage term vs amortization)",
+  "hook_pattern": "1 contrarian/myth + 3 number that demands explanation",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Cambridge: buying near the river? Check first.\n\nThe Grand River Conservation Authority says you may need a GRCA permit for construction or development in regulated areas, such as land in or near rivers, streams, wetlands, floodplains and steep slopes. Its Map Your Property tool shows whether an address falls in the regulation limit. If you are planning a pool, addition or driveway, check before you buy.\nSource: Grand River Conservation Authority, Planning and Development, Permits and Map Your Property pages (grandriver.ca), checked Nov 22, 2026.\n\nBuying in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-f2.png",
+  "brand_corner": "photo",
+  "photo": "p150.jpg",
+  "format": "educational",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261122-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-22T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Georgetown basement. Radon tested?\n\nQuick tip: radon is a radioactive gas you cannot see, smell or taste. Health Canada's guideline is 200 Bq/m³ and recommends a long-term test of at least three months, ideally in the fall or winter, placed in the lowest level where you spend time. Ask the seller if the home has ever been tested, and ask your Realtor® or home inspector how to arrange a test.\nSource: Health Canada, \"Radon: what you need to know\" and \"Radon reduction guide for Canadians\" (canada.ca), checked Nov 22, 2026.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-22/d20261122-r6-frames/f01.png",
+    "say": "Georgetown basement: has it been tested for radon?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r6-frames/f02.png",
+    "say": "Quick tip: radon is invisible, so Health Canada says to test for at least three months, ideally in fall or winter.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-22/d20261122-r6-frames/f03.png",
+    "say": "Like, comment and share this with a Georgetown buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "GEORGETOWN",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Georgetown basement. *Radon tested?",
+     "kick": "3-MONTH TEST",
+     "prop": "search"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "search",
+     "text": "Radon is invisible. Health Canada says test at least 3 months.",
+     "short": "Radon test"
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Georgetown buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "worry about an invisible health risk",
+  "share_reason": "a friend buying a home with a basement",
+  "format": "quick-tip (radon test)",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ }
+]
