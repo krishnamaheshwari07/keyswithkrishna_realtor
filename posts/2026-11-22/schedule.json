@@ -267,7 +267,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-22T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Kitchener inspection day. Skip it?\n\nIf you can, attend your home inspection. You can see what the inspector sees, ask questions on the spot and understand which items matter most, rather than reading it all later in a report. Ask what to repair, replace or monitor first.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
@@ -276,7 +276,10 @@
     "photo": "p149.jpg",
     "format": "educational",
     "hook_pattern": "4 direct address with a stake",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18171394576479407",
+    "fb_id": "122126169963311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261122-s2",
