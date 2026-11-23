@@ -305,7 +305,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-22T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "$1M Brampton home. What is the monthly mortgage?\n\nExample only, computed with Canadian semi-annual compounding:\n1) 20% down on $1,000,000 = $200,000.\n2) Mortgage = $1,000,000 - $200,000 = $800,000.\n3) At 4.64% over a 25-year amortization, the monthly mortgage is about $4,490.\nThat is the mortgage only: property tax, home insurance, utilities and maintenance are extra. 4.64% is nesto.ca's lowest 5-year fixed rate for 75-80% loan-to-value as of Nov 20, 2026; your rate depends on your lender and profile, and rates change at renewal. Lenders also apply the stress test, so what you can afford is not the same as what you qualify for.\n\nWant help planning your budget? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: nesto.ca 5-year fixed mortgage rates page, Nov 20, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
@@ -419,7 +419,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r3-tt50688.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r3-yt50771.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r3-yt50771.mp4",
+    "ig_media_id": "18117473519025818",
+    "fb_thumb": "set",
+    "fb_id": "1154010964162416",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "PeVb58l2GcY",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261122-r4",
