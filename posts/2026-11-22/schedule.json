@@ -554,7 +554,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-22T21:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "5-year mortgage. Paid off in five?\n\nNot quite. The Financial Consumer Agency of Canada says the mortgage term is the time your mortgage contract is in effect, while the amortization period is the time it takes to pay off the mortgage. 1) A 5-year term does not mean a 5-year payoff. 2) At the end of each term you renew. 3) Amortization is often 25 years; with less than 20% down the maximum is 30 years for first-time buyers or new builds, and 25 years in other cases. 4) Your rate can change at renewal, so compare options before your term ends.\nSource: Financial Consumer Agency of Canada, \"Mortgage terms and amortization\" (canada.ca), checked Nov 22, 2026.\n\nBuying in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #mortgagetips #keyswithkrishna",
@@ -661,7 +661,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r5-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r5-tt51420.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r5-yt51506.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-22/d20261122-r5-yt51506.mp4",
+    "ig_media_id": "18112247471571013",
+    "fb_thumb": "set",
+    "fb_id": "1548858763945988",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "ov_HgR8k7M0",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261122-f2",
