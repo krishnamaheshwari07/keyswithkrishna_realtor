@@ -1,636 +1,717 @@
 [
- {
-  "id": "d20261123-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke move-in. CO alarm law changed.\n\nThe Government of Ontario says Fire Code changes that took effect January 1, 2026 expand where carbon monoxide (CO) alarms must go in existing homes. 1) Homes with a fuel-burning appliance, a fireplace or an attached garage need CO alarms on every storey, including storeys with no bedrooms. 2) Keep one adjacent to each sleeping area too, in the hallway outside the bedrooms. 3) In an owner-occupied home the homeowner is responsible for complying; in a rental, the landlord is. 4) Test CO alarms monthly and replace the batteries every year. Your local fire department can answer questions about your own home.\nSource: Government of Ontario, \"CO alarm requirements for existing homes\" (Dec 2025) and \"Carbon monoxide safety\" (ontario.ca), checked Nov 23, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #movingtips #homesafety #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f01.png",
-    "say": "Etobicoke move-in: Ontario's CO alarm rule changed.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f02.png",
-    "say": "First, homes with a gas appliance, a fireplace or an attached garage now need carbon monoxide alarms on every floor.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f03.png",
-    "say": "Next, keep one in the hallway outside the bedrooms as well.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f04.png",
-    "say": "Now the twist. Then, in an owner-occupied home, the owner is the one responsible for complying.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f05.png",
-    "say": "Finally, test your carbon monoxide alarms every month and replace the batteries every year.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r1-frames/f06.png",
-    "say": "Like, comment and share this with someone moving into a new home. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke move-in. *CO alarm law changed.",
-     "kick": "JAN 1, 2026",
-     "prop": "shield"
+  {
+    "id": "d20261123-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke move-in. CO alarm law changed.\n\nThe Government of Ontario says Fire Code changes that took effect January 1, 2026 expand where carbon monoxide (CO) alarms must go in existing homes. 1) Homes with a fuel-burning appliance, a fireplace or an attached garage need CO alarms on every storey, including storeys with no bedrooms. 2) Keep one adjacent to each sleeping area too, in the hallway outside the bedrooms. 3) In an owner-occupied home the homeowner is responsible for complying; in a rental, the landlord is. 4) Test CO alarms monthly and replace the batteries every year. Your local fire department can answer questions about your own home.\nSource: Government of Ontario, \"CO alarm requirements for existing homes\" (Dec 2025) and \"Carbon monoxide safety\" (ontario.ca), checked Nov 23, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #movingtips #homesafety #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r1-vo36816.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f01.png",
+        "say": "Etobicoke move-in: Ontario's CO alarm rule changed.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f02.png",
+        "say": "First, homes with a gas appliance, a fireplace or an attached garage now need carbon monoxide alarms on every floor.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f03.png",
+        "say": "Next, keep one in the hallway outside the bedrooms as well.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f04.png",
+        "say": "Now the twist. Then, in an owner-occupied home, the owner is the one responsible for complying.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f05.png",
+        "say": "Finally, test your carbon monoxide alarms every month and replace the batteries every year.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r1-frames/f06.png",
+        "say": "Like, comment and share this with someone moving into a new home. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke move-in. *CO alarm law changed.",
+          "kick": "JAN 1, 2026",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Homes with a gas appliance, fireplace or attached garage need CO alarms on every floor.",
+          "short": "Every floor"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Keep one in the hallway outside the bedrooms too.",
+          "short": "Near bedrooms"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "In an owner-occupied home, the homeowner is responsible for compliance.",
+          "short": "Owner responsible"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Test CO alarms monthly and replace the batteries every year.",
+          "short": "Test monthly"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a new homeowner",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p163.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Homes with a gas appliance, fireplace or attached garage need CO alarms on every floor.",
-     "short": "Every floor"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Keep one in the hallway outside the bedrooms too.",
-     "short": "Near bedrooms"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "In an owner-occupied home, the homeowner is responsible for compliance.",
-     "short": "Owner responsible"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Test CO alarms monthly and replace the batteries every year.",
-     "short": "Test monthly"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a new homeowner",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise that a safety law changed",
+    "share_reason": "a friend who just got keys",
+    "format": "step-by-step (moving in, CO alarm law)",
+    "hook_pattern": "9 moving here + 3 specific change",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 26.2,
+    "vo_frame_seconds": [
+      3.28,
+      5.35,
+      2.95,
+      4.82,
+      4.29,
+      5.53
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r1-tt36831.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r1-yt36949.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise that a safety law changed",
-  "share_reason": "a friend who just got keys",
-  "format": "step-by-step (moving in, CO alarm law)",
-  "hook_pattern": "9 moving here + 3 specific change",
-  "audience": "buyer"
- },
- {
-  "id": "d20261123-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Offers piling up? Read this.\n\nNew Reel on my page this afternoon: four things sellers should know about sharing competing offers.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #GTArealestate #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p161.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "6 tease + reveal (teases today's Reel)",
-  "audience": "seller"
- },
- {
-  "id": "d20261123-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Milton seller. Multiple offers. Disclose?\n\nThe Real Estate Council of Ontario (RECO) explains the rules for competing offers. 1) The seller's Realtor® must tell every buyer who submitted a written offer how many competing offers there are. 2) Sharing the content of the offers is the seller's choice and only happens with the seller's written direction. 3) Personal or identifying information about the buyers cannot be shared. 4) A seller can change that direction at any time. Talk through your options with your Realtor® before offer night.\nSource: RECO, \"Dealing with competing offers\" (seller page) and Bulletin 4.1 (reco.on.ca), checked Nov 23, 2026.\n\nSelling in Milton? Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f01.png",
-    "say": "Milton seller: multiple offers, what must you share?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f02.png",
-    "say": "First, your Realtor must tell every buyer with a written offer how many competing offers there are.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f03.png",
-    "say": "Now the twist. Next, the details of the offers are shared only if you direct it in writing.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f04.png",
-    "say": "Then, buyers' names and personal details can never be shared, even if you direct it.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f05.png",
-    "say": "Finally, you can change your direction to your Realtor whenever you like.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r2-frames/f06.png",
-    "say": "Like, comment and share this with someone selling in Milton. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "MILTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Milton seller. Multiple offers. *Disclose?",
-     "kick": "WHAT'S REQUIRED",
-     "prop": "handshake"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Your Realtor® must tell every buyer with a written offer how many offers exist.",
-     "short": "Offer count"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Offer details are shared only if you direct it in writing.",
-     "short": "Details: your call"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "shield",
-     "text": "Names and personal details can never be shared.",
-     "short": "Names stay private"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calendar",
-     "text": "You can change your direction at any time.",
-     "short": "Change anytime"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Milton seller",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261123-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Offers piling up? Read this.\n\nNew Reel on my page this afternoon: four things sellers should know about sharing competing offers.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #GTArealestate #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p161.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "6 tease + reveal (teases today's Reel)",
+    "audience": "seller"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about handling several offers correctly",
-  "share_reason": "a neighbour planning to sell",
-  "format": "step-by-step (seller, competing offers, RECO rules)",
-  "hook_pattern": "4 direct address with a stake + pain-point",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261123-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Caledon bidding war? Read this.\n\nThe Real Estate Council of Ontario (RECO) says the seller's Realtor® must tell every buyer with a written offer how many competing offers there are, and that the seller can choose whether the content of offers is shared. RECO also says a competing offer situation does not necessarily mean a home sells above asking, that an offer at or above asking will not guarantee acceptance, that pre-qualifying for a mortgage does not safely eliminate the need for a financing condition, and that skipping a home inspection condition is a significant risk. Talk through your limits with your Realtor® before offer night.\nSource: RECO, \"Competing offers\" (buyer page, reco.on.ca), checked Nov 23, 2026.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-f1.png",
-  "brand_corner": "photo",
-  "photo": "p159.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261123-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$1.5M home. Down payment jumps.\n\nNew Reel on my page tonight: how much more cash the minimum down payment needs when a price crosses one line. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #downpayment #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p162.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261123-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$10K more price. $176K more down.\n\nExample only, using the minimum down payment table from the Financial Consumer Agency of Canada:\n1) $1,490,000 home: 5% of the first $500,000 = $25,000.\n2) 10% of the other $990,000 = $99,000, so $124,000 down in total.\n3) $1,500,000 home: 20% down = $300,000.\nThat is $176,000 more cash down for $10,000 more on the price ($300,000 - $124,000). FCAC's table: 5% of the first $500,000, plus 10% of the portion from $500,000 to $1.5 million; 20% at $1.5 million or more. Closing costs and any mortgage insurance premium are extra, and your lender may ask for more, so confirm your numbers with your lender.\n\nPlanning a move in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: Financial Consumer Agency of Canada, \"How much you need for a down payment\" (canada.ca, page updated Oct 15, 2025), checked Nov 23, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #downpayment #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f01.png",
-    "say": "Oakville, one point five million: down payment jumps.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f02.png",
-    "say": "First, on a one point four nine million dollar home, five percent of the first five hundred thousand is twenty-five thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f03.png",
-    "say": "Now the twist. Next, ten percent of the other nine hundred ninety thousand is ninety-nine thousand, so one hundred twenty-four thousand down.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f04.png",
-    "say": "Then, at one point five million the minimum jumps to twenty percent: three hundred thousand dollars.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f05.png",
-    "say": "Finally, that's one hundred seventy-six thousand dollars more cash down, for ten thousand dollars more on the price.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r3-frames/f06.png",
-    "say": "Like, comment and share this with an Oakville buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "OAKVILLE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "$10K more price. *$176K more down.",
-     "kick": "THE $1.5M LINE",
-     "prop": "calculator"
+  {
+    "id": "d20261123-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Milton seller. Multiple offers. Disclose?\n\nThe Real Estate Council of Ontario (RECO) explains the rules for competing offers. 1) The seller's Realtor\u00ae must tell every buyer who submitted a written offer how many competing offers there are. 2) Sharing the content of the offers is the seller's choice and only happens with the seller's written direction. 3) Personal or identifying information about the buyers cannot be shared. 4) A seller can change that direction at any time. Talk through your options with your Realtor\u00ae before offer night.\nSource: RECO, \"Dealing with competing offers\" (seller page) and Bulletin 4.1 (reco.on.ca), checked Nov 23, 2026.\n\nSelling in Milton? Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r2-vo37377.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f01.png",
+        "say": "Milton seller: multiple offers, what must you share?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f02.png",
+        "say": "First, your Realtor must tell every buyer with a written offer how many competing offers there are.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f03.png",
+        "say": "Now the twist. Next, the details of the offers are shared only if you direct it in writing.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f04.png",
+        "say": "Then, buyers' names and personal details can never be shared, even if you direct it.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f05.png",
+        "say": "Finally, you can change your direction to your Realtor whenever you like.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r2-frames/f06.png",
+        "say": "Like, comment and share this with someone selling in Milton. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "MILTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Milton seller. Multiple offers. *Disclose?",
+          "kick": "WHAT'S REQUIRED",
+          "prop": "handshake"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Your Realtor\u00ae must tell every buyer with a written offer how many offers exist.",
+          "short": "Offer count"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Offer details are shared only if you direct it in writing.",
+          "short": "Details: your call"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "shield",
+          "text": "Names and personal details can never be shared.",
+          "short": "Names stay private"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calendar",
+          "text": "You can change your direction at any time.",
+          "short": "Change anytime"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Milton seller",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p164.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "piggy",
-     "text": "$1.49M home: 5% of the first $500,000",
-     "value": "$25,000",
-     "formula": "$500,000 x 5%",
-     "running": "$25,000 down"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "calculator",
-     "text": "10% of the other $990,000",
-     "value": "$99,000",
-     "formula": "$990,000 x 10%",
-     "running": "$124,000 down"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "house",
-     "text": "$1.5M home: 20% down",
-     "value": "$300,000",
-     "formula": "$1,500,000 x 20%",
-     "running": "$300,000 down"
-    },
-    {
-     "kind": "total",
-     "text": "Extra cash down for $10,000 more",
-     "value": "$176,000",
-     "sub": "$300,000 - $124,000. Not included: closing costs.",
-     "note": "Example only: minimum down payment per FCAC's table (5% of the first $500,000, 10% of the part from $500,000 to $1.5M, 20% at $1.5M or more; page updated Oct 15, 2025). Mortgage insurance premiums and closing costs are extra. Confirm with your lender. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an Oakville buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "worry about handling several offers correctly",
+    "share_reason": "a neighbour planning to sell",
+    "format": "step-by-step (seller, competing offers, RECO rules)",
+    "hook_pattern": "4 direct address with a stake + pain-point",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 24.4,
+    "vo_frame_seconds": [
+      2.61,
+      5.04,
+      4.76,
+      3.91,
+      3.05,
+      5.02
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r2-tt37392.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r2-yt37500.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise at a hidden price cliff",
-  "share_reason": "a friend shopping near $1.5M",
-  "format": "money-math (everyday, the $1.5M down payment line)",
-  "hook_pattern": "3 number that demands explanation",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261123-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Older Mississauga home. Insurance denied?\n\nThe Electrical Safety Authority (ESA) says knob-and-tube wiring was used in homes in the early 1900s to the 1940s, and that many insurers will not provide or renew coverage on homes with this type of wiring; some may ask you to replace it first. 1) Know the era of the home. 2) Ask an insurer about the wiring before you finalize a purchase. 3) ESA recommends an assessment by a Licensed Electrical Contractor, which is different from a home inspection because it focuses only on the electrical. 4) Make sure anyone doing electrical work can legally do it in Ontario.\nSource: Electrical Safety Authority, \"Knob and Tube Wiring\" (esasafe.com), checked Nov 23, 2026.\n\nBuying an older home in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f01.png",
-    "say": "Older Mississauga home: could insurance say no?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f02.png",
-    "say": "First, know the era: knob-and-tube wiring was used in homes from the early 1900s to the 1940s.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f03.png",
-    "say": "Now the twist. Next, the Electrical Safety Authority says many insurers will not provide or renew coverage on these homes.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f04.png",
-    "say": "Then, have a licensed electrical contractor assess the wiring, because that's different from a regular home inspection.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f05.png",
-    "say": "Finally, make sure anyone doing electrical work can legally do it in Ontario.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone buying an older home. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Older Mississauga home. Insurance *denied?",
-     "kick": "KNOB-AND-TUBE",
-     "prop": "shield"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "search",
-     "text": "Knob-and-tube wiring was used in homes from the early 1900s to the 1940s.",
-     "short": "Know the era"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "shield",
-     "text": "ESA says many insurers will not provide or renew coverage on these homes.",
-     "short": "Ask your insurer"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Have a licensed electrical contractor assess the wiring. It differs from a home inspection.",
-     "short": "Electrical assessment"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "lawyer",
-     "text": "Use someone who can legally do electrical work in Ontario.",
-     "short": "Licensed work only"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with an older-home buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261123-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Caledon bidding war? Read this.\n\nThe Real Estate Council of Ontario (RECO) says the seller's Realtor\u00ae must tell every buyer with a written offer how many competing offers there are, and that the seller can choose whether the content of offers is shared. RECO also says a competing offer situation does not necessarily mean a home sells above asking, that an offer at or above asking will not guarantee acceptance, that pre-qualifying for a mortgage does not safely eliminate the need for a financing condition, and that skipping a home inspection condition is a significant risk. Talk through your limits with your Realtor\u00ae before offer night.\nSource: RECO, \"Competing offers\" (buyer page, reco.on.ca), checked Nov 23, 2026.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-f1.png",
+    "brand_corner": "photo",
+    "photo": "p159.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about being unable to insure the home",
-  "share_reason": "a friend eyeing an older home",
-  "format": "step-by-step (older home electrical, knob-and-tube)",
-  "hook_pattern": "2 cost of a mistake + 6 tease",
-  "audience": "buyer"
- },
- {
-  "id": "d20261123-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Pretty kitchen. Wrong street.\n\nA tired kitchen can be updated; a location can't be moved. 1) The mistake: choosing a home because the kitchen looks great. 2) Paint, floors and kitchens can be updated over time. 3) You can't move the street, and the roof, wiring and foundation can be costly to fix. 4) Ask your home inspector about the big items before you fall for the finishes.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f01.png",
-    "say": "Brampton buyers: pretty kitchen, wrong street?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f02.png",
-    "say": "First, the mistake: choosing a Brampton home because the kitchen looks great.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f03.png",
-    "say": "Next, paint, floors and kitchens can all be updated over time.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f04.png",
-    "say": "Now the twist. Then, you can't move the street, and the roof, wiring and foundation can be costly to fix.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f05.png",
-    "say": "Finally, ask your inspector about the big items before you fall for the finishes.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r5-frames/f06.png",
-    "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MISTAKE & FIX",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Pretty kitchen. *Wrong street.",
-     "kick": "REGRET RISK",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Mistake: choosing the home with the prettiest kitchen.",
-     "short": "The mistake"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "swatches",
-     "text": "Paint, floors and kitchens can be updated over time.",
-     "short": "Easy to change"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "search",
-     "text": "You can't move the street. Roof, wiring and foundation can be costly to fix.",
-     "short": "Hard to change"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask your inspector about the big items before you fall for finishes.",
-     "short": "The fix"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Brampton buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261123-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$1.5M home. Down payment jumps.\n\nNew Reel on my page tonight: how much more cash the minimum down payment needs when a price crosses one line. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #downpayment #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p162.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "relief at spotting a costly mistake early",
-  "share_reason": "a friend house-hunting this month",
-  "format": "mistake-then-fix (timeless idea 7: kitchen vs location)",
-  "hook_pattern": "2 cost of a mistake",
-  "audience": "buyer",
-  "series": "timeless"
- },
- {
-  "id": "d20261123-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Georgetown basement unit. Registered?\n\nThe Town of Halton Hills says no one may operate or permit the occupancy of an additional residential unit (ARU) unless it is registered, and its guide lists fines of up to $50,000 for individuals. Registration involves inspections by Fire, Building and Municipal Law Enforcement. If a home you are buying has a basement apartment, ask to see the registration and any building permits, and check the details with the Town's Building Services. Rules vary by municipality.\nSource: Town of Halton Hills, \"Additional Residential Unit (ARU) Registration Guide\" (haltonhills.ca, updated 2025), checked Nov 23, 2026.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-f2.png",
-  "brand_corner": "photo",
-  "photo": "p160.jpg",
-  "format": "educational",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261123-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-23T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Kitchener smoke alarm. Expired?\n\nQuick tip: the Government of Ontario's Fire Safety Guidebook says every home must have a working smoke alarm on every storey and outside all sleeping areas, to test them monthly, and to replace every alarm after 10 years of use. When you move in, check how old each alarm is.\nSource: Government of Ontario, Fire Safety Guidebook, \"Smoke alarm information\" (ontario.ca), checked Nov 23, 2026.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homesafety #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-23/d20261123-r6-frames/f01.png",
-    "say": "Kitchener home: is the smoke alarm expired?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r6-frames/f02.png",
-    "say": "Quick tip: Ontario says to replace every smoke alarm after ten years of use, so check how old yours are.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-23/d20261123-r6-frames/f03.png",
-    "say": "Like, comment and share this with a Kitchener buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "KITCHENER",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Kitchener smoke alarm. *Expired?",
-     "kick": "10-YEAR RULE",
-     "prop": "shield"
+  {
+    "id": "d20261123-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$10K more price. $176K more down.\n\nExample only, using the minimum down payment table from the Financial Consumer Agency of Canada:\n1) $1,490,000 home: 5% of the first $500,000 = $25,000.\n2) 10% of the other $990,000 = $99,000, so $124,000 down in total.\n3) $1,500,000 home: 20% down = $300,000.\nThat is $176,000 more cash down for $10,000 more on the price ($300,000 - $124,000). FCAC's table: 5% of the first $500,000, plus 10% of the portion from $500,000 to $1.5 million; 20% at $1.5 million or more. Closing costs and any mortgage insurance premium are extra, and your lender may ask for more, so confirm your numbers with your lender.\n\nPlanning a move in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: Financial Consumer Agency of Canada, \"How much you need for a down payment\" (canada.ca, page updated Oct 15, 2025), checked Nov 23, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #downpayment #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r3-vo37983.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f01.png",
+        "say": "Oakville, one point five million: down payment jumps.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f02.png",
+        "say": "First, on a one point four nine million dollar home, five percent of the first five hundred thousand is twenty-five thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f03.png",
+        "say": "Now the twist. Next, ten percent of the other nine hundred ninety thousand is ninety-nine thousand, so one hundred twenty-four thousand down.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f04.png",
+        "say": "Finally, at one point five million the minimum jumps to twenty percent: three hundred thousand dollars.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f05.png",
+        "say": "Finally, that's one hundred seventy-six thousand dollars more cash down, for ten thousand dollars more on the price.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r3-frames/f06.png",
+        "say": "Like, comment and share this with an Oakville buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "OAKVILLE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "$10K more price. *$176K more down.",
+          "kick": "THE $1.5M LINE",
+          "prop": "calculator"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "piggy",
+          "text": "$1.49M home: 5% of the first $500,000",
+          "value": "$25,000",
+          "formula": "$500,000 x 5%",
+          "running": "$25,000 down"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "calculator",
+          "text": "10% of the other $990,000",
+          "value": "$99,000",
+          "formula": "$990,000 x 10%",
+          "running": "$124,000 down"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "house",
+          "text": "$1.5M home: 20% down",
+          "value": "$300,000",
+          "formula": "$1,500,000 x 20%",
+          "running": "$300,000 down"
+        },
+        {
+          "kind": "total",
+          "text": "Extra cash down for $10,000 more",
+          "value": "$176,000",
+          "sub": "$300,000 - $124,000. Not included: closing costs.",
+          "note": "Example only: minimum down payment per FCAC's table (5% of the first $500,000, 10% of the part from $500,000 to $1.5M, 20% at $1.5M or more; page updated Oct 15, 2025). Mortgage insurance premiums and closing costs are extra. Confirm with your lender. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an Oakville buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p165.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "calendar",
-     "text": "Ontario says replace every smoke alarm after 10 years of use.",
-     "short": "Alarm age"
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Kitchener buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "surprise at a hidden price cliff",
+    "share_reason": "a friend shopping near $1.5M",
+    "format": "money-math (everyday, the $1.5M down payment line)",
+    "hook_pattern": "3 number that demands explanation",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 28.2,
+    "vo_frame_seconds": [
+      2.8,
+      5.54,
+      5.32,
+      4.69,
+      4.9,
+      4.97
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r3-tt38001.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r3-yt38126.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "worry about a hidden safety gap",
-  "share_reason": "a friend about to move in",
-  "format": "quick-tip (smoke alarm age)",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261123-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Older Mississauga home. Insurance denied?\n\nThe Electrical Safety Authority (ESA) says knob-and-tube wiring was used in homes in the early 1900s to the 1940s, and that many insurers will not provide or renew coverage on homes with this type of wiring; some may ask you to replace it first. 1) Know the era of the home. 2) Ask an insurer about the wiring before you finalize a purchase. 3) ESA recommends an assessment by a Licensed Electrical Contractor, which is different from a home inspection because it focuses only on the electrical. 4) Make sure anyone doing electrical work can legally do it in Ontario.\nSource: Electrical Safety Authority, \"Knob and Tube Wiring\" (esasafe.com), checked Nov 23, 2026.\n\nBuying an older home in Mississauga? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r4-vo38590.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f01.png",
+        "say": "Older Mississauga home: could insurance say no?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f02.png",
+        "say": "First, knob-and-tube wiring was used in homes from the early 1900s to the 1940s.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f03.png",
+        "say": "Now the twist. Next, the Electrical Safety Authority says many insurers will not provide or renew coverage on these homes.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f04.png",
+        "say": "Then, have a licensed electrical contractor assess the wiring, because that's different from a regular home inspection.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f05.png",
+        "say": "Finally, make sure anyone doing electrical work can legally do it in Ontario.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone buying an older home. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Older Mississauga home. Insurance *denied?",
+          "kick": "KNOB-AND-TUBE",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "search",
+          "text": "Knob-and-tube wiring was used in homes from the early 1900s to the 1940s.",
+          "short": "Know the era"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "shield",
+          "text": "ESA says many insurers will not provide or renew coverage on these homes.",
+          "short": "Ask your insurer"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Have a licensed electrical contractor assess the wiring. It differs from a home inspection.",
+          "short": "Electrical assessment"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "lawyer",
+          "text": "Use someone who can legally do electrical work in Ontario.",
+          "short": "Licensed work only"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with an older-home buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p166.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "worry about being unable to insure the home",
+    "share_reason": "a friend eyeing an older home",
+    "format": "step-by-step (older home electrical, knob-and-tube)",
+    "hook_pattern": "2 cost of a mistake + 6 tease",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 27.2,
+    "vo_frame_seconds": [
+      2.57,
+      4.72,
+      5.84,
+      5.06,
+      3.55,
+      5.43
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r4-tt38606.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r4-yt38726.mp4"
+  },
+  {
+    "id": "d20261123-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Pretty kitchen. Wrong street.\n\nA tired kitchen can be updated; a location can't be moved. 1) The mistake: choosing a home because the kitchen looks great. 2) Paint, floors and kitchens can be updated over time. 3) You can't move the street, and the roof, wiring and foundation can be costly to fix. 4) Ask your home inspector about the big items before you fall for the finishes.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r5-vo39142.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f01.png",
+        "say": "Brampton buyers: pretty kitchen, wrong street?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f02.png",
+        "say": "First, choosing a Brampton home because the kitchen looks great.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f03.png",
+        "say": "Next, paint, floors and kitchens can all be updated over time.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f04.png",
+        "say": "Now the twist. Then, you can't move the street, and the roof, wiring and foundation can be costly to fix.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f05.png",
+        "say": "Finally, ask your inspector about the big items before you fall for the finishes.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r5-frames/f06.png",
+        "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MISTAKE & FIX",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Pretty kitchen. *Wrong street.",
+          "kick": "REGRET RISK",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Mistake: choosing the home with the prettiest kitchen.",
+          "short": "The mistake"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "swatches",
+          "text": "Paint, floors and kitchens can be updated over time.",
+          "short": "Easy to change"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "search",
+          "text": "You can't move the street. Roof, wiring and foundation can be costly to fix.",
+          "short": "Hard to change"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask your inspector about the big items before you fall for finishes.",
+          "short": "The fix"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Brampton buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p167.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "relief at spotting a costly mistake early",
+    "share_reason": "a friend house-hunting this month",
+    "format": "mistake-then-fix (timeless idea 7: kitchen vs location)",
+    "hook_pattern": "2 cost of a mistake",
+    "audience": "buyer",
+    "series": "timeless",
+    "vo_status": "done",
+    "vo_seconds": 23.8,
+    "vo_frame_seconds": [
+      2.68,
+      3.46,
+      3.35,
+      4.97,
+      3.89,
+      5.44
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r5-tt39156.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r5-yt39263.mp4"
+  },
+  {
+    "id": "d20261123-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Georgetown basement unit. Registered?\n\nThe Town of Halton Hills says no one may operate or permit the occupancy of an additional residential unit (ARU) unless it is registered, and its guide lists fines of up to $50,000 for individuals. Registration involves inspections by Fire, Building and Municipal Law Enforcement. If a home you are buying has a basement apartment, ask to see the registration and any building permits, and check the details with the Town's Building Services. Rules vary by municipality.\nSource: Town of Halton Hills, \"Additional Residential Unit (ARU) Registration Guide\" (haltonhills.ca, updated 2025), checked Nov 23, 2026.\n\nBuying in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-f2.png",
+    "brand_corner": "photo",
+    "photo": "p160.jpg",
+    "format": "educational",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261123-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-23T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Kitchener smoke alarm. Expired?\n\nQuick tip: the Government of Ontario's Fire Safety Guidebook says every home must have a working smoke alarm on every storey and outside all sleeping areas, to test them monthly, and to replace every alarm after 10 years of use. When you move in, check how old each alarm is.\nSource: Government of Ontario, Fire Safety Guidebook, \"Smoke alarm information\" (ontario.ca), checked Nov 23, 2026.\n\nBuying in Kitchener? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homesafety #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r6-vo39487.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-23/d20261123-r6-frames/f01.png",
+        "say": "Kitchener home: is the smoke alarm expired?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r6-frames/f02.png",
+        "say": "Quick tip: Ontario says to replace every smoke alarm after ten years of use, so check how old yours are.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-23/d20261123-r6-frames/f03.png",
+        "say": "Like, comment and share this with a Kitchener buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "KITCHENER",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Kitchener smoke alarm. *Expired?",
+          "kick": "10-YEAR RULE",
+          "prop": "shield"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "calendar",
+          "text": "Ontario says replace every smoke alarm after 10 years of use.",
+          "short": "Alarm age"
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Kitchener buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p168.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "worry about a hidden safety gap",
+    "share_reason": "a friend about to move in",
+    "format": "quick-tip (smoke alarm age)",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 13.1,
+    "vo_frame_seconds": [
+      2.32,
+      5.7,
+      5.02
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r6-tt39494.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-23/d20261123-r6-yt39550.mp4"
+  }
 ]
