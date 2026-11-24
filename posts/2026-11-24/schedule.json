@@ -1,0 +1,641 @@
+[
+ {
+  "id": "d20261124-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T11:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Brampton new build. Second tax bill?\n\nWhen you buy a newly built home, a supplementary tax bill may follow after you move in. 1) Early tax bills on a new build may reflect only the vacant land. 2) After you move in, MPAC values the finished home and sends a Property Assessment Change Notice. 3) The City of Brampton says a new house is often assessed from the occupancy or closing date; the City of Mississauga says the bill can cover the current and up to two previous years, prorated from the effective date. 4) It is a separate bill that does not replace your regular bills, so budget for it. If your mortgage payment includes taxes, the bill may go to your lender. Instalments and due dates vary by municipality: check your own bill and the Property Assessment Change Notice.\nSources: City of Brampton, \"Supplementary Tax Bill\" (brampton.ca); Town of Milton, \"Assessments\" (milton.ca); City of Mississauga, \"Supplementary tax bill\" (mississauga.ca, page dated Jul 14, 2025), all checked Nov 24, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #newbuild #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f01.png",
+    "say": "Brampton new build: second tax bill coming?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f02.png",
+    "say": "First, early tax bills on a new build may reflect only the vacant land.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f03.png",
+    "say": "Next, after you move in, MPAC values the finished home and sends you a notice.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f04.png",
+    "say": "Now the twist. Then, the new bill can go back to your closing or occupancy date.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f05.png",
+    "say": "Finally, it's a separate bill, so set some money aside for it.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone closing on a new build. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Brampton new build. *Second tax bill?",
+     "kick": "AFTER CLOSING",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "house",
+     "text": "Early tax bills on a new build may reflect only the vacant land.",
+     "short": "Land-only bill"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "search",
+     "text": "After you move in, MPAC values the finished home and sends a notice.",
+     "short": "MPAC reassesses"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "The new bill can go back to your closing or occupancy date.",
+     "short": "Bill reaches back"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "calculator",
+     "text": "It's a separate bill. Set money aside for it.",
+     "short": "Budget for it",
+     "note": "Timing and instalments vary by city. Sources: City of Brampton, Milton, Mississauga."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a new-build buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a bill nobody mentioned",
+  "share_reason": "a friend closing on a new build",
+  "format": "step-by-step (moving in, supplementary tax bill on a new build)",
+  "hook_pattern": "2 cost of a mistake + 6 tease",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Sell fast. Tax surprise?\n\nNew Reel on my page this afternoon: a Canada Revenue Agency rule sellers should know about before they list.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-s1.mp4",
+  "brand_corner": "photo",
+  "photo": "p171.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "6 tease + reveal (teases today's Reel)",
+  "audience": "seller"
+ },
+ {
+  "id": "d20261124-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Sell within a year? Fully taxable.\n\nThe Canada Revenue Agency's residential property flipping rule has applied since January 1, 2023. 1) A home owned for less than 365 consecutive days before it is sold is generally treated as a flipped property. 2) The profit is fully taxable as business income and does not qualify for the principal residence exemption or the 50 per cent capital gains inclusion rate. 3) Exceptions can apply for certain life events, such as a death, a household change like a new child, a separation, a safety threat, serious illness or disability, an involuntary job loss, a work or study relocation, insolvency or the loss of the property. 4) Your own situation decides, so talk to a tax professional before you list.\nSource: Canada Revenue Agency, \"Residential property flipping rule\" (canada.ca, page modified Oct 21, 2024), checked Nov 24, 2026.\n\nSelling in Oakville? Want the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #sellingyourhome #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f01.png",
+    "say": "Oakville seller: selling within a year, fully taxable?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f02.png",
+    "say": "First, own a home for less than three hundred sixty-five days in a row, and the CRA may call it flipped.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f03.png",
+    "say": "Now the twist. Next, that profit is taxed as business income, and the principal residence exemption doesn't apply.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f04.png",
+    "say": "Then, some life events are exceptions, like a death, a new child, a separation or a job loss.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f05.png",
+    "say": "Finally, talk to a tax professional before you list, because your own situation decides.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r2-frames/f06.png",
+    "say": "Like, comment and share this with someone selling in Oakville. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "OAKVILLE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Sell within a year? *Fully taxable.",
+     "kick": "365-DAY RULE",
+     "prop": "calendar"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Owned under 365 days in a row? The CRA may call it flipped.",
+     "short": "365-day test"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "The profit is taxed as business income. No principal residence exemption.",
+     "short": "Fully taxable"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Some life events are exceptions: a death, new child, separation or job loss.",
+     "short": "Life exceptions"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Talk to a tax professional before you list.",
+     "short": "Ask first",
+     "note": "Rule applies from Jan 1, 2023. Source: Canada Revenue Agency."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an Oakville seller",
+     "fine": "General information only. Not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "worry about an unexpected tax bill",
+  "share_reason": "a friend who may sell soon",
+  "format": "step-by-step (seller, CRA 365-day flipping rule)",
+  "hook_pattern": "2 cost of a mistake",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261124-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Caledon benchmark price: down 8.2%.\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Caledon with 74 sales, an average selling price of $1,129,312 (median $982,500), 170 new listings and 6.5 months of inventory. The MLS® Home Price Index composite benchmark for Caledon was down 8.24% compared with October 2025. An average price and a benchmark measure different things, and one month is not a trend, so ask your Realtor® what it means for your own plans.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 24, 2026.\n\nBuying or selling in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-f1.png",
+  "brand_corner": "photo",
+  "photo": "p169.jpg",
+  "format": "market update",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Low down payment. Extra cost?\n\nNew Reel on my page tonight: the insurance premium that can come with a smaller down payment, worked out on a $700K home. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-s2.mp4",
+  "brand_corner": "photo",
+  "photo": "p172.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "11 interactive guess (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "$700K, low down payment. Hidden cost?\n\nExample only, for a $700,000 home with the minimum down payment:\n1) Minimum down payment: 5% of the first $500,000 + 10% of the other $200,000 = $45,000.\n2) Mortgage needed: $700,000 - $45,000 = $655,000.\n3) That is 93.6% of the price. CMHC's premium for 90.01% to 95% loan-to-value is 4.00%: $655,000 x 4.00% = $26,200, which may be added to the mortgage.\n4) Mortgage you carry: $655,000 + $26,200 = $681,200.\nOntario sales tax (8% of the premium, about $2,096) cannot be added to the mortgage and is paid at closing. Sagen and Canada Guaranty also insure mortgages, and each sets its own premiums. Closing costs are extra, and lenders and insurers set the final terms, so confirm your numbers with your lender.\n\nPlanning a move in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSources: CMHC, \"CMHC Mortgage Loan Insurance cost\" (cmhc-schl.gc.ca); Financial Consumer Agency of Canada, \"How much you need for a down payment\" (canada.ca, page updated Oct 15, 2025); Ontario Ministry of Finance, Retail Sales Tax guide, insurance (ontario.ca, 8% rate), checked Nov 23-24, 2026.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f01.png",
+    "say": "Milton buyers: low down payment, hidden cost?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f02.png",
+    "say": "First, on a seven hundred thousand dollar home, the minimum down payment is forty-five thousand dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f03.png",
+    "say": "Next, that leaves a six hundred fifty-five thousand dollar mortgage.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f04.png",
+    "say": "Now the twist. Then, with under twenty percent down, mortgage insurance adds four percent: twenty-six thousand, two hundred dollars.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f05.png",
+    "say": "Finally, that's a six hundred eighty-one thousand, two hundred dollar mortgage, plus about two thousand ninety-six dollars in sales tax at closing.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r3-frames/f06.png",
+    "say": "Like, comment and share this with a Milton buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "MILTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "$700K, low down payment. *Hidden cost?",
+     "kick": "INSURANCE PREMIUM",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Minimum down payment, $700K home",
+     "value": "$45,000",
+     "formula": "$500K x 5% + $200K x 10%",
+     "running": "$45,000 down"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "house",
+     "text": "Mortgage you need",
+     "value": "$655,000",
+     "formula": "$700,000 - $45,000",
+     "running": "$655,000 mortgage"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "shield",
+     "text": "Mortgage insurance premium: 4.00%",
+     "value": "$26,200",
+     "formula": "$655,000 x 4.00%",
+     "running": "$26,200 added to mortgage"
+    },
+    {
+     "kind": "total",
+     "text": "Mortgage you actually carry",
+     "value": "$681,200",
+     "sub": "$655,000 + $26,200. Plus about $2,096 Ontario sales tax on the premium, due at closing.",
+     "note": "Example only: $700K home; minimum down payment per FCAC (5% of the first $500,000 + 10% of the rest, up to $1.5M). CMHC premium table: 4.00% for 90.01% to 95% loan-to-value (here 93.6%). The premium may be added to the mortgage; Ontario sales tax (8%) on it cannot, so it is paid at closing. Lenders and insurers set final terms. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Milton buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at a cost nobody mentions",
+  "share_reason": "a friend buying with a small down payment",
+  "format": "money-math (everyday, mortgage insurance premium on a $700K home)",
+  "hook_pattern": "2 cost of a mistake + 4 direct address",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261124-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "New build. $50,000 rebate. Eligible?\n\nThe Canada Revenue Agency's first-time home buyers' GST/HST rebate covers newly built or substantially renovated homes. 1) You must be 18 or older, a Canadian citizen or permanent resident, and a first-time buyer under the CRA's test (not having lived in a home you or your spouse owned in the current or previous four calendar years). The home must be your primary residence. 2) The agreement of purchase and sale must be signed on or after March 20, 2025 (and before 2031). At or below $1 million the rebate is up to 100% of the GST (or federal part of the HST), to a maximum of $50,000. 3) Between $1 million and $1.5 million the maximum is gradually reduced; at $1.5 million or more there is no rebate. 4) With a builder purchase, the builder usually files, and the forms (GST190 and RC7190-ON) are signed with the builder or your lawyer around closing. Ontario has a separate first-time buyer rebate on the provincial part of the HST: see the CRA page for details. Eligibility rules apply.\nSource: Canada Revenue Agency, \"First-time home buyers' (FTHB) GST/HST rebate\" (canada.ca, pages modified Mar to Oct 2026), checked Nov 24, 2026.\n\nBuying new in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #firsttimehomebuyer #newbuild #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f01.png",
+    "say": "Etobicoke new build: fifty thousand dollar rebate, eligible?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f02.png",
+    "say": "First, you must be eighteen or older, a citizen or permanent resident, and not recently have lived in a home you owned.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f03.png",
+    "say": "Next, your agreement has to be signed on or after March twentieth, twenty twenty-five, and a home at or under one million can get the full rebate.",
+    "min": 6.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f04.png",
+    "say": "Now the twist. Then, between one million and one point five million the rebate shrinks, and at one point five million there's none.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f05.png",
+    "say": "Finally, your builder usually files it, so ask your lawyer which forms you sign at closing.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r4-frames/f06.png",
+    "say": "Like, comment and share this with a first-time buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "ETOBICOKE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "New build. *$50,000 rebate. Eligible?",
+     "kick": "FIRST-TIME BUYERS",
+     "prop": "piggy"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "Be 18+, a citizen or PR, with no owned home lived in recently.",
+     "short": "First-time test",
+     "note": "CRA test: current and previous four calendar years. Must be your primary residence."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Agreement signed on or after Mar 20, 2025. Up to $50,000 back at $1M or less.",
+     "short": "Date and price"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "chart",
+     "text": "From $1M to $1.5M the rebate shrinks. At $1.5M or more, none.",
+     "short": "Price cliff"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Your builder usually files it. Ask your lawyer which forms you sign.",
+     "short": "Sign the forms",
+     "note": "Federal GST/HST rebate. Ontario has a separate rebate. Source: Canada Revenue Agency."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a first-time buyer",
+     "fine": "Eligibility rules apply. General information only. Not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "hope of a big rebate, fear of missing eligibility",
+  "share_reason": "a first-time buyer eyeing a new build",
+  "format": "step-by-step (new build, first-time buyers GST/HST rebate)",
+  "hook_pattern": "11 interactive question + 3 sourced number",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Kitchener condo signed. Missed 10 days?\n\nMyth: once you sign for a new condo, you are locked in. Fact: under section 73(2) of Ontario's Condominium Act, buyers of a new condo have a 10-day cooling-off period in which they may rescind their agreement of purchase and sale. Tarion says the period begins on the later of the date you receive the agreement of purchase and sale, the disclosure documents and the Condo Guide. Use that window to review everything with your lawyer, because after it ends you may no longer be able to rescind. This applies to new condo purchases from a developer, not resale condos.\nSource: Tarion, \"Building and selling condominiums\" (tarion.com), checked Nov 24, 2026.\n\nBuying a condo in Kitchener-Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #condobuyers #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f01.png",
+    "say": "Kitchener new condo: did you miss ten days?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f02.png",
+    "say": "First, here's the myth: once you sign for a new condo, you're locked in.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f03.png",
+    "say": "Now the twist. Next, Ontario gives new condo buyers a ten-day cooling-off period to cancel.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f04.png",
+    "say": "Then, the clock starts once you've received the agreement, the disclosure documents and the Condo Guide.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f05.png",
+    "say": "Finally, review everything with your lawyer inside that window.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r5-frames/f06.png",
+    "say": "Like, comment and share this with someone buying a new condo. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MYTH VS FACT",
+   "area": "KITCHENER",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Kitchener condo signed. Missed *10 days?",
+     "kick": "COOLING-OFF",
+     "prop": "calendar"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "lawyer",
+     "text": "Myth: once you sign for a new condo, you're locked in.",
+     "short": "The myth"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Fact: Ontario gives new-condo buyers a 10-day cooling-off period.",
+     "short": "Fact: 10 days"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "It starts once you have the agreement, disclosure documents and Condo Guide.",
+     "short": "Clock starts"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "search",
+     "text": "Review the documents with your lawyer inside that window.",
+     "short": "Use the time",
+     "note": "Condo Act s.73(2). Source: Tarion. Applies to new condo purchases."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a condo buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief that there is still time",
+  "share_reason": "a friend who just signed for a condo",
+  "format": "myth vs fact (new condo 10-day cooling-off)",
+  "hook_pattern": "1 contrarian / myth + 7 scene",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Cambridge benchmark price: down 6.3%.\n\nThe Cornerstone Association of REALTORS® reports that the composite benchmark price in Cambridge was $644,400 in October 2026, down 2.8% from September and down 6.3% from October 2025. In Kitchener-Waterloo the composite benchmark was $624,600, down 0.9% from September and 4.7% from October 2025. A benchmark price tracks a typical home rather than the average sale price, and one month is not a trend, so ask your Realtor® how it applies to your plans.\nSource: Cornerstone Association of REALTORS®, October 2026 market statistics, as published via CREA's statistics page (stats.crea.ca), checked Nov 24, 2026.\n\nBuying or selling in Cambridge? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#cambridgeontario #kitchenerwaterloo #realestatemarket #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-f2.png",
+  "brand_corner": "photo",
+  "photo": "p170.jpg",
+  "format": "market update",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261124-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-24T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Old attic insulation. Asbestos risk?\n\nQuick tip: Health Canada says some vermiculite insulation may contain asbestos. If a home you are buying has it in the attic or walls, the guidance is to leave it undisturbed, not use the attic for storage, not try to remove it yourself, and hire professionals trained to handle asbestos before any renovation. Ask your home inspector to flag attic insulation, and talk to your Realtor® about what to ask the seller.\nSource: Health Canada, \"Asbestos and your health\" (canada.ca, page modified Feb 10, 2023), and Employment and Social Development Canada, \"Vermiculite Insulation Containing Tremolite Asbestos\" (canada.ca), checked Nov 24, 2026.\n\nBuying an older home in Georgetown? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #homeinspection #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-24/d20261124-r6-frames/f01.png",
+    "say": "Georgetown older home: could attic insulation hold asbestos?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r6-frames/f02.png",
+    "say": "Quick tip: some vermiculite attic insulation may contain asbestos, so ask your inspector about it and don't disturb it.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-24/d20261124-r6-frames/f03.png",
+    "say": "Like, comment and share this with someone buying an older home. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "GEORGETOWN",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Old attic insulation. *Asbestos risk?",
+     "kick": "VERMICULITE",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "house",
+     "text": "Some vermiculite attic insulation may contain asbestos. Don't disturb it.",
+     "short": "Attic insulation",
+     "note": "Source: Health Canada."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with an older-home buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "worry about a hidden health hazard",
+  "share_reason": "a friend eyeing an older home",
+  "format": "quick-tip (vermiculite attic insulation)",
+  "hook_pattern": "4 direct address with a stake",
+  "audience": "buyer"
+ }
+]
