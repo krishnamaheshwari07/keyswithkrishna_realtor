@@ -1,0 +1,678 @@
+[
+ {
+  "id": "d20261125-r1",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T11:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Georgetown December closing. Snowed in?\n\nA winter closing adds a few questions to ask early. 1) Closing near the holidays? Ask your lawyer about office hours and the deadline for your closing funds. 2) Ask your movers what happens if it snows, and get the answer in writing. 3) At the final walkthrough, run the furnace and check that the heat works. 4) Set up heat and hydro in your name before keys day. These are planning questions, not rules: your lawyer and your agreement of purchase and sale decide the details.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #closingday #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r1.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f01.png",
+    "say": "Georgetown December closing: could snow cause trouble?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f02.png",
+    "say": "First, if you're closing near the holidays, ask your lawyer about office hours and the deadline for your closing funds.",
+    "min": 5.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f03.png",
+    "say": "Next, ask your movers what happens if it snows, and get the answer in writing.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f04.png",
+    "say": "Now the part buyers forget. Then, at the final walkthrough, run the furnace and check that the heat really works.",
+    "min": 5.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f05.png",
+    "say": "Finally, set up your heat and hydro in your name before keys day.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r1-frames/f06.png",
+    "say": "Like, comment and share this with someone closing this winter. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "BUYING PROCESS",
+   "area": "HALTON HILLS (GEORGETOWN)",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "December closing in Georgetown. *Snowed in?",
+     "kick": "BEFORE CLOSING",
+     "prop": "keys"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "cheque",
+     "text": "Closing near the holidays? Ask your lawyer about office hours and the funds deadline.",
+     "short": "Funds deadline"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "movingbox",
+     "text": "Ask your movers what happens if it snows. Get the answer in writing.",
+     "short": "Snow plan"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "clipboard",
+     "text": "At the final walkthrough, run the furnace and check the heat works.",
+     "short": "Heat check"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "keys",
+     "text": "Set up heat and hydro in your name before keys day.",
+     "short": "Utilities",
+     "note": "Planning questions, not rules. Your lawyer and your agreement decide the details."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with someone closing this winter",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a stranded closing day, relief from a plan",
+  "share_reason": "a friend closing before the holidays",
+  "format": "step-by-step (closing in winter)",
+  "hook_pattern": "7 specific scene cold open + 4 direct address",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261125-s1",
+  "type": "story",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T12:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Listed at $900K. Sold for what?\n\nNew Reel on my page this afternoon: how homes sold compared with their list price in October, using real TRREB numbers.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-s1.mp4",
+  "brand_corner": "photo",
+  "photo": "p181.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "11 interactive guess (teases today's Reel)",
+  "audience": "seller"
+ },
+ {
+  "id": "d20261125-r2",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T15:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Mississauga sellers: asking isn't selling.\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Mississauga homes of all types selling for an average of 97% of their list price, with 508 sales, 1,332 new listings, 2,342 active listings, 4.9 months of inventory and an average of 35 listing days on market. Example only: 97% of a $900,000 list price is $873,000 ($900,000 x 0.97). These are one-month averages, not predictions, and every home is different, so ask your Realtor® to pull recent sold comparables near you before choosing a list price.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 25, 2026.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #sellingyourhome #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r2.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f01.png",
+    "say": "Mississauga: asking price isn't selling price.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f02.png",
+    "say": "First, in October, Mississauga homes sold for about ninety-seven percent of their list price, on average.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f03.png",
+    "say": "Next, on a nine hundred thousand dollar list price, that works out to about eight hundred seventy-three thousand, as an example.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f04.png",
+    "say": "Now the twist. Then, homes took about thirty-five days on average, with four point nine months of inventory.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f05.png",
+    "say": "Finally, price from recent sold homes nearby, not just other list prices, and ask your Realtor to pull them.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r2-frames/f06.png",
+    "say": "Like, comment and share this with someone selling in Mississauga. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "SELLER TIPS",
+   "area": "MISSISSAUGA",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Mississauga sellers: asking isn't *selling.",
+     "kick": "97% OF LIST",
+     "prop": "chart"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "chart",
+     "text": "In October, Mississauga homes sold for about 97% of list price on average.",
+     "short": "97% of list",
+     "note": "Average sale price to list price, all home types. Source: TRREB Market Watch, Oct 2026."
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "calculator",
+     "text": "On a $900,000 list price, that's about $873,000. Example only.",
+     "short": "Do the math"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "calendar",
+     "text": "Homes took about 35 days, with 4.9 months of inventory.",
+     "short": "Time on market"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "search",
+     "text": "Price from recent sold homes nearby, not just list prices. Ask your Realtor®.",
+     "short": "Use sold comps",
+     "note": "Averages, not predictions. Each home is different."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Mississauga seller",
+     "fine": "General information only. Not legal, tax or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "surprise at the gap between asking and selling",
+  "share_reason": "a friend thinking of selling",
+  "format": "data-backed seller tips (sale price vs list price, TRREB Oct 2026)",
+  "hook_pattern": "1 contrarian / myth",
+  "audience": "seller",
+  "trial": true
+ },
+ {
+  "id": "d20261125-f1",
+  "type": "feed",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T16:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Milton: 501 homes. Whose edge?\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Milton with 128 sales, an average selling price of $966,412 (median $888,500), 289 new listings, 501 active listings and 3.9 months of inventory. Homes sold for an average of 97% of list price after an average of 36 listing days on market. Months of inventory compares active listings with the recent pace of sales. One month is not a trend, so ask your Realtor® what it means for your own plans.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 25, 2026.\n\nBuying or selling in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-f1.png",
+  "brand_corner": "photo",
+  "photo": "p179.jpg",
+  "format": "market update",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261125-s2",
+  "type": "story",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T17:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "$500K, 30 years. Extra interest?\n\nNew Reel on my page tonight: what a 30-year mortgage can add in interest compared with 25 years, worked out on a $500,000 example. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-s2.mp4",
+  "brand_corner": "photo",
+  "photo": "p182.jpg",
+  "format": "reel-teaser",
+  "hook_pattern": "11 interactive guess (teases today's Reel)",
+  "audience": "buyer"
+ },
+ {
+  "id": "d20261125-r3",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T19:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Lower monthly mortgage. Bigger catch?\n\nExample only: a $625,000 Kitchener home with 20% down means a $500,000 mortgage. At 4.34% (interest compounded semi-annually, rate held for the whole amortization):\n1) 25 years: $2,723.07 a month. 30 years: $2,474.73 a month. That is about $248 a month less.\n2) Interest over 25 years: $2,723.07 x 300 - $500,000 = $316,921.\n3) Interest over 30 years: $2,474.73 x 360 - $500,000 = $390,903, which is $73,982 more.\nA longer amortization lowers the monthly mortgage but costs more interest over time. Whether 30 years is available depends on your lender and mortgage type, and rates change at renewal. 4.34% is an example from the lowest advertised 5-year fixed rates (insured); uninsured rates can differ. Lenders also apply the stress test and debt ratios.\n\nPlanning a move in Kitchener-Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSources: WOWA.ca, mortgage rates page (lowest 5-year fixed insured 4.34%, as of Nov 24, 2026, 9:47 AM ET); Ratehub.ca, best mortgage rates (4.34%, as of Nov 24, 2026), checked Nov 25, 2026. Calculations by Krishna Rander's team.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #mortgagetips #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r3.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f01.png",
+    "say": "Kitchener buyers: lower monthly mortgage, hidden catch?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f02.png",
+    "say": "First, stretching a five hundred thousand dollar mortgage from twenty-five to thirty years saves about two hundred forty-eight dollars a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f03.png",
+    "say": "Next, over twenty-five years you would pay about three hundred sixteen thousand, nine hundred twenty-one dollars in interest.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f04.png",
+    "say": "Now the twist. Then, stretching to thirty years adds about seventy-three thousand, nine hundred eighty-two dollars more interest.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f05.png",
+    "say": "Finally, that is about seventy-three thousand, nine hundred eighty-two dollars more interest, for about two hundred forty-eight dollars less a month.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r3-frames/f06.png",
+    "say": "Like, comment and share this with your co-buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "MONEY MATH",
+   "area": "KITCHENER",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Lower monthly mortgage. Bigger *catch?",
+     "kick": "30-YEAR TRADE-OFF",
+     "prop": "calculator"
+    },
+    {
+     "kind": "calc",
+     "n": 1,
+     "of": 3,
+     "prop": "piggy",
+     "text": "Monthly mortgage saved with 30 years",
+     "value": "$248",
+     "formula": "$2,723 (25 years) - $2,475 (30 years)",
+     "running": "$248 a month saved"
+    },
+    {
+     "kind": "calc",
+     "n": 2,
+     "of": 3,
+     "prop": "chart",
+     "text": "Interest paid over 25 years",
+     "value": "$316,921",
+     "formula": "$2,723.07 x 300 payments - $500,000",
+     "running": "$316,921 interest"
+    },
+    {
+     "kind": "calc",
+     "n": 3,
+     "of": 3,
+     "prop": "calendar",
+     "text": "Extra interest with 30 years",
+     "value": "$73,982",
+     "formula": "($2,474.73 x 360 - $500,000) - $316,921",
+     "running": "$316,921 + $73,982 = $390,903 interest"
+    },
+    {
+     "kind": "total",
+     "text": "Extra interest for the lower monthly mortgage",
+     "value": "$73,982",
+     "sub": "about $248 a month less, about $73,982 more interest",
+     "note": "Example only: $625K Kitchener home, 20% down, $500,000 mortgage at 4.34% (lowest advertised 5-year fixed, WOWA and Ratehub, Nov 24, 2026), compounded semi-annually, same rate held throughout (rates change at renewal). 30-year availability depends on your lender and mortgage type. Not mortgage, tax or legal advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with your co-buyer",
+     "fine": "Example only. Not mortgage, tax or legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "temptation of a lower monthly mortgage, surprise at the lifetime cost",
+  "share_reason": "the co-buyer you're planning with",
+  "format": "money-math (everyday, 25 vs 30-year amortization on a $500K mortgage)",
+  "hook_pattern": "6 tease + reveal",
+  "audience": "buyer",
+  "series": "money-math",
+  "math_level": "everyday"
+ },
+ {
+  "id": "d20261125-r4",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T20:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Etobicoke keys today. Frozen pipes tonight?\n\nThe first winter night in a new home matters. The City of Toronto's tips: 1) Find the main water shut-off valve and make sure it works. 2) Keep areas with water pipes above 8°C, especially near the water meter. 3) Keep your home warm, including overnight and when you are away. 4) Open kitchen, bathroom and laundry cabinet doors so warm air can circulate around the plumbing. 5) If a pipe may be frozen, never use a blowtorch, propane heater or any open flame; the City says you may wish to contact a licensed plumber if you still have no water after trying to thaw it. Etobicoke is part of Toronto; if you live elsewhere, check your own city or region's advice.\nSource: City of Toronto, \"Prevent or Thaw Frozen Pipes\" (toronto.ca, date modified Nov 17, 2026), checked Nov 25, 2026.\n\nGot the keys to a new home? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #newhomeowner #homeownertips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r4.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f01.png",
+    "say": "Etobicoke keys today: could your pipes freeze tonight?",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f02.png",
+    "say": "First, find your main water shut-off valve and make sure it actually works.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f03.png",
+    "say": "Here's the part people miss. Next, keep areas with water pipes above eight degrees Celsius, especially near the water meter.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f04.png",
+    "say": "Then, keep your home warm overnight, and when you're away too.",
+    "min": 4.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f05.png",
+    "say": "After that, open your kitchen and bathroom cabinet doors so warm air reaches the pipes.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f06.png",
+    "say": "Finally, if a pipe freezes, never use an open flame, and consider a licensed plumber if it stays frozen.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r4-frames/f07.png",
+    "say": "Like, comment and share this with a new homeowner. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "BUYING PROCESS",
+   "area": "ETOBICOKE",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Etobicoke keys today. Frozen pipes *tonihgt?",
+     "kick": "FIRST WINTER NIGHT",
+     "prop": "house"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 5,
+     "prop": "shield",
+     "text": "Find your main water shut-off valve. Make sure it works.",
+     "short": "Main shut-off"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 5,
+     "prop": "house",
+     "text": "Keep pipe areas above 8°C, especially near the water meter.",
+     "short": "Above 8°C"
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 5,
+     "prop": "calendar",
+     "text": "Keep your home warm overnight, and when you're away.",
+     "short": "Heat overnight"
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 5,
+     "prop": "clipboard",
+     "text": "Open cabinet doors so warm air can reach the pipes.",
+     "short": "Open cabinets"
+    },
+    {
+     "kind": "point",
+     "n": 5,
+     "of": 5,
+     "prop": "shield",
+     "text": "If a pipe freezes: no open flame. Consider a licensed plumber.",
+     "short": "If one freezes",
+     "note": "Source: City of Toronto, Prevent or Thaw Frozen Pipes (page dated Nov 17, 2026)."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a new homeowner",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "fear of a costly first-night mistake, relief from a simple plan",
+  "share_reason": "a friend moving in this winter",
+  "format": "step-by-step (moving in, winter frozen-pipe prevention)",
+  "hook_pattern": "7 specific scene cold open",
+  "audience": "buyer",
+  "series": "honest-mistake",
+  "mistake": "One swapped-letter slip in the on-screen hook only: 'tonight' is typed 'tonihgt'. Voice, points and caption are correct."
+ },
+ {
+  "id": "d20261125-r5",
+  "type": "reel",
+  "theme": "dark",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T21:00:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Missed mortgage payments: highest since 2013.\n\nEquifax Canada's Q3 2026 report (released November 24, 2026) says the national 90+ day mortgage balance delinquency rate reached 0.32%, up 31.1% from a year earlier and the highest since Equifax began tracking it in 2013. Ontario and British Columbia accounted for 91% of the annual growth in severely delinquent mortgage accounts. Equifax's Rebecca Oakes told The Canadian Press that mortgage delinquencies overall are still under one per cent. Equifax also says fixed-rate holders are largely protected until they renew. The Bank of Canada raised its policy rate to 2.5% last month, and its next decision is December 9.\nMy take: if your renewal is coming up, ask your lender about your options early. That is my opinion, not advice.\nSources: Equifax Canada, \"Market Pulse\" Q3 2026 release via GlobeNewswire (Nov 24, 2026); The Canadian Press via Global News (Nov 24, 2026), checked Nov 25, 2026. Forecasts can change. Not financial or mortgage advice.\n\nDoes this change how you see the market? Tell me below.\n\nWant help planning ahead? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not financial, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#ontariorealestate #mortgagerenewal #GTArealestate #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r5.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f01.png",
+    "say": "Missed mortgage payments: highest since twenty thirteen.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f02.png",
+    "say": "Equifax reports the rate of mortgages ninety days behind hit zero point three two percent, up thirty-one point one percent from a year ago.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f03.png",
+    "say": "But here's the part most people miss. Equifax says overall mortgage delinquencies are still under one percent.",
+    "min": 4.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f04.png",
+    "say": "Next, Ontario and B.C. accounted for ninety-one percent of the yearly growth in severely delinquent mortgages.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f05.png",
+    "say": "Then, Equifax says fixed-rate holders are largely protected until they renew.",
+    "min": 4.5
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f06.png",
+    "say": "Finally, my take: if your renewal is coming up, ask your lender about your options early.",
+    "min": 4.75
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r5-frames/f07.png",
+    "say": "Like, comment and share this with a homeowner renewing soon. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "dark",
+   "tag": "REAL ESTATE NEWS",
+   "area": "ONTARIO",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Missed mortgage payments: highest since *2013.",
+     "kick": "ONTARIO AND B.C.",
+     "prop": "chart",
+     "clip": {
+      "source": "Equifax Canada",
+      "date": "Nov 24, 2026",
+      "headline": "Missed mortgage payments *highest since 2013, led by Ontario and B.C."
+     }
+    },
+    {
+     "kind": "news",
+     "source": "Equifax Canada",
+     "date": "Nov 24, 2026",
+     "text": "90+ day mortgage delinquency rate hit 0.32%, up 31.1% year over year."
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 4,
+     "prop": "chart",
+     "text": "Equifax: overall mortgage delinquencies are still under 1%.",
+     "short": "Still small"
+    },
+    {
+     "kind": "point",
+     "n": 2,
+     "of": 4,
+     "prop": "search",
+     "text": "Ontario and B.C. made up 91% of the yearly growth in severe delinquencies.",
+     "short": "Ontario and B.C.",
+     "note": "Source: Equifax Canada, Q3 2026 (Nov 24, 2026)."
+    },
+    {
+     "kind": "point",
+     "n": 3,
+     "of": 4,
+     "prop": "mortgage",
+     "text": "Fixed-rate holders are largely protected until they renew, Equifax says.",
+     "short": "Fixed vs renewal",
+     "note": "Bank of Canada raised its rate to 2.5% in October; next decision Dec 9 (Canadian Press)."
+    },
+    {
+     "kind": "point",
+     "n": 4,
+     "of": 4,
+     "prop": "handshake",
+     "text": "My take: renewal coming? Ask your lender about your options early.",
+     "short": "My take",
+     "note": "My opinion, not advice."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a homeowner renewing",
+     "fine": "News summary. Not financial or mortgage advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "concern, then relief from context and a plan",
+  "share_reason": "a homeowner renewing in the next year",
+  "format": "news (Equifax Q3 2026 mortgage delinquencies)",
+  "hook_pattern": "3 number that demands explanation",
+  "audience": "buyer",
+  "series": "market-watch",
+  "music_mood": "tense"
+ },
+ {
+  "id": "d20261125-f2",
+  "type": "feed",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T21:45:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Buy to impress? House-poor.\n\nA home is a place to live, not a status symbol. If the monthly mortgage, property tax, insurance, utilities and repairs take so much of your budget that little is left for everything else, that is often called being house-poor. Before you fall for the biggest, newest or most impressive home, work out what you can comfortably carry every month, and leave room for repairs and life. Your Realtor® and your lender can help you map it out.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-f2.png",
+  "brand_corner": "photo",
+  "photo": "p180.jpg",
+  "format": "timeless tip (idea 8: a home is a lifestyle, not a status symbol)",
+  "hook_pattern": "10 too-honest / call-out",
+  "audience": "buyer",
+  "series": "timeless",
+  "idea": 8
+ },
+ {
+  "id": "d20261125-r6",
+  "type": "reel",
+  "theme": "cream",
+  "approved": true,
+  "status": "pending",
+  "publish_at": "2026-11-25T22:30:00-05:00",
+  "hook_rule": "tension-v3",
+  "caption": "Overbidding in Brampton? Check this first.\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Brampton homes of all types selling for an average of 98% of list price, with 435 sales, 960 new listings, 4.6 months of inventory and an average of 30 listing days on market. An average is not a rule: some homes sell above list and others below, so ask your Realtor® for recent comparable sales nearby before you choose your offer.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 25, 2026.\n\nBuying in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #homebuyingtips #keyswithkrishna",
+  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r6.mp4",
+  "frames": [
+   {
+    "img": "posts/2026-11-25/d20261125-r6-frames/f01.png",
+    "say": "Brampton buyers: overbidding? Check this first.",
+    "min": 2.0
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r6-frames/f02.png",
+    "say": "Quick tip: in October, Brampton homes sold for about ninety-eight percent of list price on average, so check recent sold prices nearby before you pick your offer.",
+    "min": 5.25
+   },
+   {
+    "img": "posts/2026-11-25/d20261125-r6-frames/f03.png",
+    "say": "Like, comment and share this with a Brampton buyer. Call nine oh five, four five two, four two nine eight.",
+    "min": 4.5
+   }
+  ],
+  "vo_pending": true,
+  "motion": {
+   "theme": "cream",
+   "tag": "QUICK TIP",
+   "area": "BRAMPTON",
+   "scenes": [
+    {
+     "kind": "hook",
+     "text": "Overbidding in Brampton? Check this *first.",
+     "kick": "98% OF LIST",
+     "prop": "chart"
+    },
+    {
+     "kind": "point",
+     "n": 1,
+     "of": 1,
+     "prop": "chart",
+     "text": "October: Brampton homes sold at about 98% of list. Check recent sales first.",
+     "short": "Sold vs list",
+     "note": "Average, all home types; each home differs. Source: TRREB Market Watch, Oct 2026."
+    },
+    {
+     "kind": "cta",
+     "text": "Like, comment and *share with a Brampton buyer",
+     "fine": "General information only. Not legal advice."
+    }
+   ]
+  },
+  "brand_corner": "logo",
+  "trigger": "relief from avoiding an expensive mistake",
+  "share_reason": "the partner you're buying with",
+  "format": "quick-tip (sale price vs list price, TRREB Oct 2026)",
+  "hook_pattern": "2 cost of a mistake",
+  "audience": "buyer"
+ }
+]

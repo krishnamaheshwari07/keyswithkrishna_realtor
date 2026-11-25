@@ -35,7 +35,7 @@ for grp,typ in ((FEEDS,'feed'),(STORIES,'story')):
         if typ=='story':
             sh(["python3","scripts/add_music.py","story",str(OUT/f"{rid}.png"),str(OUT/f"{rid}.mp4"),rid,"8"]); media=f"{rid}.mp4"
         items.append(mk(p,type=typ,caption=f"{p['cap']}\n\n{SIGN}\n\n{p['tags']}",media_url=RAW+media,brand_corner="photo",photo=p["photo"],
-          format=p['fmt'],hook_pattern=p['pattern'],audience=p.get("aud","buyer")))
+          format=p['fmt'],hook_pattern=p['pattern'],audience=p.get("aud","buyer"),**({k:p[k] for k in ('series','idea') if k in p})))
 items.sort(key=lambda i:i['publish_at'])
 json.dump(items,open(OUT/'schedule.json','w'),indent=1,ensure_ascii=False)
 u=json.load(open('data/photo-usage.json'))
