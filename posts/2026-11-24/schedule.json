@@ -307,7 +307,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-24T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "$700K, low down payment. Hidden cost?\n\nExample only, for a $700,000 home with the minimum down payment:\n1) Minimum down payment: 5% of the first $500,000 + 10% of the other $200,000 = $45,000.\n2) Mortgage needed: $700,000 - $45,000 = $655,000.\n3) That is 93.6% of the price. CMHC's premium for 90.01% to 95% loan-to-value is 4.00%: $655,000 x 4.00% = $26,200, which may be added to the mortgage.\n4) Mortgage you carry: $655,000 + $26,200 = $681,200.\nOntario sales tax (8% of the premium, about $2,096) cannot be added to the mortgage and is paid at closing. Sagen and Canada Guaranty also insure mortgages, and each sets its own premiums. Closing costs are extra, and lenders and insurers set the final terms, so confirm your numbers with your lender.\n\nPlanning a move in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSources: CMHC, \"CMHC Mortgage Loan Insurance cost\" (cmhc-schl.gc.ca); Financial Consumer Agency of Canada, \"How much you need for a down payment\" (canada.ca, page updated Oct 15, 2025); Ontario Ministry of Finance, Retail Sales Tax guide, insurance (ontario.ca, 8% rate), checked Nov 23-24, 2026.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #mortgagetips #keyswithkrishna",
@@ -421,7 +421,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r3-tt24895.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r3-yt24996.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-24/d20261124-r3-yt24996.mp4",
+    "ig_media_id": "17994671550064437",
+    "fb_thumb": "set",
+    "fb_id": "2354256715376752",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "eNAU-YVfrd0",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261124-r4",
