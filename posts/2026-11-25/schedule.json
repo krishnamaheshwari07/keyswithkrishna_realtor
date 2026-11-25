@@ -270,7 +270,7 @@
     "type": "feed",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-25T16:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Milton: 501 homes. Whose edge?\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Milton with 128 sales, an average selling price of $966,412 (median $888,500), 289 new listings, 501 active listings and 3.9 months of inventory. Homes sold for an average of 97% of list price after an average of 36 listing days on market. Months of inventory compares active listings with the recent pace of sales. One month is not a trend, so ask your Realtor\u00ae what it means for your own plans.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 25, 2026.\n\nBuying or selling in Milton? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#miltonontario #haltonregion #GTArealestate #keyswithkrishna",
@@ -279,7 +279,10 @@
     "photo": "p179.jpg",
     "format": "market update",
     "hook_pattern": "3 number that demands explanation",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18116859218155954",
+    "fb_id": "122126438085311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261125-s2",
