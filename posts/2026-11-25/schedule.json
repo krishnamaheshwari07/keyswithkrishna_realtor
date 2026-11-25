@@ -289,7 +289,7 @@
     "type": "story",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-25T17:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "$500K, 30 years. Extra interest?\n\nNew Reel on my page tonight: what a 30-year mortgage can add in interest compared with 25 years, worked out on a $500,000 example. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
@@ -298,7 +298,10 @@
     "photo": "p182.jpg",
     "format": "reel-teaser",
     "hook_pattern": "11 interactive guess (teases today's Reel)",
-    "audience": "buyer"
+    "audience": "buyer",
+    "ig_media_id": "18112285691223239",
+    "fb_id": "1166654035754131",
+    "fb_status": "posted"
   },
   {
     "id": "d20261125-r3",
