@@ -717,7 +717,7 @@
     "type": "feed",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-25T21:45:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Buy to impress? House-poor.\n\nA home is a place to live, not a status symbol. If the monthly mortgage, property tax, insurance, utilities and repairs take so much of your budget that little is left for everything else, that is often called being house-poor. Before you fall for the biggest, newest or most impressive home, work out what you can comfortably carry every month, and leave room for repairs and life. Your Realtor\u00ae and your lender can help you map it out.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
@@ -728,7 +728,10 @@
     "hook_pattern": "10 too-honest / call-out",
     "audience": "buyer",
     "series": "timeless",
-    "idea": 8
+    "idea": 8,
+    "ig_media_id": "18118376141607299",
+    "fb_id": "122126454471311840",
+    "fb_status": "posted"
   },
   {
     "id": "d20261125-r6",
