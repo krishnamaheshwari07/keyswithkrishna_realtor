@@ -308,7 +308,7 @@
     "type": "reel",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-25T19:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Lower monthly mortgage. Bigger catch?\n\nExample only: a $625,000 Kitchener home with 20% down means a $500,000 mortgage. At 4.34% (interest compounded semi-annually, rate held for the whole amortization):\n1) 25 years: $2,723.07 a month. 30 years: $2,474.73 a month. That is about $248 a month less.\n2) Interest over 25 years: $2,723.07 x 300 - $500,000 = $316,921.\n3) Interest over 30 years: $2,474.73 x 360 - $500,000 = $390,903, which is $73,982 more.\nA longer amortization lowers the monthly mortgage but costs more interest over time. Whether 30 years is available depends on your lender and mortgage type, and rates change at renewal. 4.34% is an example from the lowest advertised 5-year fixed rates (insured); uninsured rates can differ. Lenders also apply the stress test and debt ratios.\n\nPlanning a move in Kitchener-Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSources: WOWA.ca, mortgage rates page (lowest 5-year fixed insured 4.34%, as of Nov 24, 2026, 9:47 AM ET); Ratehub.ca, best mortgage rates (4.34%, as of Nov 24, 2026), checked Nov 25, 2026. Calculations by Krishna Rander's team.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #mortgagetips #homebuyingtips #keyswithkrishna",
@@ -422,7 +422,14 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r3-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r3-tt15636.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r3-yt15727.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-25/d20261125-r3-yt15727.mp4",
+    "ig_media_id": "18114905171578860",
+    "fb_thumb": "set",
+    "fb_id": "1457293256381250",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "8YVqtLzfA1I",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261125-r4",
