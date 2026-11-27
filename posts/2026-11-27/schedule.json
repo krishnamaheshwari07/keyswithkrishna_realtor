@@ -1,642 +1,723 @@
 [
- {
-  "id": "d20261127-r1",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T11:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "New car. Closing in danger?\n\nA mortgage approval is not always the finish line. Before closing in Mississauga, ask these questions: 1) Your lender may re-check your credit and your job before closing, so ask your lender or mortgage broker what they check. 2) A new car loan or credit card before closing may change your approval, so ask before you borrow. 3) Keep records showing where your down payment came from, because your lawyer and lender may ask. 4) Thinking of changing jobs before closing? Talk to your lender first. These are planning questions, not rules: your lender and your agreement of purchase and sale decide the details.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #closingday #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r1.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f01.png",
-    "say": "Mississauga closing: could a car loan hurt?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f02.png",
-    "say": "First, your lender may re-check your credit and your job before closing, so ask what they check.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f03.png",
-    "say": "Now the twist. Next, a new car loan or credit card before closing may change your approval.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f04.png",
-    "say": "Then, keep records showing where your down payment came from, because your lawyer and lender may ask.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f05.png",
-    "say": "Finally, if you're thinking of changing jobs before closing, talk to your lender first.",
-    "min": 4.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r1-frames/f06.png",
-    "say": "Like, comment and share this with someone closing soon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "BUYING PROCESS",
-   "area": "MISSISSAUGA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "New car. Closing *in danger?",
-     "kick": "BEFORE CLOSING",
-     "prop": "mortgage"
+  {
+    "id": "d20261127-r1",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T11:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "New car. Closing in danger?\n\nA mortgage approval is not always the finish line. Before closing in Mississauga, ask these questions: 1) Your lender may re-check your credit and your job before closing, so ask your lender or mortgage broker what they check. 2) A new car loan or credit card before closing may change your approval, so ask before you borrow. 3) Keep records showing where your down payment came from, because your lawyer and lender may ask. 4) Thinking of changing jobs before closing? Talk to your lender first. These are planning questions, not rules: your lender and your agreement of purchase and sale decide the details.\n\nWant the full step-by-step list? Comment CHECKLIST for my free buyer checklist.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#mississaugarealestate #peelregion #closingday #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r1-vo82958.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f01.png",
+        "say": "Mississauga closing: could a car loan hurt?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f02.png",
+        "say": "First, your lender may re-check your credit and your job before closing, so ask what they check.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f03.png",
+        "say": "Now the twist. Next, a new car loan or credit card before closing may change your approval.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f04.png",
+        "say": "Then, keep records showing where your down payment came from, because your lawyer and lender may ask.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f05.png",
+        "say": "Finally, if you're thinking of changing jobs before closing, talk to your lender first.",
+        "min": 4.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r1-frames/f06.png",
+        "say": "Like, comment and share this with someone closing soon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "BUYING PROCESS",
+      "area": "MISSISSAUGA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "New car. Closing *in danger?",
+          "kick": "BEFORE CLOSING",
+          "prop": "mortgage"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Your lender may re-check your credit and job before closing.",
+          "short": "Lender re-check"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "calculator",
+          "text": "A new car loan or credit card may change your approval.",
+          "short": "No new debt"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "cheque",
+          "text": "Keep records showing where your down payment came from.",
+          "short": "Funds paper trail"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "handshake",
+          "text": "Changing jobs before closing? Tell your lender first.",
+          "short": "Job change",
+          "note": "Planning questions, not rules. Your lender and your agreement decide the details."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with someone closing soon",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p193.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Your lender may re-check your credit and job before closing.",
-     "short": "Lender re-check"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "calculator",
-     "text": "A new car loan or credit card may change your approval.",
-     "short": "No new debt"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "cheque",
-     "text": "Keep records showing where your down payment came from.",
-     "short": "Funds paper trail"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "handshake",
-     "text": "Changing jobs before closing? Tell your lender first.",
-     "short": "Job change",
-     "note": "Planning questions, not rules. Your lender and your agreement decide the details."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with someone closing soon",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of losing the approval, relief from a simple checklist",
+    "share_reason": "a friend with a closing date coming up",
+    "format": "step-by-step (before closing: protect your mortgage approval)",
+    "hook_pattern": "2 cost of a mistake + 7 specific scene",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 25.8,
+    "vo_frame_seconds": [
+      2.29,
+      4.73,
+      4.5,
+      4.78,
+      4.29,
+      5.18
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r1-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r1-tt82971.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r1-yt83071.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of losing the approval, relief from a simple checklist",
-  "share_reason": "a friend with a closing date coming up",
-  "format": "step-by-step (before closing: protect your mortgage approval)",
-  "hook_pattern": "2 cost of a mistake + 7 specific scene",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-s1",
-  "type": "story",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T12:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Bought first. Old home unsold?\n\nNew Reel on my page this afternoon: questions to ask before you buy your next home before selling your current one.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #georgetownontario #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-s1.mp4",
-  "brand_corner": "photo",
-  "photo": "p191.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "7 scene (teases today's Reel)",
-  "audience": "seller"
- },
- {
-  "id": "d20261127-r2",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T15:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Bought first. Old home unsold?\n\nPicture this: you found your next home in Georgetown, but your current home has not sold yet. Questions to ask before you buy first: 1) Buying before you sell can mean carrying the costs of two homes for a while. 2) Ask your lender whether bridge financing is an option, and what it costs. 3) Adding a condition to sell first may make your offer less attractive, so ask your Realtor® how that could play out. 4) Ask your lawyer about lining up both closing dates. These are planning questions, not promises: your lender, your lawyer and your agreements decide the details, and no sale price or timeline is guaranteed.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f01.png",
-    "say": "Georgetown: bought your next home before selling?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f02.png",
-    "say": "First, buying before you sell can mean carrying the costs of two homes for a while.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f03.png",
-    "say": "Next, ask your lender whether bridge financing is an option, and what it costs.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f04.png",
-    "say": "Now the twist. Then, adding a condition to sell first may make your offer less attractive, so ask your Realtor.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f05.png",
-    "say": "Finally, ask your lawyer about lining up both closing dates.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r2-frames/f06.png",
-    "say": "Like, comment and share this with someone selling in Georgetown. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "SELLER TIPS",
-   "area": "HALTON HILLS (GEORGETOWN)",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Bought first. Old home *unsold?",
-     "kick": "TWO HOMES",
-     "prop": "house"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Buying first can mean carrying two homes' costs for a while.",
-     "short": "Two homes"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "mortgage",
-     "text": "Ask your lender about bridge financing, and its fees.",
-     "short": "Bridge financing"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "handshake",
-     "text": "A condition to sell first may weaken your offer. Ask your Realtor®.",
-     "short": "Sale condition"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calendar",
-     "text": "Ask your lawyer about lining up both closing dates.",
-     "short": "Closing dates",
-     "note": "Planning questions. Your lender, lawyer and agreements decide the details."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Georgetown seller",
-     "fine": "General information only. Not legal, tax or mortgage advice."
-    }
-   ]
+  {
+    "id": "d20261127-s1",
+    "type": "story",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T12:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Bought first. Old home unsold?\n\nNew Reel on my page this afternoon: questions to ask before you buy your next home before selling your current one.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #georgetownontario #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-s1.mp4",
+    "brand_corner": "photo",
+    "photo": "p191.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "7 scene (teases today's Reel)",
+    "audience": "seller"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of paying for two homes, relief from a plan",
-  "share_reason": "a friend who wants to move up before selling",
-  "format": "seller scenario (buying before selling)",
-  "hook_pattern": "7 specific scene cold open",
-  "audience": "seller",
-  "trial": true
- },
- {
-  "id": "d20261127-f1",
-  "type": "feed",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T16:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Oakville: sold at 95% of list.\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Oakville with 191 sales, an average selling price of $1,383,011 (median $1,220,000), 531 new listings, 1,025 active listings and 4.9 months of inventory. Homes sold for an average of 95% of list price after an average of 37 listing days on market. One month is not a trend and every home is different, so ask your Realtor® for recent sold prices near you.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 27, 2026.\n\nBuying or selling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #GTArealestate #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-f1.png",
-  "brand_corner": "photo",
-  "photo": "p189.jpg",
-  "format": "market update",
-  "hook_pattern": "3 number that demands explanation",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-s2",
-  "type": "story",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T17:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$10K bonus. Interest saved?\n\nNew Reel on my page tonight: what a $10,000 prepayment could do to the interest on a $500,000 mortgage, worked out step by step. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-s2.mp4",
-  "brand_corner": "photo",
-  "photo": "p192.jpg",
-  "format": "reel-teaser",
-  "hook_pattern": "11 interactive guess (teases today's Reel)",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-r3",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T19:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "$10K bonus. Interest saved?\n\nExample only: a $500,000 mortgage in Brampton, 25-year amortization, 4.34% fixed (interest compounded semi-annually, same rate for the whole amortization).\n1) Monthly mortgage: $2,723.07.\n2) After 12 payments the balance is about $488,607. A $10,000 prepayment brings it to $478,607.\n3) Keeping the same monthly mortgage, total interest drops from $316,920 to $299,352, which is $17,568 less, and the mortgage is paid off about 10 months sooner (290 payments instead of 300).\nPrepayment privileges, limits and penalties differ by lender and mortgage, so check yours first. 4.34% is an example from the lowest advertised 5-year fixed rates (insured); uninsured rates can differ, and rates change at renewal. Lenders also apply the stress test and debt ratios.\n\nPlanning a move in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: Ratehub.ca, best 5-year fixed mortgage rates (lowest insured 4.34%, as of Nov 26, 2026), checked Nov 27, 2026. Calculations by Krishna Rander's team.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r3.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f01.png",
-    "say": "Brampton: could ten thousand dollars save interest?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f02.png",
-    "say": "First, a five hundred thousand dollar mortgage over twenty-five years is about two thousand, seven hundred twenty-three dollars a month.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f03.png",
-    "say": "Next, after one year you would owe about four hundred eighty-eight thousand, six hundred seven, and a ten thousand dollar prepayment brings that to four hundred seventy-eight thousand, six hundred seven.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f04.png",
-    "say": "Now the twist. Then, keeping the same monthly mortgage, your total interest drops from three hundred sixteen thousand, nine hundred twenty dollars to two hundred ninety-nine thousand, three hundred fifty-two.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f05.png",
-    "say": "Finally, that ten thousand dollars could save about seventeen thousand, five hundred sixty-eight dollars in interest, and about ten months of payments.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r3-frames/f06.png",
-    "say": "Like, comment and share this with your co-buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MONEY MATH",
-   "area": "BRAMPTON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "$10K bonus. Interest *saved?",
-     "kick": "$10K VS INTEREST",
-     "prop": "piggy"
+  {
+    "id": "d20261127-r2",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T15:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Bought first. Old home unsold?\n\nPicture this: you found your next home in Georgetown, but your current home has not sold yet. Questions to ask before you buy first: 1) Buying before you sell can mean carrying the costs of two homes for a while. 2) Ask your lender whether bridge financing is an option, and what it costs. 3) Adding a condition to sell first may make your offer less attractive, so ask your Realtor\u00ae how that could play out. 4) Ask your lawyer about lining up both closing dates. These are planning questions, not promises: your lender, your lawyer and your agreements decide the details, and no sale price or timeline is guaranteed.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-vo83507.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f01.png",
+        "say": "Georgetown: bought your next home before selling?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f02.png",
+        "say": "First, buying before you sell can mean carrying the costs of two homes for a while.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f03.png",
+        "say": "Next, ask your lender whether bridge financing is an option, and what it costs.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f04.png",
+        "say": "Now the twist. Then, adding a condition to sell first may make your offer less attractive, so ask your Realtor.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f05.png",
+        "say": "Finally, ask your lawyer about lining up both closing dates.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r2-frames/f06.png",
+        "say": "Like, comment and share this with someone selling in Georgetown. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "SELLER TIPS",
+      "area": "HALTON HILLS (GEORGETOWN)",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Bought first. Old home *unsold?",
+          "kick": "TWO HOMES",
+          "prop": "house"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Buying first can mean carrying two homes' costs for a while.",
+          "short": "Two homes"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "mortgage",
+          "text": "Ask your lender about bridge financing, and its fees.",
+          "short": "Bridge financing"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "handshake",
+          "text": "A condition to sell first may weaken your offer. Ask your Realtor\u00ae.",
+          "short": "Sale condition"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calendar",
+          "text": "Ask your lawyer about lining up both closing dates.",
+          "short": "Closing dates",
+          "note": "Planning questions. Your lender, lawyer and agreements decide the details."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Georgetown seller",
+          "fine": "General information only. Not legal, tax or mortgage advice."
+        }
+      ],
+      "photo": "p194.jpg"
     },
-    {
-     "kind": "calc",
-     "n": 1,
-     "of": 3,
-     "prop": "calculator",
-     "text": "Monthly mortgage on $500,000, 25 years",
-     "value": "$2,723",
-     "formula": "$500,000 mortgage, 4.34% example rate, 25 years",
-     "running": "$2,723 a month"
-    },
-    {
-     "kind": "calc",
-     "n": 2,
-     "of": 3,
-     "prop": "piggy",
-     "text": "Owing after one year, then a $10K prepayment",
-     "value": "$478,607",
-     "formula": "$488,607 after 12 payments - $10,000",
-     "running": "$478,607 owing"
-    },
-    {
-     "kind": "calc",
-     "n": 3,
-     "of": 3,
-     "prop": "chart",
-     "text": "Interest over the whole mortgage",
-     "value": "$299,352",
-     "formula": "vs $316,920 with no prepayment, same monthly mortgage",
-     "running": "Interest: $316,920 down to $299,352"
-    },
-    {
-     "kind": "total",
-     "text": "Interest saved by the $10K prepayment",
-     "value": "$17,568",
-     "sub": "about 10 months sooner (290 payments instead of 300)",
-     "note": "Example only: $500,000 mortgage, 25 years, 4.34% fixed (lowest advertised 5-year fixed, insured, Ratehub.ca, Nov 26, 2026), compounded semi-annually, same rate and monthly mortgage throughout; $10,000 prepaid after payment 12. Prepayment privileges and penalties vary by lender. Not mortgage, tax or legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with your co-buyer",
-     "fine": "Example only. Not mortgage, tax or legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "fear of paying for two homes, relief from a plan",
+    "share_reason": "a friend who wants to move up before selling",
+    "format": "seller scenario (buying before selling)",
+    "hook_pattern": "7 specific scene cold open",
+    "audience": "seller",
+    "trial": true,
+    "vo_status": "done",
+    "vo_seconds": 23.6,
+    "vo_frame_seconds": [
+      2.35,
+      3.74,
+      4.08,
+      5.02,
+      3.47,
+      4.89
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-tt83518.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-yt83608.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "curiosity about what a bonus could do, surprise at the lifetime saving",
-  "share_reason": "the co-buyer you're planning with",
-  "format": "money-math (everyday, $10K prepayment on a $500K mortgage)",
-  "hook_pattern": "6 tease + reveal",
-  "audience": "buyer",
-  "series": "money-math",
-  "math_level": "everyday"
- },
- {
-  "id": "d20261127-r4",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T20:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Caledon home. Is the water safe?\n\nBuying a rural home in Caledon? Questions to ask before you go firm: 1) Does the home have a well and septic system, or town water and sewer? 2) Ask for recent well water test results, and consider getting your own test. 3) Ask for the septic records, like pumping, repairs and past inspections. 4) Ask your inspector, or a specialist, to check the well and septic system. These are planning questions, not rules: ask your lawyer and your Realtor® how to build them into your offer.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r4.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f01.png",
-    "say": "Caledon well: could the water be unsafe?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f02.png",
-    "say": "First, ask whether the home has a well and septic system, or town water and sewer.",
-    "min": 5.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f03.png",
-    "say": "Next, ask for recent water test results, and consider getting your own test before you're firm.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f04.png",
-    "say": "Now the part buyers skip. Then, ask for the septic records, like pumping, repairs and past inspections.",
-    "min": 4.25
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f05.png",
-    "say": "Finally, ask your inspector, or a specialist, to check the well and septic system.",
-    "min": 5.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r4-frames/f06.png",
-    "say": "Like, comment and share this with someone buying in Caledon. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "BUYING PROCESS",
-   "area": "CALEDON",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Caledon home. Is the *water safe?",
-     "kick": "ASK FIRST",
-     "prop": "search"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "house",
-     "text": "Ask if the home has a well and septic, or town water and sewer.",
-     "short": "Well or town water"
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "search",
-     "text": "Ask for recent well water test results. Consider your own test.",
-     "short": "Water test"
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "clipboard",
-     "text": "Ask for septic records: pumping, repairs and past inspections.",
-     "short": "Septic records"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "shield",
-     "text": "Ask your inspector, or a specialist, to check the well and septic.",
-     "short": "Specialist check",
-     "note": "Planning questions, not rules. Ask your lawyer and Realtor® how to build them into your offer."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a Caledon buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261127-f1",
+    "type": "feed",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T16:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Oakville: sold at 95% of list.\n\nTRREB's Market Watch for October 2026 (released November 4, 2026) shows Oakville with 191 sales, an average selling price of $1,383,011 (median $1,220,000), 531 new listings, 1,025 active listings and 4.9 months of inventory. Homes sold for an average of 95% of list price after an average of 37 listing days on market. One month is not a trend and every home is different, so ask your Realtor\u00ae for recent sold prices near you.\nSource: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026 (trreb.ca), checked Nov 27, 2026.\n\nBuying or selling in Oakville? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#oakvillerealestate #haltonregion #GTArealestate #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-f1.png",
+    "brand_corner": "photo",
+    "photo": "p189.jpg",
+    "format": "market update",
+    "hook_pattern": "3 number that demands explanation",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "fear of an unseen rural cost, relief from a question list",
-  "share_reason": "a friend dreaming of country living",
-  "format": "step-by-step (buying a rural home: well and septic questions)",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-r5",
-  "type": "reel",
-  "theme": "dark",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T21:00:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "GTA prices fell 4.3%. Still waiting?\n\nTRREB's October 2026 figures (released November 4, 2026): the MLS HPI Composite benchmark price for the GTA was down 4.3% from October 2025. The average selling price was $1,024,108 (October 2025: $1,052,539), down 2.7%. Sales were 5,603, down 7.9%. Active listings were 25,098, down 10.0%, and new listings were 14,173, down 11.9%. Months of inventory was 4.6. These are one-month figures and past results, not predictions, and every area and home is different. Ask your Realtor® for recent sold prices where you want to live, and ask your lender what monthly mortgage you could qualify for.\nSources: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026, and news release \"Inflation and Borrowing Costs Impacted October GTA Real Estate Market\" (trreb.ca), checked Nov 27, 2026.\n\nBuying in the GTA? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #torontorealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r5.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f01.png",
-    "say": "GTA prices fell four point three percent.",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f02.png",
-    "say": "First, TRREB says the GTA benchmark price in October was down four point three percent from a year earlier.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f03.png",
-    "say": "Next, the average price was one million, twenty-four thousand, one hundred eight dollars, down two point seven percent.",
-    "min": 4.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f04.png",
-    "say": "Now the twist. Then, active listings were down ten percent from last year, and new listings fell nearly twelve percent.",
-    "min": 4.5
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f05.png",
-    "say": "Finally, ask your Realtor for recent sold prices in your area, and your lender what monthly mortgage you'd qualify for.",
-    "min": 5.25
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r5-frames/f06.png",
-    "say": "Like, comment and share this with a buyer who is waiting. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "dark",
-   "tag": "MARKET UPDATE",
-   "area": "GTA",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "GTA prices fell *4.3%. Still waiting?",
-     "kick": "OCT 2026 BENCHMARK",
-     "prop": "chart"
-    },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 4,
-     "prop": "chart",
-     "text": "TRREB's GTA benchmark price was down 4.3% from October last year.",
-     "short": "Benchmark down",
-     "note": "MLS HPI Composite, year over year. Source: TRREB news release, Nov 4, 2026."
-    },
-    {
-     "kind": "point",
-     "n": 2,
-     "of": 4,
-     "prop": "chart",
-     "text": "The average GTA price was $1,024,108, down 2.7% year over year.",
-     "short": "Average price",
-     "note": "Source: TRREB Market Watch, Oct 2026, all home types."
-    },
-    {
-     "kind": "point",
-     "n": 3,
-     "of": 4,
-     "prop": "search",
-     "text": "Active listings fell 10.0% to 25,098. New listings fell 11.9%.",
-     "short": "Fewer listings"
-    },
-    {
-     "kind": "point",
-     "n": 4,
-     "of": 4,
-     "prop": "calculator",
-     "text": "Ask your Realtor® for recent sold prices, and your lender for your numbers.",
-     "short": "Run your numbers",
-     "note": "Averages, not predictions. Each home and area differs."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a buyer who is waiting",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+  {
+    "id": "d20261127-s2",
+    "type": "story",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T17:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$10K bonus. Interest saved?\n\nNew Reel on my page tonight: what a $10,000 prepayment could do to the interest on a $500,000 mortgage, worked out step by step. Take a guess first.\n\nPlanning a move? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-s2.mp4",
+    "brand_corner": "photo",
+    "photo": "p192.jpg",
+    "format": "reel-teaser",
+    "hook_pattern": "11 interactive guess (teases today's Reel)",
+    "audience": "buyer"
   },
-  "brand_corner": "logo",
-  "trigger": "surprise that prices already moved, relief from a clear next step",
-  "share_reason": "a friend waiting for prices to drop",
-  "format": "market data (TRREB Oct 2026, waiting for lower prices)",
-  "hook_pattern": "5 timing objection + 3 number",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-f2",
-  "type": "feed",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T21:45:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Kitchener view. Could it vanish?\n\nLove the open view behind a Kitchener home? Before you buy, ask the City of Kitchener about development applications near the property and check what is planned or permitted on nearby land. Your Realtor® and your lawyer can help you find out what to look for. A view is never guaranteed, so do your homework before you make an offer.\n\nBuying in Kitchener-Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-f2.png",
-  "brand_corner": "photo",
-  "photo": "p190.jpg",
-  "format": "educational tip (check nearby development)",
-  "hook_pattern": "4 direct address with a stake",
-  "audience": "buyer"
- },
- {
-  "id": "d20261127-r6",
-  "type": "reel",
-  "theme": "cream",
-  "approved": true,
-  "status": "pending",
-  "publish_at": "2026-11-27T22:30:00-05:00",
-  "hook_rule": "tension-v3",
-  "caption": "Etobicoke condo. Big bill coming?\n\nQuick tip: before you go firm on an Etobicoke condo, ask your lawyer to review the status certificate and the reserve fund study, and ask your Realtor® what to look for. They can help you understand the building's finances before you commit. This is a question to ask, not legal advice: your lawyer and your agreement decide the details.\n\nBuying a condo in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor® | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #condoliving #homebuyingtips #keyswithkrishna",
-  "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r6.mp4",
-  "frames": [
-   {
-    "img": "posts/2026-11-27/d20261127-r6-frames/f01.png",
-    "say": "Etobicoke condo buyers: could a big bill be coming?",
-    "min": 2.0
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r6-frames/f02.png",
-    "say": "Quick tip: before you go firm on an Etobicoke condo, ask your lawyer to review the status certificate and the reserve fund study.",
-    "min": 5.75
-   },
-   {
-    "img": "posts/2026-11-27/d20261127-r6-frames/f03.png",
-    "say": "Like, comment and share this with a condo buyer. Call nine oh five, four five two, four two nine eight.",
-    "min": 4.5
-   }
-  ],
-  "vo_pending": true,
-  "motion": {
-   "theme": "cream",
-   "tag": "QUICK TIP",
-   "area": "ETOBICOKE",
-   "scenes": [
-    {
-     "kind": "hook",
-     "text": "Etobicoke condo. Big bill *coming?",
-     "kick": "ASK FIRST",
-     "prop": "clipboard"
+  {
+    "id": "d20261127-r3",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T19:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "$10K bonus. Interest saved?\n\nExample only: a $500,000 mortgage in Brampton, 25-year amortization, 4.34% fixed (interest compounded semi-annually, same rate for the whole amortization).\n1) Monthly mortgage: $2,723.07.\n2) After 12 payments the balance is about $488,607. A $10,000 prepayment brings it to $478,607.\n3) Keeping the same monthly mortgage, total interest drops from $316,920 to $299,352, which is $17,568 less, and the mortgage is paid off about 10 months sooner (290 payments instead of 300).\nPrepayment privileges, limits and penalties differ by lender and mortgage, so check yours first. 4.34% is an example from the lowest advertised 5-year fixed rates (insured); uninsured rates can differ, and rates change at renewal. Lenders also apply the stress test and debt ratios.\n\nPlanning a move in Brampton? Comment INFO to get full details, or call 905-452-4298.\n\nExample only. Not mortgage, tax or legal advice.\nSource: Ratehub.ca, best 5-year fixed mortgage rates (lowest insured 4.34%, as of Nov 26, 2026), checked Nov 27, 2026. Calculations by Krishna Rander's team.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#bramptonrealestate #peelregion #mortgagetips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r3-vo84199.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f01.png",
+        "say": "Brampton: could ten thousand dollars save interest?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f02.png",
+        "say": "First, a five hundred thousand dollar mortgage over twenty-five years is about two thousand, seven hundred twenty-three dollars a month.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f03.png",
+        "say": "Next, after one year you would owe about four hundred eighty-eight thousand, six hundred seven, and a ten thousand dollar prepayment brings that to four hundred seventy-eight thousand, six hundred seven.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f04.png",
+        "say": "Now the twist. Finally, keeping the same monthly mortgage, your total interest drops from three hundred sixteen thousand, nine hundred twenty dollars to two hundred ninety-nine thousand, three hundred fifty-two.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f05.png",
+        "say": "Finally, that ten thousand dollars could save about seventeen thousand, five hundred sixty-eight dollars in interest, and about ten months of payments.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r3-frames/f06.png",
+        "say": "Like, comment and share this with your co-buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MONEY MATH",
+      "area": "BRAMPTON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "$10K bonus. Interest *saved?",
+          "kick": "$10K VS INTEREST",
+          "prop": "piggy"
+        },
+        {
+          "kind": "calc",
+          "n": 1,
+          "of": 3,
+          "prop": "calculator",
+          "text": "Monthly mortgage on $500,000, 25 years",
+          "value": "$2,723",
+          "formula": "$500,000 mortgage, 4.34% example rate, 25 years",
+          "running": "$2,723 a month"
+        },
+        {
+          "kind": "calc",
+          "n": 2,
+          "of": 3,
+          "prop": "piggy",
+          "text": "Owing after one year, then a $10K prepayment",
+          "value": "$478,607",
+          "formula": "$488,607 after 12 payments - $10,000",
+          "running": "$478,607 owing"
+        },
+        {
+          "kind": "calc",
+          "n": 3,
+          "of": 3,
+          "prop": "chart",
+          "text": "Interest over the whole mortgage",
+          "value": "$299,352",
+          "formula": "vs $316,920 with no prepayment, same monthly mortgage",
+          "running": "Interest: $316,920 down to $299,352"
+        },
+        {
+          "kind": "total",
+          "text": "Interest saved by the $10K prepayment",
+          "value": "$17,568",
+          "sub": "about 10 months sooner (290 payments instead of 300)",
+          "note": "Example only: $500,000 mortgage, 25 years, 4.34% fixed (lowest advertised 5-year fixed, insured, Ratehub.ca, Nov 26, 2026), compounded semi-annually, same rate and monthly mortgage throughout; $10,000 prepaid after payment 12. Prepayment privileges and penalties vary by lender. Not mortgage, tax or legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with your co-buyer",
+          "fine": "Example only. Not mortgage, tax or legal advice."
+        }
+      ],
+      "photo": "p195.jpg"
     },
-    {
-     "kind": "point",
-     "n": 1,
-     "of": 1,
-     "prop": "clipboard",
-     "text": "Before going firm, ask your lawyer to review the status certificate and reserve fund study.",
-     "short": "Reserve fund study",
-     "note": "Question to ask, not legal advice."
-    },
-    {
-     "kind": "cta",
-     "text": "Like, comment and *share with a condo buyer",
-     "fine": "General information only. Not legal advice."
-    }
-   ]
+    "brand_corner": "logo",
+    "trigger": "curiosity about what a bonus could do, surprise at the lifetime saving",
+    "share_reason": "the co-buyer you're planning with",
+    "format": "money-math (everyday, $10K prepayment on a $500K mortgage)",
+    "hook_pattern": "6 tease + reveal",
+    "audience": "buyer",
+    "series": "money-math",
+    "math_level": "everyday",
+    "vo_status": "done",
+    "vo_seconds": 34.8,
+    "vo_frame_seconds": [
+      2.59,
+      4.87,
+      8.11,
+      8.32,
+      5.82,
+      5.07
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r3-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r3-tt84215.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r3-yt84346.mp4"
   },
-  "brand_corner": "logo",
-  "trigger": "relief from avoiding an expensive surprise",
-  "share_reason": "the partner you're buying a condo with",
-  "format": "quick-tip (condo status certificate and reserve fund study)",
-  "hook_pattern": "2 cost of a mistake",
-  "audience": "buyer"
- }
+  {
+    "id": "d20261127-r4",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T20:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Caledon home. Is the water safe?\n\nBuying a rural home in Caledon? Questions to ask before you go firm: 1) Does the home have a well and septic system, or town water and sewer? 2) Ask for recent well water test results, and consider getting your own test. 3) Ask for the septic records, like pumping, repairs and past inspections. 4) Ask your inspector, or a specialist, to check the well and septic system. These are planning questions, not rules: ask your lawyer and your Realtor\u00ae how to build them into your offer.\n\nBuying in Caledon? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#caledon #peelregion #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r4-vo84827.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f01.png",
+        "say": "Caledon well: could the water be unsafe?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f02.png",
+        "say": "First, ask whether the home has a well and septic system, or town water and sewer.",
+        "min": 5.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f03.png",
+        "say": "Next, ask for recent water test results, and consider getting your own test before you're firm.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f04.png",
+        "say": "Then, now the part buyers skip. Then, ask for the septic records, like pumping, repairs and past inspections.",
+        "min": 4.25
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f05.png",
+        "say": "Finally, ask your inspector, or a specialist, to check the well and septic system.",
+        "min": 5.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r4-frames/f06.png",
+        "say": "Like, comment and share this with someone buying in Caledon. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "BUYING PROCESS",
+      "area": "CALEDON",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Caledon home. Is the *water safe?",
+          "kick": "ASK FIRST",
+          "prop": "search"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "house",
+          "text": "Ask if the home has a well and septic, or town water and sewer.",
+          "short": "Well or town water"
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "search",
+          "text": "Ask for recent well water test results. Consider your own test.",
+          "short": "Water test"
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "clipboard",
+          "text": "Ask for septic records: pumping, repairs and past inspections.",
+          "short": "Septic records"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "shield",
+          "text": "Ask your inspector, or a specialist, to check the well and septic.",
+          "short": "Specialist check",
+          "note": "Planning questions, not rules. Ask your lawyer and Realtor\u00ae how to build them into your offer."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a Caledon buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p196.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "fear of an unseen rural cost, relief from a question list",
+    "share_reason": "a friend dreaming of country living",
+    "format": "step-by-step (buying a rural home: well and septic questions)",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 26.7,
+    "vo_frame_seconds": [
+      2.2,
+      4.86,
+      4.84,
+      4.93,
+      4.34,
+      5.58
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r4-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r4-tt84841.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r4-yt84943.mp4"
+  },
+  {
+    "id": "d20261127-r5",
+    "type": "reel",
+    "theme": "dark",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T21:00:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "GTA prices fell 4.3%. Still waiting?\n\nTRREB's October 2026 figures (released November 4, 2026): the MLS HPI Composite benchmark price for the GTA was down 4.3% from October 2025. The average selling price was $1,024,108 (October 2025: $1,052,539), down 2.7%. Sales were 5,603, down 7.9%. Active listings were 25,098, down 10.0%, and new listings were 14,173, down 11.9%. Months of inventory was 4.6. These are one-month figures and past results, not predictions, and every area and home is different. Ask your Realtor\u00ae for recent sold prices where you want to live, and ask your lender what monthly mortgage you could qualify for.\nSources: Toronto Regional Real Estate Board (TRREB), Market Watch, October 2026, and news release \"Inflation and Borrowing Costs Impacted October GTA Real Estate Market\" (trreb.ca), checked Nov 27, 2026.\n\nBuying in the GTA? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#GTArealestate #torontorealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r5-vo85432.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f01.png",
+        "say": "GTA prices fell four point three percent.",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f02.png",
+        "say": "First, TRREB says the GTA benchmark price in October was down four point three percent from a year earlier.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f03.png",
+        "say": "Next, the average price was one million, twenty-four thousand, one hundred eight dollars, down two point seven percent.",
+        "min": 4.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f04.png",
+        "say": "Now the twist. Then, active listings were down ten percent from last year, and new listings fell nearly twelve percent.",
+        "min": 4.5
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f05.png",
+        "say": "Finally, ask your Realtor for recent sold prices in your area, and your lender what monthly mortgage you'd qualify for.",
+        "min": 5.25
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r5-frames/f06.png",
+        "say": "Like, comment and share this with a buyer who is waiting. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "dark",
+      "tag": "MARKET UPDATE",
+      "area": "GTA",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "GTA prices fell *4.3%. Still waiting?",
+          "kick": "OCT 2026 BENCHMARK",
+          "prop": "chart"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 4,
+          "prop": "chart",
+          "text": "TRREB's GTA benchmark price was down 4.3% from October last year.",
+          "short": "Benchmark down",
+          "note": "MLS HPI Composite, year over year. Source: TRREB news release, Nov 4, 2026."
+        },
+        {
+          "kind": "point",
+          "n": 2,
+          "of": 4,
+          "prop": "chart",
+          "text": "The average GTA price was $1,024,108, down 2.7% year over year.",
+          "short": "Average price",
+          "note": "Source: TRREB Market Watch, Oct 2026, all home types."
+        },
+        {
+          "kind": "point",
+          "n": 3,
+          "of": 4,
+          "prop": "search",
+          "text": "Active listings fell 10.0% to 25,098. New listings fell 11.9%.",
+          "short": "Fewer listings"
+        },
+        {
+          "kind": "point",
+          "n": 4,
+          "of": 4,
+          "prop": "calculator",
+          "text": "Ask your Realtor\u00ae for recent sold prices, and your lender for your numbers.",
+          "short": "Run your numbers",
+          "note": "Averages, not predictions. Each home and area differs."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a buyer who is waiting",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p197.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "surprise that prices already moved, relief from a clear next step",
+    "share_reason": "a friend waiting for prices to drop",
+    "format": "market data (TRREB Oct 2026, waiting for lower prices)",
+    "hook_pattern": "5 timing objection + 3 number",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 27.7,
+    "vo_frame_seconds": [
+      2.28,
+      4.99,
+      5.06,
+      5.33,
+      4.99,
+      5.03
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r5-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r5-tt85445.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r5-yt85550.mp4"
+  },
+  {
+    "id": "d20261127-f2",
+    "type": "feed",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T21:45:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Kitchener view. Could it vanish?\n\nLove the open view behind a Kitchener home? Before you buy, ask the City of Kitchener about development applications near the property and check what is planned or permitted on nearby land. Your Realtor\u00ae and your lawyer can help you find out what to look for. A view is never guaranteed, so do your homework before you make an offer.\n\nBuying in Kitchener-Waterloo? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#kitchenerwaterloo #kitchenerrealestate #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-f2.png",
+    "brand_corner": "photo",
+    "photo": "p190.jpg",
+    "format": "educational tip (check nearby development)",
+    "hook_pattern": "4 direct address with a stake",
+    "audience": "buyer"
+  },
+  {
+    "id": "d20261127-r6",
+    "type": "reel",
+    "theme": "cream",
+    "approved": true,
+    "status": "pending",
+    "publish_at": "2026-11-27T22:30:00-05:00",
+    "hook_rule": "tension-v3",
+    "caption": "Etobicoke condo. Big bill coming?\n\nQuick tip: before you go firm on an Etobicoke condo, ask your lawyer to review the status certificate and the reserve fund study, and ask your Realtor\u00ae what to look for. They can help you understand the building's finances before you commit. This is a question to ask, not legal advice: your lawyer and your agreement decide the details.\n\nBuying a condo in Etobicoke? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#etobicokerealestate #condoliving #homebuyingtips #keyswithkrishna",
+    "media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r6-vo85801.mp4",
+    "frames": [
+      {
+        "img": "posts/2026-11-27/d20261127-r6-frames/f01.png",
+        "say": "Etobicoke condo buyers: could a big bill be coming?",
+        "min": 2.0
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r6-frames/f02.png",
+        "say": "Quick tip: before you go firm on an Etobicoke condo, ask your lawyer to review the status certificate and the reserve fund study.",
+        "min": 5.75
+      },
+      {
+        "img": "posts/2026-11-27/d20261127-r6-frames/f03.png",
+        "say": "Like, comment and share this with a condo buyer. Call nine oh five, four five two, four two nine eight.",
+        "min": 4.5
+      }
+    ],
+    "vo_pending": false,
+    "motion": {
+      "theme": "cream",
+      "tag": "QUICK TIP",
+      "area": "ETOBICOKE",
+      "scenes": [
+        {
+          "kind": "hook",
+          "text": "Etobicoke condo. Big bill *coming?",
+          "kick": "ASK FIRST",
+          "prop": "clipboard"
+        },
+        {
+          "kind": "point",
+          "n": 1,
+          "of": 1,
+          "prop": "clipboard",
+          "text": "Before going firm, ask your lawyer to review the status certificate and reserve fund study.",
+          "short": "Reserve fund study",
+          "note": "Question to ask, not legal advice."
+        },
+        {
+          "kind": "cta",
+          "text": "Like, comment and *share with a condo buyer",
+          "fine": "General information only. Not legal advice."
+        }
+      ],
+      "photo": "p198.jpg"
+    },
+    "brand_corner": "logo",
+    "trigger": "relief from avoiding an expensive surprise",
+    "share_reason": "the partner you're buying a condo with",
+    "format": "quick-tip (condo status certificate and reserve fund study)",
+    "hook_pattern": "2 cost of a mistake",
+    "audience": "buyer",
+    "vo_status": "done",
+    "vo_seconds": 14.2,
+    "vo_frame_seconds": [
+      3.47,
+      5.53,
+      5.17
+    ],
+    "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r6-cover.jpg",
+    "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r6-tt85808.mp4",
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r6-yt85860.mp4"
+  }
 ]
