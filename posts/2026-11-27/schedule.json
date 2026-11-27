@@ -145,7 +145,7 @@
     "type": "reel",
     "theme": "cream",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-27T15:00:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Bought first. Old home unsold?\n\nPicture this: you found your next home in Georgetown, but your current home has not sold yet. Questions to ask before you buy first: 1) Buying before you sell can mean carrying the costs of two homes for a while. 2) Ask your lender whether bridge financing is an option, and what it costs. 3) Adding a condition to sell first may make your offer less attractive, so ask your Realtor\u00ae how that could play out. 4) Ask your lawyer about lining up both closing dates. These are planning questions, not promises: your lender, your lawyer and your agreements decide the details, and no sale price or timeline is guaranteed.\n\nWant the full step-by-step list? Comment CHECKLIST for my free seller checklist.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nVoiceover: AI-generated in Krishna's own voice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#georgetownontario #haltonhills #sellingyourhome #keyswithkrishna",
@@ -254,7 +254,15 @@
     ],
     "cover_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-cover.jpg",
     "tt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-tt83518.mp4",
-    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-yt83608.mp4"
+    "yt_media_url": "https://raw.githubusercontent.com/krishnamaheshwari07/keyswithkrishna_realtor/main/posts/2026-11-27/d20261127-r2-yt83608.mp4",
+    "trial_status": "trial",
+    "ig_media_id": "18357139969267221",
+    "fb_thumb": "set",
+    "fb_id": "1880236146732445",
+    "fb_status": "posted",
+    "yt_thumb": "set",
+    "yt_publish_id": "2jXMSy7-TDY",
+    "yt_status": "UPLOADED_PUBLIC"
   },
   {
     "id": "d20261127-f1",
