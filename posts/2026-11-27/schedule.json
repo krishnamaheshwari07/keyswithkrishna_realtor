@@ -126,7 +126,7 @@
     "type": "story",
     "theme": "dark",
     "approved": true,
-    "status": "pending",
+    "status": "posted",
     "publish_at": "2026-11-27T12:30:00-05:00",
     "hook_rule": "tension-v3",
     "caption": "Bought first. Old home unsold?\n\nNew Reel on my page this afternoon: questions to ask before you buy your next home before selling your current one.\n\nSelling? Comment INFO to get full details, or call 905-452-4298.\n\nGeneral information only. Not legal, tax or mortgage advice.\n\nKrishna Rander, Realtor\u00ae | PROPERTY.CA INC., Brokerage\n\n#sellingyourhome #georgetownontario #keyswithkrishna",
@@ -135,7 +135,10 @@
     "photo": "p191.jpg",
     "format": "reel-teaser",
     "hook_pattern": "7 scene (teases today's Reel)",
-    "audience": "seller"
+    "audience": "seller",
+    "ig_media_id": "18110120510204396",
+    "fb_id": "1516294683740434",
+    "fb_status": "posted"
   },
   {
     "id": "d20261127-r2",
